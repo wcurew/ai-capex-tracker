@@ -5,7 +5,4 @@ __pycache__/
 venv/
 .streamlit/secrets.toml
 logs/
-data/
-articles.json
-risk_log.json
 *.txt

@@ -1,0 +1,470 @@
+[
+  {
+    "date": "2026-02-26",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 0,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 2,
+        "dc_vacancy": 0,
+        "power_permit_delays": 0,
+        "market_positioning": 0
+      },
+      "score": 10.0,
+      "bucket": "낮음",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 1,
+          "recent14_count": 2,
+          "fresh_sum": 1.6,
+          "decay_sum": 2.09,
+          "raw_score": 1.8,
+          "strong_hits14": 2,
+          "evidence": [
+            {
+              "title": "CIOs are telling companies that AI capex spending has gone too far - AOL.com",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPejVaUXl2LWpmNGwxbk81OXRoTUtwN09SY3NMR1luUDVUc3lsdzZGM2hVR3M3WUs0WXVtX0l1X3lpSmxEU1c4Tk1XbXlvcFdHQ0drbDlJU3FNeTY1bmRwZzBwc1RrQmN1Vlkwem12ZjhhUTZTX0JYZUNHdXZLcnhSYQ?oc=5",
+              "published": "Wed, 25 Feb 2026 19:53:03 GMT",
+              "strength": 2,
+              "confidence": 65,
+              "reason": "Title explicitly reports CIOs saying AI capex spending has 'gone too far', which indicates capex pressure/overspend on AI infrastructure. The piece does not mention revenue declines, so no inference about revenue down is made.",
+              "signals": [
+                "AI capex spending perceived as excessive",
+                "CIOs expressing concern about AI infrastructure spending"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Nvidia Stock Outlook for 2026: The AI Boom Will Drive Growth, but CapEx Concerns Will Increase Dangers - vocal.media",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTFV4Rnpjd1ZjbldwaWNLY0QybmhaVV9FbTV3dDFVVEhpb2NfQ25mWVBqNHNPUGFfZEN3RHRrRkVkQ21mRjdDSm9Gb2J0UGF4RVBncUswNy05OFdHOG9kTWRzOEZDcWM2d1JXMmlvbFBHS2pRLXMtcThnaFVGbWVEdW1ERWJHZ3IxRG5YMF9RUGhiUVhXUzVIaS13cmxhLWJwNHdUN0hFdDFKLXozelZZRXpyYVU1b1RYUlVhV3hqRXU5ZlhWM3lN?oc=5",
+              "published": "Mon, 16 Feb 2026 19:18:20 GMT",
+              "strength": 2,
+              "confidence": 60,
+              "reason": "Title explicitly flags rising CapEx concerns as a danger for Nvidia's 2026 outlook, but no quantitative detail or mention of revenue declines is provided in the summary/link. Signal is direct but weak due to lack of supporting detail.",
+              "signals": [
+                "Title: 'CapEx Concerns Will Increase Dangers' (Nvidia 2026 outlook)",
+                "Mentions AI-driven growth alongside elevated CapEx risk"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.36,
+          "raw_score": 0.15,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "To Meet AI’s Energy Needs, America Needs Permitting Reform - The National Interest",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVWExaWUyZjhtVWhkMFBfX2otdGFFUEpIUjFKVWR2T3lzaEhzaWpURXZMR3ljbXMxN2ljYjdWT3BYQ3dKbjFTM2p3Y2JEMko3YVBuei1SOEpEbnZkZUpHbEVFczJtN3F2b1AxZHpWeU04NDkyWU52VzdqaUtYZFQxaUZkX3g0TVEyQ0dNTEcybnNBOWJ2Zzl0cnlTS2YxZkFNQkNfbjFB?oc=5",
+              "published": "Fri, 13 Feb 2026 14:42:44 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The article title explicitly links AI energy requirements to the need for permitting reform, indicating permitting delays are a plausible constraint on scaling AI infrastructure. It directly signals regulatory/permitting risk to power availability for AI, but without additional details in the summary so strength is moderate.",
+              "signals": [
+                "power permitting delays",
+                "need for permitting reform",
+                "regulatory/permitting bottlenecks",
+                "risk to meeting AI energy demand"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 0,
+      "new_articles": 0,
+      "dedup_skips": 0,
+      "prefilter_skips": 0,
+      "llm_calls": 0,
+      "llm_errors": 0,
+      "urls_total": 6,
+      "urls_ok": 6,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 0,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 0
+      }
+    }
+  },
+  {
+    "date": "2026-02-28",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 0,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 2,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 2
+      },
+      "score": 30.0,
+      "bucket": "보통",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.17,
+          "raw_score": 0.07,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "New $DEPIN token targets 50–80% cheaper AI by renting idle GPUs - Stock Titan",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY05YenkyX0I3RlpnbHd0NnVURTRHZlNONnU1U0VkVmw0LW40OUw5OWFqRmxsaUdGa3NIMHpteXJWUk94LWVVVlQ4SXZMM2V2S2ZSaXRCQWdQSklsemJwT09sRElmRHh6Y3hGQ2VXUkxMZFJCNFk2VklPc0JQQlIzNWt0aEYwZGRzc1MtYWh3V1NfVHN6OVIwSkhWbnl0c0JmUF9TWDBwMUlrQjVCZ2lZSTd6ZS1NcWpPdS1SdHZoUQ?oc=5",
+              "published": "Tue, 17 Feb 2026 08:00:00 GMT",
+              "strength": 1,
+              "confidence": 60,
+              "reason": "Headline explicitly describes a new DEPIN token that aims to provide AI compute 50–80% cheaper by renting idle GPUs. This directly relates to alternative GPU supply that could compete with hyperscaler infrastructure, but the item is a single claim/announcement without evidence of impact or adoption, so the signal is weak.",
+              "signals": [
+                "New $DEPIN token announced",
+                "Claims to target 50–80% cheaper AI",
+                "Method: renting idle GPUs"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 1,
+          "recent14_count": 3,
+          "fresh_sum": 1.0,
+          "decay_sum": 1.92,
+          "raw_score": 1.87,
+          "strong_hits14": 3,
+          "evidence": [
+            {
+              "title": "CIOs are telling companies that AI capex spending has gone too far - AOL.com",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPejVaUXl2LWpmNGwxbk81OXRoTUtwN09SY3NMR1luUDVUc3lsdzZGM2hVR3M3WUs0WXVtX0l1X3lpSmxEU1c4Tk1XbXlvcFdHQ0drbDlJU3FNeTY1bmRwZzBwc1RrQmN1Vlkwem12ZjhhUTZTX0JYZUNHdXZLcnhSYQ?oc=5",
+              "published": "Wed, 25 Feb 2026 19:53:03 GMT",
+              "strength": 2,
+              "confidence": 65,
+              "reason": "Title explicitly reports CIOs saying AI capex spending has 'gone too far', which indicates capex pressure/overspend on AI infrastructure. The piece does not mention revenue declines, so no inference about revenue down is made.",
+              "signals": [
+                "AI capex spending perceived as excessive",
+                "CIOs expressing concern about AI infrastructure spending"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Nvidia Stock Outlook for 2026: The AI Boom Will Drive Growth, but CapEx Concerns Will Increase Dangers - vocal.media",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTFV4Rnpjd1ZjbldwaWNLY0QybmhaVV9FbTV3dDFVVEhpb2NfQ25mWVBqNHNPUGFfZEN3RHRrRkVkQ21mRjdDSm9Gb2J0UGF4RVBncUswNy05OFdHOG9kTWRzOEZDcWM2d1JXMmlvbFBHS2pRLXMtcThnaFVGbWVEdW1ERWJHZ3IxRG5YMF9RUGhiUVhXUzVIaS13cmxhLWJwNHdUN0hFdDFKLXozelZZRXpyYVU1b1RYUlVhV3hqRXU5ZlhWM3lN?oc=5",
+              "published": "Mon, 16 Feb 2026 19:18:20 GMT",
+              "strength": 2,
+              "confidence": 60,
+              "reason": "Title explicitly flags rising CapEx concerns as a danger for Nvidia's 2026 outlook, but no quantitative detail or mention of revenue declines is provided in the summary/link. Signal is direct but weak due to lack of supporting detail.",
+              "signals": [
+                "Title: 'CapEx Concerns Will Increase Dangers' (Nvidia 2026 outlook)",
+                "Mentions AI-driven growth alongside elevated CapEx risk"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Nvidia May Be At Risk As Big Tech Capex Concerns Mount (NASDAQ:NVDA) - Seeking Alpha",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmNTZFR2SldCUGxQdkQzRTZtZDhyeGo1NGNhckMyRlg2ODIzZnd3dHhKems0bms4eDNpLTR1OVl0V1pJVmF2UUNBQWRXOEVraEs3UHJ5NXkyVkd3TmFkUzJqVzFQeVRFaXI3OTVjaGxoRmtMSFhKTkJBZkcxVVBaTDZfcmtFQjRjMjZlbDdCWkZ0c1JCeGIwLVZ3SWx1QkdLbHdj?oc=5",
+              "published": "Mon, 16 Feb 2026 08:00:00 GMT",
+              "strength": 1,
+              "confidence": 60,
+              "reason": "Headline explicitly links mounting Big Tech capex concerns to risk for Nvidia, which is directly relevant to AI infrastructure/hyperscaler supplier risk. However, only the title is provided with no details (magnitude, timing, or whether capex will fall or revenues will decline), so the signal is vague and weak.",
+              "signals": [
+                "big_tech_capex_concerns",
+                "supplier_revenue_risk_for_Nvidia",
+                "potential_reduced_hardware_spend"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 5,
+          "recent14_count": 13,
+          "fresh_sum": 11.1,
+          "decay_sum": 19.14,
+          "raw_score": 14.81,
+          "strong_hits14": 13,
+          "evidence": [
+            {
+              "title": "50 GW of datacenter demand queues up for UK grid access - theregister.com",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWEZwUGZ0Z2FTQnRQaUhLRnFGUnFfT2hEcDFwdmZzYmN0U2NsWlplSENkQjljZk0teGcxT0dCdVQ4SmNGVm11NW9SdkoyMGpMZkN1SnR4c0VrOUxyWjBxOFRQMEJ4YjJxNkJKWnR2ci01RkdYbU05SzRwSjdOY05fOWl3dFA0OFk?oc=5",
+              "published": "Fri, 27 Feb 2026 13:13:00 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "The headline explicitly states '50 GW of datacenter demand queues up for UK grid access', which directly signals a large backlog for grid connections and therefore a strong, clear risk of power/connection (and related permitting) delays for datacenter builds in the UK. No further inference beyond the reported backlog is made.",
+              "signals": [
+                "50 GW of datacenter demand queued for UK grid access",
+                "Backlog for grid connections for datacenters in the UK",
+                "Power/grid access constraints affecting datacenter deployments",
+                "Potential permitting/connection delays for hyperscaler datacenters in the UK"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Data Center Interconnection Delays Highlight Growing Role for Batteries and Microgrids - TipRanks",
+              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdlJvRFZSQ24ycWt2ZXM2MnNUNDFpOFNxR2x1RjVuangycGVFakh1eWhTdHZxNFhRcjc4MTgtQXdsRzB0Rlk0TzNRcjBnRXhnNlpuZWRveVVtTm13bXJtdFpnX0JkSjBST2pkSjkzaG9rVHpwbzZoYjN4cXFwR2ozWnRXSHh3NWJkSkt4YV9mYWlJdGg4U3dWZjNYQTAzc1VlQWdiaVpxWVFRN01icjB6TjFQWWhFd21ycm9INV8wS3JTNFJQZzdLY2J4QWQtekk?oc=5",
+              "published": "Thu, 19 Feb 2026 12:46:45 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "Article explicitly discusses data center interconnection/permitting delays and the resulting shift toward batteries and microgrids, which directly affects power supply, deployment timelines, and operational resilience for data centers and hyperscalers. No further inference beyond the article.",
+              "signals": [
+                "Interconnection and permitting delays for data center power hookups",
+                "Growing adoption of batteries and microgrids by data centers as mitigation",
+                "Potential impacts on data center expansion timelines and reliability",
+                "Regulatory/permitting bottlenecks affecting hyperscaler deployments"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Delays in permitting, power, and zoning cause first drop in data center construction since 2020 - Sherwood News",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMFdRQVRVYlU1VzZjZmI4LWg2VGYxcWwyWkNld3VHdjFSSlg2OC13bENTb0pzeWpRQ3BaWVVDTEFXZ1lMRXRnN1EwSDJ1T2FuMmdHdWg3bWNBS2Q4YzJUczNBMWFlUWwxZEFUTS0zR29iSFNvMmMtYjFGRUtRRkUtVk1FdXZnbTFrZFYteEdpcGtQQTNWanlmTHFwX0otUQ?oc=5",
+              "published": "Thu, 26 Feb 2026 22:21:16 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline reports a measurable decline in data center construction attributed to permitting, power, and zoning delays. This directly indicates a risk to hyperscaler/AI infrastructure expansion capacity, but the summary is limited to that causal attribution and does not provide broader quantitative details, so strength is moderate.",
+              "signals": [
+                "Permitting delays affecting data center projects",
+                "Power availability/connection constraints delaying builds",
+                "Zoning issues impeding data center construction",
+                "First decline in data center construction since 2020"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "50 GW of datacenter demand queues up for UK grid access - theregister.com",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xOW5VWlVJcnVlOVRWRjY5V2FyTWpuMFB4ZTcwODFuQmg2YUdOZTRxSFRfWUYtVEpJZERwOEV2QTdFR1FKRHY2U2Y1QWhBQWxteXZJdlVjRDFSbWtWWFNqdEtDT2JyX0hXM1lzc3hZajZ1WmM?oc=5",
+              "published": "Fri, 27 Feb 2026 13:13:00 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The headline states ~50 GW of datacenter demand is queued for UK grid access, which directly signals a backlog/constraint in grid interconnection or permitting for datacenter projects—a clear operational risk for AI infrastructure and hyperscalers. The summary is limited to the article title, so assessment is conservative and does not infer causes beyond the reported queue.",
+              "signals": [
+                "~50 GW of datacenter demand queued for UK grid access",
+                "Implied grid interconnection/permit backlog for datacenter projects",
+                "Potential delays to datacenter buildouts and power availability for hyperscalers"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Data Center Interconnection Delays Drive Interest in Batteries and Microgrids - TipRanks",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN1AtSEcyR0Z1SEZfN2hnbFpYaWlJMDVxRzR3NEtkWndJS1hTa1RQZDB0MW9wbWNaSXFnTnNSQ1pFRGJCb1J1N3ZvRlcwYnRJSFJOWUpEX1JsejVoV2c2Z1AwdTRybTN4X1ZzWUNxVXJtbXNCcjB1bG40UWFQZnFkSkZjckh3eXlKeXBralEyVVU1dzV2MjlGWEUwcDR3QXhLVjJ4dl80SkFBdkNGV250YVFSU1d5cGNTcXNXdnlVUnEtekE?oc=5",
+              "published": "Thu, 19 Feb 2026 00:51:19 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline explicitly reports data center interconnection delays driving interest in batteries and microgrids, which is a direct operational/infrastructure risk for hyperscalers (grid/permit constraints affecting expansion and resilience). No article details provided, so signal is clear but not deeply evidenced here—hence moderate strength.",
+              "signals": [
+                "grid interconnection delays",
+                "permitting/power-approval delays",
+                "increased adoption of batteries and microgrids as mitigation",
+                "potential constraints on data center expansion and resilience"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Australia’s energy transition hits a permitting wall - Infrastructure Investor",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX0gtZmtCNzljT3pkS0VxMEVFaHlVNGZVNlhpQUpyRTluV01jWGdaZUpRRk5UR2RfRk1QTTI2SHBBR0hIcFNITDd3VDY2Mkx0UjdBOXdiS3ZYZkJXQnZiZ3dpcHRURmtlWFByMFJtMkl0UlpacGFuT09XeE5nTVdSRGFKOWp1SmpFeDNuMXZXTC1VdFVFX3c?oc=5",
+              "published": "Tue, 17 Feb 2026 19:42:06 GMT",
+              "strength": 3,
+              "confidence": 75,
+              "reason": "The article title explicitly states that Australia’s energy transition is encountering a 'permitting wall', which directly signals permitting bottlenecks affecting energy project deployment (i.e., power permit delays). Classification kept conservative because it is based on a single news item and no further article text was provided.",
+              "signals": [
+                "Permitting bottlenecks for energy projects in Australia",
+                "Regulatory/approval delays impacting energy transition projects",
+                "Potential delays to deployment of new generation/transmission due to permits"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "East coast could soon get rolling blackouts during summer because data centers have pushed electric grid to the limit - AOL.com",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxNkN2dzNCRGZVdV9hVDZhSFc2TzFQckR3VXhkNnJPT3JjQnhTWkRCa0hjY3ZLMER5X1pheGY5UC1XSmM0cWdIR1Y2b2RZQnlpVk5pRXZzcTdHMTZwYXN0bU9kVEhVNTk2c3MxR1A3UkxHUWpKZzRWaTRhOFRUZw?oc=5",
+              "published": "Thu, 26 Feb 2026 09:05:23 GMT",
+              "strength": 3,
+              "confidence": 70,
+              "reason": "The headline explicitly states data centers have pushed the East Coast electric grid to the limit, creating a risk of rolling blackouts during summer. This is a direct operational power risk for data centers/hyperscalers. No further details (e.g., permits or timeline) are provided in the summary, so assessment is limited to the stated risk.",
+              "signals": [
+                "grid_at_capacity",
+                "potential_rolling_blackouts",
+                "data_center_demand_pressure",
+                "regional_power_risk_east_coast"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "The US Has the Energy but it Doesn’t Have the Grid to Deliver It - CCE NEWS",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa1dJcWp0QnE3ZG1OVFJSYmE3Ylpic2JPSzhBRmJnOGdLR3hvYmlySE4xbkczbDRVMjZ6RUdDTWRFX0F6N1h4MVRjYUdOVmpYYnVvZEdLeC1mVGFUQjlRVE93V1F4VVdHelhEb2FGblViODVvOEwyTzRITlhxR00xXzgwSFozcmUyTW1NeG9iX01Calo3NmFzTzNfeEpQUQ?oc=5",
+              "published": "Tue, 24 Feb 2026 19:38:41 GMT",
+              "strength": 3,
+              "confidence": 70,
+              "reason": "The title explicitly states the US has energy but the grid cannot deliver it, which directly indicates transmission/grid delivery constraints that are relevant to infrastructure reliant on power. No article details (locations, scale, causes, timelines) are provided, so judgment is limited to the headline.",
+              "signals": [
+                "Grid/transmission capacity constraints",
+                "Mismatch between generation availability and delivery capability",
+                "Potential power delivery bottlenecks affecting energy consumers"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 5,
+          "fresh_sum": 0.0,
+          "decay_sum": 3.52,
+          "raw_score": 1.91,
+          "strong_hits14": 5,
+          "evidence": [
+            {
+              "title": "BofA Survey Shows Investor Worry Over Capex Race at Record High - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd2FBanAtakxqLVBQTmpINHBYVjlPOWc0bkVZZ0QxbkQ0WE5OVGlnVjdpeExRSHJmVXVabmNjRTFJNnhoZ3hiREczdS1paGFJVHhHTHJHeDdWQVFicUNjMHNvblhTU2h6RXdzbTdCMGlWVlQ5ZmltVkhZQzhIbzlyLWVQbTY?oc=5",
+              "published": "Tue, 17 Feb 2026 08:00:00 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The headline explicitly reports a Bank of America survey finding that investor worry about a capex race is at a record high—this is a direct signal about investor sentiment/market positioning. No further causal inferences made beyond the survey result.",
+              "signals": [
+                "Investor worry about a capex race at record high (BofA survey)",
+                "Reported by Yahoo Finance"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "‘Absolutely' a market bubble: Wall Street sounds the alarm on AI-driven boom as investors go all in - AOL.com",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYXNiMG5WY1NEWndfNlVUMXNkdEVnMUo4RG1Sbkh6N0V5OXJraGF6R203VDltNnRuMTBEa29Yb3RmU2lLeWZ0ZE52Qy1FZTA0SXoxMURtUDNmdVg5T2NYc0JyV280alRmZl83OXJCVE5RYjMxOGVRb29YNnZoYjVfcVQ4TG9pS3M?oc=5",
+              "published": "Wed, 25 Feb 2026 09:12:24 GMT",
+              "strength": 3,
+              "confidence": 70,
+              "reason": "The headline explicitly calls the AI-driven boom a 'market bubble' and reports Wall Street 'sounding the alarm' while investors are described as 'going all in', which directly signals risky market positioning. Classification is based solely on the provided headline/link text.",
+              "signals": [
+                "headline: 'market bubble'",
+                "Wall Street 'sounds the alarm'",
+                "investors 'going all in'",
+                "topic: AI-driven boom"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "AI Spending Bubble Fear Just Hit An All-Time High, BofA Survey Shows - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4Y2I3aUJWMmtkQXZyUnc5OEkzblM3ZjZBTjVHRXJ6SjFlQlBrS2FUMWdGNFcyR24wSi1QZTNTT2NZbXF1NWNPdjZDZnJnZ29TVlZwV29XMExNMnpETVHSAWNBVV95cUxOQ2oxTUQzLUVIWXlwMzdIQmpXaEt2NHA4bTZJdFdPeUpadnRxQkFKamtHVDlzTUxSeHhabGhyMEp5UHMwZUF0R2pPYTB2Nkd2eWNENVBqdTBjcE1vemRVSS1lZWM?oc=5",
+              "published": "Mon, 16 Feb 2026 22:15:47 GMT",
+              "strength": 3,
+              "confidence": 70,
+              "reason": "Title reports a BofA survey showing 'AI spending bubble fear' at an all-time high, which is a direct market-positioning/sentiment signal about AI-related investment risk. Information is limited to the headline so strength is moderate.",
+              "signals": [
+                "AI spending bubble fear",
+                "all-time high survey reading",
+                "BofA survey",
+                "market sentiment on AI spending"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Is the 'AI bubble' the biggest tail risk? BofA survey: Never been this worried about overinvestment in 20 years! - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd25TOHI1WlJqMml1NVZGYmduWnV5VHZvSnJHMTAwbE1nczZialB1ZkJyMm9Tc0xudWN4d3dUa0VxbUpwOWIxaDZScXpnZGU3OVJSbWN1SG1FWm1TclAyQnN6Yk42VE93ODhjd1dFcXExZzA1eC1JMlh5RDRFSkZ1Mnh5TXNPby1CZk1NM0RSZFFsdGdQb3c?oc=5",
+              "published": "Tue, 17 Feb 2026 14:25:57 GMT",
+              "strength": 2,
+              "confidence": 70,
+              "reason": "Headline reports a Bank of America survey showing record-high investor worry about overinvestment in AI, which is directly relevant to market-positioning/tail-risk for AI infrastructure and hyperscalers. Assessment is conservative because only a headline/summary link is provided and no details on scope, magnitude, or specific impacts are available.",
+              "signals": [
+                "Bank of America survey: record-high worry about overinvestment in AI",
+                "Framing of an 'AI bubble' as a major tail risk",
+                "Investor concern about overinvestment in AI markets affecting market positioning"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "BofA Survey Reveals Investor Concerns About Unprecedented Capex Competition - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13azdTNGszSTVYcWRZcGlRbmxZMmZ4UVFpd3EzQzRaczhwUmNfR3hlUk9SUFNMVERRNzRLYkNLZXNJMXc3ZWk5Q1g0Q2pUd3NSOFM0bXRobURlQ3NRalHSAWNBVV95cUxOWFNZZ1BzTjFYWUVwS3N0d2lFSWJtZW5DcXZFMHRINDBrYjJteThuR3N4M2Q1a2F0eGNUcVhfbWlNOEhnUzAtVk9oY2ktWWpsYWRoTXdfaWYxbzQyMEs0RUFsMTg?oc=5",
+              "published": "Tue, 17 Feb 2026 08:00:00 GMT",
+              "strength": 2,
+              "confidence": 70,
+              "reason": "The headline explicitly states investors are concerned about 'unprecedented capex competition', which directly signals competitive/market-positioning pressure. However, content is limited to a brief headline with no details on affected firms, sectors, or scale, so the signal strength is moderate and interpretation is conservative.",
+              "signals": [
+                "Investor concerns about 'unprecedented capex competition'",
+                "Headline indicates increased competitive pressure related to capital expenditures"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 0,
+      "new_articles": 28,
+      "dedup_skips": 181,
+      "prefilter_skips": 25,
+      "llm_calls": 3,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 1,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 1,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 1
+      }
+    }
+  }
+]
