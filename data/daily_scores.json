@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-02-28",
-    "run_at": "2026-02-28T15:46:50.295848+09:00",
+    "run_at": "2026-02-28T17:56:48.434667+09:00",
     "overall_score": 30.0,
     "risk_level": "보통",
     "item_scores": {
@@ -62,8 +62,8 @@
         "strong_hits14": 5
       }
     },
-    "article_count_total": 315,
-    "article_count_14d": 307,
-    "new_articles_today": 25
+    "article_count_total": 324,
+    "article_count_14d": 316,
+    "new_articles_today": 9
   }
 ]

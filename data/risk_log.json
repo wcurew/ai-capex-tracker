@@ -449,9 +449,9 @@
     },
     "run_stats": {
       "store_pruned_removed": 0,
-      "new_articles": 25,
-      "dedup_skips": 186,
-      "prefilter_skips": 24,
+      "new_articles": 9,
+      "dedup_skips": 194,
+      "prefilter_skips": 8,
       "llm_calls": 1,
       "llm_errors": 0,
       "urls_total": 13,
