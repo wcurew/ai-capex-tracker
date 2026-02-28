@@ -3,7 +3,7 @@ name: Daily Collect
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 22 * * *"   # 매일 UTC 22:00 = 한국시간 다음날 07:00
+    - cron: "0 8 * * *"   # 매일 UTC 22:00 = 한국시간 다음날 07:00
 
 permissions:
   contents: write
