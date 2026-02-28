@@ -449,19 +449,19 @@
     },
     "run_stats": {
       "store_pruned_removed": 0,
-      "new_articles": 28,
-      "dedup_skips": 181,
-      "prefilter_skips": 25,
-      "llm_calls": 3,
+      "new_articles": 25,
+      "dedup_skips": 186,
+      "prefilter_skips": 24,
+      "llm_calls": 1,
       "llm_errors": 0,
       "urls_total": 13,
       "urls_ok": 13,
       "urls_fail": 0,
       "per_item_llm_calls": {
-        "power_permit_delays": 1,
+        "power_permit_delays": 0,
         "dc_vacancy": 0,
         "ai_price_cuts": 0,
-        "capex_up_revenue_down": 1,
+        "capex_up_revenue_down": 0,
         "mgmt_tone_softening": 0,
         "market_positioning": 1
       }
