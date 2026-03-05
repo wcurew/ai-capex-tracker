@@ -1788,5 +1788,298 @@
         "market_positioning": 1
       }
     }
+  },
+  {
+    "date": "2026-03-05",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 2,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 0,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 2
+      },
+      "score": 30.0,
+      "bucket": "보통",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 1,
+          "recent14_count": 2,
+          "fresh_sum": 1.0,
+          "decay_sum": 2.78,
+          "raw_score": 1.71,
+          "strong_hits14": 2,
+          "evidence": [
+            {
+              "title": "Amazon Challenges Nvidia with Cheaper Trainium 3 AI Chips - National Today",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWpFZ2RVVVRqaVl5NWFudlRTUVRubkhkV3huMXZzY2NlaUFMOVpUdHhKSTNZZk44MGxNRU5OZWtlbVdTUVBNXzBUWk1laEJPelM5cFBfNmRkMkFJUnNNWXgzQzZvUkFSVFY0cjF0VlN0Y0k0azE2OFlKVmJVYXVPMnpVSEUzR1g1Y215UThBNFA3d2s2ajllSVpscFo0UjR3Y256M1JDamxhZzAzaDJfUHJ4RQ?oc=5",
+              "published": "Fri, 27 Feb 2026 15:04:39 GMT",
+              "strength": 3,
+              "confidence": 82,
+              "reason": "Article headline states Amazon is challenging Nvidia by offering cheaper Trainium 3 AI chips; this is a direct signal of price-competitive pressure in AI chip/hardware market but is a single report without broader market details.",
+              "signals": [
+                "amazon_trainium3_competes_with_nvidia",
+                "ai_chip_price_competition",
+                "downward_price_pressure_on_ai_infrastructure"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "How Workato made its AI agents faster and 67% cheaper with DigitalOcean - Stock Titan",
+              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZGtoVk42RExRemp1bkpHU2RUcnR6M3MxaW1pVS05Y2VUd1ZBbVgzbWprNmdMUXRUeGQ1STlvaG14Y3dkNE0teE1TemR4eTdBV2xSOTVZUXpKV2lxZ0NwSG5FRmF3YWpSTmpybzYwZExzUmQ4ME4yZmNSLU5MWWRKOWpuYVczTjBPMmgyREhLMGc0T0ZCQzBrajlLYjZHVkRzS0VnbkxPNWE2aVdqN2xhRk5qVTJjWjQxMnBYeg?oc=5",
+              "published": "Tue, 03 Mar 2026 14:00:00 GMT",
+              "strength": 2,
+              "confidence": 70,
+              "reason": "The article explicitly states Workato made its AI agents 67% cheaper and faster by using DigitalOcean — a direct example of lower-cost AI infrastructure. However, it's a single case study and does not demonstrate broader market-wide price changes, so the signal strength is moderate.",
+              "signals": [
+                "Workato achieved 67% cost reduction for AI agents using DigitalOcean",
+                "DigitalOcean provided faster and cheaper infrastructure for AI agents (case study)"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.64,
+          "raw_score": 0.26,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "CIOs are telling companies that AI capex spending has gone too far - AOL.com",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPejVaUXl2LWpmNGwxbk81OXRoTUtwN09SY3NMR1luUDVUc3lsdzZGM2hVR3M3WUs0WXVtX0l1X3lpSmxEU1c4Tk1XbXlvcFdHQ0drbDlJU3FNeTY1bmRwZzBwc1RrQmN1Vlkwem12ZjhhUTZTX0JYZUNHdXZLcnhSYQ?oc=5",
+              "published": "Wed, 25 Feb 2026 19:53:03 GMT",
+              "strength": 2,
+              "confidence": 65,
+              "reason": "Title explicitly reports CIOs saying AI capex spending has 'gone too far', which indicates capex pressure/overspend on AI infrastructure. The piece does not mention revenue declines, so no inference about revenue down is made.",
+              "signals": [
+                "AI capex spending perceived as excessive",
+                "CIOs expressing concern about AI infrastructure spending"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 3,
+          "recent14_count": 15,
+          "fresh_sum": 6.5,
+          "decay_sum": 16.35,
+          "raw_score": 10.94,
+          "strong_hits14": 15,
+          "evidence": [
+            {
+              "title": "50 GW of datacenter demand queues up for UK grid access - theregister.com",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWEZwUGZ0Z2FTQnRQaUhLRnFGUnFfT2hEcDFwdmZzYmN0U2NsWlplSENkQjljZk0teGcxT0dCdVQ4SmNGVm11NW9SdkoyMGpMZkN1SnR4c0VrOUxyWjBxOFRQMEJ4YjJxNkJKWnR2ci01RkdYbU05SzRwSjdOY05fOWl3dFA0OFk?oc=5",
+              "published": "Fri, 27 Feb 2026 13:13:00 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "The headline explicitly states '50 GW of datacenter demand queues up for UK grid access', which directly signals a large backlog for grid connections and therefore a strong, clear risk of power/connection (and related permitting) delays for datacenter builds in the UK. No further inference beyond the reported backlog is made.",
+              "signals": [
+                "50 GW of datacenter demand queued for UK grid access",
+                "Backlog for grid connections for datacenters in the UK",
+                "Power/grid access constraints affecting datacenter deployments",
+                "Potential permitting/connection delays for hyperscaler datacenters in the UK"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Data Center Interconnection Delays Highlight Growing Role for Batteries and Microgrids - TipRanks",
+              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdlJvRFZSQ24ycWt2ZXM2MnNUNDFpOFNxR2x1RjVuangycGVFakh1eWhTdHZxNFhRcjc4MTgtQXdsRzB0Rlk0TzNRcjBnRXhnNlpuZWRveVVtTm13bXJtdFpnX0JkSjBST2pkSjkzaG9rVHpwbzZoYjN4cXFwR2ozWnRXSHh3NWJkSkt4YV9mYWlJdGg4U3dWZjNYQTAzc1VlQWdiaVpxWVFRN01icjB6TjFQWWhFd21ycm9INV8wS3JTNFJQZzdLY2J4QWQtekk?oc=5",
+              "published": "Thu, 19 Feb 2026 12:46:45 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "Article explicitly discusses data center interconnection/permitting delays and the resulting shift toward batteries and microgrids, which directly affects power supply, deployment timelines, and operational resilience for data centers and hyperscalers. No further inference beyond the article.",
+              "signals": [
+                "Interconnection and permitting delays for data center power hookups",
+                "Growing adoption of batteries and microgrids by data centers as mitigation",
+                "Potential impacts on data center expansion timelines and reliability",
+                "Regulatory/permitting bottlenecks affecting hyperscaler deployments"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Delays in permitting, power, and zoning cause first drop in data center construction since 2020 - Sherwood News",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMFdRQVRVYlU1VzZjZmI4LWg2VGYxcWwyWkNld3VHdjFSSlg2OC13bENTb0pzeWpRQ3BaWVVDTEFXZ1lMRXRnN1EwSDJ1T2FuMmdHdWg3bWNBS2Q4YzJUczNBMWFlUWwxZEFUTS0zR29iSFNvMmMtYjFGRUtRRkUtVk1FdXZnbTFrZFYteEdpcGtQQTNWanlmTHFwX0otUQ?oc=5",
+              "published": "Thu, 26 Feb 2026 22:21:16 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline reports a measurable decline in data center construction attributed to permitting, power, and zoning delays. This directly indicates a risk to hyperscaler/AI infrastructure expansion capacity, but the summary is limited to that causal attribution and does not provide broader quantitative details, so strength is moderate.",
+              "signals": [
+                "Permitting delays affecting data center projects",
+                "Power availability/connection constraints delaying builds",
+                "Zoning issues impeding data center construction",
+                "First decline in data center construction since 2020"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "50 GW of datacenter demand queues up for UK grid access - theregister.com",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xOW5VWlVJcnVlOVRWRjY5V2FyTWpuMFB4ZTcwODFuQmg2YUdOZTRxSFRfWUYtVEpJZERwOEV2QTdFR1FKRHY2U2Y1QWhBQWxteXZJdlVjRDFSbWtWWFNqdEtDT2JyX0hXM1lzc3hZajZ1WmM?oc=5",
+              "published": "Fri, 27 Feb 2026 13:13:00 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The headline states ~50 GW of datacenter demand is queued for UK grid access, which directly signals a backlog/constraint in grid interconnection or permitting for datacenter projects—a clear operational risk for AI infrastructure and hyperscalers. The summary is limited to the article title, so assessment is conservative and does not infer causes beyond the reported queue.",
+              "signals": [
+                "~50 GW of datacenter demand queued for UK grid access",
+                "Implied grid interconnection/permit backlog for datacenter projects",
+                "Potential delays to datacenter buildouts and power availability for hyperscalers"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Speaking of grifting… More Pepco Pain, “Due to a miscalculation…” Time to go Solar? “GRID Act to Speed Up Pepco Approval of New Solar Projects as Electric Bills Skyrocket, Delays Increase” - PoPville",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU2ZHaXJsYTBmSFVyUmQ5OXFHVEs1N0FsckpBOE5NemJYbnNVeE14RDhWWno2VDhpbEdXZm9leG42ODZsZDRwMlE2T3hpMWVsNm1aSld6QkZOQmQzSFl3Z3V6UFowN2JQUHNEWkFSclJjMmNjLU95VnZRV2dnVnh2Nw?oc=5",
+              "published": "Thu, 26 Feb 2026 15:00:05 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Article explicitly reports Pepco approval delays for new solar projects (attributed to a miscalculation) and mentions legislative action (GRID Act) to speed approvals, indicating concrete permit/interconnection delays risk for distributed generation projects.",
+              "signals": [
+                "Pepco delaying approvals of new solar projects",
+                "Delays attributed to a miscalculation by Pepco",
+                "GRID Act proposed to accelerate Pepco approval process",
+                "Electric bills increasing amid approval delays"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Data Center Interconnection Delays Drive Interest in Batteries and Microgrids - TipRanks",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN1AtSEcyR0Z1SEZfN2hnbFpYaWlJMDVxRzR3NEtkWndJS1hTa1RQZDB0MW9wbWNaSXFnTnNSQ1pFRGJCb1J1N3ZvRlcwYnRJSFJOWUpEX1JsejVoV2c2Z1AwdTRybTN4X1ZzWUNxVXJtbXNCcjB1bG40UWFQZnFkSkZjckh3eXlKeXBralEyVVU1dzV2MjlGWEUwcDR3QXhLVjJ4dl80SkFBdkNGV250YVFSU1d5cGNTcXNXdnlVUnEtekE?oc=5",
+              "published": "Thu, 19 Feb 2026 00:51:19 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline explicitly reports data center interconnection delays driving interest in batteries and microgrids, which is a direct operational/infrastructure risk for hyperscalers (grid/permit constraints affecting expansion and resilience). No article details provided, so signal is clear but not deeply evidenced here—hence moderate strength.",
+              "signals": [
+                "grid interconnection delays",
+                "permitting/power-approval delays",
+                "increased adoption of batteries and microgrids as mitigation",
+                "potential constraints on data center expansion and resilience"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "As data centers multiply, Maryland’s power grid struggles to keep up - MarylandReporter.com",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaENoOW9mVnR0M0ZjWk9tRlI4NV9IWHdsOHVMSi1iZVhrcHJocDNfckFvdWV5WU02RWVDVnVwUkJOeHNSSUgyamkyb0N3T2ZfRmFuM3hGUGgxdWdZSV9lb0JjejNfdzhuRjNtZU5qSERNZGs1bGZweXdRRFJzSWVlQzl0OUZxb1FpSHZHVXIxNnhZMlRha0FseXJsOTdEbmJWZXFjMzM5dW5uX1E?oc=5",
+              "published": "Thu, 05 Mar 2026 08:26:15 GMT",
+              "strength": 3,
+              "confidence": 75,
+              "reason": "Headline explicitly states that Maryland's power grid is struggling as data centers multiply, which is directly relevant to hyperscaler/data‑center risk around power availability and expansion. Article text not provided, so assessment is limited to the headline and may not specify exact causes or scope.",
+              "signals": [
+                "regional power grid capacity strain",
+                "data center demand outpacing local supply",
+                "possible delays or complications in power connections/permits"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Nira Energy Highlights SPP Interconnection Reforms Amid AI Data Center Surge - TipRanks",
+              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNEt1UGx1X3I2THpGOGV2TXRBbll5WE5UbEZNenhNMTFDZVk3M284UXdOV2tQdkd5bDhVWmNRUUxhXy02dmVTMXZ4ZXFWX21IRWVvNVNPZENrQ1RqeUhDYWF2dFFBV1MycC0za1c0UDQ1bzdIWExaZWtYSGc3MUFDTGx0NllCRmxaZndfR0ZCSG9hTWpURWY0a1lHeWxaQmstblA1eVQ4ZU1pb3NsWnBmMDY4WGFnY1pfWGllOG8xc1pzUQ?oc=5",
+              "published": "Tue, 03 Mar 2026 00:54:57 GMT",
+              "strength": 3,
+              "confidence": 70,
+              "reason": "Title explicitly links an AI data center surge to SPP interconnection reforms, indicating strain on interconnection/permit processes that could affect power provisioning for AI data centers. The article appears to be a risk-related signal rather than a tangential mention.",
+              "signals": [
+                "SPP interconnection reforms",
+                "AI data center surge",
+                "stress on power interconnection/permit processes"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 1,
+          "recent14_count": 3,
+          "fresh_sum": 0.5,
+          "decay_sum": 2.18,
+          "raw_score": 1.67,
+          "strong_hits14": 3,
+          "evidence": [
+            {
+              "title": "‘Absolutely' a market bubble: Wall Street sounds the alarm on AI-driven boom as investors go all in - AOL.com",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYXNiMG5WY1NEWndfNlVUMXNkdEVnMUo4RG1Sbkh6N0V5OXJraGF6R203VDltNnRuMTBEa29Yb3RmU2lLeWZ0ZE52Qy1FZTA0SXoxMURtUDNmdVg5T2NYc0JyV280alRmZl83OXJCVE5RYjMxOGVRb29YNnZoYjVfcVQ4TG9pS3M?oc=5",
+              "published": "Wed, 25 Feb 2026 09:12:24 GMT",
+              "strength": 3,
+              "confidence": 70,
+              "reason": "The headline explicitly calls the AI-driven boom a 'market bubble' and reports Wall Street 'sounding the alarm' while investors are described as 'going all in', which directly signals risky market positioning. Classification is based solely on the provided headline/link text.",
+              "signals": [
+                "headline: 'market bubble'",
+                "Wall Street 'sounds the alarm'",
+                "investors 'going all in'",
+                "topic: AI-driven boom"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Massive AI capex not a bubble, but software & IT business models at risk: Arvind Sanger - MSN",
+              "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPU0VmbDdTTEN6ZVkyX2hxVkRLNEJ3ck9TZHQyZkUzMHdWeHQwcE92Y1ZiSzF2VVlqa0Q4LWZpRFNFcEpFZzdQS0hBb3FONGtqSFVhSVRyU0otYUpkbHBFeFd4NDVJQlh2eF91cFJLeDlrbkFPTWNhcEpSa0FBQ0VuaVBEUzZrS19TOUlFRFpqRFVNaU9tOTRTNTZ1QjI4eEhGMXRITl95ZHdkWkJGLXBDcFNyU2Flbkc2aHhUWjZLRVozSUhlZHFVRkZDbGY4bXpPRXV3bmVrNEtCdTdfNXJpZ1d4ckk0TE5JdW54R1NhMzZMQ2hobHlibWw5bFdUdmsxQ2NzUjlDdDFwNVpUZlF6amdQbUZ1SzVpUGhpNTlQRzN2MHQ5WVRaRU9zWGRQZ091anJ0S1c3akZLTlJyQ3BsbXc4cjlrdWt3R3dGWXVyYXRTak9yUnZKOU9fSm5uVW1nb0FFZm9hTmhwUQ?oc=5",
+              "published": "Wed, 25 Feb 2026 23:34:31 GMT",
+              "strength": 2,
+              "confidence": 75,
+              "reason": "The headline explicitly asserts ‘Massive AI capex’ (not a bubble) and that ‘software & IT business models [are] at risk,’ which directly signals market-positioning risk from sustained AI investment. The item is limited to a headline/link with no details on actors, scale, timing, or mechanisms, so the signal strength is moderate-low.",
+              "signals": [
+                "Massive AI capex (described as not a bubble)",
+                "Software & IT business models at risk"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Don’t fear the AI bubble, it’s about to unlock an $8 trillion opportunity according to Goldman Sachs - AOL.com",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05Q2wtZ1VMYXJ0cVZFZ05WQ3FTcEZFbmxseHM4cENqcVhXMHlXT093MWpKdzQ0Q2ZYLUhuUGJaT2RVMDI0QVl4UDBhd3IwMFNTZk41VldlTlREbUlDanloaXU2ZlZZVGo0OHo2U01Rcm0?oc=5",
+              "published": "Tue, 03 Mar 2026 00:00:52 GMT",
+              "strength": 1,
+              "confidence": 60,
+              "reason": "Headline explicitly mentions an 'AI bubble' and cites a Goldman Sachs $8 trillion opportunity estimate, indicating bullish market positioning and potential hype. However, only the headline/source is provided and it frames the topic positively (minimizing explicit risk), so the signal is weak and limited in detail.",
+              "signals": [
+                "Mentions an 'AI bubble'",
+                "Goldman Sachs projects an $8 trillion AI opportunity",
+                "Positive/bullish market framing that may indicate elevated investor expectations"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 0,
+      "new_articles": 41,
+      "dedup_skips": 125,
+      "prefilter_skips": 33,
+      "llm_calls": 8,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 6,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 1,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 1
+      }
+    }
   }
 ]
