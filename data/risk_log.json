@@ -4841,5 +4841,279 @@
         "market_positioning": 2
       }
     }
+  },
+  {
+    "date": "2026-03-15",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 0,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 0,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 1
+      },
+      "score": 15.0,
+      "bucket": "낮음",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.28,
+          "raw_score": 0.11,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "How Workato made its AI agents faster and 67% cheaper with DigitalOcean - Stock Titan",
+              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZGtoVk42RExRemp1bkpHU2RUcnR6M3MxaW1pVS05Y2VUd1ZBbVgzbWprNmdMUXRUeGQ1STlvaG14Y3dkNE0teE1TemR4eTdBV2xSOTVZUXpKV2lxZ0NwSG5FRmF3YWpSTmpybzYwZExzUmQ4ME4yZmNSLU5MWWRKOWpuYVczTjBPMmgyREhLMGc0T0ZCQzBrajlLYjZHVkRzS0VnbkxPNWE2aVdqN2xhRk5qVTJjWjQxMnBYeg?oc=5",
+              "published": "Tue, 03 Mar 2026 14:00:00 GMT",
+              "strength": 2,
+              "confidence": 70,
+              "reason": "The article explicitly states Workato made its AI agents 67% cheaper and faster by using DigitalOcean — a direct example of lower-cost AI infrastructure. However, it's a single case study and does not demonstrate broader market-wide price changes, so the signal strength is moderate.",
+              "signals": [
+                "Workato achieved 67% cost reduction for AI agents using DigitalOcean",
+                "DigitalOcean provided faster and cheaper infrastructure for AI agents (case study)"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 1.23,
+          "raw_score": 0.49,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "Hyperscalers: What Is Consensus Forecasting? Good or Bad? How Much Capex Can They Spend? - Smartkarma",
+              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeV93WnROSXlubHJKamxDc3hxTmNBSC1iVWVjcVNVU3l1SlZBaVZCQkUwYmdscXdPa2MyUkJtdFZRM0tQenp5cFZtRjZrcWx2VmRpaUtmT01HYXlxM1liZFlaLUNhLUFnTkVfMlJrMmxzOVYxMWNHN1lXQUhLbTdvQ0VnaGRtUEJaVklMdVVzME85aC0yeURsRHFFc2FrdW9zUVE5V2szWHFQTjBGS3pCREt6WmVaSDlKRWRPRw?oc=5",
+              "published": "Wed, 11 Mar 2026 23:56:02 GMT",
+              "strength": 2,
+              "confidence": 70,
+              "reason": "Title explicitly discusses hyperscaler capex and asks how much they can spend, which is directly relevant to capex-related risk for AI infrastructure. However the title does not mention revenue declines, so the signal for capex up paired with revenue down is not clearly present; strength is therefore low–moderate and no inference about revenue is made.",
+              "signals": [
+                "discussion_of_hyperscaler_capex_limits",
+                "analysis_of_consensus_forecasting",
+                "potential_capex_sustainability_risk"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 0,
+          "recent14_count": 18,
+          "fresh_sum": 0.0,
+          "decay_sum": 25.8,
+          "raw_score": 10.82,
+          "strong_hits14": 18,
+          "evidence": [
+            {
+              "title": "UK to Fast‑Track Data Centre Connections as Grid Queue Soars 460% - digit.fyi",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM2tTbTh5em1HdG42VVlGWGFCN1lZOTRQeXNVbjBmam45MG51ME9aeDY5OFRqZTBhS19Yel8yN3c3amltYUxZcWxlZjdURTQzR19uUzZnYTZENTBSZTZvemE0MWh5QUtaVjR2djh5NUZPZzhNbTFmdkUzNFZ0X1lxVEczRUVrY1l0a0RJYl9QSU4?oc=5",
+              "published": "Wed, 11 Mar 2026 16:29:00 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline explicitly reports a 460% surge in the grid queue for data centre connections and that the UK will fast‑track connections—direct evidence of power/permit bottlenecks affecting data centre deployment.",
+              "signals": [
+                "grid queue for data centre connections up 460%",
+                "UK to fast‑track data centre connections",
+                "power/connection backlog for data centres",
+                "regulatory/government intervention to speed connections"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Oracle’s $553B AI Backlog Could Stall as Power Bottleneck Looms in 2027–2028 - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwbUEyU2tabVpBbkhMYU5IXzBhT3BGNmZMdlcwc2JwVWpWY244NC12YkFyWWx5U0hVOUdQbkJrLWNFcjFGZDRTQ0tqM3FYRTEtZ0tNM1VOVVc2dWluSGhBMnRpMNIBY0FVX3lxTFAwbUEyU2tabVpBbkhMYU5IXzBhT3BGNmZMdlcwc2JwVWpWY244NC12YkFyWWx5U0hVOUdQbkJrLWNFcjFGZDRTQ0tqM3FYRTEtZ0tNM1VOVVc2dWluSGhBMnRpMA?oc=5",
+              "published": "Wed, 11 Mar 2026 21:00:26 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "Headline explicitly states a power bottleneck in 2027–2028 could stall Oracle’s $553B AI backlog, directly indicating a near-term power/infrastructure constraint risk to AI deployments.",
+              "signals": [
+                "power bottleneck in 2027–2028",
+                "risk of stalling Oracle’s $553B AI backlog",
+                "infrastructure power capacity constraint",
+                "deployment/permit-related delay risk"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Government to crack down on speculative grid requests, after queue grows five-fold in six months - BusinessGreen",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON1FzN2UyWXUxZ0pja2ZmemF0ZkhhVzVlTkZqenZYQ2xKVDVBNl9Pc24wbHFyN3ZoUmxETHhta2JsYXFmblpBVlR4U0t1NGM1Ni04czZPM1BaaFdyekJpSjA4LWhpYmtMVHFlMHRwWTdDekhCaUVnaWN4eVB3Wl9SMFVNNWhJWEdlMmloWVcyaGlUZzNia3R2T3VsaEN6emczZ3ZCbU50cm1ZZHBOM3c?oc=5",
+              "published": "Wed, 11 Mar 2026 08:02:28 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "Headline explicitly reports the grid-connection queue grew five-fold in six months and the government is moving to crack down on speculative requests. This indicates a clear and recent increase in permitting/connection backlog that poses a risk to timely power connections for infrastructure projects, though details on scope and duration are not provided.",
+              "signals": [
+                "grid_connection_queue_grew_5x_in_6_months",
+                "government_to_crack_down_on_speculative_grid_requests",
+                "increased_permitting/backlog_risk_for_power_connections",
+                "potential_delays_in_grid_connection_approvals"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "AI data centres could jump UK electricity grid queue under government plans - EasternEye",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kVGNnS2I5Y1BoLWE3VEh0RHc5c1RMbm5obTBnMVlhOVRYczVzdWNFd19Pd2N0NEg4ZVM2MVRMN0FaZHhIUTBmTlRFZ2lMelFfZC1kaHJQcjhDWEswRzRlb3FlTzB5LUV6SlY3Z2JXajdaQW4xa3BWLXNVZ3FFcm8?oc=5",
+              "published": "Wed, 11 Mar 2026 12:00:34 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "Headline states government plans could allow AI data centres to 'jump' the UK electricity grid queue, which directly signals a change in grid access/prioritization for AI infrastructure. Language is conditional ('could'), so signal is clear but not confirmed, limiting strength.",
+              "signals": [
+                "Proposed government policy to allow AI data centres to jump the electricity grid queue",
+                "Possible changes to electricity grid connection/prioritization for AI data centres",
+                "Conditional/uncertain proposal ('could') rather than confirmed implementation"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "UK government to prioritize data center grid access, cut down on speculative applications - IT Pro",
+              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcXhiZUFUTndwOXZHZzNWak9sQkdMY29CUnQ0LU5Jb3FvdWtGdVBCSTVIWWhoZjMyVmI1LVFTeGJITWhRT1I0NGViYWdzZ0wycnRBbWNORmk0cm5BeWd6SUNiQnlmeTQ3RGhJLU5IcWtqdGl5XzBkNktoSjFVb3BSdTRCLWk3NjVUNmstclJJcmlIaGNZb25aTl9KOUM4LVNPME1namRSb0xyek52WldPc09oMkFMa3RmbHlvUENwcmhiVmVMNmxBa1hjU3g4YUFLcWZJRg?oc=5",
+              "published": "Thu, 12 Mar 2026 12:24:51 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The headline explicitly describes a UK government policy to prioritize data center grid access and curb speculative grid-connection applications, which directly relates to power/permitting constraints for data centers and hyperscalers.",
+              "signals": [
+                "UK government to prioritize data center grid access",
+                "UK government to cut down on speculative grid connection applications"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Grid connection queue to be overhauled after speculative developer surge - Estates Gazette",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2FWakdTYlRSaHVWS2lncmpTb3l3NmFOeHR2MUU5dUpvR0RzZTU2LURyeXYtdkhFY3ZxcGVqQnotOXB0R1FFSkQzTXl1UFJvSG5NRmRMU3VfeTJ1Qzc4N3djSnFMZmFia2xuZXpodEhTSkFMM0p5RlN2WjlOaENaOTl1bHJhOVNMUFdDSi12Q2QycTFtZFlHaW5yaVFBVHZUN0o1cWNuc1NXaTNtY2RERjhB?oc=5",
+              "published": "Wed, 11 Mar 2026 16:24:45 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline explicitly reports a surge of speculative developers overloading the grid connection queue and that the queue will be overhauled, which directly signals increased risk of grid connection/permit delays.",
+              "signals": [
+                "Surge of speculative developers in grid connection queue",
+                "Planned overhaul of grid connection queue",
+                "Implied risk of delays to grid connections/permits"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Government to tackle speculative demand grid connection requests - GOV.UK",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUs2UmprQTF5am1BZld4bFVyTDFwTnU5T3Z6ZVdfYVdxZFJ6aTA4UW1NNmlFMTlHSm44cUpOeVVQUjAtaXBLczVrZnZsdm0yajIxNUtqVDJxSEpGRjZ1RGpVLTBub2tUVDlaeXJKdHVLamMwNVh3cmdvNFFyT2dhR0NTS3d0bVhJWkZESHFNTGU0bjQ3YmppTDJaYndZNDln?oc=5",
+              "published": "Wed, 11 Mar 2026 09:11:15 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Official GOV.UK announcement specifically addressing speculative grid connection requests signals a recognized issue that can affect grid connection/permit timelines. The summary provides no detail on scope or specific measures, so the exact impact on delays is unclear.",
+              "signals": [
+                "GOV.UK announcement: 'Government to tackle speculative demand grid connection requests' — official recognition of speculative requests affecting grid connections"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "UK government aims to cut national electricity grid connection delays and prioritise growth projects - Open Access Government",
+              "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNGM2UkQtMUU0UHc3R3JCOS1PVFItaENrYTk1c1JyYWlhS1FRSVFvYjBVSmRRUGxBT1YtaXhyWF9DaE9NdG5TZXdSN0pudG9qRE9GV1d2TTBWOUNSN3pWM0VzdjgtS3d4MWptMVBpMFZ4ODZLQTlzS2RYV2RyYmNwNEFyY1pacVVLZjRramVQUDV0Y2pvd1ZLZ1o2YjVjbjJ1VUg5aDU1cHkzTzhSZUMwMU1GZkZxM0RCUjVVeEVudU5DYWNRZmpGNjF2dWZadnUxX2NUYmwyb3dteFI4M1E?oc=5",
+              "published": "Wed, 11 Mar 2026 13:16:42 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The title explicitly states the UK government aims to cut national electricity grid connection delays and to prioritise growth projects, which directly pertains to a known risk for hyperscalers (grid connection/permit delays). However, the item is an announcement of intent with no detailed implementation or outcomes, so the signal is moderate rather than strong.",
+              "signals": [
+                "UK government intends to cut national electricity grid connection delays",
+                "Government to prioritise grid connections for growth projects",
+                "Announcement implies potential reduction in permit/connection wait times for growth projects"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 3,
+          "fresh_sum": 0.0,
+          "decay_sum": 1.1,
+          "raw_score": 0.94,
+          "strong_hits14": 3,
+          "evidence": [
+            {
+              "title": "Why experts are worried about an AI bubble in the stock market - AOL.com",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HN2wyNTJ4Rkpra08teF9penN3a25HaXBlOEg5elVmT3Q3ejI1X19zVVdWSzE0OUNkVTBHSndQX28xV2Voa3BMRmN0UVd0X2h0MWVKS09HbDJQeENTTkxPTjBvR0Qta0xsOVFhME4xaUZIbUR1NjUxNG5rbkdiQQ?oc=5",
+              "published": "Fri, 06 Mar 2026 18:41:55 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The headline explicitly reports experts are worried about an 'AI bubble' in the stock market, which directly signals market-positioning risk arising from hype and potential overvaluation. Only the title/link is available, so no quantitative detail is provided.",
+              "signals": [
+                "Headline: experts warn of an 'AI bubble' in the stock market",
+                "Media coverage indicating investor hype/overvaluation risk"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Morgan Stanley sounds alarm on new AI spending bubble risk - AOL.com",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qMU5mNlBjR2R0NzZqa3hVWlJld2xKTGRwSmdLVVJmRlpqSEI1MXJEVXNiVmdZLXlzbGZQYm9FanIwNGJUN1JFVXJtNnp0cHh4ZUYwQzV5ZXpPQjMxMEZGcE5RNW16VzJQRVl0dElvaHN3OXpZUkVRSWUzNWJNaHM?oc=5",
+              "published": "Tue, 03 Mar 2026 00:02:52 GMT",
+              "strength": 1,
+              "confidence": 85,
+              "reason": "Headline indicates Morgan Stanley warns of an AI spending bubble, which is directly relevant to market positioning risks (overinvestment, potential market correction). However the item is a brief headline with no specifics about infrastructure, hyperscalers, or concrete actions, so the signal is weak and non-specific.",
+              "signals": [
+                "Analyst warning of AI spending bubble",
+                "Risk of overinvestment in AI-related spending",
+                "Potential market correction affecting AI-related firms"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Don’t fear the AI bubble, it’s about to unlock an $8 trillion opportunity according to Goldman Sachs - AOL.com",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05Q2wtZ1VMYXJ0cVZFZ05WQ3FTcEZFbmxseHM4cENqcVhXMHlXT093MWpKdzQ0Q2ZYLUhuUGJaT2RVMDI0QVl4UDBhd3IwMFNTZk41VldlTlREbUlDanloaXU2ZlZZVGo0OHo2U01Rcm0?oc=5",
+              "published": "Tue, 03 Mar 2026 00:00:52 GMT",
+              "strength": 1,
+              "confidence": 60,
+              "reason": "Headline explicitly mentions an 'AI bubble' and cites a Goldman Sachs $8 trillion opportunity estimate, indicating bullish market positioning and potential hype. However, only the headline/source is provided and it frames the topic positively (minimizing explicit risk), so the signal is weak and limited in detail.",
+              "signals": [
+                "Mentions an 'AI bubble'",
+                "Goldman Sachs projects an $8 trillion AI opportunity",
+                "Positive/bullish market framing that may indicate elevated investor expectations"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 0,
+      "new_articles": 13,
+      "dedup_skips": 132,
+      "prefilter_skips": 12,
+      "llm_calls": 1,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 0,
+        "dc_vacancy": 1,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 0
+      }
+    }
   }
 ]
