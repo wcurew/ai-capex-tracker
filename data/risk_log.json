@@ -5671,5 +5671,242 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-03-18",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 0,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 0,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 10.0,
+      "bucket": "낮음",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.75,
+          "raw_score": 0.3,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "Hyperscalers: What Is Consensus Forecasting? Good or Bad? How Much Capex Can They Spend? - Smartkarma",
+              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeV93WnROSXlubHJKamxDc3hxTmNBSC1iVWVjcVNVU3l1SlZBaVZCQkUwYmdscXdPa2MyUkJtdFZRM0tQenp5cFZtRjZrcWx2VmRpaUtmT01HYXlxM1liZFlaLUNhLUFnTkVfMlJrMmxzOVYxMWNHN1lXQUhLbTdvQ0VnaGRtUEJaVklMdVVzME85aC0yeURsRHFFc2FrdW9zUVE5V2szWHFQTjBGS3pCREt6WmVaSDlKRWRPRw?oc=5",
+              "published": "Wed, 11 Mar 2026 23:56:02 GMT",
+              "strength": 2,
+              "confidence": 70,
+              "reason": "Title explicitly discusses hyperscaler capex and asks how much they can spend, which is directly relevant to capex-related risk for AI infrastructure. However the title does not mention revenue declines, so the signal for capex up paired with revenue down is not clearly present; strength is therefore low–moderate and no inference about revenue is made.",
+              "signals": [
+                "discussion_of_hyperscaler_capex_limits",
+                "analysis_of_consensus_forecasting",
+                "potential_capex_sustainability_risk"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 8,
+          "recent14_count": 29,
+          "fresh_sum": 18.4,
+          "decay_sum": 38.86,
+          "raw_score": 27.08,
+          "strong_hits14": 29,
+          "evidence": [
+            {
+              "title": "UK to Fast‑Track Data Centre Connections as Grid Queue Soars 460% - digit.fyi",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM2tTbTh5em1HdG42VVlGWGFCN1lZOTRQeXNVbjBmam45MG51ME9aeDY5OFRqZTBhS19Yel8yN3c3amltYUxZcWxlZjdURTQzR19uUzZnYTZENTBSZTZvemE0MWh5QUtaVjR2djh5NUZPZzhNbTFmdkUzNFZ0X1lxVEczRUVrY1l0a0RJYl9QSU4?oc=5",
+              "published": "Wed, 11 Mar 2026 16:29:00 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline explicitly reports a 460% surge in the grid queue for data centre connections and that the UK will fast‑track connections—direct evidence of power/permit bottlenecks affecting data centre deployment.",
+              "signals": [
+                "grid queue for data centre connections up 460%",
+                "UK to fast‑track data centre connections",
+                "power/connection backlog for data centres",
+                "regulatory/government intervention to speed connections"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "‘Interconnection remains the big bottleneck’: Zenobē Energy on US deployment strategies, grid connections, and data centres - Energy-Storage.News",
+              "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQjZfYWRxWk9hNnN0ckZ3WHRpajItQ3Nrc3U5aEJjWFE1Qy1taFBhdEJ1eWpSczFVNVFHVDEwNkxpTURsQzZvUU1NWktMS2ZBelJ1cTl5dkRJRFBuaTctWlJ1cE45Xzl0VFR0Vm9fbEl5Zy14NGFDLTh5dm9LeVdZdnd0MDJPcGdNLW0wbENEX1lLNWVMeWZQa1VReFV4ZmU0NXlQcTF6NGhYclc4Zk5ScTBlaXFmNWlHdnB6eG10SHBScXp2cU43b3A2RWRYRk9iUEk3VWZaYncyTDB3My1iTHExZXJxUQ?oc=5",
+              "published": "Tue, 17 Mar 2026 13:46:01 GMT",
+              "strength": 4,
+              "confidence": 88,
+              "reason": "The title explicitly states that interconnection (grid connections) is a major bottleneck and mentions data centres and US deployment strategies, which directly signals a strong risk to hyperscaler/AI infrastructure deployment that depends on grid connections.",
+              "signals": [
+                "Interconnection remains the big bottleneck",
+                "Grid connections are a deployment challenge",
+                "Data centres affected in US deployment strategies"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Oracle’s $553B AI Backlog Could Stall as Power Bottleneck Looms in 2027–2028 - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwbUEyU2tabVpBbkhMYU5IXzBhT3BGNmZMdlcwc2JwVWpWY244NC12YkFyWWx5U0hVOUdQbkJrLWNFcjFGZDRTQ0tqM3FYRTEtZ0tNM1VOVVc2dWluSGhBMnRpMNIBY0FVX3lxTFAwbUEyU2tabVpBbkhMYU5IXzBhT3BGNmZMdlcwc2JwVWpWY244NC12YkFyWWx5U0hVOUdQbkJrLWNFcjFGZDRTQ0tqM3FYRTEtZ0tNM1VOVVc2dWluSGhBMnRpMA?oc=5",
+              "published": "Wed, 11 Mar 2026 21:00:26 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "Headline explicitly states a power bottleneck in 2027–2028 could stall Oracle’s $553B AI backlog, directly indicating a near-term power/infrastructure constraint risk to AI deployments.",
+              "signals": [
+                "power bottleneck in 2027–2028",
+                "risk of stalling Oracle’s $553B AI backlog",
+                "infrastructure power capacity constraint",
+                "deployment/permit-related delay risk"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "T1 Energy Secures 50MW Grid Allocation for Nordic Data Center Asset - Yahoo Finance Singapore",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd1N5VUliTWRVYlJRMFVjU3pmSDg4ZUJ0S3VnVDdWWlM5bXZteXIwZ3d4dDBhbWlIbmx2Y1dnQjJCOWdkalBjUkx3c3ZRdjYzRTlORDAxWm5FZ2pEb3hLbFA5X2liRUFqX2pWTWVPb0NWUTJ3WUdBR05seTFmd2Q0Ny13?oc=5",
+              "published": "Wed, 18 Mar 2026 10:05:00 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "Article states T1 Energy secured a 50MW grid allocation for a Nordic data center asset — direct evidence of progress on power permits/allocations for that project, indicating reduced likelihood of power/permit delays for that asset.",
+              "signals": [
+                "50MW grid allocation secured",
+                "Nordic data center asset",
+                "progress on power permits/allocations",
+                "reduced risk of power/permit delays"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Government to crack down on speculative grid requests, after queue grows five-fold in six months - BusinessGreen",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON1FzN2UyWXUxZ0pja2ZmemF0ZkhhVzVlTkZqenZYQ2xKVDVBNl9Pc24wbHFyN3ZoUmxETHhta2JsYXFmblpBVlR4U0t1NGM1Ni04czZPM1BaaFdyekJpSjA4LWhpYmtMVHFlMHRwWTdDekhCaUVnaWN4eVB3Wl9SMFVNNWhJWEdlMmloWVcyaGlUZzNia3R2T3VsaEN6emczZ3ZCbU50cm1ZZHBOM3c?oc=5",
+              "published": "Wed, 11 Mar 2026 08:02:28 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "Headline explicitly reports the grid-connection queue grew five-fold in six months and the government is moving to crack down on speculative requests. This indicates a clear and recent increase in permitting/connection backlog that poses a risk to timely power connections for infrastructure projects, though details on scope and duration are not provided.",
+              "signals": [
+                "grid_connection_queue_grew_5x_in_6_months",
+                "government_to_crack_down_on_speculative_grid_requests",
+                "increased_permitting/backlog_risk_for_power_connections",
+                "potential_delays_in_grid_connection_approvals"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "AI data centres could jump UK electricity grid queue under government plans - EasternEye",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kVGNnS2I5Y1BoLWE3VEh0RHc5c1RMbm5obTBnMVlhOVRYczVzdWNFd19Pd2N0NEg4ZVM2MVRMN0FaZHhIUTBmTlRFZ2lMelFfZC1kaHJQcjhDWEswRzRlb3FlTzB5LUV6SlY3Z2JXajdaQW4xa3BWLXNVZ3FFcm8?oc=5",
+              "published": "Wed, 11 Mar 2026 12:00:34 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "Headline states government plans could allow AI data centres to 'jump' the UK electricity grid queue, which directly signals a change in grid access/prioritization for AI infrastructure. Language is conditional ('could'), so signal is clear but not confirmed, limiting strength.",
+              "signals": [
+                "Proposed government policy to allow AI data centres to jump the electricity grid queue",
+                "Possible changes to electricity grid connection/prioritization for AI data centres",
+                "Conditional/uncertain proposal ('could') rather than confirmed implementation"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Oracle’s $553B AI Backlog Could Stall as Power Bottleneck Looms in 2027–2028 - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sRkdZSjg5S2tSUUhsQl9raGpqcFY0XzNVbmNsY1AzdHVOU1BCYkk4aU42OUtmaUlTSXBSUzNPRDJpb0FxU1kzclMwdGh5cFkxN3I1ZGtRZEl5a00tNGfSAWNBVV95cUxQMG1BMlNrWm1aQW5ITGFOSF8wYU9wRjZmTHZXMHNicFVqVmNuODQtdmJBcllseVNIVTlHUG5Cay1jRXIxRmQ0U0NLajNxWEUxLWdLTTNVTlVXNnVpbkhoQTJ0aTA?oc=5",
+              "published": "Wed, 11 Mar 2026 05:57:35 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "The headline explicitly states a power bottleneck could stall Oracle’s large ($553B) AI backlog in 2027–2028, which is a direct infrastructure risk (power/permits) for AI deployment. No additional details beyond the summary were assumed.",
+              "signals": [
+                "power bottleneck",
+                "could stall AI backlog",
+                "Oracle $553B AI backlog",
+                "2027–2028 timeframe",
+                "power/permit delays"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "UK government to prioritize data center grid access, cut down on speculative applications - IT Pro",
+              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcXhiZUFUTndwOXZHZzNWak9sQkdMY29CUnQ0LU5Jb3FvdWtGdVBCSTVIWWhoZjMyVmI1LVFTeGJITWhRT1I0NGViYWdzZ0wycnRBbWNORmk0cm5BeWd6SUNiQnlmeTQ3RGhJLU5IcWtqdGl5XzBkNktoSjFVb3BSdTRCLWk3NjVUNmstclJJcmlIaGNZb25aTl9KOUM4LVNPME1namRSb0xyek52WldPc09oMkFMa3RmbHlvUENwcmhiVmVMNmxBa1hjU3g4YUFLcWZJRg?oc=5",
+              "published": "Thu, 12 Mar 2026 12:24:51 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The headline explicitly describes a UK government policy to prioritize data center grid access and curb speculative grid-connection applications, which directly relates to power/permitting constraints for data centers and hyperscalers.",
+              "signals": [
+                "UK government to prioritize data center grid access",
+                "UK government to cut down on speculative grid connection applications"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.5,
+          "raw_score": 0.2,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "Why experts are worried about an AI bubble in the stock market - AOL.com",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HN2wyNTJ4Rkpra08teF9penN3a25HaXBlOEg5elVmT3Q3ejI1X19zVVdWSzE0OUNkVTBHSndQX28xV2Voa3BMRmN0UVd0X2h0MWVKS09HbDJQeENTTkxPTjBvR0Qta0xsOVFhME4xaUZIbUR1NjUxNG5rbkdiQQ?oc=5",
+              "published": "Fri, 06 Mar 2026 18:41:55 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The headline explicitly reports experts are worried about an 'AI bubble' in the stock market, which directly signals market-positioning risk arising from hype and potential overvaluation. Only the title/link is available, so no quantitative detail is provided.",
+              "signals": [
+                "Headline: experts warn of an 'AI bubble' in the stock market",
+                "Media coverage indicating investor hype/overvaluation risk"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 0,
+      "new_articles": 35,
+      "dedup_skips": 98,
+      "prefilter_skips": 28,
+      "llm_calls": 7,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 6,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 1
+      }
+    }
   }
 ]
