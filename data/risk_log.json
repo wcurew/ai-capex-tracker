@@ -8024,5 +8024,286 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-03-27",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 0,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 0,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 3
+      },
+      "score": 25.0,
+      "bucket": "보통",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 1,
+          "recent14_count": 1,
+          "fresh_sum": 0.5,
+          "decay_sum": 0.72,
+          "raw_score": 0.59,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "European construction: easing inflation, tight power and rising carbon costs - MODUS | RICS",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZTZoM092NmFwQUJjNXFPN1ZXQjVOdm5NenBTQmc3Z25DWnR1WTFXZ3N2TmpvMDMxVEVOV3RnTlNFSjNqZHoxZ2pEZFVIeFBLU0wxUkN3MENvWFY2Ym9qQmV4XzVDX2lsUDhUbzFLNzBNT01VSmJrbkxzaTNsYzBrYlJGTlZhWVZkeDFzeHFIZw?oc=5",
+              "published": "Wed, 25 Mar 2026 00:00:00 GMT",
+              "strength": 1,
+              "confidence": 75,
+              "reason": "The title cites 'tight power' and 'rising carbon costs', which are operational/cost risks relevant to AI infrastructure and hyperscalers. However, the article appears focused on European construction rather than on hyperscalers specifically, so the signal is indirect and weak.",
+              "signals": [
+                "tight power",
+                "rising carbon costs",
+                "easing inflation",
+                "European construction"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.96,
+          "raw_score": 0.38,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "Microsoft Corporation stock faces AI competition pressure amid cloud growth slowdown in Q1 2026 - AD HOC NEWS",
+              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYktVRmw3cF9hRmFyNlNFaWdGdnBrTmNDTDVMcHBqMDF4aTRZN3c0eng0YXh6dnpPUlVJWU9DNnZJZ2xST0QtWjlHTDBtZ0RjeWp6UnNtck9DZ1BodklJV0praG9qUVIwZDN2LUVLUm1rb01vaEczX1VNdnBkT09jV1ZvbVY0YmhzX3REYUh2aEJMaVNCRWpaMFVpaDlTbFdxTWU0TlB5SWRQekpvMnlmeW9LNktJVHBMT2p0UnRMaEZjQ1BUekE?oc=5",
+              "published": "Fri, 20 Mar 2026 11:50:35 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline explicitly reports Microsoft — a major hyperscaler — facing AI competition pressure and a cloud growth slowdown in Q1 2026, which is directly relevant to hyperscaler revenue/market-risk. The summary provides no quantitative details or capex information, so the signal is moderate in strength and not fully specified.",
+              "signals": [
+                "cloud_growth_slowdown",
+                "ai_competition_pressure",
+                "hyperscaler_revenue_risk"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 4,
+          "recent14_count": 24,
+          "fresh_sum": 7.0,
+          "decay_sum": 22.32,
+          "raw_score": 13.63,
+          "strong_hits14": 24,
+          "evidence": [
+            {
+              "title": "‘Interconnection remains the big bottleneck’: Zenobē Energy on US deployment strategies, grid connections, and data centres - Energy-Storage.News",
+              "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQjZfYWRxWk9hNnN0ckZ3WHRpajItQ3Nrc3U5aEJjWFE1Qy1taFBhdEJ1eWpSczFVNVFHVDEwNkxpTURsQzZvUU1NWktMS2ZBelJ1cTl5dkRJRFBuaTctWlJ1cE45Xzl0VFR0Vm9fbEl5Zy14NGFDLTh5dm9LeVdZdnd0MDJPcGdNLW0wbENEX1lLNWVMeWZQa1VReFV4ZmU0NXlQcTF6NGhYclc4Zk5ScTBlaXFmNWlHdnB6eG10SHBScXp2cU43b3A2RWRYRk9iUEk3VWZaYncyTDB3My1iTHExZXJxUQ?oc=5",
+              "published": "Tue, 17 Mar 2026 13:46:01 GMT",
+              "strength": 4,
+              "confidence": 88,
+              "reason": "The title explicitly states that interconnection (grid connections) is a major bottleneck and mentions data centres and US deployment strategies, which directly signals a strong risk to hyperscaler/AI infrastructure deployment that depends on grid connections.",
+              "signals": [
+                "Interconnection remains the big bottleneck",
+                "Grid connections are a deployment challenge",
+                "Data centres affected in US deployment strategies"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "The impact of grid congestion and planning intervention on data centre viability and delivery - New Civil Engineer",
+              "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVVh2Skc1dEZhUGVKb2FOQXBScG1NTWUyQ2VLdm9FejJYSE5ZTUtyc3dyVGYzTXhwUlpVT0N4R0tKN2FUbkFPSmZIb3RvTWJOWnkzaEktaWZGaHpWMlRadGp0NUVBOUk2MkxaT014TlI1STVnbkFpaHRlamJBdUxROWNiUEVKc1BZTnB0WXpzVlUwNGNvTUZVa2wtd2p6NFh2YWs4VmwyQnZ4SjdTUEJfZGRjRGs4VXBUaUltdGtqSjh1SkVUc1pURkxOMG5HOFl6cGVCSlR6WENWZnlZbGc?oc=5",
+              "published": "Thu, 12 Mar 2026 16:56:04 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "Headline explicitly states grid congestion and planning intervention are impacting data-centre viability and delivery, which is a direct signal of power/grid and permitting-related delivery risks for data-centre projects.",
+              "signals": [
+                "Grid congestion affecting data-centre delivery",
+                "Planning intervention causing delays to data-centre projects",
+                "Power/permitting constraints impacting data-centre viability"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "T1 Energy Secures 50MW Grid Allocation for Nordic Data Center Asset - Yahoo Finance Singapore",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd1N5VUliTWRVYlJRMFVjU3pmSDg4ZUJ0S3VnVDdWWlM5bXZteXIwZ3d4dDBhbWlIbmx2Y1dnQjJCOWdkalBjUkx3c3ZRdjYzRTlORDAxWm5FZ2pEb3hLbFA5X2liRUFqX2pWTWVPb0NWUTJ3WUdBR05seTFmd2Q0Ny13?oc=5",
+              "published": "Wed, 18 Mar 2026 10:05:00 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "Article states T1 Energy secured a 50MW grid allocation for a Nordic data center asset — direct evidence of progress on power permits/allocations for that project, indicating reduced likelihood of power/permit delays for that asset.",
+              "signals": [
+                "50MW grid allocation secured",
+                "Nordic data center asset",
+                "progress on power permits/allocations",
+                "reduced risk of power/permit delays"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Plans to prioritise AI data centres for grid access spark fear of delays for new housing - yourweather.co.uk",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjFETWFZNHVOOFhtZTFrbllSRFN6LVp1Q3hDN2QxRlg5NWw4Z3FiRE9abUpiVV8xbHhjR1M0NWJJcU9TUjNlWFY4eXV5aGp2cXR1NzVpNFJmdUk5OG1PWElHNWM2SUk4dFd3LVFUMW8tMFZRcTEwai03UV9KZ0pSbXU5RTkxeEdFdEtFanY1WjBTNnNHaDU1Q2FGam54RU9qQm5iVVR2OUZGVW1iVXFtMFhKTTVRUQ?oc=5",
+              "published": "Thu, 19 Mar 2026 11:00:00 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline explicitly reports plans to prioritise AI data centres for grid access and notes concerns this could cause delays for new housing grid connections/permits—directly relevant to power/permit risks for AI infrastructure.",
+              "signals": [
+                "Plans to prioritise AI data centres for grid access",
+                "Concerns that prioritisation could delay grid connections/permits for new housing"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "U.S. data center pipeline growth slows as grid constraints mount - pv magazine USA",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcjRfZHU5QmNuTjdSQmliMUZGMUM5UG9BSW84M1k0dHhDZzhqYk15UmZhd3VKbUNpS2Voel9KbXpQcDhYVUZQQ1hZdmZrSTM4QmQ3eWlwalM5Mi16RnhaMmpkSE12QjAzSmlBcE1HeXhBb3MxdXN0YU1nbk5UOG9CT1JGLWctQjA4blZ2cVEzcjVoSUlTVWkyNGxtMlFsdWVQbWlmZFN3?oc=5",
+              "published": "Thu, 19 Mar 2026 15:50:51 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The headline explicitly states U.S. data center pipeline growth is slowing due to mounting grid constraints, which clearly signals power-related limits on expansion. The summary does not provide detail on permits, so strength is moderate rather than maximal.",
+              "signals": [
+                "mounting grid constraints limiting data center growth",
+                "slower data center pipeline growth due to power/grid issues"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Grid reform could push eHGV chargers behind data centres, warns Logistics UK - Motor Transport",
+              "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMm9mcVh4OW1maEQ1eGxUUHhjUHV3R082djZxdjhoeFRKY2dDUWVTaGRmNDJ4VzdDNURxTFRNakw0ZlUxYjRrOVoybkF0S2kwV201cVdZVktoeldDcjFJSXpVZDk5VjdlOEwzcUQ4RjZBZkpMNFlRdHRxMDRFcWFmaTdQSW1GQ3E5NG05SXlORkVYcmJYY2I1NUNRYTh2SFBYSGZ1eS1Bc3YtRGh4Sm5jczlpOVJRUlBpQlZkVDBTSkl1T1dkVjBSY2MxbVlQZDNld2c?oc=5",
+              "published": "Thu, 19 Mar 2026 09:33:00 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline explicitly warns that proposed grid reform could result in eHGV chargers being deprioritised relative to data centres—directly relates to allocation/prioritisation of grid capacity affecting data centres and other users. Assessment based only on the provided headline/source; no further inference from full article content.",
+              "signals": [
+                "Grid reform may prioritise data centres over other loads",
+                "Risk of eHGV charger connection or deployment delays due to prioritisation",
+                "Logistics UK warning about negative impact of grid policy on charging infrastructure"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Transformer shortage risks crippling US power grid - MSN",
+              "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRlRKRko4N2N5SzhRTmMwRlkxeU4ydEViRFZPM2VRWXNRTi1jSlNqSTMtdUlUS25jZ2g2eWtSVEd0dDNRd1F0Rm95Y3F4dHVmdHNqTUJDY05tN1FmRXJsYXhfRmhKZ2FobWxsSTFhZW9BSGxtX1Z4SmF1Mnd3OE1OaWZXc0ZiR29NTWdmUUNmeEdocFJtcHhiUkRxNjBHRkNiUTBsaG55dS0yOEd3QlJ5c0VNU2otSW9vTkYwTzFZVUM0RXp2bWZFTGxTcDNTaUFoblpxRVM4Sno5UzZKbjRRQzFVd29zdmM?oc=5",
+              "published": "Mon, 16 Mar 2026 21:17:20 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline explicitly reports transformer shortages threatening to cripple the US power grid, which is a direct operational risk for data centers and hyperscalers reliant on grid power. The article does not specifically mention hyperscalers or data centers, so signal strength is not maximal.",
+              "signals": [
+                "power_grid_risk",
+                "transformer_shortage",
+                "critical_infrastructure_vulnerability",
+                "supply_chain_constraints",
+                "potential_power_outages"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Germany’s pursuit of data center “sovereignty” meets power grid limitations: Implementation trails behind AI-driven goals - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52SHRyZkxWcURaLV9GYWFnblpEN3BHNzNiZ2wxT0NPcTMySzZOU19QRnBybEUxNHB1V1dUOTE1Zllvc09YcnB6Qm91YlhKNTF6RkhnbVNpeEtwT2RpVHB6N0JpY9IBY0FVX3lxTE52SHRyZkxWcURaLV9GYWFnblpEN3BHNzNiZ2wxT0NPcTMySzZOU19QRnBybEUxNHB1V1dUOTE1Zllvc09YcnB6Qm91YlhKNTF6RkhnbVNpeEtwT2RpVHB6N0JpYw?oc=5",
+              "published": "Tue, 17 Mar 2026 11:57:40 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The headline explicitly links Germany's data center/sovereignty ambitions to power grid limitations and says implementation is trailing AI-driven goals, indicating a clear operational risk to data center deployment and related power/permitting processes for hyperscalers in Germany.",
+              "signals": [
+                "power grid capacity limitations affecting data center deployment",
+                "implementation of data center/sovereignty goals lagging behind AI-driven targets",
+                "potential delays or constraints on power permitting and connections",
+                "risk to hyperscaler expansion and new data center builds in Germany",
+                "operational bottleneck between energy infrastructure and AI infrastructure plans"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 1,
+          "recent14_count": 3,
+          "fresh_sum": 2.0,
+          "decay_sum": 2.95,
+          "raw_score": 2.88,
+          "strong_hits14": 3,
+          "evidence": [
+            {
+              "title": "BofA Survey Finds Most Fund Managers Now Worried About Overinvestment Amid AI Capex Surge; ‘Slow Down, Hyperscalers’ - MSN",
+              "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUENnVjZqaGl3Z2x3ZFFRQlFYX3ZpdE9UV0Y5YlhuYkFPRVJpd1dOQVc4V1libEVSczVaT1k1UjdMS1ZiNjRSaGNJN1ZoNXQ0MEZvM0lmalRfdmRqbTc4YzdYS0gwUHBHRjNFcXhIaEFVa1JHM2dfTGdycEFocjRNOUt0Z2xHZnZjQU1IeU9iVVRhVEJEX0RYMGJoV0xLRjEtcjVSNjIzekVOeU5VdEVOcWJNRGFhY0hrb1luUV9KQk1zLWVOZmNZbExobTRlT1I4NkF1bGVNZjJ6Q2ZySV83VUZqR0VOaEVob2ZnUnpnVkJjWDVqbVl2YWkwazE4Y3lLSTNadTBwT2s2cnhITjFuaERNZ3czbjlxQkY1WVhVcHEtSllXY0lIOGZKMFVxdnNWVW1jNW1ycGNqVHFzclpBOFc4Y1BtOS1JQXdCWmlSZHJVZDlMOG9rTzZmNE1LYndOb0lwT0EyRF9QZzNMOWw1TzNWN3FVbmk3MWZXM0wwMlktX1pITXZ0OTdJT2RVdw?oc=5",
+              "published": "Sat, 14 Mar 2026 04:42:18 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "BofA survey reports that most fund managers are now worried about overinvestment amid a surge in AI CapEx and are urging hyperscalers to 'slow down.' This is a clear investor-sentiment signal indicating market-positioning risk (potential overdeployment/overcapacity) for hyperscalers and related suppliers. No direct evidence of realized overcapacity is claimed, only manager concern.",
+              "signals": [
+                "Fund managers express worry about overinvestment",
+                "Surge in AI capital expenditures (AI CapEx)",
+                "Direct call for hyperscalers to 'Slow down'"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Bank of America Fund Manager Survey: Stock Market Mania Subsides, the Biggest Risk Has Changed! - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KNmU1Sl9BWUxVMEpaN0hqRDFrSHp4YzZfcC1lNzhmWm1HRUtwOUpFU3h0ZnlaTHJ4YzdIaGh0ckI1NmdiYjdhbzl6OEVQWDg3VDFiUDZBSEM0TlJCR0xsTmpqUW_SAWpBVV95cUxNNWo1Qno5dmdUYTBkTWtoaHUxVDFTN201dUQ1dW9TdnNrTjlaMEUxbTUzV2pLSlkwVHpyc2tHbDl3aFZPTHdqWHBNR3FNOGRiSExOcmFkMUkxQ0UyaE5iVUREdG1UTFUzclln?oc=5",
+              "published": "Mon, 16 Mar 2026 20:37:09 GMT",
+              "strength": 3,
+              "confidence": 70,
+              "reason": "Title explicitly reports Bank of America Fund Manager Survey finding that 'stock market mania subsides' and 'the biggest risk has changed', indicating a clear signal about shifting market positioning among investors. No specifics are provided, so inference is limited.",
+              "signals": [
+                "Fund Manager Survey indicates stock market mania subsiding",
+                "Headline states 'the biggest risk has changed' implying a shift in investor risk positioning",
+                "Source is a market-sentiment survey (Bank of America Fund Manager Survey) which directly relates to market positioning"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "AI + Crypto: Is the Mass Institutional Rush Into AI a Bubble Waiting to Burst — or the Biggest Opportunity of the Decade? - KuCoin",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQnIyVlZFbjdhUGx5dHU1ZEhkMGs4NXdqd2FiSldGczY4Y3JPY0Z3S3dHQ0dQV29kUE1oOWlLLTJFMURtTTVLcnZvTzdSdFdjZ3BKSHZabUJIbkxmRUpQbU1pM1lwU3l5bGMwcm1YWkNWTGVxMUdpUGVjN1FJS1pyNlhYODFPTnpFR1RObFdnbUhKNEE?oc=5",
+              "published": "Fri, 27 Mar 2026 05:37:30 GMT",
+              "strength": 2,
+              "confidence": 75,
+              "reason": "The title explicitly frames a 'mass institutional rush into AI' and questions whether it is 'a bubble waiting to burst', which indicates a market-positioning risk (speculative demand surge and potential sharp correction). The article appears to be high-level commentary (KuCoin) without infrastructure- or hyperscaler-specific details, so the signal is moderate rather than strong.",
+              "signals": [
+                "mass institutional rush into AI",
+                "risk of AI market bubble",
+                "potential for market volatility/sharp correction",
+                "framing as biggest opportunity vs bubble"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 0,
+      "new_articles": 41,
+      "dedup_skips": 141,
+      "prefilter_skips": 35,
+      "llm_calls": 6,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 2,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 1,
+        "capex_up_revenue_down": 1,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 2
+      }
+    }
   }
 ]
