@@ -29,26 +29,6 @@
     "fetched_at": "2026-02-26T12:06:36.817958",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
-  "df3d5202310c1f26": {
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "Capex overinvestment concerns hit new high, BofA survey finds By Investing.com - Investing.com",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVmhkaGxfOGVyeldoa3VuTFhYb2VjcGxybUZaYXhtbjNoSTJuXzlFcFhQYWh1ZHd6NW53c3otSGRLTV84cVVoSU12dkJ5UUxYVHZoRHdaT3dkVnUyV29yUU9rN0NodXU2TWNQY0pMSVNhNDVHcjJvNXpPTDdVWGp1NmdyRDJsQm5TenhUbGdRX3k1c1Y2eEhUNmJCalowRVFEcGRUbXZRZ1BNcW9Cd2RpbVJXdVRZLWNw?oc=5",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVmhkaGxfOGVyeldoa3VuTFhYb2VjcGxybUZaYXhtbjNoSTJuXzlFcFhQYWh1ZHd6NW53c3otSGRLTV84cVVoSU12dkJ5UUxYVHZoRHdaT3dkVnUyV29yUU9rN0NodXU2TWNQY0pMSVNhNDVHcjJvNXpPTDdVWGp1NmdyRDJsQm5TenhUbGdRX3k1c1Y2eEhUNmJCalowRVFEcGRUbXZRZ1BNcW9Cd2RpbVJXdVRZLWNw?oc=5\" target=\"_blank\">Capex overinvestment concerns hit new high, BofA survey finds By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
-    "fetched_at": "2026-02-26T12:06:36.817958",
-    "llm_error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
-  "13d3b841d8597454": {
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "Fund managers fretting over Corporate America’s “overinvestment” are only worried about one thing - Sherwood News",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnE3eWJ6N3RUeXNlMVAzRUlZVFlrY3pFLU9IR2NTRVItSGJtMlVRTk5CN1lLOW5xNlhhSFhxRnM5R2dPMnZpUVhPWFcyQmphd1JVMVJTZTJ0ek1lYnBxVXhfS1Y2RVBYdVhGNWI5OEdFWV9RbHNzaVJkQTFpQ0sxckQ1TUpwdlpWWTNIZnBmek5oVEJVZEVnNEtOUXRUQUh4enNB?oc=5",
-    "published": "Tue, 17 Feb 2026 14:02:28 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnE3eWJ6N3RUeXNlMVAzRUlZVFlrY3pFLU9IR2NTRVItSGJtMlVRTk5CN1lLOW5xNlhhSFhxRnM5R2dPMnZpUVhPWFcyQmphd1JVMVJTZTJ0ek1lYnBxVXhfS1Y2RVBYdVhGNWI5OEdFWV9RbHNzaVJkQTFpQ0sxckQ1TUpwdlpWWTNIZnBmek5oVEJVZEVnNEtOUXRUQUh4enNB?oc=5\" target=\"_blank\">Fund managers fretting over Corporate America’s “overinvestment” are only worried about one thing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sherwood News</font>",
-    "fetched_at": "2026-02-26T12:06:36.817958",
-    "llm_error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
-  },
   "e54d409e76818e57": {
     "group": "OVERALL",
     "item": "power_permit_delays",
@@ -128,35 +108,6 @@
     "fetched_at": "2026-02-26T12:47:07.818978",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
-  "06f10d30a1f9f11a": {
-    "group": "OVERALL",
-    "item": "capex_up_revenue_down",
-    "title": "Nvidia Stock Outlook for 2026: The AI Boom Will Drive Growth, but CapEx Concerns Will Increase Dangers - vocal.media",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTFV4Rnpjd1ZjbldwaWNLY0QybmhaVV9FbTV3dDFVVEhpb2NfQ25mWVBqNHNPUGFfZEN3RHRrRkVkQ21mRjdDSm9Gb2J0UGF4RVBncUswNy05OFdHOG9kTWRzOEZDcWM2d1JXMmlvbFBHS2pRLXMtcThnaFVGbWVEdW1ERWJHZ3IxRG5YMF9RUGhiUVhXUzVIaS13cmxhLWJwNHdUN0hFdDFKLXozelZZRXpyYVU1b1RYUlVhV3hqRXU5ZlhWM3lN?oc=5",
-    "published": "Mon, 16 Feb 2026 19:18:20 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNTFV4Rnpjd1ZjbldwaWNLY0QybmhaVV9FbTV3dDFVVEhpb2NfQ25mWVBqNHNPUGFfZEN3RHRrRkVkQ21mRjdDSm9Gb2J0UGF4RVBncUswNy05OFdHOG9kTWRzOEZDcWM2d1JXMmlvbFBHS2pRLXMtcThnaFVGbWVEdW1ERWJHZ3IxRG5YMF9RUGhiUVhXUzVIaS13cmxhLWJwNHdUN0hFdDFKLXozelZZRXpyYVU1b1RYUlVhV3hqRXU5ZlhWM3lN?oc=5\" target=\"_blank\">Nvidia Stock Outlook for 2026: The AI Boom Will Drive Growth, but CapEx Concerns Will Increase Dangers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vocal.media</font>",
-    "fetched_at": "2026-02-26T12:47:07.818978",
-    "llm": {
-      "relevant": true,
-      "strength": 2,
-      "confidence": 60,
-      "reason": "Title explicitly flags rising CapEx concerns as a danger for Nvidia's 2026 outlook, but no quantitative detail or mention of revenue declines is provided in the summary/link. Signal is direct but weak due to lack of supporting detail.",
-      "signals": [
-        "Title: 'CapEx Concerns Will Increase Dangers' (Nvidia 2026 outlook)",
-        "Mentions AI-driven growth alongside elevated CapEx risk"
-      ]
-    }
-  },
-  "dc42d272197e69aa": {
-    "group": "OVERALL",
-    "item": "mgmt_tone_softening",
-    "title": "Should ANET Stock Be Added to Your Portfolio Post Record Q4 Earnings? - TradingView",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPblNDOUZfaDdSUGZNek43YWc0UDNQOFJIRVNWRDVNbGkzNHZDR2VydGtUWW9od2FRSGtYbDQzczh0R2YxRDJ4OUd4bGV3dVdyb0xmMjUtb0F0dENwNlRra0lDUTlrX2JFbEtyRWpJbEI3cUVKaVhQa0dGcWdfeEhsaUpEbnRsSVpxRDBTbWx6R3ppSDg1S096U2lQRm5SWHlzTmp1RGQwRVdrMWl0bVIyenpqSWJTTlJUNVI1Umx3MUpYUQ?oc=5",
-    "published": "Tue, 17 Feb 2026 14:15:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPblNDOUZfaDdSUGZNek43YWc0UDNQOFJIRVNWRDVNbGkzNHZDR2VydGtUWW9od2FRSGtYbDQzczh0R2YxRDJ4OUd4bGV3dVdyb0xmMjUtb0F0dENwNlRra0lDUTlrX2JFbEtyRWpJbEI3cUVKaVhQa0dGcWdfeEhsaUpEbnRsSVpxRDBTbWx6R3ppSDg1S096U2lQRm5SWHlzTmp1RGQwRVdrMWl0bVIyenpqSWJTTlJUNVI1Umx3MUpYUQ?oc=5\" target=\"_blank\">Should ANET Stock Be Added to Your Portfolio Post Record Q4 Earnings?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-    "fetched_at": "2026-02-26T12:47:07.818978",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "90219be209d1d4e2": {
     "group": "OVERALL",
     "item": "mgmt_tone_softening",
@@ -176,22 +127,6 @@
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVGZGWnZ4ZzdFNFFUd3djdHRkOHg1LThRT3A0LV91YlQtYVNrdGpCVG9xRjlVd2VNeU9DU1l2SFJRWmhGZndLNkF1NkZZR2pOWXpkdkNTWnd3cXZCNHh2ZVdBdmw4TmI5eHhHSVpvRF9ReXBTODFDbGk5a19LSTgweGsyei04dEFWLXFj?oc=5\" target=\"_blank\">Chart Of The Day: How Much AI Capex Is Too Much?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
     "fetched_at": "2026-02-26T12:47:07.818978",
     "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "50ff8af1809853fa": {
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "AI Spending Bubble Fear Just Hit An All-Time High, Survey Shows - SPDR Gold Shares (ARCA:GLD) - Benzinga",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSGhWMUdmNjNMRTRfZkdzUDJlblN4NU1SQy0zX1dwbEtmb1ZlajJJZmxEaURpcThoR2x5LUpNa3ZobmpJRmVScThZUVJ0Rk5rbWVHQ0FwMlNvOU1GVER1bkctUzROX3VEeHBoYXpEcms3NGhkT21JWWhfTE9yaG9Pd1RCX2t3RUFSQWczaWpMWkRUWUNkU1ZDT2g5c3Q4VjlQekE?oc=5",
-    "published": "Tue, 17 Feb 2026 14:13:58 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOSGhWMUdmNjNMRTRfZkdzUDJlblN4NU1SQy0zX1dwbEtmb1ZlajJJZmxEaURpcThoR2x5LUpNa3ZobmpJRmVScThZUVJ0Rk5rbWVHQ0FwMlNvOU1GVER1bkctUzROX3VEeHBoYXpEcms3NGhkT21JWWhfTE9yaG9Pd1RCX2t3RUFSQWczaWpMWkRUWUNkU1ZDT2g5c3Q4VjlQekE?oc=5\" target=\"_blank\">AI Spending Bubble Fear Just Hit An All-Time High, Survey Shows - SPDR Gold Shares (ARCA:GLD)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
-    "fetched_at": "2026-02-26T12:47:07.818978",
-    "llm": {
-      "relevant": false,
-      "strength": 0,
-      "confidence": 90,
-      "reason": "Headline reports investor sentiment about an 'AI spending bubble' from a survey (market positioning). It does not provide direct, actionable information about AI infrastructure or hyperscaler operational/technical risks (no mention of clouds, capacity, outages, supply chain, vendor concentration, or contractual/execution risk).",
-      "signals": []
-    }
   },
   "12e81900beea637b": {
     "group": "OVERALL",
@@ -218,16 +153,6 @@
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd1h6SjBTUEgxRDNjQ3NiMWNDZlpMQzFmeks5MG5ERkd4TmE2N2lEcjhhNUtBY252aTZFVTNJTW4xN2toQUNHQnhueGdRMGRzdldPR3N1czVwTlU3Y1RpdVVXaFQwNHM0Wk1kMkxFQVltWW5zbUZESER3U1daOXowMnlYMVNQdmZySXRWVFhjei1HVlVHOU42aDFMWm9nOGhvbE10dEhqSDRucGxLMVBhUEJPTlB6OFhMeEJ0azlwdlY?oc=5",
     "published": "Tue, 24 Feb 2026 11:09:24 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd1h6SjBTUEgxRDNjQ3NiMWNDZlpMQzFmeks5MG5ERkd4TmE2N2lEcjhhNUtBY252aTZFVTNJTW4xN2toQUNHQnhueGdRMGRzdldPR3N1czVwTlU3Y1RpdVVXaFQwNHM0Wk1kMkxFQVltWW5zbUZESER3U1daOXowMnlYMVNQdmZySXRWVFhjei1HVlVHOU42aDFMWm9nOGhvbE10dEhqSDRucGxLMVBhUEJPTlB6OFhMeEJ0azlwdlY?oc=5\" target=\"_blank\">E&amp;E News: Report: Data center construction delays grow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POLITICO Pro</font>",
-    "fetched_at": "2026-02-26T13:53:09.203257",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "34a517b42a46854c": {
-    "group": "OVERALL",
-    "item": "ai_price_cuts",
-    "title": "PS5 Pro games list – all of the PS5 Pro enhanced titles released so far - TechRadar",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDalhYU3A0Rl9nNnp0VlduQzcxWnBGTHRxbFRsWl9QMU9mdlJSbTQ4OHlOdkFLWlduYW11QTQ4SE9adm9iZWNobEJ3czFPT1JmenhJM2VnYnhBNkJJY1NxdWppSlE0UQ?oc=5",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDalhYU3A0Rl9nNnp0VlduQzcxWnBGTHRxbFRsWl9QMU9mdlJSbTQ4OHlOdkFLWlduYW11QTQ4SE9adm9iZWNobEJ3czFPT1JmenhJM2VnYnhBNkJJY1NxdWppSlE0UQ?oc=5\" target=\"_blank\">PS5 Pro games list – all of the PS5 Pro enhanced titles released so far</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRadar</font>",
     "fetched_at": "2026-02-26T13:53:09.203257",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
@@ -460,16 +385,6 @@
     },
     "llm_model": "gpt-5-mini"
   },
-  "0e2ce6a184b141b4": {
-    "group": "OVERALL",
-    "item": "power_permit_delays",
-    "title": "Colombia renewables auction to test investor appetite - BNamericas",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV3NFWUJ6alNlVVU0c1JucFN5UVlLVUdESUx3aFFxb0ZDR2RabEh1clhadDZncEJhYTBfczFjeUVZR2lyTGtrTV9YUjZCT1d5TXdQNTJPZ3NteGxNaTQxYmpEX1MzcTNWMWxJYUlMVzgtZFc0N1lFejV1aTFUWmJmb3Z6MlV6Z0FZN1p5QmhfUVk1QQ?oc=5",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPV3NFWUJ6alNlVVU0c1JucFN5UVlLVUdESUx3aFFxb0ZDR2RabEh1clhadDZncEJhYTBfczFjeUVZR2lyTGtrTV9YUjZCT1d5TXdQNTJPZ3NteGxNaTQxYmpEX1MzcTNWMWxJYUlMVzgtZFc0N1lFejV1aTFUWmJmb3Z6MlV6Z0FZN1p5QmhfUVk1QQ?oc=5\" target=\"_blank\">Colombia renewables auction to test investor appetite</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BNamericas</font>",
-    "fetched_at": "2026-02-27T15:44:08.020594",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "31a215ba85187aae": {
     "group": "OVERALL",
     "item": "power_permit_delays",
@@ -675,27 +590,6 @@
     },
     "llm_model": "gpt-5-mini"
   },
-  "9eb4a5f74f05adaa": {
-    "group": "OVERALL",
-    "item": "power_permit_delays",
-    "title": "Reps. Thomas, Rader Introduce Bipartisan Bill to Shield Ohio Ratepayers from Data Center-Driven Grid Costs - Ohio House of Representatives (.gov)",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcDl2RkRsaHpJNDVIZVdTd2N1TzZWQWJDZi1PbkdIeGhXdmtfbDNXeWp3VndQT0VRMmhFZEJTSTd4QVRpcVl4RFpjWkpjZXRpUmFBV01Sc2JZVVJvU0ZXUFAyUVI0NXRnRTJqZG1ReFNGNlFhM2k4RXFOVG1qMU9tTjluRTE1OTJLdVp2Qnd5UER6X1NOVmVsemNIM0ZaRlJXa2RIeHdTWnZnVU9ja0lEaTNDMzdSaDdGeVh0b3doTHdkUXljZVZJUkdUYkVBZVYwcXVnWEdZaENLWUtDckRvWFIzSkJoVE50?oc=5",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcDl2RkRsaHpJNDVIZVdTd2N1TzZWQWJDZi1PbkdIeGhXdmtfbDNXeWp3VndQT0VRMmhFZEJTSTd4QVRpcVl4RFpjWkpjZXRpUmFBV01Sc2JZVVJvU0ZXUFAyUVI0NXRnRTJqZG1ReFNGNlFhM2k4RXFOVG1qMU9tTjluRTE1OTJLdVp2Qnd5UER6X1NOVmVsemNIM0ZaRlJXa2RIeHdTWnZnVU9ja0lEaTNDMzdSaDdGeVh0b3doTHdkUXljZVZJUkdUYkVBZVYwcXVnWEdZaENLWUtDckRvWFIzSkJoVE50?oc=5\" target=\"_blank\">Reps. Thomas, Rader Introduce Bipartisan Bill to Shield Ohio Ratepayers from Data Center-Driven Grid Costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ohio House of Representatives (.gov)</font>",
-    "fetched_at": "2026-02-27T15:44:08.020594",
-    "llm": {
-      "relevant": false,
-      "strength": 0,
-      "confidence": 90,
-      "reason": "The article title describes legislation to shield ratepayers from data center-driven grid costs; it does not mention permits, permitting processes, or delays. There is no explicit text indicating power permit delays or related permitting risk.",
-      "signals": [
-        "Title: 'Reps. Thomas, Rader Introduce Bipartisan Bill to Shield Ohio Ratepayers from Data Center-Driven Grid Costs'",
-        "Source: Ohio House of Representatives (.gov)",
-        "Content focus: grid costs and ratepayer protection — no mention of permits or permitting delays"
-      ]
-    },
-    "llm_model": "gpt-5-mini"
-  },
   "d8b1e6ad2acf4b94": {
     "group": "OVERALL",
     "item": "power_permit_delays",
@@ -713,16 +607,6 @@
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wT1dzdHNucXZUTFRZaXpnZzlyRm5TMUJ5SFl4bEVXOVcxVVBKd0lHbXpjUWNidW5QdTljODlSbWdUVFBlVnlRczNnQnNCZDVYa2JhNEo5Z1JGSThHWmNISFAxOERZWnl6bm5TWEU4T1RsWHNjbjBj?oc=5",
     "published": "Wed, 18 Feb 2026 00:30:29 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE8wT1dzdHNucXZUTFRZaXpnZzlyRm5TMUJ5SFl4bEVXOVcxVVBKd0lHbXpjUWNidW5QdTljODlSbWdUVFBlVnlRczNnQnNCZDVYa2JhNEo5Z1JGSThHWmNISFAxOERZWnl6bm5TWEU4T1RsWHNjbjBj?oc=5\" target=\"_blank\">The Business of Building Data Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Streets.mn</font>",
-    "fetched_at": "2026-02-27T15:44:08.020594",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "82b613605536de00": {
-    "group": "OVERALL",
-    "item": "power_permit_delays",
-    "title": "NJ orders utilities to explain solar delays amid data center boom - Bergen Record",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS2wxX1EwdnB4blhiWHEyZUl0QjBsODVRRm5nME56eDF6bWt5UU5aNnA1aURDNTR6amVacFpYcXhXYXFVNTRPdHZ2a2JyN2EtMGZaTXhKQmN1WDdRTlJkZ1FJNzk5RGJoWUNnc1pDZ05wUjlUT2RUM3VYME9GSW1kZUxzSFhKQzM4STFRaHNXVkhVSEdJY3YyZTVhZDB2TVhaM1FBQXRqQlpTbGxGWnB2MTRFQjZjdWdFNGxmOUVNZjk?oc=5",
-    "published": "Tue, 17 Feb 2026 09:24:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS2wxX1EwdnB4blhiWHEyZUl0QjBsODVRRm5nME56eDF6bWt5UU5aNnA1aURDNTR6amVacFpYcXhXYXFVNTRPdHZ2a2JyN2EtMGZaTXhKQmN1WDdRTlJkZ1FJNzk5RGJoWUNnc1pDZ05wUjlUT2RUM3VYME9GSW1kZUxzSFhKQzM4STFRaHNXVkhVSEdJY3YyZTVhZDB2TVhaM1FBQXRqQlpTbGxGWnB2MTRFQjZjdWdFNGxmOUVNZjk?oc=5\" target=\"_blank\">NJ orders utilities to explain solar delays amid data center boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bergen Record</font>",
     "fetched_at": "2026-02-27T15:44:08.020594",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
@@ -745,23 +629,6 @@
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFAxVVd1Tkx4NTNZQXNyM2tiM3Zic01xamx1U2wtLXBqSFVNUkVCSnBOQWZYUWZha0ZCSW1zYTFCMUFvTFJYaDREbmk0dE0tMlBidDdDWjZ4Z3hKWUdYc2lUYV9CZHliWWpETlQ4SzM0QQ?oc=5\" target=\"_blank\">US AI Boom Faces Electric Shock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EnergyNow.com</font>",
     "fetched_at": "2026-02-27T15:44:08.020594",
     "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "fcdb50ca6a106d08": {
-    "group": "OVERALL",
-    "item": "power_permit_delays",
-    "title": "Scaling battery storage to make full use of the power grid - The World Economic Forum",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR1gxMU1DWGxGRTEzdURYMm5MMjZiVWkzS1BXWDRQSUlsbDF4Z2RfQVRsZF9fdWMwNURXY3lhamwtYjdzM3dGRDVvUEZwYkJ2UWNyU2JvTUo0TTRVeUpzRXlGQlVPT0RzWENaZUk5aWhySDlhS2duTlNiZ2JQdlVuUQ?oc=5",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOR1gxMU1DWGxGRTEzdURYMm5MMjZiVWkzS1BXWDRQSUlsbDF4Z2RfQVRsZF9fdWMwNURXY3lhamwtYjdzM3dGRDVvUEZwYkJ2UWNyU2JvTUo0TTRVeUpzRXlGQlVPT0RzWENaZUk5aWhySDlhS2duTlNiZ2JQdlVuUQ?oc=5\" target=\"_blank\">Scaling battery storage to make full use of the power grid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The World Economic Forum</font>",
-    "fetched_at": "2026-02-27T15:44:08.020594",
-    "llm": {
-      "relevant": false,
-      "strength": 0,
-      "confidence": 85,
-      "reason": "The provided title/summary references scaling battery storage but contains no explicit mention of permitting delays or impacts to AI/hyperscaler power availability. Per rule to be conservative and not infer beyond the text, this is judged not a relevant risk signal.",
-      "signals": []
-    },
-    "llm_model": "gpt-5-mini"
   },
   "bfe38791d4aaaadc": {
     "group": "OVERALL",
@@ -1033,16 +900,6 @@
     "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQUWhEUzZkS2hya0Rta3YwaXFNdjlxR2g0S1B3TVJxSkotN3pSbEtvT091N2tFMzk3MHVLQVB0XzhIR1d4dS1zWlB6OHNFTFZ5aURDQ0xiRnJUR2lBUlF6WUUzQ3lEM0dnUTM2SGJMM2lNeGpPWW9jdmpBelRZSDR1V2N6MHBnek03bXlvOTQwck80UHEwNjRkZ0E1blRmUllkTjFxNXdORTZxNmJ5RUpReXVxNDZ5M1JDNVRwMlpvMU5YWUl5aDVDeV9XSDN5QkZTOGFiZjNsWXlKdnFDSzBTdzFLQ1JPWWdLUUNSWUVyb2RsZlVGbm5hc3VOTUI0bVdlQjNfVVhYVERaR0c5eVNFN0kyNnBjM2phcEltcW5mdDY4Z2w1Vm0xQ3VJMzAzSUg2aTVkRUhvaW92dlFxMHg5UHpPbHRJaTQtay12aEVpd1RTSWZlM2NJdWtSbmxlTkZQZDZ2ZTE2Uml1U2F3cVZuQ3U1RXI2alhxUEFfQjdKSE9QOU5wZ1dhc3I4dG1OU1BDcXd1OUV2UWJSNTQ?oc=5",
     "published": "Sun, 22 Feb 2026 18:30:57 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwNBVV95cUxQUWhEUzZkS2hya0Rta3YwaXFNdjlxR2g0S1B3TVJxSkotN3pSbEtvT091N2tFMzk3MHVLQVB0XzhIR1d4dS1zWlB6OHNFTFZ5aURDQ0xiRnJUR2lBUlF6WUUzQ3lEM0dnUTM2SGJMM2lNeGpPWW9jdmpBelRZSDR1V2N6MHBnek03bXlvOTQwck80UHEwNjRkZ0E1blRmUllkTjFxNXdORTZxNmJ5RUpReXVxNDZ5M1JDNVRwMlpvMU5YWUl5aDVDeV9XSDN5QkZTOGFiZjNsWXlKdnFDSzBTdzFLQ1JPWWdLUUNSWUVyb2RsZlVGbm5hc3VOTUI0bVdlQjNfVVhYVERaR0c5eVNFN0kyNnBjM2phcEltcW5mdDY4Z2w1Vm0xQ3VJMzAzSUg2aTVkRUhvaW92dlFxMHg5UHpPbHRJaTQtay12aEVpd1RTSWZlM2NJdWtSbmxlTkZQZDZ2ZTE2Uml1U2F3cVZuQ3U1RXI2alhxUEFfQjdKSE9QOU5wZ1dhc3I4dG1OU1BDcXd1OUV2UWJSNTQ?oc=5\" target=\"_blank\">AI data centre surge would put UK’s climate change targets at risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times</font>",
-    "fetched_at": "2026-02-27T15:44:08.020594",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "c9e7d4365a834623": {
-    "group": "OVERALL",
-    "item": "power_permit_delays",
-    "title": "Exowatt adopts DG Matrix solid-state transformers - Transformers Magazine",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeXl4TkhkTWc5YXF0T0ZNN3BQM3I4ZVdIMmFwSHJtcG5GcUdPVlJWY0owOGFsbkRqeG5mMllyeC1iNno1WFA4ai12R0plUWRQYWRLdUlVekd2MXd5Y2NJeXk1UEJiSkFib1lZV1BKNVprM2pIMmFfWGNpWTZJdEJOWTNUZEx0R240c19CZ3FmTDV1VVA5dFJj?oc=5",
-    "published": "Tue, 17 Feb 2026 10:25:37 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPeXl4TkhkTWc5YXF0T0ZNN3BQM3I4ZVdIMmFwSHJtcG5GcUdPVlJWY0owOGFsbkRqeG5mMllyeC1iNno1WFA4ai12R0plUWRQYWRLdUlVekd2MXd5Y2NJeXk1UEJiSkFib1lZV1BKNVprM2pIMmFfWGNpWTZJdEJOWTNUZEx0R240c19CZ3FmTDV1VVA5dFJj?oc=5\" target=\"_blank\">Exowatt adopts DG Matrix solid-state transformers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Transformers Magazine</font>",
     "fetched_at": "2026-02-27T15:44:08.020594",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
@@ -1463,16 +1320,6 @@
     "fetched_at": "2026-02-27T15:44:08.020594",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
-  "406274c1c6a729a1": {
-    "group": "OVERALL",
-    "item": "ai_price_cuts",
-    "title": "Cloud startup Render raises funding at $1.5 billion valuation as AI-built apps boom - CNBC",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ0tNTlJuWXJJbEJ0V1FWZy1vMFlaeEhNckFpNFZ4NXdTNTNWOGY1dzNXYmZrMEt5SXlFRUFidVR0NnhaTlJBQXJnTGNLeTZpQ29hYk5ZbGRpRXcwVnpTdEYtcWdRQTYyem84REpQSTh6SzVPajdIQTJoMGVoTkhnWHU4c25sbjg4MVEyVmw4YzZmVlI3WGfSAZsBQVVfeXFMTmVpdUxjMXRDdmlSQ3UxcWVoSEhCdWgzaU1BaERYUWxWejJEWWdadlJROXU5SXltRnVqeWhWOE1ZZU9TN0dBV2lFUjVpQVpmTThZbno2X1BMMnh1QUtacGlpdkVrbGhFVWJKcFB1cmJtUl9vSDBXV0RkcTVncERzZlVWd2ZqRWdUSmsxbGVoa2xRci05TUJEWnJSTlU?oc=5",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ0tNTlJuWXJJbEJ0V1FWZy1vMFlaeEhNckFpNFZ4NXdTNTNWOGY1dzNXYmZrMEt5SXlFRUFidVR0NnhaTlJBQXJnTGNLeTZpQ29hYk5ZbGRpRXcwVnpTdEYtcWdRQTYyem84REpQSTh6SzVPajdIQTJoMGVoTkhnWHU4c25sbjg4MVEyVmw4YzZmVlI3WGfSAZsBQVVfeXFMTmVpdUxjMXRDdmlSQ3UxcWVoSEhCdWgzaU1BaERYUWxWejJEWWdadlJROXU5SXltRnVqeWhWOE1ZZU9TN0dBV2lFUjVpQVpmTThZbno2X1BMMnh1QUtacGlpdkVrbGhFVWJKcFB1cmJtUl9vSDBXV0RkcTVncERzZlVWd2ZqRWdUSmsxbGVoa2xRci05TUJEWnJSTlU?oc=5\" target=\"_blank\">Cloud startup Render raises funding at $1.5 billion valuation as AI-built apps boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-    "fetched_at": "2026-02-27T15:44:08.020594",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "03f6a46111ef6bca": {
     "group": "OVERALL",
     "item": "ai_price_cuts",
@@ -1573,27 +1420,6 @@
     "fetched_at": "2026-02-27T15:44:08.020594",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
-  "af4ca636a8bdab82": {
-    "group": "OVERALL",
-    "item": "ai_price_cuts",
-    "title": "New $DEPIN token targets 50–80% cheaper AI by renting idle GPUs - Stock Titan",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY05YenkyX0I3RlpnbHd0NnVURTRHZlNONnU1U0VkVmw0LW40OUw5OWFqRmxsaUdGa3NIMHpteXJWUk94LWVVVlQ4SXZMM2V2S2ZSaXRCQWdQSklsemJwT09sRElmRHh6Y3hGQ2VXUkxMZFJCNFk2VklPc0JQQlIzNWt0aEYwZGRzc1MtYWh3V1NfVHN6OVIwSkhWbnl0c0JmUF9TWDBwMUlrQjVCZ2lZSTd6ZS1NcWpPdS1SdHZoUQ?oc=5",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQY05YenkyX0I3RlpnbHd0NnVURTRHZlNONnU1U0VkVmw0LW40OUw5OWFqRmxsaUdGa3NIMHpteXJWUk94LWVVVlQ4SXZMM2V2S2ZSaXRCQWdQSklsemJwT09sRElmRHh6Y3hGQ2VXUkxMZFJCNFk2VklPc0JQQlIzNWt0aEYwZGRzc1MtYWh3V1NfVHN6OVIwSkhWbnl0c0JmUF9TWDBwMUlrQjVCZ2lZSTd6ZS1NcWpPdS1SdHZoUQ?oc=5\" target=\"_blank\">New $DEPIN token targets 50–80% cheaper AI by renting idle GPUs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
-    "fetched_at": "2026-02-27T15:44:08.020594",
-    "llm": {
-      "relevant": true,
-      "strength": 1,
-      "confidence": 60,
-      "reason": "Headline explicitly describes a new DEPIN token that aims to provide AI compute 50–80% cheaper by renting idle GPUs. This directly relates to alternative GPU supply that could compete with hyperscaler infrastructure, but the item is a single claim/announcement without evidence of impact or adoption, so the signal is weak.",
-      "signals": [
-        "New $DEPIN token announced",
-        "Claims to target 50–80% cheaper AI",
-        "Method: renting idle GPUs"
-      ]
-    },
-    "llm_model": "gpt-5-mini"
-  },
   "abc2dc77e2263e3a": {
     "group": "OVERALL",
     "item": "ai_price_cuts",
@@ -1654,16 +1480,6 @@
     "fetched_at": "2026-02-27T15:44:08.020594",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
-  "ba38c8e1c5fd8109": {
-    "group": "OVERALL",
-    "item": "ai_price_cuts",
-    "title": "Is Amazon.com, Inc. (AMZN) One of the 14 Best Cloud Computing Stocks to Buy Right Now? - Finviz",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRVowcE5SRmozbEQyQkdVNktVNFBHOFFROUVfdjN3c3IyZ1p6S21DX3VuOWdYZEZuc3k2RldBSVdSVTdOWFcxUFBWSDRUWnROQ3FoSWFldGFCUzRZZEo4Nm1pejFIQ2FBSXg4ajk1QTNublF2LVRfVlpDM0ZITXpTQmlkS2RQRjhYZ3lvZldldzZLQ1c1ODVHMkFKS2ZtQjRQVUxFWDAxcVRpaDRhR0NuUQ?oc=5",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPRVowcE5SRmozbEQyQkdVNktVNFBHOFFROUVfdjN3c3IyZ1p6S21DX3VuOWdYZEZuc3k2RldBSVdSVTdOWFcxUFBWSDRUWnROQ3FoSWFldGFCUzRZZEo4Nm1pejFIQ2FBSXg4ajk1QTNublF2LVRfVlpDM0ZITXpTQmlkS2RQRjhYZ3lvZldldzZLQ1c1ODVHMkFKS2ZtQjRQVUxFWDAxcVRpaDRhR0NuUQ?oc=5\" target=\"_blank\">Is Amazon.com, Inc. (AMZN) One of the 14 Best Cloud Computing Stocks to Buy Right Now?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finviz</font>",
-    "fetched_at": "2026-02-27T15:44:08.020594",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "ddc23a9282d5cca8": {
     "group": "OVERALL",
     "item": "ai_price_cuts",
@@ -1721,16 +1537,6 @@
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVldIMmxBMHg5R3lnY1ZkbW4tb3BLLXdsa01GV0pGcXVieXVJTXBYRWZhSGJoRE1JQVJpenItSmN6aGRvTTAwMk82WVJ2LTFFa0lveFEzb3RpSl9rR1RGOXpfTFI5eHZhbHVRZC11V0lEVjdjVTMyUVJKQ3FkbHcwbGhpeEtoOVBhQmZmWDNGcVd3R3d4RkxxWmg1dTdQTkcwZy0zeWUxUWs?oc=5",
     "published": "Wed, 18 Feb 2026 11:44:03 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVldIMmxBMHg5R3lnY1ZkbW4tb3BLLXdsa01GV0pGcXVieXVJTXBYRWZhSGJoRE1JQVJpenItSmN6aGRvTTAwMk82WVJ2LTFFa0lveFEzb3RpSl9rR1RGOXpfTFI5eHZhbHVRZC11V0lEVjdjVTMyUVJKQ3FkbHcwbGhpeEtoOVBhQmZmWDNGcVd3R3d4RkxxWmg1dTdQTkcwZy0zeWUxUWs?oc=5\" target=\"_blank\">E2E Share Price Up by Over 17% Following Nvidia AI Partnership Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
-    "fetched_at": "2026-02-27T15:44:08.020594",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "e3ffef3fa9dd1f87": {
-    "group": "OVERALL",
-    "item": "ai_price_cuts",
-    "title": "NVIDIA (NVDA) Trading 41% Below Analyst Targets After Recent Drop - 24/7 Wall St.",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS0pZYkZMS04tODFWaktEX1Q0YVhod2lBdDVNTmo2X1NSZllldG5FZEd4ZUVqcDhiUmxfb3VuRmxQQm1faEVHVlJ3RWJiUi1xeExqMVpNNHFON1plMDhxbklWS19jZ09GdGlqZ0k3bW5faEQ0OVgwNmdxV1dNcGdqdlI3WjI3NThwaVZSb1pfU2NRd0l2bXJRWlE2ZmJCejhlRDA3dk8tMFZjQQ?oc=5",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS0pZYkZMS04tODFWaktEX1Q0YVhod2lBdDVNTmo2X1NSZllldG5FZEd4ZUVqcDhiUmxfb3VuRmxQQm1faEVHVlJ3RWJiUi1xeExqMVpNNHFON1plMDhxbklWS19jZ09GdGlqZ0k3bW5faEQ0OVgwNmdxV1dNcGdqdlI3WjI3NThwaVZSb1pfU2NRd0l2bXJRWlE2ZmJCejhlRDA3dk8tMFZjQQ?oc=5\" target=\"_blank\">NVIDIA (NVDA) Trading 41% Below Analyst Targets After Recent Drop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
     "fetched_at": "2026-02-27T15:44:08.020594",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
@@ -2086,16 +1892,6 @@
     "fetched_at": "2026-02-27T15:44:08.020594",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
-  "ff857b7afbdfacb5": {
-    "group": "OVERALL",
-    "item": "capex_up_revenue_down",
-    "title": "The ‘English Warren Buffett’ Just Dumped Half His Alphabet Stake - 24/7 Wall St.",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOXVHZEhCSzBpajlzaDZHUkVpbkNNem5xMGRSa2lQbjZDNkFqaWdtaWNBYUc3OW1qQlZSSVRyTmxWWVhrR3oxdUhPc0JEdVhobm8ycnlaTG0wTDNYb3VUTXRBTW9HLUdQU3lxaE9PenpEVVdIbFk3Yi05TzY1Nk94ZXFpR25tYUZaZ3pQbDIycHM3YkZKUmxXZWpMdWZQamRmTHV5X0VKQ1Z0dw?oc=5",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOXVHZEhCSzBpajlzaDZHUkVpbkNNem5xMGRSa2lQbjZDNkFqaWdtaWNBYUc3OW1qQlZSSVRyTmxWWVhrR3oxdUhPc0JEdVhobm8ycnlaTG0wTDNYb3VUTXRBTW9HLUdQU3lxaE9PenpEVVdIbFk3Yi05TzY1Nk94ZXFpR25tYUZaZ3pQbDIycHM3YkZKUmxXZWpMdWZQamRmTHV5X0VKQ1Z0dw?oc=5\" target=\"_blank\">The ‘English Warren Buffett’ Just Dumped Half His Alphabet Stake</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
-    "fetched_at": "2026-02-27T15:44:08.020594",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "41bb87000fd64a4e": {
     "group": "OVERALL",
     "item": "capex_up_revenue_down",
@@ -2140,16 +1936,6 @@
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2lmOV9ENzllMWZGVUFNZU05ZTBzMlBuZktEZllHRzQ1U0o4TlJxaWR6V3VqZ1pjUFZRVWdWaTVXam1oNDRSaDRqYkRtdWxxcEhPb2NBYnp3ZXZPWFpKWFVVWU8xZzM3UTdxLXNKV2FQQl80cVgzSWV6TVZoejdtalZsazhuamZEUU1VX1VDSDlPbzhhOFdHYXlhVW1sbG9scEE3dA?oc=5",
     "published": "Wed, 18 Feb 2026 08:00:00 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2lmOV9ENzllMWZGVUFNZU05ZTBzMlBuZktEZllHRzQ1U0o4TlJxaWR6V3VqZ1pjUFZRVWdWaTVXam1oNDRSaDRqYkRtdWxxcEhPb2NBYnp3ZXZPWFpKWFVVWU8xZzM3UTdxLXNKV2FQQl80cVgzSWV6TVZoejdtalZsazhuamZEUU1VX1VDSDlPbzhhOFdHYXlhVW1sbG9scEE3dA?oc=5\" target=\"_blank\">Sandisk: The Bust Cycle Could Be Coming Sooner Than Expected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-    "fetched_at": "2026-02-27T15:44:08.020594",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "b182235e258a1734": {
-    "group": "OVERALL",
-    "item": "capex_up_revenue_down",
-    "title": "Tech Giants Re-Priced: AI Spending Overhaul Sparks Investor Scrutiny - Whalesbook",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcDBLOHhtR2FNUkVIVERWVG1ocXJzY1o2amQ4LU1JeFZfQ2pDRE1WYV8zRmdXd2ZiVjVhWk1nUUVXVm4zTjVhc0VZSkp4QkVkb0Y0dGtJNWQwTmM1ZUlVWmR6elZfMUE0UjlsVHhoV28tMUR2THNZbEo0R1R0TTQzcjNMUnJhaC1jbHBhUXRjRWRiVmVVWTRzRmNjdG5iS3pUUDJJZGhrNEI4Tm5fN0ZBUTZ1OWFXUmZCRHBRbTNSY0Z0RWZkV2FxRjBzYkY0Zkw2akdN?oc=5",
-    "published": "Tue, 17 Feb 2026 04:49:11 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcDBLOHhtR2FNUkVIVERWVG1ocXJzY1o2amQ4LU1JeFZfQ2pDRE1WYV8zRmdXd2ZiVjVhWk1nUUVXVm4zTjVhc0VZSkp4QkVkb0Y0dGtJNWQwTmM1ZUlVWmR6elZfMUE0UjlsVHhoV28tMUR2THNZbEo0R1R0TTQzcjNMUnJhaC1jbHBhUXRjRWRiVmVVWTRzRmNjdG5iS3pUUDJJZGhrNEI4Tm5fN0ZBUTZ1OWFXUmZCRHBRbTNSY0Z0RWZkV2FxRjBzYkY0Zkw2akdN?oc=5\" target=\"_blank\">Tech Giants Re-Priced: AI Spending Overhaul Sparks Investor Scrutiny</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Whalesbook</font>",
     "fetched_at": "2026-02-27T15:44:08.020594",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
@@ -2224,16 +2010,6 @@
     "fetched_at": "2026-02-27T15:44:08.020594",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
-  "adbb87e5bbf08bba": {
-    "group": "OVERALL",
-    "item": "mgmt_tone_softening",
-    "title": "Nvidia: Closing Out FY26 With A Robust Growth Opportunity (Earnings Preview) (NASDAQ:NVDA) - Seeking Alpha",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcTJtYlc4cHh4c2h6OUpscWR4VWRKQlJOTzRLeW5NVjhWcnNrNWx0RWlDUlVrOV91Mkx4bmJzZ2M2NmRObk16aFpCaVM1cEFlS2tBSE9jeks5dDJ5RW9hdzU4NWs4M3BReG5kbmxyd2xFeU0xQzVibXdtd2w3aVJzdWFwWW1ZOGVLSUVoQmJGVFZKUnBGSVktTU1zd0ktSklVMzRSa2RqQWZSb29GdHA5Q2FqUTA?oc=5",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNcTJtYlc4cHh4c2h6OUpscWR4VWRKQlJOTzRLeW5NVjhWcnNrNWx0RWlDUlVrOV91Mkx4bmJzZ2M2NmRObk16aFpCaVM1cEFlS2tBSE9jeks5dDJ5RW9hdzU4NWs4M3BReG5kbmxyd2xFeU0xQzVibXdtd2w3aVJzdWFwWW1ZOGVLSUVoQmJGVFZKUnBGSVktTU1zd0ktSklVMzRSa2RqQWZSb29GdHA5Q2FqUTA?oc=5\" target=\"_blank\">Nvidia: Closing Out FY26 With A Robust Growth Opportunity (Earnings Preview) (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-    "fetched_at": "2026-02-27T15:44:08.020594",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "0de2dc3b36e69a6a": {
     "group": "OVERALL",
     "item": "mgmt_tone_softening",
@@ -2251,46 +2027,6 @@
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeER6S2F1dERaOFp4ZEdURVhlMFV1UlNWbGtPR204RENQZkxoN05zWnc4V2hBUHI3Z1VmdlZyQ0FhaklTVUszZGVDNk4yZ3NLdEpEa1pkQmtFNG9SZ29iYkJFcFpvWGVKYTZkUWhTN095aFc0XzdLNldEcS1ieTFYMnhqQkVVLUQzS1RVeUZNUnBsdlduZ3pUVG13?oc=5",
     "published": "Wed, 18 Feb 2026 09:50:00 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOeER6S2F1dERaOFp4ZEdURVhlMFV1UlNWbGtPR204RENQZkxoN05zWnc4V2hBUHI3Z1VmdlZyQ0FhaklTVUszZGVDNk4yZ3NLdEpEa1pkQmtFNG9SZ29iYkJFcFpvWGVKYTZkUWhTN095aFc0XzdLNldEcS1ieTFYMnhqQkVVLUQzS1RVeUZNUnBsdlduZ3pUVG13?oc=5\" target=\"_blank\">CIOs are telling companies that AI capex spending has gone too far</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-    "fetched_at": "2026-02-27T15:44:08.020594",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "7391cd63692ef925": {
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "BofA Survey Shows Investor Worry Over Capex Race at Record High - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd2FBanAtakxqLVBQTmpINHBYVjlPOWc0bkVZZ0QxbkQ0WE5OVGlnVjdpeExRSHJmVXVabmNjRTFJNnhoZ3hiREczdS1paGFJVHhHTHJHeDdWQVFicUNjMHNvblhTU2h6RXdzbTdCMGlWVlQ5ZmltVkhZQzhIbzlyLWVQbTY?oc=5",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOd2FBanAtakxqLVBQTmpINHBYVjlPOWc0bkVZZ0QxbkQ0WE5OVGlnVjdpeExRSHJmVXVabmNjRTFJNnhoZ3hiREczdS1paGFJVHhHTHJHeDdWQVFicUNjMHNvblhTU2h6RXdzbTdCMGlWVlQ5ZmltVkhZQzhIbzlyLWVQbTY?oc=5\" target=\"_blank\">BofA Survey Shows Investor Worry Over Capex Race at Record High</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-    "fetched_at": "2026-02-27T15:44:08.020594",
-    "llm": {
-      "relevant": true,
-      "strength": 3,
-      "confidence": 80,
-      "reason": "The headline explicitly reports a Bank of America survey finding that investor worry about a capex race is at a record high—this is a direct signal about investor sentiment/market positioning. No further causal inferences made beyond the survey result.",
-      "signals": [
-        "Investor worry about a capex race at record high (BofA survey)",
-        "Reported by Yahoo Finance"
-      ]
-    },
-    "llm_model": "gpt-5-mini"
-  },
-  "68b6d4a390fd29ed": {
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "Big Tech approaches ‘red flag’ moment: AI capex is so great hyperscalers could go cash flow negative, Evercore warns - Fortune",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT3lsOVFBdlZiejBTTjBKZS1aZVJMZkFETU11eHVCY2o3dlBPSzlYbGQ0bkRPMDR6dVd0NXR2UXpqc0hpdV9XbEdtZFlka2FNUHBlTE1Fb0xhTjFSMWE0ODd6WWc0ZmJLOGZSMjZlX0s4WUFhWm1KenVTUVcwZXdWNmlIRjFJRkxJamdNblROd01BS1dUakJfZUEtSQ?oc=5",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQT3lsOVFBdlZiejBTTjBKZS1aZVJMZkFETU11eHVCY2o3dlBPSzlYbGQ0bkRPMDR6dVd0NXR2UXpqc0hpdV9XbEdtZFlka2FNUHBlTE1Fb0xhTjFSMWE0ODd6WWc0ZmJLOGZSMjZlX0s4WUFhWm1KenVTUVcwZXdWNmlIRjFJRkxJamdNblROd01BS1dUakJfZUEtSQ?oc=5\" target=\"_blank\">Big Tech approaches ‘red flag’ moment: AI capex is so great hyperscalers could go cash flow negative, Evercore warns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
-    "fetched_at": "2026-02-27T15:44:08.020594",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "25dac27e32ab017a": {
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "AI Spending by U.S. Companies Has Fund Managers Looking Overseas for Stocks - Barron's",
-    "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxOWVFYa2dzTFh0dHpHSmdCcVBrMUo5Tm5GOEkycnh6ejdNcGJKd1dMMDRJdGd1b2tLSkFSb185Ni1rczhrWGJxSFRGTzZvWW1rUXJlXzRTRWpqVzVkN2pZaVBVSFo0d0VXZmhRVnBvZ0VpVXg2LU5taEhVSk5RbFo2WldTUnlMMi13WExjZ1FpS0FKZGZBcElQeFBZeDkxdUk0RlZqYk9XRzhVUWFOd0tMY2Q5a0pXcnhYRENsejhIREJIZG5XUWdJYXFycGF1T3VvdkZGZ3ZHRTdSS0Y4cjMtS015YkF2YUtrQTV0RElSWEZxb0xHQ3JHWHgwUWtVODlzcTBWNnFjMm9vRERpRk1IR0h1WnRFQ0hVMXRZTXRKcnpEb0tOclNZVC1IcW5GcmpHN1BFZlB6M0dkSFhzYVhuX3EwUFRYYzY0Q3RNd0o1OGxqeVpNTEJFTVV5Y3B5N2Vmc0VrdG80OEszUmhhOG0zQXNpOGVNT3huYmQ1djdwSXY3dGdCWE5lNVpjbDY5VlFOUmc?oc=5",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgNBVV95cUxOWVFYa2dzTFh0dHpHSmdCcVBrMUo5Tm5GOEkycnh6ejdNcGJKd1dMMDRJdGd1b2tLSkFSb185Ni1rczhrWGJxSFRGTzZvWW1rUXJlXzRTRWpqVzVkN2pZaVBVSFo0d0VXZmhRVnBvZ0VpVXg2LU5taEhVSk5RbFo2WldTUnlMMi13WExjZ1FpS0FKZGZBcElQeFBZeDkxdUk0RlZqYk9XRzhVUWFOd0tMY2Q5a0pXcnhYRENsejhIREJIZG5XUWdJYXFycGF1T3VvdkZGZ3ZHRTdSS0Y4cjMtS015YkF2YUtrQTV0RElSWEZxb0xHQ3JHWHgwUWtVODlzcTBWNnFjMm9vRERpRk1IR0h1WnRFQ0hVMXRZTXRKcnpEb0tOclNZVC1IcW5GcmpHN1BFZlB6M0dkSFhzYVhuX3EwUFRYYzY0Q3RNd0o1OGxqeVpNTEJFTVV5Y3B5N2Vmc0VrdG80OEszUmhhOG0zQXNpOGVNT3huYmQ1djdwSXY3dGdCWE5lNVpjbDY5VlFOUmc?oc=5\" target=\"_blank\">AI Spending by U.S. Companies Has Fund Managers Looking Overseas for Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
     "fetched_at": "2026-02-27T15:44:08.020594",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
@@ -2336,16 +2072,6 @@
     },
     "llm_model": "gpt-5-mini"
   },
-  "957ee1f403ddf78f": {
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "Investing Experts Sound Alarm on Big Tech's Massive AI Spending - Investopedia",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPak91Y0lQY3ZhV3lZckpzaE81TWtMYjl2V2pPRXZIMFlVS1NieUpCeks3elZING4zNTZ4Q05fVEw0MnZHVGRQUUd5a0JoemxhOVZ5VzBNcWVQZkxNZlNsTjlfZjIzMDV6eHplS0hZdHdfTmEwdnBYakQ3NktERVpTc29lb0xLZXdMZ1NQZ0dXRGtNdTk5VVc5OGFzUTNRdUtP?oc=5",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPak91Y0lQY3ZhV3lZckpzaE81TWtMYjl2V2pPRXZIMFlVS1NieUpCeks3elZING4zNTZ4Q05fVEw0MnZHVGRQUUd5a0JoemxhOVZ5VzBNcWVQZkxNZlNsTjlfZjIzMDV6eHplS0hZdHdfTmEwdnBYakQ3NktERVpTc29lb0xLZXdMZ1NQZ0dXRGtNdTk5VVc5OGFzUTNRdUtP?oc=5\" target=\"_blank\">Investing Experts Sound Alarm on Big Tech's Massive AI Spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
-    "fetched_at": "2026-02-27T15:44:08.020594",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "0ee416992f3d4e56": {
     "group": "OVERALL",
     "item": "market_positioning",
@@ -2353,77 +2079,6 @@
     "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQenBiYUpIeXE1cGwwd0RkQi1QRXVpeFNWWl8zcjBfc1lyZ1NUdlgzWW5zMkVxLWw0RUwtN3o4NkVRQTZleUxVMmVmZk5abHJtaTVPV1A0ZDJtQTFlNm9BYm5HQTJ0Z0x5b0l4M1doLVFNa3djRGEwaXpvVFg3OFNOVW1fSVJ1WGFvcmxmOUlHaUI5RHdzbk9XYS1vQXM4aW91RUQtcDk3X0RvbGRqMmlwcVBJcnZLTFRTR29jVHIweVBHZ2hwaGxaRUtpSXhWNGphanhuQTJ0S0dPMWJwLW9haUczYlJmQVRkcWdQaXN6dHFJWGtwajk2bmFZWkhxVFJ2Qm03N0o2M2YtbkVHeUlXYWZvQ1kwVGJMdHU1NHpkRERxVlpYdWY1RHY0LUx3YzRUV05vTkUxWmx4QU05eUVoSW5nazQ2VG9lTy1NVWo3TGZwMHoxQVNtdWdsMVRLXzc0RlhGNFBiN3NTRUoxU0VzRi1NZUp6SjhmcDBrUWZIMGVWU1ZUTHA0aFEzaVJLQ1lheGx0UTdINjE1MFU1RFN1ZE56WkIwakw4bXdvTjJMWnhQdy1wZFJFanZvSFJfX19nMk1sZnVjRldxcDZkaXp3?oc=5",
     "published": "Mon, 23 Feb 2026 12:57:00 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwNBVV95cUxQenBiYUpIeXE1cGwwd0RkQi1QRXVpeFNWWl8zcjBfc1lyZ1NUdlgzWW5zMkVxLWw0RUwtN3o4NkVRQTZleUxVMmVmZk5abHJtaTVPV1A0ZDJtQTFlNm9BYm5HQTJ0Z0x5b0l4M1doLVFNa3djRGEwaXpvVFg3OFNOVW1fSVJ1WGFvcmxmOUlHaUI5RHdzbk9XYS1vQXM4aW91RUQtcDk3X0RvbGRqMmlwcVBJcnZLTFRTR29jVHIweVBHZ2hwaGxaRUtpSXhWNGphanhuQTJ0S0dPMWJwLW9haUczYlJmQVRkcWdQaXN6dHFJWGtwajk2bmFZWkhxVFJ2Qm03N0o2M2YtbkVHeUlXYWZvQ1kwVGJMdHU1NHpkRERxVlpYdWY1RHY0LUx3YzRUV05vTkUxWmx4QU05eUVoSW5nazQ2VG9lTy1NVWo3TGZwMHoxQVNtdWdsMVRLXzc0RlhGNFBiN3NTRUoxU0VzRi1NZUp6SjhmcDBrUWZIMGVWU1ZUTHA0aFEzaVJLQ1lheGx0UTdINjE1MFU1RFN1ZE56WkIwakw4bXdvTjJMWnhQdy1wZFJFanZvSFJfX19nMk1sZnVjRldxcDZkaXp3?oc=5\" target=\"_blank\">Opinion: Big Tech’s ‘Lag 7’ is putting the S&amp;P 500 — and your index fund — at risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
-    "fetched_at": "2026-02-27T15:44:08.020594",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "dd4855e6262f3b0d": {
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "AI spending by US companies has fund managers looking overseas for stocks - MSN",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbnpuWXpXbzRhTFFDRTh0TG5SU3Z6TExUVGh3OXBsazl6X0pONml6RUlYaVJicEpMdkJvYWxWM1hIQUxVWGtuRlU3d1U4cm91bkk2c21Yc0pJY1h6YWtyWVd1ancySTVxRV9FWXBhME9hMGdnaFduZFhJSmdhUUJmS2ZXMGdoM1R3OHRybEs2RmNuS1VfZ3N4YjZQNmFRMEhMQ3V3dnE0SE9DRlVkSzJHTHl3RVo2V2FNVTJxSGQ5VTd6Q3NyOTEwV0duN18zc0hvRlBndUxnNklpNVo0OE5qOXpCRUluQQ?oc=5",
-    "published": "Tue, 17 Feb 2026 12:22:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbnpuWXpXbzRhTFFDRTh0TG5SU3Z6TExUVGh3OXBsazl6X0pONml6RUlYaVJicEpMdkJvYWxWM1hIQUxVWGtuRlU3d1U4cm91bkk2c21Yc0pJY1h6YWtyWVd1ancySTVxRV9FWXBhME9hMGdnaFduZFhJSmdhUUJmS2ZXMGdoM1R3OHRybEs2RmNuS1VfZ3N4YjZQNmFRMEhMQ3V3dnE0SE9DRlVkSzJHTHl3RVo2V2FNVTJxSGQ5VTd6Q3NyOTEwV0duN18zc0hvRlBndUxnNklpNVo0OE5qOXpCRUluQQ?oc=5\" target=\"_blank\">AI spending by US companies has fund managers looking overseas for stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-    "fetched_at": "2026-02-27T15:44:08.020594",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "59f1a03fc1733696": {
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "Is the 'AI bubble' the biggest tail risk? BofA survey: Never been this worried about overinvestment in 20 years! - 富途牛牛",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd25TOHI1WlJqMml1NVZGYmduWnV5VHZvSnJHMTAwbE1nczZialB1ZkJyMm9Tc0xudWN4d3dUa0VxbUpwOWIxaDZScXpnZGU3OVJSbWN1SG1FWm1TclAyQnN6Yk42VE93ODhjd1dFcXExZzA1eC1JMlh5RDRFSkZ1Mnh5TXNPby1CZk1NM0RSZFFsdGdQb3c?oc=5",
-    "published": "Tue, 17 Feb 2026 14:25:57 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNd25TOHI1WlJqMml1NVZGYmduWnV5VHZvSnJHMTAwbE1nczZialB1ZkJyMm9Tc0xudWN4d3dUa0VxbUpwOWIxaDZScXpnZGU3OVJSbWN1SG1FWm1TclAyQnN6Yk42VE93ODhjd1dFcXExZzA1eC1JMlh5RDRFSkZ1Mnh5TXNPby1CZk1NM0RSZFFsdGdQb3c?oc=5\" target=\"_blank\">Is the 'AI bubble' the biggest tail risk? BofA survey: Never been this worried about overinvestment in 20 years!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
-    "fetched_at": "2026-02-27T15:44:08.020594",
-    "llm": {
-      "relevant": true,
-      "strength": 2,
-      "confidence": 70,
-      "reason": "Headline reports a Bank of America survey showing record-high investor worry about overinvestment in AI, which is directly relevant to market-positioning/tail-risk for AI infrastructure and hyperscalers. Assessment is conservative because only a headline/summary link is provided and no details on scope, magnitude, or specific impacts are available.",
-      "signals": [
-        "Bank of America survey: record-high worry about overinvestment in AI",
-        "Framing of an 'AI bubble' as a major tail risk",
-        "Investor concern about overinvestment in AI markets affecting market positioning"
-      ]
-    },
-    "llm_model": "gpt-5-mini"
-  },
-  "0e6c44598d66e064": {
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "Volatility Grips Wall Street as AI Anxiety Lingers: Markets Wrap - Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGNMd19mVHpma1pEcHRyeUw3VTdQcktsaG04RGRfSFVNUHdTV3FsajNEMUlhbHQ1VXhqOXJBNTdiOG9uS0xlS0lEYlBwZko5QXVoc1h5TDZBdXV0UnlXMXBUWXdYaXY5dDV5TWpzcVpEazZVSm5tdjBjcVNnWVFCeUNxajlGT2EyamFwd2c4bm53NHhyMV91dS1JUFRjMFdRT3BTMlNudmFFa0lRSW9NbFBoVQ?oc=5",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGNMd19mVHpma1pEcHRyeUw3VTdQcktsaG04RGRfSFVNUHdTV3FsajNEMUlhbHQ1VXhqOXJBNTdiOG9uS0xlS0lEYlBwZko5QXVoc1h5TDZBdXV0UnlXMXBUWXdYaXY5dDV5TWpzcVpEazZVSm5tdjBjcVNnWVFCeUNxajlGT2EyamFwd2c4bm53NHhyMV91dS1JUFRjMFdRT3BTMlNudmFFa0lRSW9NbFBoVQ?oc=5\" target=\"_blank\">Volatility Grips Wall Street as AI Anxiety Lingers: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-    "fetched_at": "2026-02-27T15:44:08.020594",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "fe7d88aa60ed5ba3": {
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "BofA Survey Reveals Investor Concerns About Unprecedented Capex Competition - Bitget",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13azdTNGszSTVYcWRZcGlRbmxZMmZ4UVFpd3EzQzRaczhwUmNfR3hlUk9SUFNMVERRNzRLYkNLZXNJMXc3ZWk5Q1g0Q2pUd3NSOFM0bXRobURlQ3NRalHSAWNBVV95cUxOWFNZZ1BzTjFYWUVwS3N0d2lFSWJtZW5DcXZFMHRINDBrYjJteThuR3N4M2Q1a2F0eGNUcVhfbWlNOEhnUzAtVk9oY2ktWWpsYWRoTXdfaWYxbzQyMEs0RUFsMTg?oc=5",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE13azdTNGszSTVYcWRZcGlRbmxZMmZ4UVFpd3EzQzRaczhwUmNfR3hlUk9SUFNMVERRNzRLYkNLZXNJMXc3ZWk5Q1g0Q2pUd3NSOFM0bXRobURlQ3NRalHSAWNBVV95cUxOWFNZZ1BzTjFYWUVwS3N0d2lFSWJtZW5DcXZFMHRINDBrYjJteThuR3N4M2Q1a2F0eGNUcVhfbWlNOEhnUzAtVk9oY2ktWWpsYWRoTXdfaWYxbzQyMEs0RUFsMTg?oc=5\" target=\"_blank\">BofA Survey Reveals Investor Concerns About Unprecedented Capex Competition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
-    "fetched_at": "2026-02-27T15:44:08.020594",
-    "llm": {
-      "relevant": true,
-      "strength": 2,
-      "confidence": 70,
-      "reason": "The headline explicitly states investors are concerned about 'unprecedented capex competition', which directly signals competitive/market-positioning pressure. However, content is limited to a brief headline with no details on affected firms, sectors, or scale, so the signal strength is moderate and interpretation is conservative.",
-      "signals": [
-        "Investor concerns about 'unprecedented capex competition'",
-        "Headline indicates increased competitive pressure related to capital expenditures"
-      ]
-    },
-    "llm_model": "gpt-5-mini"
-  },
-  "9efc0ad1afb007e5": {
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "AI Spending Fears Could Be a Mistake as Tech Selloff Masks Opportunity - Barron's",
-    "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxON0labFlzNmd5UTNaclJDOGxiZkVGeUVPTHlKMXlkMWk1WGRHUDVaVnhFWVl5TlkydTBzQUpuaWpiRm5rR1M4REQzSTNwOUlZWklWNXN3a0ZCdFUxSkVKcS05Q212SE9peUozamVuampMaWxVN1Z2b1RINFJXN2VtN0RlN0RoVzA2WXFfY3FnUEhsUy1PVTVBRWdxU0luX05ZRUlRNnJsZUxMSEUzMVYxZTVwcnZCUVNKMXVyUjNWcW1XdFd6NVlRWW9ydUotYjRoOE5OdWJJUlZsZUZhT2I2ZHVKMl96aU4zVzY4ZkdVN1hMQ1VmREJrRlZEdl9GOU1mZ1NkSElNekFLTlp0T1lTNUNSd3VCUEF5a2NncHNaWnU3UVdlZE9Bc01tTGdQcWl2cGxVYmxEckJ6MElJbWxtMVRvenpfQkFlb0ZZVDFxaE9SR0hIT3dQTzUtM0ZTMXI3a2kzaks5ek5PdmtzaEtabV9RcS1tMlpQWGRHQVA3cnBCQQ?oc=5",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggNBVV95cUxON0labFlzNmd5UTNaclJDOGxiZkVGeUVPTHlKMXlkMWk1WGRHUDVaVnhFWVl5TlkydTBzQUpuaWpiRm5rR1M4REQzSTNwOUlZWklWNXN3a0ZCdFUxSkVKcS05Q212SE9peUozamVuampMaWxVN1Z2b1RINFJXN2VtN0RlN0RoVzA2WXFfY3FnUEhsUy1PVTVBRWdxU0luX05ZRUlRNnJsZUxMSEUzMVYxZTVwcnZCUVNKMXVyUjNWcW1XdFd6NVlRWW9ydUotYjRoOE5OdWJJUlZsZUZhT2I2ZHVKMl96aU4zVzY4ZkdVN1hMQ1VmREJrRlZEdl9GOU1mZ1NkSElNekFLTlp0T1lTNUNSd3VCUEF5a2NncHNaWnU3UVdlZE9Bc01tTGdQcWl2cGxVYmxEckJ6MElJbWxtMVRvenpfQkFlb0ZZVDFxaE9SR0hIT3dQTzUtM0ZTMXI3a2kzaks5ek5PdmtzaEtabV9RcS1tMlpQWGRHQVA3cnBCQQ?oc=5\" target=\"_blank\">AI Spending Fears Could Be a Mistake as Tech Selloff Masks Opportunity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
     "fetched_at": "2026-02-27T15:44:08.020594",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
@@ -2574,19 +2229,6 @@
     "fetched_at": "2026-02-28T01:50:26.661918+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
-  "7df2e042d26f2ee4": {
-    "id": "7df2e042d26f2ee4",
-    "group": "OVERALL",
-    "item": "ai_price_cuts",
-    "title": "Monks case study - Google Cloud",
-    "title_norm": "monks case study google cloud",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85dzMzUG5jZzhnRURCYS1HWTZyeFFNbF9Ta2trZUVLQkEzWkV5eHFiXzlmelhJeWwxWjRaeGpvZ1Y2UkluWkx3X29KMUpkdC1PTUE?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85dzMzUG5jZzhnRURCYS1HWTZyeFFNbF9Ta2trZUVLQkEzWkV5eHFiXzlmelhJeWwxWjRaeGpvZ1Y2UkluWkx3X29KMUpkdC1PTUE",
-    "published": "Mon, 16 Feb 2026 20:35:42 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE85dzMzUG5jZzhnRURCYS1HWTZyeFFNbF9Ta2trZUVLQkEzWkV5eHFiXzlmelhJeWwxWjRaeGpvZ1Y2UkluWkx3X29KMUpkdC1PTUE?oc=5\" target=\"_blank\">Monks case study</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Google Cloud</font>",
-    "fetched_at": "2026-02-28T01:50:26.661918+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "2af570f3efe11044": {
     "id": "2af570f3efe11044",
     "group": "OVERALL",
@@ -2626,19 +2268,6 @@
     "fetched_at": "2026-02-28T01:50:26.661918+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
-  "b5b1d53401c6410a": {
-    "id": "b5b1d53401c6410a",
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "AI Spending by U.S. Companies Has Fund Managers Looking Overseas for Stocks - Barron's",
-    "title_norm": "ai spending by u s companies has fund managers looking overseas for stocks barron s",
-    "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNZUZKQ1dFbkx0Snk2dUdSQVNoOEpYRHI3SVBPcFBkYXFnZ1IzcGIxcWQxOVFDd1JWUURTX0xkN3hPM3J1d2RlYUN1VmllTXJncm5ScktWdnl2aEE3NUhJbE1PRGJNVmtPOEJDT0ZSOVRaQW5tVXpUN2Y5RzlmMWZmR2JYQk5rekpMS3lKa201YjNCOFlXNEtvNDhESVdrX0NoMVpaMlA3NTZ0Qm8yT0J6aFNnRlg0ZnMteXI2c19oTDRLTTN3T2FCVU9sV3NGWWRLOE9EbUxfd25FcXZXUXdzb0pRV3c1S0xQQ2JFQTBvLXNoY0w3bWNJQ2xlbnNEal9zWHMwLUU2NGRwRHMzWTZfRElRbGV0NWROV0lnaFh2VVdWMDNQSENtSzJVbk0zbFJHLXpaOC1wRm52eGk2UHdkaTR1ZDJqRlJMTjVldnZzU2M1dkJjSDc2Q1hRdnJMeWM1R2p0V1ZDcmNnSjJsN0JhSUFDcWljUGNfMzV0SmxvNHFSMURyaW12X3NpR0M3NTIzRHc?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNZUZKQ1dFbkx0Snk2dUdSQVNoOEpYRHI3SVBPcFBkYXFnZ1IzcGIxcWQxOVFDd1JWUURTX0xkN3hPM3J1d2RlYUN1VmllTXJncm5ScktWdnl2aEE3NUhJbE1PRGJNVmtPOEJDT0ZSOVRaQW5tVXpUN2Y5RzlmMWZmR2JYQk5rekpMS3lKa201YjNCOFlXNEtvNDhESVdrX0NoMVpaMlA3NTZ0Qm8yT0J6aFNnRlg0ZnMteXI2c19oTDRLTTN3T2FCVU9sV3NGWWRLOE9EbUxfd25FcXZXUXdzb0pRV3c1S0xQQ2JFQTBvLXNoY0w3bWNJQ2xlbnNEal9zWHMwLUU2NGRwRHMzWTZfRElRbGV0NWROV0lnaFh2VVdWMDNQSENtSzJVbk0zbFJHLXpaOC1wRm52eGk2UHdkaTR1ZDJqRlJMTjVldnZzU2M1dkJjSDc2Q1hRdnJMeWM1R2p0V1ZDcmNnSjJsN0JhSUFDcWljUGNfMzV0SmxvNHFSMURyaW12X3NpR0M3NTIzRHc",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgNBVV95cUxNZUZKQ1dFbkx0Snk2dUdSQVNoOEpYRHI3SVBPcFBkYXFnZ1IzcGIxcWQxOVFDd1JWUURTX0xkN3hPM3J1d2RlYUN1VmllTXJncm5ScktWdnl2aEE3NUhJbE1PRGJNVmtPOEJDT0ZSOVRaQW5tVXpUN2Y5RzlmMWZmR2JYQk5rekpMS3lKa201YjNCOFlXNEtvNDhESVdrX0NoMVpaMlA3NTZ0Qm8yT0J6aFNnRlg0ZnMteXI2c19oTDRLTTN3T2FCVU9sV3NGWWRLOE9EbUxfd25FcXZXUXdzb0pRV3c1S0xQQ2JFQTBvLXNoY0w3bWNJQ2xlbnNEal9zWHMwLUU2NGRwRHMzWTZfRElRbGV0NWROV0lnaFh2VVdWMDNQSENtSzJVbk0zbFJHLXpaOC1wRm52eGk2UHdkaTR1ZDJqRlJMTjVldnZzU2M1dkJjSDc2Q1hRdnJMeWM1R2p0V1ZDcmNnSjJsN0JhSUFDcWljUGNfMzV0SmxvNHFSMURyaW12X3NpR0M3NTIzRHc?oc=5\" target=\"_blank\">AI Spending by U.S. Companies Has Fund Managers Looking Overseas for Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-    "fetched_at": "2026-02-28T01:50:26.661918+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "29bfd48d9c2c45e3": {
     "id": "29bfd48d9c2c45e3",
     "group": "OVERALL",
@@ -2649,19 +2278,6 @@
     "link_norm": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOUEVfVzhsbW1GLWdwU0FWelFvU0ZHQks1MmtUNGR6dC1vaDd1eEszZEYwUUJmRUZNVFhkaE5ndXdMNDZmSnRZaGpSQ1FjdFBDMzFob082enpreEJHUW5FcDRaQm9KcVRQbmR3M0JzU3lsUVB0UnBrQktJQWR4VFNtb3VHcTVPNzdMZTF1VDQxZmFWdUdnRWNZTkEzRTkxaGc3enVwRmxzbHFJUmtudU5GWTdMWWI4MkFyMkdaMVMtS1pFdGFHNGdVQzNmTjRxOUVCVUd3dTRrai1kUHNBMkxOYm5GdUNmbDZ6VVl4TkEwYklzQlJHZ1J3MFFXLVQtSmFoV1oyY2lMX0ZGR2tXMUwtWDFMSThlWnVFS215LTd5WXBjaGk4MVdvd1g0QzB3a2NDaGVMZUN1S0tQSzliVzFvdjJIMjVKQks0QzMwX1Z6cEhoN1lIczktN1U1RV95WTlaX3pXZzVZNlROdk5yZF9tZkJaVzY2endLeDFYR0RVN3JYMXlZbThyX0FoUkVvVXlQWC1ROU5JMERPYUlkV25mX1NibC1QbUVwVUFsQjhGb1FQZ25LUDZZazA2cU94U2p1NGVYeUN5clc4RTVYbTA0",
     "published": "Mon, 23 Feb 2026 12:57:00 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwNBVV95cUxOUEVfVzhsbW1GLWdwU0FWelFvU0ZHQks1MmtUNGR6dC1vaDd1eEszZEYwUUJmRUZNVFhkaE5ndXdMNDZmSnRZaGpSQ1FjdFBDMzFob082enpreEJHUW5FcDRaQm9KcVRQbmR3M0JzU3lsUVB0UnBrQktJQWR4VFNtb3VHcTVPNzdMZTF1VDQxZmFWdUdnRWNZTkEzRTkxaGc3enVwRmxzbHFJUmtudU5GWTdMWWI4MkFyMkdaMVMtS1pFdGFHNGdVQzNmTjRxOUVCVUd3dTRrai1kUHNBMkxOYm5GdUNmbDZ6VVl4TkEwYklzQlJHZ1J3MFFXLVQtSmFoV1oyY2lMX0ZGR2tXMUwtWDFMSThlWnVFS215LTd5WXBjaGk4MVdvd1g0QzB3a2NDaGVMZUN1S0tQSzliVzFvdjJIMjVKQks0QzMwX1Z6cEhoN1lIczktN1U1RV95WTlaX3pXZzVZNlROdk5yZF9tZkJaVzY2endLeDFYR0RVN3JYMXlZbThyX0FoUkVvVXlQWC1ROU5JMERPYUlkV25mX1NibC1QbUVwVUFsQjhGb1FQZ25LUDZZazA2cU94U2p1NGVYeUN5clc4RTVYbTA0?oc=5\" target=\"_blank\">Opinion: Big Tech’s ‘Lag 7’ is putting the S&amp;P 500 — and your index fund — at risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
-    "fetched_at": "2026-02-28T01:50:26.661918+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "ed9f9d91090f2229": {
-    "id": "ed9f9d91090f2229",
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "AI Spending Fears Could Be a Mistake as Tech Selloff Masks Opportunity - Barron's",
-    "title_norm": "ai spending fears could be a mistake as tech selloff masks opportunity barron s",
-    "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNWmJuNlp5UnJVbWtSSjdXTmZBckVPa1dTTUNqcnpmVmtmQk1BVEVFc0dWTmRoOEhzNHMzc25YWTJhUHB4N2p1TFRQV1RCMHpFcXVNNGpad1FVMmdUVENXWG5ZeF9iMTBhMUVhOVlXMktyTGJCQW5hMlFSYnBtQUp0VUpoOVZMdjZVN3lfcmI5LUk0S2FZaEd0aF9DYWxZbjc3R3pNLUhEUW1NTmJQcjRTZHgxdnJ2N2ZsYk9XOC1YUWVka3o1SU5mY21iVUtNVGdDcjExdW9hWW01Mm5oWUxpNUgxYVdOSThObUxnaGRlRERseUsxdU1GbTNSdUV4MWZITlg3R2ZDaXhfYmN4Q1BzSk94UDFTQnYyUGpHcWNWaFJlTXlzVXd5d2NpSV8yNkpXMy0xVElCTTlONkdnZW95VFh6MjZwNVUtWjVrLUNxaWdOcnpzV0JRYm1mMmgxWEJzOEdtME1jX09OTGdxN1dtcjVNLWxNb0FGSzd1ZEw1V1hkQQ?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNWmJuNlp5UnJVbWtSSjdXTmZBckVPa1dTTUNqcnpmVmtmQk1BVEVFc0dWTmRoOEhzNHMzc25YWTJhUHB4N2p1TFRQV1RCMHpFcXVNNGpad1FVMmdUVENXWG5ZeF9iMTBhMUVhOVlXMktyTGJCQW5hMlFSYnBtQUp0VUpoOVZMdjZVN3lfcmI5LUk0S2FZaEd0aF9DYWxZbjc3R3pNLUhEUW1NTmJQcjRTZHgxdnJ2N2ZsYk9XOC1YUWVka3o1SU5mY21iVUtNVGdDcjExdW9hWW01Mm5oWUxpNUgxYVdOSThObUxnaGRlRERseUsxdU1GbTNSdUV4MWZITlg3R2ZDaXhfYmN4Q1BzSk94UDFTQnYyUGpHcWNWaFJlTXlzVXd5d2NpSV8yNkpXMy0xVElCTTlONkdnZW95VFh6MjZwNVUtWjVrLUNxaWdOcnpzV0JRYm1mMmgxWEJzOEdtME1jX09OTGdxN1dtcjVNLWxNb0FGSzd1ZEw1V1hkQQ",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggNBVV95cUxNWmJuNlp5UnJVbWtSSjdXTmZBckVPa1dTTUNqcnpmVmtmQk1BVEVFc0dWTmRoOEhzNHMzc25YWTJhUHB4N2p1TFRQV1RCMHpFcXVNNGpad1FVMmdUVENXWG5ZeF9iMTBhMUVhOVlXMktyTGJCQW5hMlFSYnBtQUp0VUpoOVZMdjZVN3lfcmI5LUk0S2FZaEd0aF9DYWxZbjc3R3pNLUhEUW1NTmJQcjRTZHgxdnJ2N2ZsYk9XOC1YUWVka3o1SU5mY21iVUtNVGdDcjExdW9hWW01Mm5oWUxpNUgxYVdOSThObUxnaGRlRERseUsxdU1GbTNSdUV4MWZITlg3R2ZDaXhfYmN4Q1BzSk94UDFTQnYyUGpHcWNWaFJlTXlzVXd5d2NpSV8yNkpXMy0xVElCTTlONkdnZW95VFh6MjZwNVUtWjVrLUNxaWdOcnpzV0JRYm1mMmgxWEJzOEdtME1jX09OTGdxN1dtcjVNLWxNb0FGSzd1ZEw1V1hkQQ?oc=5\" target=\"_blank\">AI Spending Fears Could Be a Mistake as Tech Selloff Masks Opportunity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
     "fetched_at": "2026-02-28T01:50:26.661918+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
@@ -2717,45 +2333,6 @@
     "fetched_at": "2026-02-28T01:55:55.180746+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
-  "3b8be028181aba0c": {
-    "id": "3b8be028181aba0c",
-    "group": "OVERALL",
-    "item": "ai_price_cuts",
-    "title": "Nvidia's Blackwell Ultra Slashes AI Agent Costs 35x - The Tech Buzz",
-    "title_norm": "nvidia s blackwell ultra slashes ai agent costs 35x the tech buzz",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPekdoU0VUdXRzVWFuWDdIUE5vdjRLdVNmRl9fVWJueXBoOHozbkhRTEdzY0dKbkpsVUktX0ZsSVJubXZCNU9qSkZPa1c1elozLUlSUklWY2xCMVNURlFWXzJKUWVzNTJpZ0o1a01Yd0NwcGlFbmZrQTdxN21aODlOQ09LWkdkM0dfdk5hRQ?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPekdoU0VUdXRzVWFuWDdIUE5vdjRLdVNmRl9fVWJueXBoOHozbkhRTEdzY0dKbkpsVUktX0ZsSVJubXZCNU9qSkZPa1c1elozLUlSUklWY2xCMVNURlFWXzJKUWVzNTJpZ0o1a01Yd0NwcGlFbmZrQTdxN21aODlOQ09LWkdkM0dfdk5hRQ",
-    "published": "Mon, 16 Feb 2026 17:40:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPekdoU0VUdXRzVWFuWDdIUE5vdjRLdVNmRl9fVWJueXBoOHozbkhRTEdzY0dKbkpsVUktX0ZsSVJubXZCNU9qSkZPa1c1elozLUlSUklWY2xCMVNURlFWXzJKUWVzNTJpZ0o1a01Yd0NwcGlFbmZrQTdxN21aODlOQ09LWkdkM0dfdk5hRQ?oc=5\" target=\"_blank\">Nvidia's Blackwell Ultra Slashes AI Agent Costs 35x</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tech Buzz</font>",
-    "fetched_at": "2026-02-28T01:55:55.180746+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "f74de06b1506a8af": {
-    "id": "f74de06b1506a8af",
-    "group": "OVERALL",
-    "item": "ai_price_cuts",
-    "title": "India bids to attract over $200B in AI infrastructure investment by 2028 - TechCrunch",
-    "title_norm": "india bids to attract over 200b in ai infrastructure investment by 2028 techcrunch",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeG1lRE50b1RwUG1NZkozX1g2TzMyM2EwdUpRY0JOZXBtS2VvSkRCZDVxdktQeHpxdjVjOHJOWFNSTzBoekIzVFoyeUx2dFlSTDd2TC1OSHVLbG1jcF9YTEwxSDJlNWE1c01oQmNIb3NWQkR5akJkUHhrYzQ5NWEteGtjejRzaEZfcGxBMURmaXRnSHpfZEgxdTRtY3BSTFdUa0k1RnNEeTRadw?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeG1lRE50b1RwUG1NZkozX1g2TzMyM2EwdUpRY0JOZXBtS2VvSkRCZDVxdktQeHpxdjVjOHJOWFNSTzBoekIzVFoyeUx2dFlSTDd2TC1OSHVLbG1jcF9YTEwxSDJlNWE1c01oQmNIb3NWQkR5akJkUHhrYzQ5NWEteGtjejRzaEZfcGxBMURmaXRnSHpfZEgxdTRtY3BSTFdUa0k1RnNEeTRadw",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeG1lRE50b1RwUG1NZkozX1g2TzMyM2EwdUpRY0JOZXBtS2VvSkRCZDVxdktQeHpxdjVjOHJOWFNSTzBoekIzVFoyeUx2dFlSTDd2TC1OSHVLbG1jcF9YTEwxSDJlNWE1c01oQmNIb3NWQkR5akJkUHhrYzQ5NWEteGtjejRzaEZfcGxBMURmaXRnSHpfZEgxdTRtY3BSTFdUa0k1RnNEeTRadw?oc=5\" target=\"_blank\">India bids to attract over $200B in AI infrastructure investment by 2028</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-    "fetched_at": "2026-02-28T01:55:55.180746+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "f99160eeeab0c72f": {
-    "id": "f99160eeeab0c72f",
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "AI Spending by U.S. Companies Has Fund Managers Looking Overseas for Stocks - Barron's",
-    "title_norm": "ai spending by u s companies has fund managers looking overseas for stocks barron s",
-    "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQOWJ0dERXbTB6TDNiWXFSYm80RG5MeUR1RG9qOU5XQjdkWmJ0dFRiOXo0NjZQRUdxX1hSQXlmeEg3QWhxdmd2SVFFMkpfelYxaENCT2YtSDBUbXc1aWFwTVRtVDhZNFlyc0ZrQldfUTMzbWVYMklWSHZLREplMDNxcThfeTVoeEowbHFxMUp3dHdtS0had3hTQTRSZFRySHJ0OGJFOEIwMGxWVFhrRGR4UzRsTGhRczE0eE9ZSDRVYmVqNWF3NG9oVzNSZThNODh4UkVLeXlUcjhtMEpJQTlhZEMwUlRZT1EwYXRuSmE2MWNsU2JXcUllU3pFaDFubkhvVzZGOWl3Y3NUV2xwQ0dCd2ZDZWZWenN5bmtzOW94ZXRWV2puUngtOVMxYXAxMTI1aWR5TnJ3X3p5ME9sNEs4a0o3Mk9rUVc1MUt5dDB4aWk2M2c5UFl6TTVFTFNwdjJpRmM3WjNKR05BN0tXZTZIaFkwQi0yMHR0X1AwRW9PTUM5dnNSXzhZN0l1QUxfMzd6d1E?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQOWJ0dERXbTB6TDNiWXFSYm80RG5MeUR1RG9qOU5XQjdkWmJ0dFRiOXo0NjZQRUdxX1hSQXlmeEg3QWhxdmd2SVFFMkpfelYxaENCT2YtSDBUbXc1aWFwTVRtVDhZNFlyc0ZrQldfUTMzbWVYMklWSHZLREplMDNxcThfeTVoeEowbHFxMUp3dHdtS0had3hTQTRSZFRySHJ0OGJFOEIwMGxWVFhrRGR4UzRsTGhRczE0eE9ZSDRVYmVqNWF3NG9oVzNSZThNODh4UkVLeXlUcjhtMEpJQTlhZEMwUlRZT1EwYXRuSmE2MWNsU2JXcUllU3pFaDFubkhvVzZGOWl3Y3NUV2xwQ0dCd2ZDZWZWenN5bmtzOW94ZXRWV2puUngtOVMxYXAxMTI1aWR5TnJ3X3p5ME9sNEs4a0o3Mk9rUVc1MUt5dDB4aWk2M2c5UFl6TTVFTFNwdjJpRmM3WjNKR05BN0tXZTZIaFkwQi0yMHR0X1AwRW9PTUM5dnNSXzhZN0l1QUxfMzd6d1E",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgNBVV95cUxQOWJ0dERXbTB6TDNiWXFSYm80RG5MeUR1RG9qOU5XQjdkWmJ0dFRiOXo0NjZQRUdxX1hSQXlmeEg3QWhxdmd2SVFFMkpfelYxaENCT2YtSDBUbXc1aWFwTVRtVDhZNFlyc0ZrQldfUTMzbWVYMklWSHZLREplMDNxcThfeTVoeEowbHFxMUp3dHdtS0had3hTQTRSZFRySHJ0OGJFOEIwMGxWVFhrRGR4UzRsTGhRczE0eE9ZSDRVYmVqNWF3NG9oVzNSZThNODh4UkVLeXlUcjhtMEpJQTlhZEMwUlRZT1EwYXRuSmE2MWNsU2JXcUllU3pFaDFubkhvVzZGOWl3Y3NUV2xwQ0dCd2ZDZWZWenN5bmtzOW94ZXRWV2puUngtOVMxYXAxMTI1aWR5TnJ3X3p5ME9sNEs4a0o3Mk9rUVc1MUt5dDB4aWk2M2c5UFl6TTVFTFNwdjJpRmM3WjNKR05BN0tXZTZIaFkwQi0yMHR0X1AwRW9PTUM5dnNSXzhZN0l1QUxfMzd6d1E?oc=5\" target=\"_blank\">AI Spending by U.S. Companies Has Fund Managers Looking Overseas for Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-    "fetched_at": "2026-02-28T01:55:55.180746+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "f540dc80de02cc78": {
     "id": "f540dc80de02cc78",
     "group": "OVERALL",
@@ -2766,19 +2343,6 @@
     "link_norm": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOTi1kbEk1bE1aWERnMWY4NDdJd1pONlVuS2t1VFBBeng1VVlBaUhGOU1YTlp0Uy1vZjh1Zk4ySW5CUWJSU1g2bjlwYWhKbW0wZE9GSlRycW1hSzI2LVhEYWlZNlg1ZDg3a3FkX0NybUFrMzk3bnE5andySEVBeWhsZVNXcElrdzNFcjlZeGtXUVFJT3BHajdwa0d4UDZvN2t5SlcxWVdTNi1KOGtKRmZMTm4wSC1TcUpNOW54Szc2U1lKenZicHNrNFVqRWl0RWZrenVnVnBiZ211Nlhnb3FRUjNGOEFLSW9uQnFVeWl1VzdsWU5rSGJPdWtWel9ZMzVCODhrZ014dmkxOXZIZ3RnTUowemFRWjQxb1RjOGhMNEZTcC1SNjdhdDhyUVFXT2pYU0p1ejVFbFdzaU9QbDJSTUdOLU1UZV8wMTZHQmFIWWp0cGNILXVQWmVoUWltaDFlMk9kbFRUanlLd0MycjNXSDJ0MlhMUWt1UVo1QzFYT3RpOXVYSWMwWUJadlBhSGdwbjh0RmZfckpOWXpZR3Z1bUltSElXeTdJdXVsVEJKSWtoZ1ZmRy1Dc0k4TkwyOGVKcWtWNlltaUFjRHVGMzQw",
     "published": "Mon, 23 Feb 2026 12:57:00 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwNBVV95cUxOTi1kbEk1bE1aWERnMWY4NDdJd1pONlVuS2t1VFBBeng1VVlBaUhGOU1YTlp0Uy1vZjh1Zk4ySW5CUWJSU1g2bjlwYWhKbW0wZE9GSlRycW1hSzI2LVhEYWlZNlg1ZDg3a3FkX0NybUFrMzk3bnE5andySEVBeWhsZVNXcElrdzNFcjlZeGtXUVFJT3BHajdwa0d4UDZvN2t5SlcxWVdTNi1KOGtKRmZMTm4wSC1TcUpNOW54Szc2U1lKenZicHNrNFVqRWl0RWZrenVnVnBiZ211Nlhnb3FRUjNGOEFLSW9uQnFVeWl1VzdsWU5rSGJPdWtWel9ZMzVCODhrZ014dmkxOXZIZ3RnTUowemFRWjQxb1RjOGhMNEZTcC1SNjdhdDhyUVFXT2pYU0p1ejVFbFdzaU9QbDJSTUdOLU1UZV8wMTZHQmFIWWp0cGNILXVQWmVoUWltaDFlMk9kbFRUanlLd0MycjNXSDJ0MlhMUWt1UVo1QzFYT3RpOXVYSWMwWUJadlBhSGdwbjh0RmZfckpOWXpZR3Z1bUltSElXeTdJdXVsVEJKSWtoZ1ZmRy1Dc0k4TkwyOGVKcWtWNlltaUFjRHVGMzQw?oc=5\" target=\"_blank\">Opinion: Big Tech’s ‘Lag 7’ is putting the S&amp;P 500 — and your index fund — at risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
-    "fetched_at": "2026-02-28T01:55:55.180746+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "cdfabd5864e61dcf": {
-    "id": "cdfabd5864e61dcf",
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "AI Spending Fears Could Be a Mistake as Tech Selloff Masks Opportunity - Barron's",
-    "title_norm": "ai spending fears could be a mistake as tech selloff masks opportunity barron s",
-    "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNN1NmTmZBbklqRENYQ2hkRXAtTThkMWdDZmk0STVoeGFZZUtoS0tsbFZmSmExWVFjWG1pYTJ1Z05CaV9tSTd5WlhuTUEyTXhvNnl3WjJqb3ZMbnVqZE1faFZwU2s4U3dIaTN5cW42YXh2NEFLN283amc1eGNXTFdhVEIyb2VtRzRyZnNabmluV3V3U2JIRW9tcFNiYUNRUXE4Q0FadFdZNmk5ZE9fMGtrc3daandJQlFaNjJQNV8xYlpWR1BTaVd5Yl9POXUzQWJIUDkxX1NvVHp0UVlMNWtZX3lmcUphU2VDN0h4a3JYQUppaE9JaFRaOExRTkp5dWI0blZVSVBUMjYyUDNIQWdIYXNQdjlnRWFRZXcwOGxlYlhtdTRkUlJfRGt1Wl94MHJLUGwzd1M0bzVOLTJjZG0wWjJpbUIzdW5TQ1A2Y3Z3bTljbkp2d2tQS013LVpKZ2haUXRLZHJtZDJIbTJFQlpkbVNrYWNmS1EwNWQ5V2NfMVlHQQ?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNN1NmTmZBbklqRENYQ2hkRXAtTThkMWdDZmk0STVoeGFZZUtoS0tsbFZmSmExWVFjWG1pYTJ1Z05CaV9tSTd5WlhuTUEyTXhvNnl3WjJqb3ZMbnVqZE1faFZwU2s4U3dIaTN5cW42YXh2NEFLN283amc1eGNXTFdhVEIyb2VtRzRyZnNabmluV3V3U2JIRW9tcFNiYUNRUXE4Q0FadFdZNmk5ZE9fMGtrc3daandJQlFaNjJQNV8xYlpWR1BTaVd5Yl9POXUzQWJIUDkxX1NvVHp0UVlMNWtZX3lmcUphU2VDN0h4a3JYQUppaE9JaFRaOExRTkp5dWI0blZVSVBUMjYyUDNIQWdIYXNQdjlnRWFRZXcwOGxlYlhtdTRkUlJfRGt1Wl94MHJLUGwzd1M0bzVOLTJjZG0wWjJpbUIzdW5TQ1A2Y3Z3bTljbkp2d2tQS013LVpKZ2haUXRLZHJtZDJIbTJFQlpkbVNrYWNmS1EwNWQ5V2NfMVlHQQ",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggNBVV95cUxNN1NmTmZBbklqRENYQ2hkRXAtTThkMWdDZmk0STVoeGFZZUtoS0tsbFZmSmExWVFjWG1pYTJ1Z05CaV9tSTd5WlhuTUEyTXhvNnl3WjJqb3ZMbnVqZE1faFZwU2s4U3dIaTN5cW42YXh2NEFLN283amc1eGNXTFdhVEIyb2VtRzRyZnNabmluV3V3U2JIRW9tcFNiYUNRUXE4Q0FadFdZNmk5ZE9fMGtrc3daandJQlFaNjJQNV8xYlpWR1BTaVd5Yl9POXUzQWJIUDkxX1NvVHp0UVlMNWtZX3lmcUphU2VDN0h4a3JYQUppaE9JaFRaOExRTkp5dWI0blZVSVBUMjYyUDNIQWdIYXNQdjlnRWFRZXcwOGxlYlhtdTRkUlJfRGt1Wl94MHJLUGwzd1M0bzVOLTJjZG0wWjJpbUIzdW5TQ1A2Y3Z3bTljbkp2d2tQS013LVpKZ2haUXRLZHJtZDJIbTJFQlpkbVNrYWNmS1EwNWQ5V2NfMVlHQQ?oc=5\" target=\"_blank\">AI Spending Fears Could Be a Mistake as Tech Selloff Masks Opportunity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
     "fetched_at": "2026-02-28T01:55:55.180746+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
@@ -2895,32 +2459,6 @@
     "link_norm": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd0VkQlMxUG1Pejc1Uy0zQXpOSURSWWU5aGpqQVpWdUczZFNsMEh4MFZuZV82SklUbmVsS0hGRE8ySEstaTdfRGpXZDlwUmxDckhOMUYyR2c0R1BDUVFWdkRLM19uWEVrSWt5WTlwSEhBelVBb2tSUDZnOWFqN1VweFNXZWFXbm1xRXc",
     "published": "Fri, 27 Feb 2026 11:23:45 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQd0VkQlMxUG1Pejc1Uy0zQXpOSURSWWU5aGpqQVpWdUczZFNsMEh4MFZuZV82SklUbmVsS0hGRE8ySEstaTdfRGpXZDlwUmxDckhOMUYyR2c0R1BDUVFWdkRLM19uWEVrSWt5WTlwSEhBelVBb2tSUDZnOWFqN1VweFNXZWFXbm1xRXc?oc=5\" target=\"_blank\">Here’s what Mikie Sherrill’s state of emergency on utility costs will do for New Jersey</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-    "fetched_at": "2026-02-28T15:11:00.107331+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "35b16bc5ee4e5960": {
-    "id": "35b16bc5ee4e5960",
-    "group": "OVERALL",
-    "item": "power_permit_delays",
-    "title": "Is power for AI data centres a new commodity? One company sold its AESO allotment for $18M | CBC News - CBC",
-    "title_norm": "is power for ai data centres a new commodity one company sold its aeso allotment for 18m cbc news cbc",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX2dxLTE1eGh5UmE2SEsxeXVBLVNkMU9DdWtYNHNCVlBadFJyd1VtT0ZjWUswSGlDZ1ZsYzJWQ0o0Q2FjZ01uN3lRNlpUMFJOZUxfTkxFX2w3MXJWaW9tcmYxbE5hSk1sVlI0cENPUlE4V1VGYzNReXVlaFFBV2x0RFhMRmQ3ajNSdVZMLVJ5WlpLZjU1ajRTS3JWVGdFZ2tNZXMwRUU3UlZ3VmRyU1dsbHpjeDgtWk5LN0lOZk14UURQQQ?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX2dxLTE1eGh5UmE2SEsxeXVBLVNkMU9DdWtYNHNCVlBadFJyd1VtT0ZjWUswSGlDZ1ZsYzJWQ0o0Q2FjZ01uN3lRNlpUMFJOZUxfTkxFX2w3MXJWaW9tcmYxbE5hSk1sVlI0cENPUlE4V1VGYzNReXVlaFFBV2x0RFhMRmQ3ajNSdVZMLVJ5WlpLZjU1ajRTS3JWVGdFZ2tNZXMwRUU3UlZ3VmRyU1dsbHpjeDgtWk5LN0lOZk14UURQQQ",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX2dxLTE1eGh5UmE2SEsxeXVBLVNkMU9DdWtYNHNCVlBadFJyd1VtT0ZjWUswSGlDZ1ZsYzJWQ0o0Q2FjZ01uN3lRNlpUMFJOZUxfTkxFX2w3MXJWaW9tcmYxbE5hSk1sVlI0cENPUlE4V1VGYzNReXVlaFFBV2x0RFhMRmQ3ajNSdVZMLVJ5WlpLZjU1ajRTS3JWVGdFZ2tNZXMwRUU3UlZ3VmRyU1dsbHpjeDgtWk5LN0lOZk14UURQQQ?oc=5\" target=\"_blank\">Is power for AI data centres a new commodity? One company sold its AESO allotment for $18M | CBC News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC</font>",
-    "fetched_at": "2026-02-28T15:11:00.107331+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "83027f06eade466c": {
-    "id": "83027f06eade466c",
-    "group": "OVERALL",
-    "item": "dc_vacancy",
-    "title": "North America Data Center Report Year-end 2025 - JLL",
-    "title_norm": "north america data center report year end 2025 jll",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSTR3MXpqUDdJc1MxNXl1RlQySjhtaHBxUVJyWndQd1l4MmdGa0lkNFJ1YmVyd3JHMC1TYkJnRGEwcFg5b2xKa1c5Um5hbWlmUlZmc0x5cmxYbi11UG1vSDhGdFdWcVVMTk5NMGN3YzdWUWxBUXhKQzc4R2hJVjFtMGlyVQ?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSTR3MXpqUDdJc1MxNXl1RlQySjhtaHBxUVJyWndQd1l4MmdGa0lkNFJ1YmVyd3JHMC1TYkJnRGEwcFg5b2xKa1c5Um5hbWlmUlZmc0x5cmxYbi11UG1vSDhGdFdWcVVMTk5NMGN3YzdWUWxBUXhKQzc4R2hJVjFtMGlyVQ",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQSTR3MXpqUDdJc1MxNXl1RlQySjhtaHBxUVJyWndQd1l4MmdGa0lkNFJ1YmVyd3JHMC1TYkJnRGEwcFg5b2xKa1c5Um5hbWlmUlZmc0x5cmxYbi11UG1vSDhGdFdWcVVMTk5NMGN3YzdWUWxBUXhKQzc4R2hJVjFtMGlyVQ?oc=5\" target=\"_blank\">North America Data Center Report Year-end 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JLL</font>",
     "fetched_at": "2026-02-28T15:11:00.107331+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
@@ -3090,32 +2628,6 @@
     "fetched_at": "2026-02-28T15:11:00.107331+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
-  "500152158e0d8afe": {
-    "id": "500152158e0d8afe",
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "AI Spending Bubble Fear Just Hit An All-Time High, BofA Survey Shows - Bitget",
-    "title_norm": "ai spending bubble fear just hit an all time high bofa survey shows bitget",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4Y2I3aUJWMmtkQXZyUnc5OEkzblM3ZjZBTjVHRXJ6SjFlQlBrS2FUMWdGNFcyR24wSi1QZTNTT2NZbXF1NWNPdjZDZnJnZ29TVlZwV29XMExNMnpETVHSAWNBVV95cUxOQ2oxTUQzLUVIWXlwMzdIQmpXaEt2NHA4bTZJdFdPeUpadnRxQkFKamtHVDlzTUxSeHhabGhyMEp5UHMwZUF0R2pPYTB2Nkd2eWNENVBqdTBjcE1vemRVSS1lZWM?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4Y2I3aUJWMmtkQXZyUnc5OEkzblM3ZjZBTjVHRXJ6SjFlQlBrS2FUMWdGNFcyR24wSi1QZTNTT2NZbXF1NWNPdjZDZnJnZ29TVlZwV29XMExNMnpETVHSAWNBVV95cUxOQ2oxTUQzLUVIWXlwMzdIQmpXaEt2NHA4bTZJdFdPeUpadnRxQkFKamtHVDlzTUxSeHhabGhyMEp5UHMwZUF0R2pPYTB2Nkd2eWNENVBqdTBjcE1vemRVSS1lZWM",
-    "published": "Mon, 16 Feb 2026 22:15:47 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4Y2I3aUJWMmtkQXZyUnc5OEkzblM3ZjZBTjVHRXJ6SjFlQlBrS2FUMWdGNFcyR24wSi1QZTNTT2NZbXF1NWNPdjZDZnJnZ29TVlZwV29XMExNMnpETVHSAWNBVV95cUxOQ2oxTUQzLUVIWXlwMzdIQmpXaEt2NHA4bTZJdFdPeUpadnRxQkFKamtHVDlzTUxSeHhabGhyMEp5UHMwZUF0R2pPYTB2Nkd2eWNENVBqdTBjcE1vemRVSS1lZWM?oc=5\" target=\"_blank\">AI Spending Bubble Fear Just Hit An All-Time High, BofA Survey Shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
-    "fetched_at": "2026-02-28T15:11:00.107331+09:00",
-    "llm": {
-      "relevant": true,
-      "strength": 3,
-      "confidence": 70,
-      "reason": "Title reports a BofA survey showing 'AI spending bubble fear' at an all-time high, which is a direct market-positioning/sentiment signal about AI-related investment risk. Information is limited to the headline so strength is moderate.",
-      "signals": [
-        "AI spending bubble fear",
-        "all-time high survey reading",
-        "BofA survey",
-        "market sentiment on AI spending"
-      ]
-    },
-    "llm_model": "gpt-5-mini",
-    "llm_classified_at": "2026-02-28T15:11:37.782000+09:00"
-  },
   "19d4540d3403e242": {
     "id": "19d4540d3403e242",
     "group": "OVERALL",
@@ -3129,19 +2641,6 @@
     "fetched_at": "2026-02-28T15:11:00.107331+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
-  "2a163fe15863bc9b": {
-    "id": "2a163fe15863bc9b",
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "AI Spending by U.S. Companies Has Fund Managers Looking Overseas for Stocks - Barron's",
-    "title_norm": "ai spending by u s companies has fund managers looking overseas for stocks barron s",
-    "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNTDVyNGVteXNZMVEwZUxXdTFnOUpVeFpSRmlXS25tZnJfc05ManMxZUxGY0lHLWNTSHRxd0RGYmhyTjhvVGxFdC04TmVYc21rdGhrMzlQb0VMRnN2Tjh4UXFtM2NuNXdRUHBYMHZTNERqOWFvSTltNTFVVWQ5QnIwUTFhWDYxT21zYV9XMXVqdHBsOXpGT3JxOGJmaF9FZHBHY3RiSlpEcUNmanhlMWhMU3F6eXktbDZvamw1a0NCdThRQWFlZmhFaWNhZGNFcHJMaEU5alJPcVpzbXN3dVlBU2Rnb2E2Z1hNOWxvQ3NuR3FzUEZJb0ZXMEdUU1pGelRUYjNGNXdRWGVaSFVUbnNpUGlkYl9abTdSckozelhZNnpKNWctTzRLbmxLZTBlYXVwRmZhajhzVjZxMTBCLWw3OEJKSzFraElycmZsOHJaMFkxdkZMcm9WZGpST3Q0SGNlR2YyQWRlX2ZmdkNtX1hydzJFRmFLYk5BSDFaUGVYX3M4cTI2bUFyaTgzUzVvQUNzcHc?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNTDVyNGVteXNZMVEwZUxXdTFnOUpVeFpSRmlXS25tZnJfc05ManMxZUxGY0lHLWNTSHRxd0RGYmhyTjhvVGxFdC04TmVYc21rdGhrMzlQb0VMRnN2Tjh4UXFtM2NuNXdRUHBYMHZTNERqOWFvSTltNTFVVWQ5QnIwUTFhWDYxT21zYV9XMXVqdHBsOXpGT3JxOGJmaF9FZHBHY3RiSlpEcUNmanhlMWhMU3F6eXktbDZvamw1a0NCdThRQWFlZmhFaWNhZGNFcHJMaEU5alJPcVpzbXN3dVlBU2Rnb2E2Z1hNOWxvQ3NuR3FzUEZJb0ZXMEdUU1pGelRUYjNGNXdRWGVaSFVUbnNpUGlkYl9abTdSckozelhZNnpKNWctTzRLbmxLZTBlYXVwRmZhajhzVjZxMTBCLWw3OEJKSzFraElycmZsOHJaMFkxdkZMcm9WZGpST3Q0SGNlR2YyQWRlX2ZmdkNtX1hydzJFRmFLYk5BSDFaUGVYX3M4cTI2bUFyaTgzUzVvQUNzcHc",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgNBVV95cUxNTDVyNGVteXNZMVEwZUxXdTFnOUpVeFpSRmlXS25tZnJfc05ManMxZUxGY0lHLWNTSHRxd0RGYmhyTjhvVGxFdC04TmVYc21rdGhrMzlQb0VMRnN2Tjh4UXFtM2NuNXdRUHBYMHZTNERqOWFvSTltNTFVVWQ5QnIwUTFhWDYxT21zYV9XMXVqdHBsOXpGT3JxOGJmaF9FZHBHY3RiSlpEcUNmanhlMWhMU3F6eXktbDZvamw1a0NCdThRQWFlZmhFaWNhZGNFcHJMaEU5alJPcVpzbXN3dVlBU2Rnb2E2Z1hNOWxvQ3NuR3FzUEZJb0ZXMEdUU1pGelRUYjNGNXdRWGVaSFVUbnNpUGlkYl9abTdSckozelhZNnpKNWctTzRLbmxLZTBlYXVwRmZhajhzVjZxMTBCLWw3OEJKSzFraElycmZsOHJaMFkxdkZMcm9WZGpST3Q0SGNlR2YyQWRlX2ZmdkNtX1hydzJFRmFLYk5BSDFaUGVYX3M4cTI2bUFyaTgzUzVvQUNzcHc?oc=5\" target=\"_blank\">AI Spending by U.S. Companies Has Fund Managers Looking Overseas for Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-    "fetched_at": "2026-02-28T15:11:00.107331+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "e3a1df6c266ea645": {
     "id": "e3a1df6c266ea645",
     "group": "OVERALL",
@@ -3152,19 +2651,6 @@
     "link_norm": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOb3V4aE1fMGFESHJSdVFCNUNKQ3hPeXNzTmx2MEJTeW9janl0c1NDeG5jOEQ0MjZOS3l5c1E5dng3d2Z0UDMzSk13TUo5R0tncGFhZERNVnhkbUJqYmRjZ0dhYTluUk1FVHhDX0JHRWwwdHBoa0t0TFRoTWxGdF9IQXBJMGNWNmwzR1lhRElweTNqcU4zc1VhcV9FNTBzR29EY3dEdEwyREMwRVp4MUpaZ2JEUC0xbEo0Y2lCQmlUWnRxQWVZa2poTFlfNElBa1NsVDVWbmdjQ1k3THRxZnVaNGhyQjUyRHQ5Xy0yZlc3YVpxNWtOaEpZRmkzZDBQZzU5eWVzdUlzWTBCZTM3U1BNaUdWc09qQWlXNFFoV2FaYWNCekhQTnZybjI5MEF5cjExOXFfVjh2bXhzeS1FQ09QTm0yYndyU0c3WlpMN2VtcFZVRWtBNWd5cFVFNHlUdWU1VkhHdTBGeF9iMHVHcmhaOVNObUxQTHR2NVZfa3A4V0ZkRWxYbkp2WmdGSVRVYXFCbUZDZjlYclNmVGtsdVIzbUg5cUNvWEpYOTZ4NDhRejNaZVFpaFNwaWNEQzFBX1NxVTR3alYyTlpCajIyS0ZF",
     "published": "Mon, 23 Feb 2026 12:57:00 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwNBVV95cUxOb3V4aE1fMGFESHJSdVFCNUNKQ3hPeXNzTmx2MEJTeW9janl0c1NDeG5jOEQ0MjZOS3l5c1E5dng3d2Z0UDMzSk13TUo5R0tncGFhZERNVnhkbUJqYmRjZ0dhYTluUk1FVHhDX0JHRWwwdHBoa0t0TFRoTWxGdF9IQXBJMGNWNmwzR1lhRElweTNqcU4zc1VhcV9FNTBzR29EY3dEdEwyREMwRVp4MUpaZ2JEUC0xbEo0Y2lCQmlUWnRxQWVZa2poTFlfNElBa1NsVDVWbmdjQ1k3THRxZnVaNGhyQjUyRHQ5Xy0yZlc3YVpxNWtOaEpZRmkzZDBQZzU5eWVzdUlzWTBCZTM3U1BNaUdWc09qQWlXNFFoV2FaYWNCekhQTnZybjI5MEF5cjExOXFfVjh2bXhzeS1FQ09QTm0yYndyU0c3WlpMN2VtcFZVRWtBNWd5cFVFNHlUdWU1VkhHdTBGeF9iMHVHcmhaOVNObUxQTHR2NVZfa3A4V0ZkRWxYbkp2WmdGSVRVYXFCbUZDZjlYclNmVGtsdVIzbUg5cUNvWEpYOTZ4NDhRejNaZVFpaFNwaWNEQzFBX1NxVTR3alYyTlpCajIyS0ZF?oc=5\" target=\"_blank\">Opinion: Big Tech’s ‘Lag 7’ is putting the S&amp;P 500 — and your index fund — at risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
-    "fetched_at": "2026-02-28T15:11:00.107331+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "292674e3bb6c7f2f": {
-    "id": "292674e3bb6c7f2f",
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "AI Spending Fears Could Be a Mistake as Tech Selloff Masks Opportunity - Barron's",
-    "title_norm": "ai spending fears could be a mistake as tech selloff masks opportunity barron s",
-    "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPLVZTRm12QmpDc044d3NuTmlsb3FISTJEdXVkallqZi1YZjNjM0g4bTVjdTkyQk9RRWx4bFREdWZoRVFVdklDWlp5LWZDSmxHVUdnT0NxR2V2M0l3UWlYOVR1a0hXYXk5ZGVDeTZrXzFJMnFzdkhYWjNHQkxpT3dYYm01RU9vNzYyOHNzcmhrNHdVZVFCQlpNbVo5RUVWbFNna3dYVk92bThLcXBZQ3VQQ1NfNGhRbU9INTEyOFJYS1JEQzVPN1p5VlZlcDJ0ZkdaOXBkeXEtTEpsUUVpSGpXU3pKLXl0OHNJTTNYWUhaQ0tPMTlwVUVuWVdkQzgxc1BLM2FjRGRBZVJEd0tBbnZYYWxSVHdXOFBjQ3ctV3RUVzJMYS02cmdlbnZrVkxGUzBUOUVOSmZZd3VVWEpKNmE4eE0yUk52OXlwRnVKWUhzRXF1WkctejhZNlNHYkUxX0NoRFFxSDIxUmo4bE1tam5BS0pCeUxESFhvSWpGdzF4NFJoZw?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPLVZTRm12QmpDc044d3NuTmlsb3FISTJEdXVkallqZi1YZjNjM0g4bTVjdTkyQk9RRWx4bFREdWZoRVFVdklDWlp5LWZDSmxHVUdnT0NxR2V2M0l3UWlYOVR1a0hXYXk5ZGVDeTZrXzFJMnFzdkhYWjNHQkxpT3dYYm01RU9vNzYyOHNzcmhrNHdVZVFCQlpNbVo5RUVWbFNna3dYVk92bThLcXBZQ3VQQ1NfNGhRbU9INTEyOFJYS1JEQzVPN1p5VlZlcDJ0ZkdaOXBkeXEtTEpsUUVpSGpXU3pKLXl0OHNJTTNYWUhaQ0tPMTlwVUVuWVdkQzgxc1BLM2FjRGRBZVJEd0tBbnZYYWxSVHdXOFBjQ3ctV3RUVzJMYS02cmdlbnZrVkxGUzBUOUVOSmZZd3VVWEpKNmE4eE0yUk52OXlwRnVKWUhzRXF1WkctejhZNlNHYkUxX0NoRFFxSDIxUmo4bE1tam5BS0pCeUxESFhvSWpGdzF4NFJoZw",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggNBVV95cUxPLVZTRm12QmpDc044d3NuTmlsb3FISTJEdXVkallqZi1YZjNjM0g4bTVjdTkyQk9RRWx4bFREdWZoRVFVdklDWlp5LWZDSmxHVUdnT0NxR2V2M0l3UWlYOVR1a0hXYXk5ZGVDeTZrXzFJMnFzdkhYWjNHQkxpT3dYYm01RU9vNzYyOHNzcmhrNHdVZVFCQlpNbVo5RUVWbFNna3dYVk92bThLcXBZQ3VQQ1NfNGhRbU9INTEyOFJYS1JEQzVPN1p5VlZlcDJ0ZkdaOXBkeXEtTEpsUUVpSGpXU3pKLXl0OHNJTTNYWUhaQ0tPMTlwVUVuWVdkQzgxc1BLM2FjRGRBZVJEd0tBbnZYYWxSVHdXOFBjQ3ctV3RUVzJMYS02cmdlbnZrVkxGUzBUOUVOSmZZd3VVWEpKNmE4eE0yUk52OXlwRnVKWUhzRXF1WkctejhZNlNHYkUxX0NoRFFxSDIxUmo4bE1tam5BS0pCeUxESFhvSWpGdzF4NFJoZw?oc=5\" target=\"_blank\">AI Spending Fears Could Be a Mistake as Tech Selloff Masks Opportunity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
     "fetched_at": "2026-02-28T15:11:00.107331+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
@@ -3350,19 +2836,6 @@
     "fetched_at": "2026-02-28T15:46:37.568098+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
-  "2d7d1b1f82604ece": {
-    "id": "2d7d1b1f82604ece",
-    "group": "OVERALL",
-    "item": "ai_price_cuts",
-    "title": "Mistral AI’s Strategic Masterstroke: Acquiring Koyeb to Power European AI Cloud Dominance - CryptoRank",
-    "title_norm": "mistral ai s strategic masterstroke acquiring koyeb to power european ai cloud dominance cryptorank",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBobklORGswSFNTWFJRWlpfeG5ZbXBROU5Wb25sQjR0M094TkxmNmgyZ01hem1Nb2UzZnJEQkpGWFdMMjg4UTZaRkpxTEQ5VHBvaVVkUS1meW0yLTFwd3JzR1RUNXFCQmFlTUFRMlhTd3gwMkU4cW5kUg?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBobklORGswSFNTWFJRWlpfeG5ZbXBROU5Wb25sQjR0M094TkxmNmgyZ01hem1Nb2UzZnJEQkpGWFdMMjg4UTZaRkpxTEQ5VHBvaVVkUS1meW0yLTFwd3JzR1RUNXFCQmFlTUFRMlhTd3gwMkU4cW5kUg",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBobklORGswSFNTWFJRWlpfeG5ZbXBROU5Wb25sQjR0M094TkxmNmgyZ01hem1Nb2UzZnJEQkpGWFdMMjg4UTZaRkpxTEQ5VHBvaVVkUS1meW0yLTFwd3JzR1RUNXFCQmFlTUFRMlhTd3gwMkU4cW5kUg?oc=5\" target=\"_blank\">Mistral AI’s Strategic Masterstroke: Acquiring Koyeb to Power European AI Cloud Dominance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
-    "fetched_at": "2026-02-28T15:46:37.568098+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "97448d115ffb4454": {
     "id": "97448d115ffb4454",
     "group": "OVERALL",
@@ -3428,19 +2901,6 @@
     "fetched_at": "2026-02-28T15:46:37.568098+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
-  "eb3f82a698f50db5": {
-    "id": "eb3f82a698f50db5",
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "AI Spending by U.S. Companies Has Fund Managers Looking Overseas for Stocks - Barron's",
-    "title_norm": "ai spending by u s companies has fund managers looking overseas for stocks barron s",
-    "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxOTjhfM1dhOTgwbU1lblg3cXB6UnNzV0FKOGxUT01EYXBtMXQ3QVlDQUVlZTZQUS03bU9nVFlBcDIxbVdmVlhsaXpGdGN2a1F5U3B3RlpZcXAyWnVHQUhUc0E3VXJPYkUxYzBDTlRyNnRPb2lQNlpaZGFtbWw3NUEwendGcXZnbGFHRTJuZzg1cGxSTHMwSGRZX0k1ampMNERnQ3FUVzZfVHlqODMzclg4ekN4Ni1nUE1McUJFMkRjSlFlZGR2QkFCUk0tUngyNEJqTGx4MklNdzZVQ3FqN0VLenpkNGJOTkNINXY0anRCbmhFZkZKcG91SWVDeFg1LThNVEN5Y2ZfdGhucy00bDNrdlpwMEItTVBpbXE4YkVWa0dhbGxjUlAtNFEtSnQycHBRS0d5NGdnS1FOM2tRZW1DYmpIaUhEaTNIUFM1Qjh5Wl9GMkZKRDV4cjNGQ2IzVE02dFVnVEhuTWFxOEtzSXFzOUxKS1JSNXdvcnBLWHNrSTJoS3pBcUQ5VEdkZzR5ZUhaX3c?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMikgNBVV95cUxOTjhfM1dhOTgwbU1lblg3cXB6UnNzV0FKOGxUT01EYXBtMXQ3QVlDQUVlZTZQUS03bU9nVFlBcDIxbVdmVlhsaXpGdGN2a1F5U3B3RlpZcXAyWnVHQUhUc0E3VXJPYkUxYzBDTlRyNnRPb2lQNlpaZGFtbWw3NUEwendGcXZnbGFHRTJuZzg1cGxSTHMwSGRZX0k1ampMNERnQ3FUVzZfVHlqODMzclg4ekN4Ni1nUE1McUJFMkRjSlFlZGR2QkFCUk0tUngyNEJqTGx4MklNdzZVQ3FqN0VLenpkNGJOTkNINXY0anRCbmhFZkZKcG91SWVDeFg1LThNVEN5Y2ZfdGhucy00bDNrdlpwMEItTVBpbXE4YkVWa0dhbGxjUlAtNFEtSnQycHBRS0d5NGdnS1FOM2tRZW1DYmpIaUhEaTNIUFM1Qjh5Wl9GMkZKRDV4cjNGQ2IzVE02dFVnVEhuTWFxOEtzSXFzOUxKS1JSNXdvcnBLWHNrSTJoS3pBcUQ5VEdkZzR5ZUhaX3c",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgNBVV95cUxOTjhfM1dhOTgwbU1lblg3cXB6UnNzV0FKOGxUT01EYXBtMXQ3QVlDQUVlZTZQUS03bU9nVFlBcDIxbVdmVlhsaXpGdGN2a1F5U3B3RlpZcXAyWnVHQUhUc0E3VXJPYkUxYzBDTlRyNnRPb2lQNlpaZGFtbWw3NUEwendGcXZnbGFHRTJuZzg1cGxSTHMwSGRZX0k1ampMNERnQ3FUVzZfVHlqODMzclg4ekN4Ni1nUE1McUJFMkRjSlFlZGR2QkFCUk0tUngyNEJqTGx4MklNdzZVQ3FqN0VLenpkNGJOTkNINXY0anRCbmhFZkZKcG91SWVDeFg1LThNVEN5Y2ZfdGhucy00bDNrdlpwMEItTVBpbXE4YkVWa0dhbGxjUlAtNFEtSnQycHBRS0d5NGdnS1FOM2tRZW1DYmpIaUhEaTNIUFM1Qjh5Wl9GMkZKRDV4cjNGQ2IzVE02dFVnVEhuTWFxOEtzSXFzOUxKS1JSNXdvcnBLWHNrSTJoS3pBcUQ5VEdkZzR5ZUhaX3c?oc=5\" target=\"_blank\">AI Spending by U.S. Companies Has Fund Managers Looking Overseas for Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-    "fetched_at": "2026-02-28T15:46:37.568098+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "b090e4fa9eb46183": {
     "id": "b090e4fa9eb46183",
     "group": "OVERALL",
@@ -3472,19 +2932,6 @@
     "link_norm": "https://news.google.com/rss/articles/CBMizwNBVV95cUxORFRZU0I0OHc5RXUtU0NQQVVBLUdYUlB2ZTJ0YzVqNG5CYXVkQXFpWFdscndPcFpNdk1VekR1TnhiQy0wdk03Nk9MaVZscGFVckR3UXFnRHlHek1NbjJvZ0NZN0MxWFZ4TjNKaXVXNXo5Wmh4Z0lQRkRQSGlXaXRHbFlJNndFSkdfY2V2ZUltNFlUeGpRQWkwMHBfR0VqZmtKakYyNHBVM0otWVh6X0pXalpFaDVDcFhLaDhLd2NxYkZMQnVwcm9oQnhFVE83NmJrWkpfTXlQUkZRZWhZV0tOLTM2TDBUODJJUjVMeWEtWHZDQzNYU05xRFh4UVhKUjQwSWdtbEdGcU5NcllDS2M5OGNaMWw4bkl2cmo4ZDhtejRSNFVSdjRuWHJOdnEweVlSN0ZGbDNRaTVORDdpUWc0NTdfdk9jUGpReC1BclQtZWtmejBhTWlrU0JqUG53aGcydXhMQ09VaU56NHhBY1NOOUZJb3JrRUp3TmpxbUVBdFgwSVJDak92SFVjNm9Fd2JWODhOa2xxRVVpaGhVbzVvYzhBR2NsQWRBX0pIM0ZmUm0tR1VyTGRUallaS3FSWHJ0S1VNT0dQRktud2JKc0s0",
     "published": "Mon, 23 Feb 2026 12:57:00 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwNBVV95cUxORFRZU0I0OHc5RXUtU0NQQVVBLUdYUlB2ZTJ0YzVqNG5CYXVkQXFpWFdscndPcFpNdk1VekR1TnhiQy0wdk03Nk9MaVZscGFVckR3UXFnRHlHek1NbjJvZ0NZN0MxWFZ4TjNKaXVXNXo5Wmh4Z0lQRkRQSGlXaXRHbFlJNndFSkdfY2V2ZUltNFlUeGpRQWkwMHBfR0VqZmtKakYyNHBVM0otWVh6X0pXalpFaDVDcFhLaDhLd2NxYkZMQnVwcm9oQnhFVE83NmJrWkpfTXlQUkZRZWhZV0tOLTM2TDBUODJJUjVMeWEtWHZDQzNYU05xRFh4UVhKUjQwSWdtbEdGcU5NcllDS2M5OGNaMWw4bkl2cmo4ZDhtejRSNFVSdjRuWHJOdnEweVlSN0ZGbDNRaTVORDdpUWc0NTdfdk9jUGpReC1BclQtZWtmejBhTWlrU0JqUG53aGcydXhMQ09VaU56NHhBY1NOOUZJb3JrRUp3TmpxbUVBdFgwSVJDak92SFVjNm9Fd2JWODhOa2xxRVVpaGhVbzVvYzhBR2NsQWRBX0pIM0ZmUm0tR1VyTGRUallaS3FSWHJ0S1VNT0dQRktud2JKc0s0?oc=5\" target=\"_blank\">Opinion: Big Tech’s ‘Lag 7’ is putting the S&amp;P 500 — and your index fund — at risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
-    "fetched_at": "2026-02-28T15:46:37.568098+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "d71c410426fa5726": {
-    "id": "d71c410426fa5726",
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "AI Spending Fears Could Be a Mistake as Tech Selloff Masks Opportunity - Barron's",
-    "title_norm": "ai spending fears could be a mistake as tech selloff masks opportunity barron s",
-    "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNak5tWTZIVm44MnotTWV4ZlRtdWl4TkNYcTlycGRudUZwaENfeDNfeG9hNjJINFllb1FGdEJ3Qm92dWtDYnNXNUdtN19mSzlBUGo5T19uenZ4REVibXpyZktmWkJGZ3BFUDQwVF91VUJNYzZCSVNqaDRqQjhqY083ZXdsbVY5ZjVGdGtVemdvbXpscjh1cmkzeXpwX2E2S1MxYXozUlFKNm1VWUZhOGo3bnZESDVwVW9TUDlSWE9NeFpSLWwzdXEwYnIwZmF2S2pwVVR6VmFRNkFsZGNiaUQ1djZCZnczZzVZTG9OVmdVS3RjdVJEV3p1VW10N0dQZktiS09EVDBiM0l1amVrY1U1NDBPemRkcElCMnQwOVhHa1JPWGJvUUVpejFkcmNpSFJGMEFQNjJ2MkUxaTl0ZndtRnh4cGtRU1hadHhqWTNveXBEVks1Tmt5V1ZtTXNiaHFFRzJ3NFBSX2R1OWx2dk9OX2lZWXI3VDdqYVg5MFBhT2ZuZw?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNak5tWTZIVm44MnotTWV4ZlRtdWl4TkNYcTlycGRudUZwaENfeDNfeG9hNjJINFllb1FGdEJ3Qm92dWtDYnNXNUdtN19mSzlBUGo5T19uenZ4REVibXpyZktmWkJGZ3BFUDQwVF91VUJNYzZCSVNqaDRqQjhqY083ZXdsbVY5ZjVGdGtVemdvbXpscjh1cmkzeXpwX2E2S1MxYXozUlFKNm1VWUZhOGo3bnZESDVwVW9TUDlSWE9NeFpSLWwzdXEwYnIwZmF2S2pwVVR6VmFRNkFsZGNiaUQ1djZCZnczZzVZTG9OVmdVS3RjdVJEV3p1VW10N0dQZktiS09EVDBiM0l1amVrY1U1NDBPemRkcElCMnQwOVhHa1JPWGJvUUVpejFkcmNpSFJGMEFQNjJ2MkUxaTl0ZndtRnh4cGtRU1hadHhqWTNveXBEVks1Tmt5V1ZtTXNiaHFFRzJ3NFBSX2R1OWx2dk9OX2lZWXI3VDdqYVg5MFBhT2ZuZw",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggNBVV95cUxNak5tWTZIVm44MnotTWV4ZlRtdWl4TkNYcTlycGRudUZwaENfeDNfeG9hNjJINFllb1FGdEJ3Qm92dWtDYnNXNUdtN19mSzlBUGo5T19uenZ4REVibXpyZktmWkJGZ3BFUDQwVF91VUJNYzZCSVNqaDRqQjhqY083ZXdsbVY5ZjVGdGtVemdvbXpscjh1cmkzeXpwX2E2S1MxYXozUlFKNm1VWUZhOGo3bnZESDVwVW9TUDlSWE9NeFpSLWwzdXEwYnIwZmF2S2pwVVR6VmFRNkFsZGNiaUQ1djZCZnczZzVZTG9OVmdVS3RjdVJEV3p1VW10N0dQZktiS09EVDBiM0l1amVrY1U1NDBPemRkcElCMnQwOVhHa1JPWGJvUUVpejFkcmNpSFJGMEFQNjJ2MkUxaTl0ZndtRnh4cGtRU1hadHhqWTNveXBEVks1Tmt5V1ZtTXNiaHFFRzJ3NFBSX2R1OWx2dk9OX2lZWXI3VDdqYVg5MFBhT2ZuZw?oc=5\" target=\"_blank\">AI Spending Fears Could Be a Mistake as Tech Selloff Masks Opportunity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
     "fetched_at": "2026-02-28T15:46:37.568098+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
@@ -3553,19 +3000,6 @@
     "fetched_at": "2026-02-28T17:56:36.974589+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
-  "d2d781e34671b141": {
-    "id": "d2d781e34671b141",
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "AI Spending by U.S. Companies Has Fund Managers Looking Overseas for Stocks - Barron's",
-    "title_norm": "ai spending by u s companies has fund managers looking overseas for stocks barron s",
-    "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPNlZIWmNsYmNSZFhBZkZTSWJEME8wRnVzZTJyMElwS0g5WHRmdXhPamhhVWRzLW9oZzMzUTlmdWpyR3E1R3NqYlloN082NjFhTmFBX09IVWJnRjRULTZ5N3c0SS0tVFpQWE5ZcWNwNXVSRXloQmhCZlFGeUF1UHIxTWpmUzZfU2hmRm9aRlNBaU1peVVOa2xJdGtPdHhBUFhNZ1lZcHRmdEpMc3NSMUVjNzFUVnBFZ1djNGtpRDF2aHdITlVBeC13Qml3a0NhT2hNdjd1WEFIRndNTUR3MGpHWHhnQjdnTFFXZ1lHc2lXUjkyc3EzeUYtaURpS1BWYzBEY2s2ZVZaVlZtZ202aGJXRVRubVBRYlBVWlY0ZU9YUXlYQmFPRmRmNUVnOHgzeDNaMVZMRE9jbEx5dUpkd05fQW8ya0x1ZDctNWRuUDVlQXJaOW1FZERlYlltUGdUdURfY1VTeHRoNUNpWkw2NEhqNklReXFyeHdtMkEzVmxjUHhON2oxWjNYRFBmWTlvWnJ0bFE?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPNlZIWmNsYmNSZFhBZkZTSWJEME8wRnVzZTJyMElwS0g5WHRmdXhPamhhVWRzLW9oZzMzUTlmdWpyR3E1R3NqYlloN082NjFhTmFBX09IVWJnRjRULTZ5N3c0SS0tVFpQWE5ZcWNwNXVSRXloQmhCZlFGeUF1UHIxTWpmUzZfU2hmRm9aRlNBaU1peVVOa2xJdGtPdHhBUFhNZ1lZcHRmdEpMc3NSMUVjNzFUVnBFZ1djNGtpRDF2aHdITlVBeC13Qml3a0NhT2hNdjd1WEFIRndNTUR3MGpHWHhnQjdnTFFXZ1lHc2lXUjkyc3EzeUYtaURpS1BWYzBEY2s2ZVZaVlZtZ202aGJXRVRubVBRYlBVWlY0ZU9YUXlYQmFPRmRmNUVnOHgzeDNaMVZMRE9jbEx5dUpkd05fQW8ya0x1ZDctNWRuUDVlQXJaOW1FZERlYlltUGdUdURfY1VTeHRoNUNpWkw2NEhqNklReXFyeHdtMkEzVmxjUHhON2oxWjNYRFBmWTlvWnJ0bFE",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgNBVV95cUxPNlZIWmNsYmNSZFhBZkZTSWJEME8wRnVzZTJyMElwS0g5WHRmdXhPamhhVWRzLW9oZzMzUTlmdWpyR3E1R3NqYlloN082NjFhTmFBX09IVWJnRjRULTZ5N3c0SS0tVFpQWE5ZcWNwNXVSRXloQmhCZlFGeUF1UHIxTWpmUzZfU2hmRm9aRlNBaU1peVVOa2xJdGtPdHhBUFhNZ1lZcHRmdEpMc3NSMUVjNzFUVnBFZ1djNGtpRDF2aHdITlVBeC13Qml3a0NhT2hNdjd1WEFIRndNTUR3MGpHWHhnQjdnTFFXZ1lHc2lXUjkyc3EzeUYtaURpS1BWYzBEY2s2ZVZaVlZtZ202aGJXRVRubVBRYlBVWlY0ZU9YUXlYQmFPRmRmNUVnOHgzeDNaMVZMRE9jbEx5dUpkd05fQW8ya0x1ZDctNWRuUDVlQXJaOW1FZERlYlltUGdUdURfY1VTeHRoNUNpWkw2NEhqNklReXFyeHdtMkEzVmxjUHhON2oxWjNYRFBmWTlvWnJ0bFE?oc=5\" target=\"_blank\">AI Spending by U.S. Companies Has Fund Managers Looking Overseas for Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-    "fetched_at": "2026-02-28T17:56:36.974589+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "3c1dfbdf6c6e7ccd": {
     "id": "3c1dfbdf6c6e7ccd",
     "group": "OVERALL",
@@ -3576,19 +3010,6 @@
     "link_norm": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOUFJCazlQTXFRTVN0VXBmVjFWMUkyeVMxc21nRzZ4S3QwUnlVRmkyRGtzZUVxZXNxM0J2dndSaWc2V0hZVWlRLUlPLXpNMDAyc0h4Mi1HNFdROVEwMDF1MzJtcHJPMUtUcFB5NXc0emFEVEhKajl5QmFHaUd2SFhyaDdiWlRvdTV1cjFNZXZ0cDF0NWdzbGx2U3VMTVpiVTNkcFY4czItd1BhWTdsSEVoVG92aXpCMlVSaFFETGFMRWtyakNtQTBFcjJfejdWd0ZDeDU4dk03RnhLV2xOSGcxbV9kenNmTU9hb2I5QWU3WHU3bk5lSWcwQTZWd082WGJkdEZmclduMldaZUxvY0k1elU3eVJtTlM5M3c2VzRZaEphQkpRZ04zSWtoZUlIeDFaZGtmNWdxMzdDMmZOZDNTX2lFVTEzcmVOWXh3enNYNzQ2UjRHVUpfWHd6Y2xwNm1BY1FsZlVGQl9VZGcycGFuREtocTMzMHVuWXNGQ3dqYkowWFF0VjVETUFtUzZPLWFGaXpNYXZ1LV9PY3FSMTc4WXJIM0pWT21fUWg0SHBWYlk0OU5NamxENFlxMXV3aVlJaXhRY3FuVDFVNnNVVVdj",
     "published": "Mon, 23 Feb 2026 12:57:00 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwNBVV95cUxOUFJCazlQTXFRTVN0VXBmVjFWMUkyeVMxc21nRzZ4S3QwUnlVRmkyRGtzZUVxZXNxM0J2dndSaWc2V0hZVWlRLUlPLXpNMDAyc0h4Mi1HNFdROVEwMDF1MzJtcHJPMUtUcFB5NXc0emFEVEhKajl5QmFHaUd2SFhyaDdiWlRvdTV1cjFNZXZ0cDF0NWdzbGx2U3VMTVpiVTNkcFY4czItd1BhWTdsSEVoVG92aXpCMlVSaFFETGFMRWtyakNtQTBFcjJfejdWd0ZDeDU4dk03RnhLV2xOSGcxbV9kenNmTU9hb2I5QWU3WHU3bk5lSWcwQTZWd082WGJkdEZmclduMldaZUxvY0k1elU3eVJtTlM5M3c2VzRZaEphQkpRZ04zSWtoZUlIeDFaZGtmNWdxMzdDMmZOZDNTX2lFVTEzcmVOWXh3enNYNzQ2UjRHVUpfWHd6Y2xwNm1BY1FsZlVGQl9VZGcycGFuREtocTMzMHVuWXNGQ3dqYkowWFF0VjVETUFtUzZPLWFGaXpNYXZ1LV9PY3FSMTc4WXJIM0pWT21fUWg0SHBWYlk0OU5NamxENFlxMXV3aVlJaXhRY3FuVDFVNnNVVVdj?oc=5\" target=\"_blank\">Opinion: Big Tech’s ‘Lag 7’ is putting the S&amp;P 500 — and your index fund — at risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
-    "fetched_at": "2026-02-28T17:56:36.974589+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "166e7be277d3b55f": {
-    "id": "166e7be277d3b55f",
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "AI Spending Fears Could Be a Mistake as Tech Selloff Masks Opportunity - Barron's",
-    "title_norm": "ai spending fears could be a mistake as tech selloff masks opportunity barron s",
-    "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQd0xpb3lHQXdaWDh2eVRyNmJKQVB2ZUkxZ1VKcm90MU11cFozYnJsMFBQeW0wT09WNkl4VnNCZExLRVN3cE11WkEwRWg2bkNFMEIxNXJSR0lpUUpfZ3V5YlRwejF5Rk5LSnhHTy1Ub1VmcU9fbGEweTh6aFpiMEJnYWd0a0NQUHp0VWZTdW53ZUpvWHFsVlVTT3VhN3RYVlBmNkh0UEZOaE1wREF0cExtT0l1NzBNc1NMeWlPS2ZvU1QyU3RzWV9YREZYOVF3TDFxNlR5MG9fekxyR0lERmU1bFVNYXVCbUMyZ3FLeFhyVEd6NkFMaV80ZGpoQV9rTXNRclFEUGxCeEdvd2JwX3hsbzBGZVpySFV2TENBMlRUc1M0cGlYZ3FUTmZQSW9XaGxJWXc1ZjVIaFlzQ3p6RUg1QmUwa2x5WGx6TEozM1pkVExOZlRyWkxZNGYtbTNGQ2JfbGdqZFl6X05NNjBZOVl2T2c2WktIZUVzTm1hVzdHaUZNdw?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQd0xpb3lHQXdaWDh2eVRyNmJKQVB2ZUkxZ1VKcm90MU11cFozYnJsMFBQeW0wT09WNkl4VnNCZExLRVN3cE11WkEwRWg2bkNFMEIxNXJSR0lpUUpfZ3V5YlRwejF5Rk5LSnhHTy1Ub1VmcU9fbGEweTh6aFpiMEJnYWd0a0NQUHp0VWZTdW53ZUpvWHFsVlVTT3VhN3RYVlBmNkh0UEZOaE1wREF0cExtT0l1NzBNc1NMeWlPS2ZvU1QyU3RzWV9YREZYOVF3TDFxNlR5MG9fekxyR0lERmU1bFVNYXVCbUMyZ3FLeFhyVEd6NkFMaV80ZGpoQV9rTXNRclFEUGxCeEdvd2JwX3hsbzBGZVpySFV2TENBMlRUc1M0cGlYZ3FUTmZQSW9XaGxJWXc1ZjVIaFlzQ3p6RUg1QmUwa2x5WGx6TEozM1pkVExOZlRyWkxZNGYtbTNGQ2JfbGdqZFl6X05NNjBZOVl2T2c2WktIZUVzTm1hVzdHaUZNdw",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggNBVV95cUxQd0xpb3lHQXdaWDh2eVRyNmJKQVB2ZUkxZ1VKcm90MU11cFozYnJsMFBQeW0wT09WNkl4VnNCZExLRVN3cE11WkEwRWg2bkNFMEIxNXJSR0lpUUpfZ3V5YlRwejF5Rk5LSnhHTy1Ub1VmcU9fbGEweTh6aFpiMEJnYWd0a0NQUHp0VWZTdW53ZUpvWHFsVlVTT3VhN3RYVlBmNkh0UEZOaE1wREF0cExtT0l1NzBNc1NMeWlPS2ZvU1QyU3RzWV9YREZYOVF3TDFxNlR5MG9fekxyR0lERmU1bFVNYXVCbUMyZ3FLeFhyVEd6NkFMaV80ZGpoQV9rTXNRclFEUGxCeEdvd2JwX3hsbzBGZVpySFV2TENBMlRUc1M0cGlYZ3FUTmZQSW9XaGxJWXc1ZjVIaFlzQ3p6RUg1QmUwa2x5WGx6TEozM1pkVExOZlRyWkxZNGYtbTNGQ2JfbGdqZFl6X05NNjBZOVl2T2c2WktIZUVzTm1hVzdHaUZNdw?oc=5\" target=\"_blank\">AI Spending Fears Could Be a Mistake as Tech Selloff Masks Opportunity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
     "fetched_at": "2026-02-28T17:56:36.974589+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
@@ -4076,19 +3497,6 @@
     "fetched_at": "2026-03-01T17:59:39.068732+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
-  "89e0b8a3378db5e2": {
-    "id": "89e0b8a3378db5e2",
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "AI Spending by U.S. Companies Has Fund Managers Looking Overseas for Stocks - Barron's",
-    "title_norm": "ai spending by u s companies has fund managers looking overseas for stocks barron s",
-    "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQenF4bFlqdFZnQWVoM08zMWs5MFpJTThVUXJPZDdHOGlqR2p6Y2VrUC04X05lRUxZWDlHUGF2X3BrZHAzcXJaSU9lYUJZMXpTZHNkRlhSV0w5NHAzNDUtVlYydnNyb29QemFfbzVzVnBhOV9Bc3pxS1k1VC1oZFNnR1NOeFQ2cG0zLTVBMWlzTXlTTWUzMFdzLTN3bl9JYWg5OWFuQW8xUC1ZeGF2QTNOMUJoV3JtY1pmcjdHRzhRRzJWR240TVFsekhqYmRqT0dETUVCUEtObzVkRmdqWjhMNnljT1o5QUc5UDMyc29fVk04NDVnamMtNG5HRmlXdlBOM2dISUtmbTBpV0k0SzYxVGtVbEswMkVFR3F5Q01WVjB4UXdZVlBabElIY3p6cEVrUnJ3cFdXaXJmZU5VV3Y3ZDRGN043dEJGbGhjZkJmVlBQdl9heUtqRVFQRFd2S1JLcll0S3dsQUZqNlR6aTdXdmpycEtEZFUybDRrX0FWWnpuNEIwOVA5Rnl1WV9fck5xQmc?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQenF4bFlqdFZnQWVoM08zMWs5MFpJTThVUXJPZDdHOGlqR2p6Y2VrUC04X05lRUxZWDlHUGF2X3BrZHAzcXJaSU9lYUJZMXpTZHNkRlhSV0w5NHAzNDUtVlYydnNyb29QemFfbzVzVnBhOV9Bc3pxS1k1VC1oZFNnR1NOeFQ2cG0zLTVBMWlzTXlTTWUzMFdzLTN3bl9JYWg5OWFuQW8xUC1ZeGF2QTNOMUJoV3JtY1pmcjdHRzhRRzJWR240TVFsekhqYmRqT0dETUVCUEtObzVkRmdqWjhMNnljT1o5QUc5UDMyc29fVk04NDVnamMtNG5HRmlXdlBOM2dISUtmbTBpV0k0SzYxVGtVbEswMkVFR3F5Q01WVjB4UXdZVlBabElIY3p6cEVrUnJ3cFdXaXJmZU5VV3Y3ZDRGN043dEJGbGhjZkJmVlBQdl9heUtqRVFQRFd2S1JLcll0S3dsQUZqNlR6aTdXdmpycEtEZFUybDRrX0FWWnpuNEIwOVA5Rnl1WV9fck5xQmc",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgNBVV95cUxQenF4bFlqdFZnQWVoM08zMWs5MFpJTThVUXJPZDdHOGlqR2p6Y2VrUC04X05lRUxZWDlHUGF2X3BrZHAzcXJaSU9lYUJZMXpTZHNkRlhSV0w5NHAzNDUtVlYydnNyb29QemFfbzVzVnBhOV9Bc3pxS1k1VC1oZFNnR1NOeFQ2cG0zLTVBMWlzTXlTTWUzMFdzLTN3bl9JYWg5OWFuQW8xUC1ZeGF2QTNOMUJoV3JtY1pmcjdHRzhRRzJWR240TVFsekhqYmRqT0dETUVCUEtObzVkRmdqWjhMNnljT1o5QUc5UDMyc29fVk04NDVnamMtNG5HRmlXdlBOM2dISUtmbTBpV0k0SzYxVGtVbEswMkVFR3F5Q01WVjB4UXdZVlBabElIY3p6cEVrUnJ3cFdXaXJmZU5VV3Y3ZDRGN043dEJGbGhjZkJmVlBQdl9heUtqRVFQRFd2S1JLcll0S3dsQUZqNlR6aTdXdmpycEtEZFUybDRrX0FWWnpuNEIwOVA5Rnl1WV9fck5xQmc?oc=5\" target=\"_blank\">AI Spending by U.S. Companies Has Fund Managers Looking Overseas for Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-    "fetched_at": "2026-03-01T17:59:39.068732+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "a321b74101cd6254": {
     "id": "a321b74101cd6254",
     "group": "OVERALL",
@@ -4101,40 +3509,6 @@
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwNBVV95cUxPam1xMkNYM1ViTnN5UVdpMTRMd2tncWhLNXR4M3YxVG9fcUZtWUNfVTFKMFNZQXZmUXRZa29RNk45M0pmam5sVTBaOEY1d2c2aDhpR3RpR09oNGI3WFltUHQ1ajVwQ2U4TU05QW9yUlhzd2pabWppOGtLUGdpSk1QSU1mU1VlYXhZLVhqa2ZVYkoxUU9RajRPNmVNMVh1TmgyYzlpSUlmdVF4QlRsVExCRUdvb2REUGg4NnQ4c2JyRWg1bVNFS2hFeVVwYXRFbU9RX3I2OEFGV0xpZHIwMXR2dy1Pak80UWw1ajNhWjJvVklrZ2lOc1o4XzhEcERuSlFTU3hDSHpzekVIU3YxOENXcWs3WkJ5aVQ0TkNNRkgzeEVPS2V1TmlmN0M1OTlpaVVBQjEyYVIwOUgtUnU4cG5RamtnTmZFR1FTa3FSWjNoTk1oektyb3Y5VVlDYXBuaTh3RUhpdzVaRF9BZGtmTXZjQ25sd2ZQcDdiV3JOZ2pPLVYxSDAzUXpDc0pVNnM0a3FOY0szT3BNaVNOYTRPZUNZeDFMZEZsbDJKRFBlQ1ktSnVYdDNKWWZPUkhnS0ZOaGNhekhyckR4RzdTLUpfRHdJ?oc=5\" target=\"_blank\">Opinion: Big Tech’s ‘Lag 7’ is putting the S&amp;P 500 — and your index fund — at risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
     "fetched_at": "2026-03-01T17:59:39.068732+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "f935f2f4dacd32c8": {
-    "id": "f935f2f4dacd32c8",
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "AI Spending Fears Could Be a Mistake as Tech Selloff Masks Opportunity - Barron's",
-    "title_norm": "ai spending fears could be a mistake as tech selloff masks opportunity barron s",
-    "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPcmRWUHI0LV9YSC1aekEyck11Z1g1NWFqckxrVHo1R3RBWkZTckFQRXZrSlBDeXlSWUMteGRnZV9lbm5DRG5kYkRHTzNoNTBWdm1zemx1d0tIZ1M4V1dPdVBmc3dNQTk5SjFWN202SkpLM1pNTUhESlI2N1hxZ2czRzBmTzNKN3RVWnYtS3lrU0NKV3Rvdnd0cnhzUkJrcHIxQ29GczJHd2lFMzR3X25IYm12SnkxaVNDM29Ldk9xbVdfUkw3NXJGd19NS2VzMzlWWTM5TDVaT1hycnlibUtnLXJoSFFMbVJINHU1Um9ZZEFUd2xOYmw1dGprZ3JLaUcxT2Z5dzQ4OVU3SnFQRUR5dlJzRm1ZdnBTLUZMZV81dEN2c3VaTGppbmtGTGNheUZ2amNNN21ZY2EwVzlLSFkxR3YxLVJsRVZUS1F6dzgydzVMdFRRNmdQdGt0Y3p3MllnU1BrVEUxak1UUmJKdU9zX0pGUlJsaVctaklQWHNjVkVQdw?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPcmRWUHI0LV9YSC1aekEyck11Z1g1NWFqckxrVHo1R3RBWkZTckFQRXZrSlBDeXlSWUMteGRnZV9lbm5DRG5kYkRHTzNoNTBWdm1zemx1d0tIZ1M4V1dPdVBmc3dNQTk5SjFWN202SkpLM1pNTUhESlI2N1hxZ2czRzBmTzNKN3RVWnYtS3lrU0NKV3Rvdnd0cnhzUkJrcHIxQ29GczJHd2lFMzR3X25IYm12SnkxaVNDM29Ldk9xbVdfUkw3NXJGd19NS2VzMzlWWTM5TDVaT1hycnlibUtnLXJoSFFMbVJINHU1Um9ZZEFUd2xOYmw1dGprZ3JLaUcxT2Z5dzQ4OVU3SnFQRUR5dlJzRm1ZdnBTLUZMZV81dEN2c3VaTGppbmtGTGNheUZ2amNNN21ZY2EwVzlLSFkxR3YxLVJsRVZUS1F6dzgydzVMdFRRNmdQdGt0Y3p3MllnU1BrVEUxak1UUmJKdU9zX0pGUlJsaVctaklQWHNjVkVQdw",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggNBVV95cUxPcmRWUHI0LV9YSC1aekEyck11Z1g1NWFqckxrVHo1R3RBWkZTckFQRXZrSlBDeXlSWUMteGRnZV9lbm5DRG5kYkRHTzNoNTBWdm1zemx1d0tIZ1M4V1dPdVBmc3dNQTk5SjFWN202SkpLM1pNTUhESlI2N1hxZ2czRzBmTzNKN3RVWnYtS3lrU0NKV3Rvdnd0cnhzUkJrcHIxQ29GczJHd2lFMzR3X25IYm12SnkxaVNDM29Ldk9xbVdfUkw3NXJGd19NS2VzMzlWWTM5TDVaT1hycnlibUtnLXJoSFFMbVJINHU1Um9ZZEFUd2xOYmw1dGprZ3JLaUcxT2Z5dzQ4OVU3SnFQRUR5dlJzRm1ZdnBTLUZMZV81dEN2c3VaTGppbmtGTGNheUZ2amNNN21ZY2EwVzlLSFkxR3YxLVJsRVZUS1F6dzgydzVMdFRRNmdQdGt0Y3p3MllnU1BrVEUxak1UUmJKdU9zX0pGUlJsaVctaklQWHNjVkVQdw?oc=5\" target=\"_blank\">AI Spending Fears Could Be a Mistake as Tech Selloff Masks Opportunity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-    "fetched_at": "2026-03-01T17:59:39.068732+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "d1184e7abacfb323": {
-    "id": "d1184e7abacfb323",
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "Tech and AI concerns keep Wall Street on edge, markets see volatility - Business Standard",
-    "title_norm": "tech and ai concerns keep wall street on edge markets see volatility business standard",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObmpfaEZlY3Brbk52ZlVITWFFb1JkWFFkakJWMmRvOFltZU5jdHkyekRHSW1zY3FKYjVHX3ZiTkhTWXRaYUV1R180NW94X25SYmszR2dwSXo0MDl6blNJa3F2eDFubWdRdWxTNjBHMDFYQzN3YXFmV3RoaHQxQWVLM015QzV2cFpIM3ZwSlhNeEc4RTdGbENtclBwclJaTnRSNGpOcXpDc05yUkZGMmF5OGNBdGUyZ0EzQUczWng0THdoYV9vYTdMODdaZ2RMYTZy0gHWAUFVX3lxTE11TVZLUllFTXVwTXZ0eEpQMVlmaTJtREtKcElsVGpNMVVCS1RnMW5TVV9HaGxENGFyNjVOU1dpbEZCU0ZldE53SmpfNnFLQ0NUVk9Rd2c4QkUyOVBuNFBjNFA4cWxhc09PT2xVZER5ZHpMNTc2dmlqWXIyWHZQYk9walhac1otY3FiMUtYMUE5QTdwWGRLdUJyWDJydHlOdXJJQlJ3em5ReXZfdTJkbU1iTktZYlRXa29ZcjZESnZYOEhHQWp4UHBEOC11S0ozWDhFRGNqM3c?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObmpfaEZlY3Brbk52ZlVITWFFb1JkWFFkakJWMmRvOFltZU5jdHkyekRHSW1zY3FKYjVHX3ZiTkhTWXRaYUV1R180NW94X25SYmszR2dwSXo0MDl6blNJa3F2eDFubWdRdWxTNjBHMDFYQzN3YXFmV3RoaHQxQWVLM015QzV2cFpIM3ZwSlhNeEc4RTdGbENtclBwclJaTnRSNGpOcXpDc05yUkZGMmF5OGNBdGUyZ0EzQUczWng0THdoYV9vYTdMODdaZ2RMYTZy0gHWAUFVX3lxTE11TVZLUllFTXVwTXZ0eEpQMVlmaTJtREtKcElsVGpNMVVCS1RnMW5TVV9HaGxENGFyNjVOU1dpbEZCU0ZldE53SmpfNnFLQ0NUVk9Rd2c4QkUyOVBuNFBjNFA4cWxhc09PT2xVZER5ZHpMNTc2dmlqWXIyWHZQYk9walhac1otY3FiMUtYMUE5QTdwWGRLdUJyWDJydHlOdXJJQlJ3em5ReXZfdTJkbU1iTktZYlRXa29ZcjZESnZYOEhHQWp4UHBEOC11S0ozWDhFRGNqM3c",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxObmpfaEZlY3Brbk52ZlVITWFFb1JkWFFkakJWMmRvOFltZU5jdHkyekRHSW1zY3FKYjVHX3ZiTkhTWXRaYUV1R180NW94X25SYmszR2dwSXo0MDl6blNJa3F2eDFubWdRdWxTNjBHMDFYQzN3YXFmV3RoaHQxQWVLM015QzV2cFpIM3ZwSlhNeEc4RTdGbENtclBwclJaTnRSNGpOcXpDc05yUkZGMmF5OGNBdGUyZ0EzQUczWng0THdoYV9vYTdMODdaZ2RMYTZy0gHWAUFVX3lxTE11TVZLUllFTXVwTXZ0eEpQMVlmaTJtREtKcElsVGpNMVVCS1RnMW5TVV9HaGxENGFyNjVOU1dpbEZCU0ZldE53SmpfNnFLQ0NUVk9Rd2c4QkUyOVBuNFBjNFA4cWxhc09PT2xVZER5ZHpMNTc2dmlqWXIyWHZQYk9walhac1otY3FiMUtYMUE5QTdwWGRLdUJyWDJydHlOdXJJQlJ3em5ReXZfdTJkbU1iTktZYlRXa29ZcjZESnZYOEhHQWp4UHBEOC11S0ozWDhFRGNqM3c?oc=5\" target=\"_blank\">Tech and AI concerns keep Wall Street on edge, markets see volatility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
-    "fetched_at": "2026-03-01T17:59:39.068732+09:00",
-    "llm": {
-      "relevant": false,
-      "strength": 0,
-      "confidence": 85,
-      "reason": "Headline references broad tech/AI concerns and market volatility but provides no specific information about AI infrastructure providers, hyperscalers, customer churn, competitive positioning, or concrete market moves. This is tangential to market_positioning risk and does not constitute a direct signal.",
-      "signals": []
-    },
-    "llm_model": "gpt-5-mini",
-    "llm_classified_at": "2026-03-01T18:00:21.979207+09:00"
   },
   "9bcd5faf06397e71": {
     "id": "9bcd5faf06397e71",
@@ -4537,19 +3911,6 @@
     "llm_model": "gpt-5-mini",
     "llm_classified_at": "2026-03-02T19:31:33.611331+09:00"
   },
-  "b481dbfc95babc59": {
-    "id": "b481dbfc95babc59",
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "AI Spending by U.S. Companies Has Fund Managers Looking Overseas for Stocks - Barron's",
-    "title_norm": "ai spending by u s companies has fund managers looking overseas for stocks barron s",
-    "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNYUY4UUZOb21MNXNwblVFN2VLVFFLbHlNbElWbnNneEpqSTdhWEk4MkxPemRPZ3ZxMHhULVdOcG45X2xuTzJuSldVMC12RG5mbXkyeFlFaFZlXzd5WUpQcUVxVy1aTm9KcElrUXZqOU56MTczeDhWdUl5dk5oYkI5bzZtd184andOYlA2eVFUeThoSURxeDh0QWRFMUNncFhCdkpkRzZfVVNGYzZaWVFOc3VFVXRzWmhDVk41UjFWN3dLM19sYlY2YnEtQmNQT0hQcXQ0TXo3cU1BMDNjMnFIU3pXV0tYTWk0ajNJZlQ2R0RCTnJnOEx4Y0ZyXzgtbGl1Skh2RkVrUVBnOExqRVg4SkVod1paTWJ6dHZLVzlZaUp3RHZ5R2dWQWk5RnlSaGtMWXpyMWprRG9BQlFoNjZEN1VOS2FicHBxZ01WamNYaUo3OFpjd3RUMGtPV0FGTlhlNVdtT3VoQ251UzZldmNaV0ZTaUg3ZVpfaFJFb2pUcU96SGxQQ0p3UEdLWHBFZzQ1Q0E?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNYUY4UUZOb21MNXNwblVFN2VLVFFLbHlNbElWbnNneEpqSTdhWEk4MkxPemRPZ3ZxMHhULVdOcG45X2xuTzJuSldVMC12RG5mbXkyeFlFaFZlXzd5WUpQcUVxVy1aTm9KcElrUXZqOU56MTczeDhWdUl5dk5oYkI5bzZtd184andOYlA2eVFUeThoSURxeDh0QWRFMUNncFhCdkpkRzZfVVNGYzZaWVFOc3VFVXRzWmhDVk41UjFWN3dLM19sYlY2YnEtQmNQT0hQcXQ0TXo3cU1BMDNjMnFIU3pXV0tYTWk0ajNJZlQ2R0RCTnJnOEx4Y0ZyXzgtbGl1Skh2RkVrUVBnOExqRVg4SkVod1paTWJ6dHZLVzlZaUp3RHZ5R2dWQWk5RnlSaGtMWXpyMWprRG9BQlFoNjZEN1VOS2FicHBxZ01WamNYaUo3OFpjd3RUMGtPV0FGTlhlNVdtT3VoQ251UzZldmNaV0ZTaUg3ZVpfaFJFb2pUcU96SGxQQ0p3UEdLWHBFZzQ1Q0E",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgNBVV95cUxNYUY4UUZOb21MNXNwblVFN2VLVFFLbHlNbElWbnNneEpqSTdhWEk4MkxPemRPZ3ZxMHhULVdOcG45X2xuTzJuSldVMC12RG5mbXkyeFlFaFZlXzd5WUpQcUVxVy1aTm9KcElrUXZqOU56MTczeDhWdUl5dk5oYkI5bzZtd184andOYlA2eVFUeThoSURxeDh0QWRFMUNncFhCdkpkRzZfVVNGYzZaWVFOc3VFVXRzWmhDVk41UjFWN3dLM19sYlY2YnEtQmNQT0hQcXQ0TXo3cU1BMDNjMnFIU3pXV0tYTWk0ajNJZlQ2R0RCTnJnOEx4Y0ZyXzgtbGl1Skh2RkVrUVBnOExqRVg4SkVod1paTWJ6dHZLVzlZaUp3RHZ5R2dWQWk5RnlSaGtMWXpyMWprRG9BQlFoNjZEN1VOS2FicHBxZ01WamNYaUo3OFpjd3RUMGtPV0FGTlhlNVdtT3VoQ251UzZldmNaV0ZTaUg3ZVpfaFJFb2pUcU96SGxQQ0p3UEdLWHBFZzQ1Q0E?oc=5\" target=\"_blank\">AI Spending by U.S. Companies Has Fund Managers Looking Overseas for Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-    "fetched_at": "2026-03-02T19:31:13.952177+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "af759307b112620d": {
     "id": "af759307b112620d",
     "group": "OVERALL",
@@ -4575,43 +3936,6 @@
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPdGtueHNma0k0bzNNdURNTkUybVo0WDVxYUh2MjdXNU1tM2R1anNEWEFObjRoY0dtbmJLYkVxS05pSEEyb2JVUmNGN3QxQlMxb1RyY0ROUnltR01wVnRUVHNmWnlMV3ZGd2FhUkwwTFVCeDA5UGpKY2k0ZFRvQjlFc2RHUVdGZGEtd0Z1Qk1NUVpSUENSLVdhQml3QzNBc2p2RE1mVVprUQ?oc=5\" target=\"_blank\">Staying Invested, Diversified and Ahead With ETFs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
     "fetched_at": "2026-03-02T19:31:13.952177+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "6023c9cd7d95c1f9": {
-    "id": "6023c9cd7d95c1f9",
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "AI Spending Fears Could Be a Mistake as Tech Selloff Masks Opportunity - Barron's",
-    "title_norm": "ai spending fears could be a mistake as tech selloff masks opportunity barron s",
-    "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNa2ZzUEtLZ1VveG5mcTJMTTEtcTJNVHV3MmVoWUN2QXdlZTFQN29uRUR2ZlhLbGJIYUVpQmRCVkRReU1xS2ctSF9tOFdVRlp0NHNNZU1uMllxUTJoRkRMQjRjV2xuRjNCM1RnbEY2UGVxNE5FSDdhNkRHbGNsV1lKcGp4bzlFajJvc3B2cTJsUTlnNHRaM1JsM3I4UzIxV3JDLWRQTllSUC0zbjB6d1BVLXJycjF2SmR6dW56OHZqR0UzLUIzWHphZjJ3VUNLaEFzUEdQTUdTVkxwNjBzNEc3SXNYOXhnd2doYU9PQzc3VGtaY1dyT080QzJKS0U1dHBadTJsNmJBQ2lNMjJPMVUwYlpkMFk1UExVdTczQk5QU0htTTYxbk5PcFd5elZMcjhYM2Y3Mm5vVEJ2dHctNnBpd2xNT3ZkeTF1VHZYdXlIT3BRblpxcVlVTmdndDZHdGdkMWY2dEJoRUN3dHBNb1oyeWtFUTIwX1dTbGFOWS1GdlhwZw?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNa2ZzUEtLZ1VveG5mcTJMTTEtcTJNVHV3MmVoWUN2QXdlZTFQN29uRUR2ZlhLbGJIYUVpQmRCVkRReU1xS2ctSF9tOFdVRlp0NHNNZU1uMllxUTJoRkRMQjRjV2xuRjNCM1RnbEY2UGVxNE5FSDdhNkRHbGNsV1lKcGp4bzlFajJvc3B2cTJsUTlnNHRaM1JsM3I4UzIxV3JDLWRQTllSUC0zbjB6d1BVLXJycjF2SmR6dW56OHZqR0UzLUIzWHphZjJ3VUNLaEFzUEdQTUdTVkxwNjBzNEc3SXNYOXhnd2doYU9PQzc3VGtaY1dyT080QzJKS0U1dHBadTJsNmJBQ2lNMjJPMVUwYlpkMFk1UExVdTczQk5QU0htTTYxbk5PcFd5elZMcjhYM2Y3Mm5vVEJ2dHctNnBpd2xNT3ZkeTF1VHZYdXlIT3BRblpxcVlVTmdndDZHdGdkMWY2dEJoRUN3dHBNb1oyeWtFUTIwX1dTbGFOWS1GdlhwZw",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggNBVV95cUxNa2ZzUEtLZ1VveG5mcTJMTTEtcTJNVHV3MmVoWUN2QXdlZTFQN29uRUR2ZlhLbGJIYUVpQmRCVkRReU1xS2ctSF9tOFdVRlp0NHNNZU1uMllxUTJoRkRMQjRjV2xuRjNCM1RnbEY2UGVxNE5FSDdhNkRHbGNsV1lKcGp4bzlFajJvc3B2cTJsUTlnNHRaM1JsM3I4UzIxV3JDLWRQTllSUC0zbjB6d1BVLXJycjF2SmR6dW56OHZqR0UzLUIzWHphZjJ3VUNLaEFzUEdQTUdTVkxwNjBzNEc3SXNYOXhnd2doYU9PQzc3VGtaY1dyT080QzJKS0U1dHBadTJsNmJBQ2lNMjJPMVUwYlpkMFk1UExVdTczQk5QU0htTTYxbk5PcFd5elZMcjhYM2Y3Mm5vVEJ2dHctNnBpd2xNT3ZkeTF1VHZYdXlIT3BRblpxcVlVTmdndDZHdGdkMWY2dEJoRUN3dHBNb1oyeWtFUTIwX1dTbGFOWS1GdlhwZw?oc=5\" target=\"_blank\">AI Spending Fears Could Be a Mistake as Tech Selloff Masks Opportunity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-    "fetched_at": "2026-03-02T19:31:13.952177+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "8dd6579a81e9639f": {
-    "id": "8dd6579a81e9639f",
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "Why fund managers are ‘uber-bullish’ despite AI concerns - Interactive Investor",
-    "title_norm": "why fund managers are uber bullish despite ai concerns interactive investor",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV0VadjlmY2lYcHJVYjdXRDFyak1pZGFjVjF3QU1aNi1PbHN4ZmZPUHJkeG9nd3Nlckdockx2UVhqUzhGR01EU1BoOTE4cTVnUmNBZVZpSjMyT0VoWko4SEZVU3VmWk5uUWxjN2dHWi1YY0p5eVVhTEFFYllOd3N6bVA3bE1BVVhyb3pKX19wTnljT1l0WEs0T2ljWnk0WmQ3M0Z5NkVkWQ?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV0VadjlmY2lYcHJVYjdXRDFyak1pZGFjVjF3QU1aNi1PbHN4ZmZPUHJkeG9nd3Nlckdockx2UVhqUzhGR01EU1BoOTE4cTVnUmNBZVZpSjMyT0VoWko4SEZVU3VmWk5uUWxjN2dHWi1YY0p5eVVhTEFFYllOd3N6bVA3bE1BVVhyb3pKX19wTnljT1l0WEs0T2ljWnk0WmQ3M0Z5NkVkWQ",
-    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPV0VadjlmY2lYcHJVYjdXRDFyak1pZGFjVjF3QU1aNi1PbHN4ZmZPUHJkeG9nd3Nlckdockx2UVhqUzhGR01EU1BoOTE4cTVnUmNBZVZpSjMyT0VoWko4SEZVU3VmWk5uUWxjN2dHWi1YY0p5eVVhTEFFYllOd3N6bVA3bE1BVVhyb3pKX19wTnljT1l0WEs0T2ljWnk0WmQ3M0Z5NkVkWQ?oc=5\" target=\"_blank\">Why fund managers are ‘uber-bullish’ despite AI concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Interactive Investor</font>",
-    "fetched_at": "2026-03-02T19:31:13.952177+09:00",
-    "llm": {
-      "relevant": true,
-      "strength": 3,
-      "confidence": 85,
-      "reason": "Headline explicitly states fund managers are \"uber-bullish\" despite AI concerns, indicating a clear market positioning tilt among managers. No further detail provided to elevate strength.",
-      "signals": [
-        "fund managers are \"uber-bullish\"",
-        "bullish market positioning despite AI concerns"
-      ]
-    },
-    "llm_model": "gpt-5-mini",
-    "llm_classified_at": "2026-03-02T19:31:49.256695+09:00"
   },
   "aefe987b4af93852": {
     "id": "aefe987b4af93852",
@@ -5099,30 +4423,6 @@
     "fetched_at": "2026-03-03T19:06:08.944009+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
-  "8ecf4cb656125f07": {
-    "id": "8ecf4cb656125f07",
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "Capex overinvestment concerns hit new high, BofA survey finds By Investing.com - Investing.com UK",
-    "title_norm": "capex overinvestment concerns hit new high bofa survey finds by investing com investing com uk",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU2E3dldNOUxvSDhIaGNTRkV0SmZZZkxBV3RQTG9iLUVXVXhiWDh4VzRNazA5SlhzTU9zY0tVUmNxVnZOLUtGR0YwME1Bd25GemV0WFJKeW5tYW1KVzl2Y1dIdzB3WkkzTy1GeFAza25FeFBiZFpVOUhseHJVcy1VZnVnZy1TV2hCZ2c4c1c3R0Vic1dCbExfM3liSEtJTnZ5bklnb0dQTmx1MS10UmdYN0Ezb2duQnc?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU2E3dldNOUxvSDhIaGNTRkV0SmZZZkxBV3RQTG9iLUVXVXhiWDh4VzRNazA5SlhzTU9zY0tVUmNxVnZOLUtGR0YwME1Bd25GemV0WFJKeW5tYW1KVzl2Y1dIdzB3WkkzTy1GeFAza25FeFBiZFpVOUhseHJVcy1VZnVnZy1TV2hCZ2c4c1c3R0Vic1dCbExfM3liSEtJTnZ5bklnb0dQTmx1MS10UmdYN0Ezb2duQnc",
-    "published": "Tue, 17 Feb 2026 11:38:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPU2E3dldNOUxvSDhIaGNTRkV0SmZZZkxBV3RQTG9iLUVXVXhiWDh4VzRNazA5SlhzTU9zY0tVUmNxVnZOLUtGR0YwME1Bd25GemV0WFJKeW5tYW1KVzl2Y1dIdzB3WkkzTy1GeFAza25FeFBiZFpVOUhseHJVcy1VZnVnZy1TV2hCZ2c4c1c3R0Vic1dCbExfM3liSEtJTnZ5bklnb0dQTmx1MS10UmdYN0Ezb2duQnc?oc=5\" target=\"_blank\">Capex overinvestment concerns hit new high, BofA survey finds By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com UK</font>",
-    "fetched_at": "2026-03-03T19:06:08.944009+09:00",
-    "llm": {
-      "relevant": false,
-      "strength": 0,
-      "confidence": 90,
-      "reason": "The headline reports broad market concern about capex overinvestment from a BofA survey but contains no specific mention of AI infrastructure, hyperscalers, data centers, cloud providers, or related capital spending details. The connection to hyperscaler/AI infra is only tangential and not supported by the text provided.",
-      "signals": [
-        "Capex overinvestment concerns (BofA survey)",
-        "General market sentiment on capex"
-      ]
-    },
-    "llm_model": "gpt-5-mini",
-    "llm_classified_at": "2026-03-03T19:07:06.865191+09:00"
-  },
   "86f647b0adcd2722": {
     "id": "86f647b0adcd2722",
     "group": "OVERALL",
@@ -5159,19 +4459,6 @@
     "link_norm": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qN0tNdTdmczJmQlFrZ3dXbTA4Z0Q3UlNoQ3kyX1dLUXVtTzRtVWZmdFVGVmdXWGwxRFR2djBvd1d3RUlESXVLQmp2Qnl3bUdzQUZ3TVFQNlppaVFOdnZUdlZVd0FuZ2FuNTNGQjhDdVBFbERpM25pWnk1Szc",
     "published": "Tue, 24 Feb 2026 06:34:06 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1qN0tNdTdmczJmQlFrZ3dXbTA4Z0Q3UlNoQ3kyX1dLUXVtTzRtVWZmdFVGVmdXWGwxRFR2djBvd1d3RUlESXVLQmp2Qnl3bUdzQUZ3TVFQNlppaVFOdnZUdlZVd0FuZ2FuNTNGQjhDdVBFbERpM25pWnk1Szc?oc=5\" target=\"_blank\">'The Big Short' Burry who bought Apple in 1998 has one dire regret</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-    "fetched_at": "2026-03-03T19:06:08.944009+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "66d18594c1c8a724": {
-    "id": "66d18594c1c8a724",
-    "group": "OVERALL",
-    "item": "market_positioning",
-    "title": "Big Tech approaches ‘red flag’ moment: AI capex is so great hyperscalers could go cash flow negative, Evercore warns - inkl",
-    "title_norm": "big tech approaches red flag moment ai capex is so great hyperscalers could go cash flow negative evercore warns inkl",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb0hsbnhOZWhfMllJdUd3d3lqMjNPeG90YmZSemdLc3VaOEtKdzdzUFFXSE1UNVBzakgzSXpLbWxtdlFCamJqRFpzMUdyWHhGM2stUUdhLV9DeVVNQVZmR09jSFZYTGdWckhOOVJSVU9VWWlmaWJrZEZzUXc4ajR3LWxyZW9JMFprY1Q3dVVSaGhQclNPeklqb3VIRmNJTEpmeEVhOEE5RlROLThFZlA2SVl3N3Rrb0I0ODZ1dlVERHU0ZHhzTWhpRDV4NXBFMy00RG5j?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb0hsbnhOZWhfMllJdUd3d3lqMjNPeG90YmZSemdLc3VaOEtKdzdzUFFXSE1UNVBzakgzSXpLbWxtdlFCamJqRFpzMUdyWHhGM2stUUdhLV9DeVVNQVZmR09jSFZYTGdWckhOOVJSVU9VWWlmaWJrZEZzUXc4ajR3LWxyZW9JMFprY1Q3dVVSaGhQclNPeklqb3VIRmNJTEpmeEVhOEE5RlROLThFZlA2SVl3N3Rrb0I0ODZ1dlVERHU0ZHhzTWhpRDV4NXBFMy00RG5j",
-    "published": "Tue, 17 Feb 2026 11:20:31 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb0hsbnhOZWhfMllJdUd3d3lqMjNPeG90YmZSemdLc3VaOEtKdzdzUFFXSE1UNVBzakgzSXpLbWxtdlFCamJqRFpzMUdyWHhGM2stUUdhLV9DeVVNQVZmR09jSFZYTGdWckhOOVJSVU9VWWlmaWJrZEZzUXc4ajR3LWxyZW9JMFprY1Q3dVVSaGhQclNPeklqb3VIRmNJTEpmeEVhOEE5RlROLThFZlA2SVl3N3Rrb0I0ODZ1dlVERHU0ZHhzTWhpRDV4NXBFMy00RG5j?oc=5\" target=\"_blank\">Big Tech approaches ‘red flag’ moment: AI capex is so great hyperscalers could go cash flow negative, Evercore warns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">inkl</font>",
     "fetched_at": "2026-03-03T19:06:08.944009+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
@@ -19213,6 +18500,495 @@
     "published": "Sun, 22 Mar 2026 07:00:00 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQTGYzbUZMa1NEVVh5YWlNTnhyZjVPY1o1YXJOWkJ0MTFYN3lGM0VSVzdxcC1DN1BMajViTzlzVW1EQmkwMXBhUkxvejk3bndET0daQXBfaU54SVZJRkZkSWJYb3V5dmMzUmY5QTNsZG9nQlNpR3NkQm91RXlrcGk4cGhpVDZXZDZwZjJ1WmhMS2habGlYMHAtdW90MFlya3RCbFc5YkFONXdMOGM4dnNhZVY3UERpbWJRTU9MSzJlRQ?oc=5\" target=\"_blank\">Amazon.com Inc. stock faces cash flow squeeze amid AI investments and spring sales pivot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
     "fetched_at": "2026-04-03T17:48:08.420283+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "78f247ac7ad28dd0": {
+    "id": "78f247ac7ad28dd0",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "Lead with Sustainability and Follow the Power: The Top Three Considerations for Building AI Data Centers in 2026 - The Fast Mode",
+    "title_norm": "lead with sustainability and follow the power the top three considerations for building ai data centers in 2026 the fast mode",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOLUVVcUthZHlYZGR2aUd2d1BHQkVfaFVOa0c1cXRkQk5JZ2J4REFTUVY3QUFRc25ZMTZMdjFnZTVpUC1uUFlOWG5lMTlIU3VGN0ZiLUpadklOS3N6OU9TZWVjajM4c1JiQWo4aHZtY215cnBONzB6S3ZRUEdIc0ItbUVxdS1TcnpETjVQeVZEb1R4OFJIZURQbUR0MGl1RzBYT01MR0lsLXI2TE11VmE5NzhscGdhWm1jVVFSemh1Q0ZNMEJocGJ4TkppS3d1djJmX3hfa2c2blgwRTRIRXBDbzBVMEJLMkFXX0RFZkZxN0hWUQ?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOLUVVcUthZHlYZGR2aUd2d1BHQkVfaFVOa0c1cXRkQk5JZ2J4REFTUVY3QUFRc25ZMTZMdjFnZTVpUC1uUFlOWG5lMTlIU3VGN0ZiLUpadklOS3N6OU9TZWVjajM4c1JiQWo4aHZtY215cnBONzB6S3ZRUEdIc0ItbUVxdS1TcnpETjVQeVZEb1R4OFJIZURQbUR0MGl1RzBYT01MR0lsLXI2TE11VmE5NzhscGdhWm1jVVFSemh1Q0ZNMEJocGJ4TkppS3d1djJmX3hfa2c2blgwRTRIRXBDbzBVMEJLMkFXX0RFZkZxN0hWUQ",
+    "published": "Fri, 03 Apr 2026 03:00:39 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOLUVVcUthZHlYZGR2aUd2d1BHQkVfaFVOa0c1cXRkQk5JZ2J4REFTUVY3QUFRc25ZMTZMdjFnZTVpUC1uUFlOWG5lMTlIU3VGN0ZiLUpadklOS3N6OU9TZWVjajM4c1JiQWo4aHZtY215cnBONzB6S3ZRUEdIc0ItbUVxdS1TcnpETjVQeVZEb1R4OFJIZURQbUR0MGl1RzBYT01MR0lsLXI2TE11VmE5NzhscGdhWm1jVVFSemh1Q0ZNMEJocGJ4TkppS3d1djJmX3hfa2c2blgwRTRIRXBDbzBVMEJLMkFXX0RFZkZxN0hWUQ?oc=5\" target=\"_blank\">Lead with Sustainability and Follow the Power: The Top Three Considerations for Building AI Data Centers in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fast Mode</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "3b9483978c5ec2e9": {
+    "id": "3b9483978c5ec2e9",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "When permitting becomes programme risk – and what to do about it - BeBeez International",
+    "title_norm": "when permitting becomes programme risk and what to do about it bebeez international",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZTlzb2YxS012bzdNbU5QQVlZTE43M0pWbXdZVERxczVpdlpYeTMwZjdxN1VMRXRwVXZRcm91dHhNMnkyZ09ha1BKMURITkdWR1ZoU3czaklKWFdCbGVNTHpvU0ZtaWRCX2lYZmlnc1RlV19hYmZlQVZkMHQ5cl9BLXhZSnY5QlI5RklwR0hZaGJyS3hrbWpZ?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZTlzb2YxS012bzdNbU5QQVlZTE43M0pWbXdZVERxczVpdlpYeTMwZjdxN1VMRXRwVXZRcm91dHhNMnkyZ09ha1BKMURITkdWR1ZoU3czaklKWFdCbGVNTHpvU0ZtaWRCX2lYZmlnc1RlV19hYmZlQVZkMHQ5cl9BLXhZSnY5QlI5RklwR0hZaGJyS3hrbWpZ",
+    "published": "Wed, 01 Apr 2026 07:08:15 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQZTlzb2YxS012bzdNbU5QQVlZTE43M0pWbXdZVERxczVpdlpYeTMwZjdxN1VMRXRwVXZRcm91dHhNMnkyZ09ha1BKMURITkdWR1ZoU3czaklKWFdCbGVNTHpvU0ZtaWRCX2lYZmlnc1RlV19hYmZlQVZkMHQ5cl9BLXhZSnY5QlI5RklwR0hZaGJyS3hrbWpZ?oc=5\" target=\"_blank\">When permitting becomes programme risk – and what to do about it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BeBeez International</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm": {
+      "relevant": false,
+      "strength": 0,
+      "confidence": 3,
+      "reason": "The title discusses permitting and programme risk but contains no explicit reference to data centers, cloud providers, AI infrastructure, or hyperscalers. There is insufficient evidence in the provided text to classify this as a power-permit risk signal for hyperscalers; conservatively marked not relevant.",
+      "signals": [
+        "Title refers only to permitting/programme risk",
+        "No explicit mention of data centers, hyperscalers, cloud providers, or AI infrastructure"
+      ]
+    },
+    "llm_model": "gpt-5-mini",
+    "llm_classified_at": "2026-04-04T17:37:24.092836+09:00"
+  },
+  "f94f2001715665a1": {
+    "id": "f94f2001715665a1",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "North San Jose tech energy firm doubles office footprint as data center demand grows - The Real Deal",
+    "title_norm": "north san jose tech energy firm doubles office footprint as data center demand grows the real deal",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOczJ4eFM4cnI5VXVXQUo5Q3ZLcW9Fc1dPbzIwalNkaDRRSldVdkxQN3gtTU1NRzFEalBTelZtRmFDLVJGZkIxQklETm0wUEVaTjJCTzVtdTcyQVBqZ2RXOVFtcXBZTXI2ZXBTM3h5czRGWGVsSU1oS2pMOEY1Nno2VXJtell4NGI1X0pOd0RLeFE2ZEVUQ1R6aTN5OTJLMzhmWHQ5S3NwMEhxYVk2MFE?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOczJ4eFM4cnI5VXVXQUo5Q3ZLcW9Fc1dPbzIwalNkaDRRSldVdkxQN3gtTU1NRzFEalBTelZtRmFDLVJGZkIxQklETm0wUEVaTjJCTzVtdTcyQVBqZ2RXOVFtcXBZTXI2ZXBTM3h5czRGWGVsSU1oS2pMOEY1Nno2VXJtell4NGI1X0pOd0RLeFE2ZEVUQ1R6aTN5OTJLMzhmWHQ5S3NwMEhxYVk2MFE",
+    "published": "Fri, 03 Apr 2026 20:30:00 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOczJ4eFM4cnI5VXVXQUo5Q3ZLcW9Fc1dPbzIwalNkaDRRSldVdkxQN3gtTU1NRzFEalBTelZtRmFDLVJGZkIxQklETm0wUEVaTjJCTzVtdTcyQVBqZ2RXOVFtcXBZTXI2ZXBTM3h5czRGWGVsSU1oS2pMOEY1Nno2VXJtell4NGI1X0pOd0RLeFE2ZEVUQ1R6aTN5OTJLMzhmWHQ5S3NwMEhxYVk2MFE?oc=5\" target=\"_blank\">North San Jose tech energy firm doubles office footprint as data center demand grows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Real Deal</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "39e1dc6e623d4883": {
+    "id": "39e1dc6e623d4883",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "How Electricity Prices Fuel Data Center Opposition - Heatmap News",
+    "title_norm": "how electricity prices fuel data center opposition heatmap news",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FcFZkODFwcXg3Nk9HWWlfdmJuRVhQaFpfb2pOQkIwcUpCZmRKazNHTjNZRjBKSnFINnlGTWdONXZBc1JYYW9NdmdvbmVfWE5oVHh2Y1kwYkZmT2NlT19HUHNwUW1wc1d4WF80bF9kQmVVNWx1N29kMw?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FcFZkODFwcXg3Nk9HWWlfdmJuRVhQaFpfb2pOQkIwcUpCZmRKazNHTjNZRjBKSnFINnlGTWdONXZBc1JYYW9NdmdvbmVfWE5oVHh2Y1kwYkZmT2NlT19HUHNwUW1wc1d4WF80bF9kQmVVNWx1N29kMw",
+    "published": "Fri, 03 Apr 2026 22:17:17 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5FcFZkODFwcXg3Nk9HWWlfdmJuRVhQaFpfb2pOQkIwcUpCZmRKazNHTjNZRjBKSnFINnlGTWdONXZBc1JYYW9NdmdvbmVfWE5oVHh2Y1kwYkZmT2NlT19HUHNwUW1wc1d4WF80bF9kQmVVNWx1N29kMw?oc=5\" target=\"_blank\">How Electricity Prices Fuel Data Center Opposition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Heatmap News</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "49b4da42dd390313": {
+    "id": "49b4da42dd390313",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "National Grid, GridCARE partnership could cut ‘time to power’ for large loads in New York - Utility Dive",
+    "title_norm": "national grid gridcare partnership could cut time to power for large loads in new york utility dive",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNamEwanhUN1cxN2JrMXViY1NpdEd5TXdwY2F6UHRrQjRjekJuNFlBb0FMMGUxMnZ3VW9PVnhRQU9rbnVwVkMyVTAtOElFcUItWlhqOFN2M01KRklVMHpYYjFmdjRGY0dvd3JWQThZUXdIdC1xbjhtSFoxMjdHOU5BLUpSRG5KemszZzExM3I1a0xMMFZsS0habFJsWW81NklLdjRscS1PV3dfOWdOVmdkWDNDVQ?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNamEwanhUN1cxN2JrMXViY1NpdEd5TXdwY2F6UHRrQjRjekJuNFlBb0FMMGUxMnZ3VW9PVnhRQU9rbnVwVkMyVTAtOElFcUItWlhqOFN2M01KRklVMHpYYjFmdjRGY0dvd3JWQThZUXdIdC1xbjhtSFoxMjdHOU5BLUpSRG5KemszZzExM3I1a0xMMFZsS0habFJsWW81NklLdjRscS1PV3dfOWdOVmdkWDNDVQ",
+    "published": "Wed, 01 Apr 2026 16:00:56 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNamEwanhUN1cxN2JrMXViY1NpdEd5TXdwY2F6UHRrQjRjekJuNFlBb0FMMGUxMnZ3VW9PVnhRQU9rbnVwVkMyVTAtOElFcUItWlhqOFN2M01KRklVMHpYYjFmdjRGY0dvd3JWQThZUXdIdC1xbjhtSFoxMjdHOU5BLUpSRG5KemszZzExM3I1a0xMMFZsS0habFJsWW81NklLdjRscS1PV3dfOWdOVmdkWDNDVQ?oc=5\" target=\"_blank\">National Grid, GridCARE partnership could cut ‘time to power’ for large loads in New York</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Utility Dive</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm": {
+      "relevant": true,
+      "strength": 1,
+      "confidence": 80,
+      "reason": "Title directly concerns reducing 'time to power' for large loads in New York via a utility–GridCARE partnership, which is relevant to power-permit/activation timelines for hyperscale loads. The item describes a potential mitigation rather than a clear/current incident, and only the headline is available, so the signal is weak.",
+      "signals": [
+        "National Grid and GridCARE partnership could reduce 'time to power' for large loads in New York",
+        "Suggests potential reduction in delays to bringing large power loads online (time-to-power)"
+      ]
+    },
+    "llm_model": "gpt-5-mini",
+    "llm_classified_at": "2026-04-04T17:37:37.775552+09:00"
+  },
+  "6b124dbb4a5c40e5": {
+    "id": "6b124dbb4a5c40e5",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "Stargate Scales Back | OpenAI and Oracle Abandon Data Center Expansion - Enverus",
+    "title_norm": "stargate scales back openai and oracle abandon data center expansion enverus",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUVlxUVU1cDNNUDR2NzdDMnlVVHFTR0gta1VpT3RoMTdaRGt0UUIzODhtT3dTdnZYM01sOU5uVmpqUWk4YzI5SzhtdVpwckc2cllZRHFwN0F4UkhfNWhJRHM0ZGF1dFdRZFIwSndKZkdnYm5mZm5IYW9sMzFxNUtZUDZrdE5OWlFCb0tKRVZIcjlnbmhmS0UyRWtBRFEwSWs?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUVlxUVU1cDNNUDR2NzdDMnlVVHFTR0gta1VpT3RoMTdaRGt0UUIzODhtT3dTdnZYM01sOU5uVmpqUWk4YzI5SzhtdVpwckc2cllZRHFwN0F4UkhfNWhJRHM0ZGF1dFdRZFIwSndKZkdnYm5mZm5IYW9sMzFxNUtZUDZrdE5OWlFCb0tKRVZIcjlnbmhmS0UyRWtBRFEwSWs",
+    "published": "Tue, 24 Mar 2026 07:00:00 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQUVlxUVU1cDNNUDR2NzdDMnlVVHFTR0gta1VpT3RoMTdaRGt0UUIzODhtT3dTdnZYM01sOU5uVmpqUWk4YzI5SzhtdVpwckc2cllZRHFwN0F4UkhfNWhJRHM0ZGF1dFdRZFIwSndKZkdnYm5mZm5IYW9sMzFxNUtZUDZrdE5OWlFCb0tKRVZIcjlnbmhmS0UyRWtBRFEwSWs?oc=5\" target=\"_blank\">Stargate Scales Back | OpenAI and Oracle Abandon Data Center Expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Enverus</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "8c0cc7e04e78ca33": {
+    "id": "8c0cc7e04e78ca33",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "Funding Friday: Micromobility, Grid Modeling, and Membranes - Heatmap News",
+    "title_norm": "funding friday micromobility grid modeling and membranes heatmap news",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zVTZDUTNLeGxJNDlKQ0FYbkFPeFRyZUduYTJWdDVYZTIwUm1oQ25rVVQ0dXE4aG5JenpWTTlHcTdUY3NaS0JNY3FTdHY4eV9JTnBObkFac1pxd1MzMGNZZUNrYnY0ZTFJQlE?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zVTZDUTNLeGxJNDlKQ0FYbkFPeFRyZUduYTJWdDVYZTIwUm1oQ25rVVQ0dXE4aG5JenpWTTlHcTdUY3NaS0JNY3FTdHY4eV9JTnBObkFac1pxd1MzMGNZZUNrYnY0ZTFJQlE",
+    "published": "Fri, 03 Apr 2026 20:09:19 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE0zVTZDUTNLeGxJNDlKQ0FYbkFPeFRyZUduYTJWdDVYZTIwUm1oQ25rVVQ0dXE4aG5JenpWTTlHcTdUY3NaS0JNY3FTdHY4eV9JTnBObkFac1pxd1MzMGNZZUNrYnY0ZTFJQlE?oc=5\" target=\"_blank\">Funding Friday: Micromobility, Grid Modeling, and Membranes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Heatmap News</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm": {
+      "relevant": false,
+      "strength": 0,
+      "confidence": 90,
+      "reason": "Title and summary reference funding, micromobility, grid modeling, and membranes; no mention of power permitting or permit delays. No direct or clear signal in the provided text.",
+      "signals": []
+    },
+    "llm_model": "gpt-5-mini",
+    "llm_classified_at": "2026-04-04T17:37:42.340525+09:00"
+  },
+  "f32dc12f4999de22": {
+    "id": "f32dc12f4999de22",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "How CIOs can build energy-resilient IT infrastructure - TechTarget",
+    "title_norm": "how cios can build energy resilient it infrastructure techtarget",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ2dFNkRPN1hibkZualQycHRJNWxlNVhIdmlXUDZHRjRsc212U2Z0dHpxTVJweENxLWFKUjRQZ0JSVks0M0RmVE55ZFhCTEo0VTlpYktRVG9tQVhlazlQUjJmOTZndHF5ZFVxVExEN2dCT1UwWUFpd25iZGU3QWpYSTBMSXZ2NmZ1Q2dCMC15Ym9jLWN0TGxlRGpLemdreUdFYjIyVVFn?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ2dFNkRPN1hibkZualQycHRJNWxlNVhIdmlXUDZHRjRsc212U2Z0dHpxTVJweENxLWFKUjRQZ0JSVks0M0RmVE55ZFhCTEo0VTlpYktRVG9tQVhlazlQUjJmOTZndHF5ZFVxVExEN2dCT1UwWUFpd25iZGU3QWpYSTBMSXZ2NmZ1Q2dCMC15Ym9jLWN0TGxlRGpLemdreUdFYjIyVVFn",
+    "published": "Fri, 03 Apr 2026 09:29:20 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ2dFNkRPN1hibkZualQycHRJNWxlNVhIdmlXUDZHRjRsc212U2Z0dHpxTVJweENxLWFKUjRQZ0JSVks0M0RmVE55ZFhCTEo0VTlpYktRVG9tQVhlazlQUjJmOTZndHF5ZFVxVExEN2dCT1UwWUFpd25iZGU3QWpYSTBMSXZ2NmZ1Q2dCMC15Ym9jLWN0TGxlRGpLemdreUdFYjIyVVFn?oc=5\" target=\"_blank\">How CIOs can build energy-resilient IT infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechTarget</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "bb065279c8ca1aad": {
+    "id": "bb065279c8ca1aad",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "Microsoft (MSFT) Stock; Gains Slightly on $7B Chevron-Backed West Texas Data Plan - MEXC",
+    "title_norm": "microsoft stock gains slightly on 7b chevron backed west texas data plan mexc",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PaklXWHRJTC16djQ3NE1xOWdhNVYyYURxRFBWZ0d5dm9WUVV4cnoxWkNvaWFHNGZtZTcwdkRZZHJodTZIaWxrcEFNclc4T0U?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PaklXWHRJTC16djQ3NE1xOWdhNVYyYURxRFBWZ0d5dm9WUVV4cnoxWkNvaWFHNGZtZTcwdkRZZHJodTZIaWxrcEFNclc4T0U",
+    "published": "Thu, 02 Apr 2026 08:24:41 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PaklXWHRJTC16djQ3NE1xOWdhNVYyYURxRFBWZ0d5dm9WUVV4cnoxWkNvaWFHNGZtZTcwdkRZZHJodTZIaWxrcEFNclc4T0U?oc=5\" target=\"_blank\">Microsoft (MSFT) Stock; Gains Slightly on $7B Chevron-Backed West Texas Data Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "cb9b269106bc50ce": {
+    "id": "cb9b269106bc50ce",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "NVIDIA, Emeral AI partner with energy firms to develop grid-flexible AI data centers - Proactive Investors",
+    "title_norm": "nvidia emeral ai partner with energy firms to develop grid flexible ai data centers proactive investors",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPY2h0R0dRaC1uaDVqT25vVGpOTlZDTGtzU1d2Tk1CODl4S2lSMW5zaGhJN0hNQ0x3U0xfZ1IyVnVHUUxqOWdQWEdJZXFCYUJGdTdTc3V0QlBNWHNCQ3Z0LUlWRGQ5THZ3QmVDNjdCbWpZZmdYT21PVTllS3M2UENHNmV5N0xlN1FSUVJrOTRoVjVHTjQ3SFpZaktQbUQyWjFFaVBSdHV6OEVpUWxLdGlfRlBJcEUwRnBJXzRvNmY0emM4a2lmblRpNzdibHdMM2FiRjBFVW4zQnNqM01nVkdtYWJoQWZ5ZVRYclUteg?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPY2h0R0dRaC1uaDVqT25vVGpOTlZDTGtzU1d2Tk1CODl4S2lSMW5zaGhJN0hNQ0x3U0xfZ1IyVnVHUUxqOWdQWEdJZXFCYUJGdTdTc3V0QlBNWHNCQ3Z0LUlWRGQ5THZ3QmVDNjdCbWpZZmdYT21PVTllS3M2UENHNmV5N0xlN1FSUVJrOTRoVjVHTjQ3SFpZaktQbUQyWjFFaVBSdHV6OEVpUWxLdGlfRlBJcEUwRnBJXzRvNmY0emM4a2lmblRpNzdibHdMM2FiRjBFVW4zQnNqM01nVkdtYWJoQWZ5ZVRYclUteg",
+    "published": "Mon, 23 Mar 2026 14:38:00 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPY2h0R0dRaC1uaDVqT25vVGpOTlZDTGtzU1d2Tk1CODl4S2lSMW5zaGhJN0hNQ0x3U0xfZ1IyVnVHUUxqOWdQWEdJZXFCYUJGdTdTc3V0QlBNWHNCQ3Z0LUlWRGQ5THZ3QmVDNjdCbWpZZmdYT21PVTllS3M2UENHNmV5N0xlN1FSUVJrOTRoVjVHTjQ3SFpZaktQbUQyWjFFaVBSdHV6OEVpUWxLdGlfRlBJcEUwRnBJXzRvNmY0emM4a2lmblRpNzdibHdMM2FiRjBFVW4zQnNqM01nVkdtYWJoQWZ5ZVRYclUteg?oc=5\" target=\"_blank\">NVIDIA, Emeral AI partner with energy firms to develop grid-flexible AI data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Proactive Investors</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm": {
+      "relevant": false,
+      "strength": 0,
+      "confidence": 80,
+      "reason": "Title describes partnerships to develop grid-flexible AI data centers and collaboration with energy firms—this indicates efforts to address grid/integration rather than reporting permit or approval delays. No mention of permits or delays in the provided text, so the signal for power/permit delays is not supported.",
+      "signals": []
+    },
+    "llm_model": "gpt-5-mini",
+    "llm_classified_at": "2026-04-04T17:37:48.827089+09:00"
+  },
+  "0ad4c729b2d93b15": {
+    "id": "0ad4c729b2d93b15",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "Demand dilemma | What gives way for data centres? - Utility Week",
+    "title_norm": "demand dilemma what gives way for data centres utility week",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MT1o3My1wY3R4ZlcydlJiVWIxVXJqTWlyLUp2M2F0OUJaREx0VU9kS3RrZVJmTXV3ZUdOMlZXQktaZ0VsWlhXSTE5MThtcWM0S0tUa0xyTmJLSmxzWXB4SDFkQThISnllM2Zqbm1rLUZ2enFwU3h4WjlLakRQUQ?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MT1o3My1wY3R4ZlcydlJiVWIxVXJqTWlyLUp2M2F0OUJaREx0VU9kS3RrZVJmTXV3ZUdOMlZXQktaZ0VsWlhXSTE5MThtcWM0S0tUa0xyTmJLSmxzWXB4SDFkQThISnllM2Zqbm1rLUZ2enFwU3h4WjlLakRQUQ",
+    "published": "Tue, 31 Mar 2026 09:56:52 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9MT1o3My1wY3R4ZlcydlJiVWIxVXJqTWlyLUp2M2F0OUJaREx0VU9kS3RrZVJmTXV3ZUdOMlZXQktaZ0VsWlhXSTE5MThtcWM0S0tUa0xyTmJLSmxzWXB4SDFkQThISnllM2Zqbm1rLUZ2enFwU3h4WjlLakRQUQ?oc=5\" target=\"_blank\">Demand dilemma | What gives way for data centres?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Utility Week</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "16b9ea4858662d8d": {
+    "id": "16b9ea4858662d8d",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "Consolidated Edison stock faces regulatory scrutiny amid New York energy transition push - AD HOC NEWS",
+    "title_norm": "consolidated edison stock faces regulatory scrutiny amid new york energy transition push ad hoc news",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaXhfZ3RKZlpWVm9HNGpMM0NoWDJzWGh6N1NNbEhoODUtUl9DQjJVMl9EY09HMGlhOElLTEFLNGVtZnc1Nk15SHFQS2FNaV9IOExnbVowRFFUS0htcTZtNkd4dEZpTlFXRUdyeHlPazFaTnYyV3YzMERpRlR6MVpRSjR3R0ZQbnVUWms1ZlpsZndrWko5NjdBRzdEUThraWZDRXdfWmhOa25DWE5qVUpaUTBZSHgtcm1XQld3MjhlQWQ0RnVt?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaXhfZ3RKZlpWVm9HNGpMM0NoWDJzWGh6N1NNbEhoODUtUl9DQjJVMl9EY09HMGlhOElLTEFLNGVtZnc1Nk15SHFQS2FNaV9IOExnbVowRFFUS0htcTZtNkd4dEZpTlFXRUdyeHlPazFaTnYyV3YzMERpRlR6MVpRSjR3R0ZQbnVUWms1ZlpsZndrWko5NjdBRzdEUThraWZDRXdfWmhOa25DWE5qVUpaUTBZSHgtcm1XQld3MjhlQWQ0RnVt",
+    "published": "Tue, 24 Mar 2026 07:00:00 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNaXhfZ3RKZlpWVm9HNGpMM0NoWDJzWGh6N1NNbEhoODUtUl9DQjJVMl9EY09HMGlhOElLTEFLNGVtZnc1Nk15SHFQS2FNaV9IOExnbVowRFFUS0htcTZtNkd4dEZpTlFXRUdyeHlPazFaTnYyV3YzMERpRlR6MVpRSjR3R0ZQbnVUWms1ZlpsZndrWko5NjdBRzdEUThraWZDRXdfWmhOa25DWE5qVUpaUTBZSHgtcm1XQld3MjhlQWQ0RnVt?oc=5\" target=\"_blank\">Consolidated Edison stock faces regulatory scrutiny amid New York energy transition push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "af48d2d231d3ec17": {
+    "id": "af48d2d231d3ec17",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "Half of planned US data center builds have been delayed or canceled, growth limited by shortages of power infrastructure and parts from China — the AI build-out flips the breakers - Tom's Hardware",
+    "title_norm": "half of planned us data center builds have been delayed or canceled growth limited by shortages of power infrastructure and parts from china the ai build out flips the breakers tom s hardware",
+    "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPRXVhQlRDc0FVNzBqcHJlVEx3Vnl3MktiaHdHUUFnNWNiSExsSGRUOEVFRnVMT1VLZjlBZzZlOWN3dUFsNDZObzBGUTB3NjdKS1pUY0lyMnhIckkxbjBnNmtsU2JDNU5yNkdtc2dmMGhwMnlaVC16RE0zZkpfS09BVWVCaXRWZ1FsaUNoV1J1XzVaTFdSaGZTLURpeHVyX1pKZlF2a3lTeXdRV2xmNGxJYll5ZXNCTVZ4NTM2SmoyTm9oUnJOTGNkTm5BdlIwQjEwWWJ6Ty11aHJtQURfODYzdjd0QUViS1J3WUE5UnpNMEpTd1hQamowNzBoLXNOdmd0YkZKckNUUXFPUUVabzVnSi1zYzhWTEVHZk4wSXhmVm5tZ0gzaXpkWnFYcFZXY3NMMFRBQzZSZHZkYkx4YkpWVDdhLXV6NDNFSlJMc3NFWGVCdjdabVVBaVB2UUI3cm9i?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPRXVhQlRDc0FVNzBqcHJlVEx3Vnl3MktiaHdHUUFnNWNiSExsSGRUOEVFRnVMT1VLZjlBZzZlOWN3dUFsNDZObzBGUTB3NjdKS1pUY0lyMnhIckkxbjBnNmtsU2JDNU5yNkdtc2dmMGhwMnlaVC16RE0zZkpfS09BVWVCaXRWZ1FsaUNoV1J1XzVaTFdSaGZTLURpeHVyX1pKZlF2a3lTeXdRV2xmNGxJYll5ZXNCTVZ4NTM2SmoyTm9oUnJOTGNkTm5BdlIwQjEwWWJ6Ty11aHJtQURfODYzdjd0QUViS1J3WUE5UnpNMEpTd1hQamowNzBoLXNOdmd0YkZKckNUUXFPUUVabzVnSi1zYzhWTEVHZk4wSXhmVm5tZ0gzaXpkWnFYcFZXY3NMMFRBQzZSZHZkYkx4YkpWVDdhLXV6NDNFSlJMc3NFWGVCdjdabVVBaVB2UUI3cm9i",
+    "published": "Fri, 03 Apr 2026 15:09:28 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AJBVV95cUxPRXVhQlRDc0FVNzBqcHJlVEx3Vnl3MktiaHdHUUFnNWNiSExsSGRUOEVFRnVMT1VLZjlBZzZlOWN3dUFsNDZObzBGUTB3NjdKS1pUY0lyMnhIckkxbjBnNmtsU2JDNU5yNkdtc2dmMGhwMnlaVC16RE0zZkpfS09BVWVCaXRWZ1FsaUNoV1J1XzVaTFdSaGZTLURpeHVyX1pKZlF2a3lTeXdRV2xmNGxJYll5ZXNCTVZ4NTM2SmoyTm9oUnJOTGNkTm5BdlIwQjEwWWJ6Ty11aHJtQURfODYzdjd0QUViS1J3WUE5UnpNMEpTd1hQamowNzBoLXNOdmd0YkZKckNUUXFPUUVabzVnSi1zYzhWTEVHZk4wSXhmVm5tZ0gzaXpkWnFYcFZXY3NMMFRBQzZSZHZkYkx4YkpWVDdhLXV6NDNFSlJMc3NFWGVCdjdabVVBaVB2UUI3cm9i?oc=5\" target=\"_blank\">Half of planned US data center builds have been delayed or canceled, growth limited by shortages of power infrastructure and parts from China — the AI build-out flips the breakers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "0550f5287c4477a1": {
+    "id": "0550f5287c4477a1",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "Electrical parts shortage may delay almost half US AI projects - NewsBytes",
+    "title_norm": "electrical parts shortage may delay almost half us ai projects newsbytes",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOHIyY3AybkhyUVA0dE1JcFlVQWVGTkZFTG52R002ckc3WGJIcmF4cW5sZDFZakNoa3p1ckJOVmZBNEpMZVJIVnN5cUZtYjljRlhubDdRTGZMWVh2TUxtRzhibFpoUFFHVkpBand2VEtLS010RmFlekpWMmlsRkFXQTB1M3hFdkhmaWlPVS0xdFlIVUNqTG9nLTgwb2xFa0N0Sjg3bmNjOVRpTUtxaEdr?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOHIyY3AybkhyUVA0dE1JcFlVQWVGTkZFTG52R002ckc3WGJIcmF4cW5sZDFZakNoa3p1ckJOVmZBNEpMZVJIVnN5cUZtYjljRlhubDdRTGZMWVh2TUxtRzhibFpoUFFHVkpBand2VEtLS010RmFlekpWMmlsRkFXQTB1M3hFdkhmaWlPVS0xdFlIVUNqTG9nLTgwb2xFa0N0Sjg3bmNjOVRpTUtxaEdr",
+    "published": "Fri, 03 Apr 2026 08:05:50 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPOHIyY3AybkhyUVA0dE1JcFlVQWVGTkZFTG52R002ckc3WGJIcmF4cW5sZDFZakNoa3p1ckJOVmZBNEpMZVJIVnN5cUZtYjljRlhubDdRTGZMWVh2TUxtRzhibFpoUFFHVkpBand2VEtLS010RmFlekpWMmlsRkFXQTB1M3hFdkhmaWlPVS0xdFlIVUNqTG9nLTgwb2xFa0N0Sjg3bmNjOVRpTUtxaEdr?oc=5\" target=\"_blank\">Electrical parts shortage may delay almost half US AI projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsBytes</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm": {
+      "relevant": true,
+      "strength": 3,
+      "confidence": 90,
+      "reason": "Headline directly states an electrical parts shortage could delay nearly half of US AI projects, indicating a supply-chain risk to electrical/power components that can affect AI infrastructure deployment. Marked conservative because the headline uses 'may' and details of scope/causality are not provided.",
+      "signals": [
+        "Electrical parts shortage",
+        "May delay almost half US AI projects",
+        "Supply-chain risk to electrical/power components affecting AI project timelines"
+      ]
+    },
+    "llm_model": "gpt-5-mini",
+    "llm_classified_at": "2026-04-04T17:37:55.914479+09:00"
+  },
+  "2f507d4655c87077": {
+    "id": "2f507d4655c87077",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "Nvidia And Marvell: A Match Made In Heaven (NASDAQ:NVDA) - Seeking Alpha",
+    "title_norm": "nvidia and marvell a match made in heaven seeking alpha",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa1ExX0RBWktJZEZWRGx2VjZ2LW5BdDZJU2JWWFhfRmhzV1NlbUdnd3JWNUx6RWtIeVRZc0E0Umtyb19KOWVHbTVON01TMlQ5YjR2cUZ3V01YU0NuT1dZRFE4YTA3dEdJNS1kTzNmUFVVeWtXZlJRb3NOb3J5LW5CS29YZnhkMTlqN1E?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa1ExX0RBWktJZEZWRGx2VjZ2LW5BdDZJU2JWWFhfRmhzV1NlbUdnd3JWNUx6RWtIeVRZc0E0Umtyb19KOWVHbTVON01TMlQ5YjR2cUZ3V01YU0NuT1dZRFE4YTA3dEdJNS1kTzNmUFVVeWtXZlJRb3NOb3J5LW5CS29YZnhkMTlqN1E",
+    "published": "Wed, 01 Apr 2026 15:32:27 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPa1ExX0RBWktJZEZWRGx2VjZ2LW5BdDZJU2JWWFhfRmhzV1NlbUdnd3JWNUx6RWtIeVRZc0E0Umtyb19KOWVHbTVON01TMlQ5YjR2cUZ3V01YU0NuT1dZRFE4YTA3dEdJNS1kTzNmUFVVeWtXZlJRb3NOb3J5LW5CS29YZnhkMTlqN1E?oc=5\" target=\"_blank\">Nvidia And Marvell: A Match Made In Heaven (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "6607216529a400ef": {
+    "id": "6607216529a400ef",
+    "group": "OVERALL",
+    "item": "ai_price_cuts",
+    "title": "China moves to cut AI computing costs for SMEs as cloud prices surge - scmp.com",
+    "title_norm": "china moves to cut ai computing costs for smes as cloud prices surge scmp com",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeTBRbHF4THdUMUZiQ3hzeDJ6SHgtd21JRWZaUXRvNGVZNVF4ZFprR0RmR3VUVFNQSjZra0lENm04TVBmWWVLS1NhQzJoQWVmZXVEMy1RM3hSOUtXMVNvSHRDWHlXY2xQN0Q4SktLU016WXh3Nnh0WkpVN1labTNIcXg3WGdkNEwtcmpFR0IyWS1CQmVUM3BWYy1WaEtuUWVwaTRkemJObWxnQdIBqgFBVV95cUxNZ0RtMDZNVEc2VHZPQkR3dUhkX2ZuZ25vYWwwZXVjNzZIYklxRDRHSG00ZHBuZFU3RUNZS0l4azdsckhueTljbEFITDVfdDBQUDlieUo2ODk4dzNSU3Q3RjVBSVNXYjB0RlBNSWwwU0dDSHJVRmo5WVJJMlcybkZFLURJaldhTVBFMVpxdHo3UVM5XzZxOWwxc3RLTTI0azY5eGdmVGdSN2xUdw?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeTBRbHF4THdUMUZiQ3hzeDJ6SHgtd21JRWZaUXRvNGVZNVF4ZFprR0RmR3VUVFNQSjZra0lENm04TVBmWWVLS1NhQzJoQWVmZXVEMy1RM3hSOUtXMVNvSHRDWHlXY2xQN0Q4SktLU016WXh3Nnh0WkpVN1labTNIcXg3WGdkNEwtcmpFR0IyWS1CQmVUM3BWYy1WaEtuUWVwaTRkemJObWxnQdIBqgFBVV95cUxNZ0RtMDZNVEc2VHZPQkR3dUhkX2ZuZ25vYWwwZXVjNzZIYklxRDRHSG00ZHBuZFU3RUNZS0l4azdsckhueTljbEFITDVfdDBQUDlieUo2ODk4dzNSU3Q3RjVBSVNXYjB0RlBNSWwwU0dDSHJVRmo5WVJJMlcybkZFLURJaldhTVBFMVpxdHo3UVM5XzZxOWwxc3RLTTI0azY5eGdmVGdSN2xUdw",
+    "published": "Fri, 03 Apr 2026 10:00:11 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeTBRbHF4THdUMUZiQ3hzeDJ6SHgtd21JRWZaUXRvNGVZNVF4ZFprR0RmR3VUVFNQSjZra0lENm04TVBmWWVLS1NhQzJoQWVmZXVEMy1RM3hSOUtXMVNvSHRDWHlXY2xQN0Q4SktLU016WXh3Nnh0WkpVN1labTNIcXg3WGdkNEwtcmpFR0IyWS1CQmVUM3BWYy1WaEtuUWVwaTRkemJObWxnQdIBqgFBVV95cUxNZ0RtMDZNVEc2VHZPQkR3dUhkX2ZuZ25vYWwwZXVjNzZIYklxRDRHSG00ZHBuZFU3RUNZS0l4azdsckhueTljbEFITDVfdDBQUDlieUo2ODk4dzNSU3Q3RjVBSVNXYjB0RlBNSWwwU0dDSHJVRmo5WVJJMlcybkZFLURJaldhTVBFMVpxdHo3UVM5XzZxOWwxc3RLTTI0azY5eGdmVGdSN2xUdw?oc=5\" target=\"_blank\">China moves to cut AI computing costs for SMEs as cloud prices surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">scmp.com</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "db18003dd0a5087b": {
+    "id": "db18003dd0a5087b",
+    "group": "OVERALL",
+    "item": "ai_price_cuts",
+    "title": "What Is Edge Computing? - ibm.com",
+    "title_norm": "what is edge computing ibm com",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03bGItUmIwakRrTk0wbjRUbUJpUG1FR2hWSXpBblo4aWYxYUllQkdSdnBFazFuRVh4bE03Mk9Db3JBVlRoNmdyRXd2RGhMNjd3QW1WSG82ZFVwNGM?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03bGItUmIwakRrTk0wbjRUbUJpUG1FR2hWSXpBblo4aWYxYUllQkdSdnBFazFuRVh4bE03Mk9Db3JBVlRoNmdyRXd2RGhMNjd3QW1WSG82ZFVwNGM",
+    "published": "Tue, 31 Mar 2026 07:00:00 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE03bGItUmIwakRrTk0wbjRUbUJpUG1FR2hWSXpBblo4aWYxYUllQkdSdnBFazFuRVh4bE03Mk9Db3JBVlRoNmdyRXd2RGhMNjd3QW1WSG82ZFVwNGM?oc=5\" target=\"_blank\">What Is Edge Computing?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ibm.com</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "0c6515c52c999e7a": {
+    "id": "0c6515c52c999e7a",
+    "group": "OVERALL",
+    "item": "ai_price_cuts",
+    "title": "IREN Stock's Value Score Surges Despite 10% YTD Drop As Wall Street Bets On AI Expansion - Sahm",
+    "title_norm": "iren stock s value score surges despite 10 ytd drop as wall street bets on ai expansion sahm",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSWtrcEpTeXR2c2lDUHg5LXY5OTdhQlBjc2c2M0k3RXlkNURUZndWb0FJZ001WVdHN01ZM1Q4TGhCMTZfRks5NVVkVlpod1pVa3U3RS1vTWRWMnZNYUdDM1dfdlN0SjBNY2UzdGJNNWxONzlnbVl6TEMtNGlYdGl4eEpyNUJWWF85VXp2dk9wSHVlWFFBOEJyVVhNd0FseklOQTVBTHdCbDE2ZnFSUm1oaTNzZHI1Q0tTLU8xSjFaLTk4NUZXbk5iLS1WUTk3THB6NnhDOQ?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSWtrcEpTeXR2c2lDUHg5LXY5OTdhQlBjc2c2M0k3RXlkNURUZndWb0FJZ001WVdHN01ZM1Q4TGhCMTZfRks5NVVkVlpod1pVa3U3RS1vTWRWMnZNYUdDM1dfdlN0SjBNY2UzdGJNNWxONzlnbVl6TEMtNGlYdGl4eEpyNUJWWF85VXp2dk9wSHVlWFFBOEJyVVhNd0FseklOQTVBTHdCbDE2ZnFSUm1oaTNzZHI1Q0tTLU8xSjFaLTk4NUZXbk5iLS1WUTk3THB6NnhDOQ",
+    "published": "Fri, 03 Apr 2026 08:41:12 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSWtrcEpTeXR2c2lDUHg5LXY5OTdhQlBjc2c2M0k3RXlkNURUZndWb0FJZ001WVdHN01ZM1Q4TGhCMTZfRks5NVVkVlpod1pVa3U3RS1vTWRWMnZNYUdDM1dfdlN0SjBNY2UzdGJNNWxONzlnbVl6TEMtNGlYdGl4eEpyNUJWWF85VXp2dk9wSHVlWFFBOEJyVVhNd0FseklOQTVBTHdCbDE2ZnFSUm1oaTNzZHI1Q0tTLU8xSjFaLTk4NUZXbk5iLS1WUTk3THB6NnhDOQ?oc=5\" target=\"_blank\">IREN Stock's Value Score Surges Despite 10% YTD Drop As Wall Street Bets On AI Expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sahm</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "1bf9b425bea2f143": {
+    "id": "1bf9b425bea2f143",
+    "group": "OVERALL",
+    "item": "ai_price_cuts",
+    "title": "Gcore introduces GPU Virtual Machines on NVIDIA AI infrastructure to enable flexible, cost-efficient compute for AI workloads - StreetInsider",
+    "title_norm": "gcore introduces gpu virtual machines on nvidia ai infrastructure to enable flexible cost efficient compute for ai workloads streetinsider",
+    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQLVVEcTVET3lZQzJDVE9QVkVfSnMzeXNYRWdLUkdfbHI1UjU2bHNpcm5DamEyQVVqQ2hKemlEcVRYZVdYWVVTbkpiMFlTUy1JdnJONDgtY2habEd2V3Y2bzd4S1p0SEtKNXF5aGRRcVdpMVZxaC1zRVRoZUltZE1WY09XVk44SHl2V05EaU9GaThxX19hdnZqaC1RWUcxLTlTcmxQTm11SkU3dG9lUTJBQkZPWFVTQ1ZtOGpJTXJobXpzWkZfX09kWHotamdpVy1UcWxqZEFEenNKV2VheHFta2Y1Rk8xMWpBS2RZWHpYbjM3Vjd2MVhQa2NGckRJRW10X19sUHJfdlBONXpMTGxB?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQLVVEcTVET3lZQzJDVE9QVkVfSnMzeXNYRWdLUkdfbHI1UjU2bHNpcm5DamEyQVVqQ2hKemlEcVRYZVdYWVVTbkpiMFlTUy1JdnJONDgtY2habEd2V3Y2bzd4S1p0SEtKNXF5aGRRcVdpMVZxaC1zRVRoZUltZE1WY09XVk44SHl2V05EaU9GaThxX19hdnZqaC1RWUcxLTlTcmxQTm11SkU3dG9lUTJBQkZPWFVTQ1ZtOGpJTXJobXpzWkZfX09kWHotamdpVy1UcWxqZEFEenNKV2VheHFta2Y1Rk8xMWpBS2RZWHpYbjM3Vjd2MVhQa2NGckRJRW10X19sUHJfdlBONXpMTGxB",
+    "published": "Tue, 31 Mar 2026 07:00:00 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxQLVVEcTVET3lZQzJDVE9QVkVfSnMzeXNYRWdLUkdfbHI1UjU2bHNpcm5DamEyQVVqQ2hKemlEcVRYZVdYWVVTbkpiMFlTUy1JdnJONDgtY2habEd2V3Y2bzd4S1p0SEtKNXF5aGRRcVdpMVZxaC1zRVRoZUltZE1WY09XVk44SHl2V05EaU9GaThxX19hdnZqaC1RWUcxLTlTcmxQTm11SkU3dG9lUTJBQkZPWFVTQ1ZtOGpJTXJobXpzWkZfX09kWHotamdpVy1UcWxqZEFEenNKV2VheHFta2Y1Rk8xMWpBS2RZWHpYbjM3Vjd2MVhQa2NGckRJRW10X19sUHJfdlBONXpMTGxB?oc=5\" target=\"_blank\">Gcore introduces GPU Virtual Machines on NVIDIA AI infrastructure to enable flexible, cost-efficient compute for AI workloads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StreetInsider</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "5c96c539c1b31da6": {
+    "id": "5c96c539c1b31da6",
+    "group": "OVERALL",
+    "item": "ai_price_cuts",
+    "title": "Oracle Cuts Jobs To Fund A Bigger AI Cloud Push - Finimize",
+    "title_norm": "oracle cuts jobs to fund a bigger ai cloud push finimize",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa1UxQzV6RUZNU1R5MkZUbEJhUXllcGhiTGtVb1VmUVRzOVVRUlpyYlBWbHV4Zi0wby15M0hJU0FQdms4U1haZHVHUW1BRkdwbUQ1OXA2Y21GZEctbVZqc3dROVgzc2tPZlctQlpQMDdWa0pSSXNZaDlXM2F6cDRZS09n?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa1UxQzV6RUZNU1R5MkZUbEJhUXllcGhiTGtVb1VmUVRzOVVRUlpyYlBWbHV4Zi0wby15M0hJU0FQdms4U1haZHVHUW1BRkdwbUQ1OXA2Y21GZEctbVZqc3dROVgzc2tPZlctQlpQMDdWa0pSSXNZaDlXM2F6cDRZS09n",
+    "published": "Tue, 31 Mar 2026 23:41:50 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPa1UxQzV6RUZNU1R5MkZUbEJhUXllcGhiTGtVb1VmUVRzOVVRUlpyYlBWbHV4Zi0wby15M0hJU0FQdms4U1haZHVHUW1BRkdwbUQ1OXA2Y21GZEctbVZqc3dROVgzc2tPZlctQlpQMDdWa0pSSXNZaDlXM2F6cDRZS09n?oc=5\" target=\"_blank\">Oracle Cuts Jobs To Fund A Bigger AI Cloud Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finimize</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "462ce36b9a8b2be3": {
+    "id": "462ce36b9a8b2be3",
+    "group": "OVERALL",
+    "item": "ai_price_cuts",
+    "title": "Remaking Europe’s Energy System for the Age of AI - VoxUkraine",
+    "title_norm": "remaking europe s energy system for the age of ai voxukraine",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeXpDUnZmRmRFOGlMWTMyQnpjT2JrdFNDY3U3dmlWUkdjOXV3TDJkaXlCNU41ZnR5Q3dOOFU4RHQ5NG9KTEU1bzRrb3NXVGxpaGRWejkteElQM2ZLQWlwWkJuYlNpai1YOFB4cGZZVFd4VEN1MFZiX1pOVzZ4dXhxRw?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeXpDUnZmRmRFOGlMWTMyQnpjT2JrdFNDY3U3dmlWUkdjOXV3TDJkaXlCNU41ZnR5Q3dOOFU4RHQ5NG9KTEU1bzRrb3NXVGxpaGRWejkteElQM2ZLQWlwWkJuYlNpai1YOFB4cGZZVFd4VEN1MFZiX1pOVzZ4dXhxRw",
+    "published": "Thu, 02 Apr 2026 11:06:50 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOeXpDUnZmRmRFOGlMWTMyQnpjT2JrdFNDY3U3dmlWUkdjOXV3TDJkaXlCNU41ZnR5Q3dOOFU4RHQ5NG9KTEU1bzRrb3NXVGxpaGRWejkteElQM2ZLQWlwWkJuYlNpai1YOFB4cGZZVFd4VEN1MFZiX1pOVzZ4dXhxRw?oc=5\" target=\"_blank\">Remaking Europe’s Energy System for the Age of AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VoxUkraine</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "84673d93a01dc694": {
+    "id": "84673d93a01dc694",
+    "group": "OVERALL",
+    "item": "ai_price_cuts",
+    "title": "ScaleOps Secures $130M to Revolutionize AI Infrastructure with Groundbreaking Autonomous Management - CryptoRank",
+    "title_norm": "scaleops secures 130m to revolutionize ai infrastructure with groundbreaking autonomous management cryptorank",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOckJEMnJCVFlGV2loLTBKc0tzdXZMd192c1JWWWlqZVBwTDVPMXZtR3c5cElhaklhZlZkYVhaMVNkOWM3MjJIRHZTS002YjJCSEFySG5BSmxfQzkyXzh5TFpUY1BxZjJ3Y1dYcHl3NHZDRzh2QkdZZlhBem0wVWtBMzY3dw?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOckJEMnJCVFlGV2loLTBKc0tzdXZMd192c1JWWWlqZVBwTDVPMXZtR3c5cElhaklhZlZkYVhaMVNkOWM3MjJIRHZTS002YjJCSEFySG5BSmxfQzkyXzh5TFpUY1BxZjJ3Y1dYcHl3NHZDRzh2QkdZZlhBem0wVWtBMzY3dw",
+    "published": "Mon, 30 Mar 2026 15:49:23 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOckJEMnJCVFlGV2loLTBKc0tzdXZMd192c1JWWWlqZVBwTDVPMXZtR3c5cElhaklhZlZkYVhaMVNkOWM3MjJIRHZTS002YjJCSEFySG5BSmxfQzkyXzh5TFpUY1BxZjJ3Y1dYcHl3NHZDRzh2QkdZZlhBem0wVWtBMzY3dw?oc=5\" target=\"_blank\">ScaleOps Secures $130M to Revolutionize AI Infrastructure with Groundbreaking Autonomous Management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "260eb9f5bfa47e44": {
+    "id": "260eb9f5bfa47e44",
+    "group": "OVERALL",
+    "item": "ai_price_cuts",
+    "title": "Yuki Brings Real-Time Cost Optimization to BigQuery - markets.businessinsider.com",
+    "title_norm": "yuki brings real time cost optimization to bigquery markets businessinsider com",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTk1pU2Y3OXFCRE14QlRlMEtyVjIzNjlLUGxMYmZhNEFzQlA2ZkJvclU4RS1CLU9JdkFzVlZxMjFLaWJSc0VYeG9jSTk2d3BCY0UxMW9wZ1RJWVFoVFVsUUlvSDNTcFJRbXZYWlBnWmxpaDIxT05EMU9DMVJKQ0FtU0E0WG5pUjQxRDFha1RnRkNCZlplbk5kMEROV29YdXh0RDBtS1NKdnNkVjRIeGFN?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTk1pU2Y3OXFCRE14QlRlMEtyVjIzNjlLUGxMYmZhNEFzQlA2ZkJvclU4RS1CLU9JdkFzVlZxMjFLaWJSc0VYeG9jSTk2d3BCY0UxMW9wZ1RJWVFoVFVsUUlvSDNTcFJRbXZYWlBnWmxpaDIxT05EMU9DMVJKQ0FtU0E0WG5pUjQxRDFha1RnRkNCZlplbk5kMEROV29YdXh0RDBtS1NKdnNkVjRIeGFN",
+    "published": "Thu, 02 Apr 2026 07:34:24 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNTk1pU2Y3OXFCRE14QlRlMEtyVjIzNjlLUGxMYmZhNEFzQlA2ZkJvclU4RS1CLU9JdkFzVlZxMjFLaWJSc0VYeG9jSTk2d3BCY0UxMW9wZ1RJWVFoVFVsUUlvSDNTcFJRbXZYWlBnWmxpaDIxT05EMU9DMVJKQ0FtU0E0WG5pUjQxRDFha1RnRkNCZlplbk5kMEROV29YdXh0RDBtS1NKdnNkVjRIeGFN?oc=5\" target=\"_blank\">Yuki Brings Real-Time Cost Optimization to BigQuery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">markets.businessinsider.com</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "5ff5c25ff8730061": {
+    "id": "5ff5c25ff8730061",
+    "group": "OVERALL",
+    "item": "ai_price_cuts",
+    "title": "Memory-makers' shares are down. Don't blame Google - theregister.com",
+    "title_norm": "memory makers shares are down don t blame google theregister com",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXpMbG92QjhZYXF5OUEzd29TMEtxalAyRGNvQUU1V05sbWhaOEx3cnlXMGFJZUg0eXNYV0hVR193ZGozWWVsQVJ5UUc2RnRfQWNmaUppNXBQOXd0cUxfSVVMVjVVdzF1N3NySWd4UTBuZlRBdTRVV0ZxZVd6SXZ6eWtJRjU?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXpMbG92QjhZYXF5OUEzd29TMEtxalAyRGNvQUU1V05sbWhaOEx3cnlXMGFJZUg0eXNYV0hVR193ZGozWWVsQVJ5UUc2RnRfQWNmaUppNXBQOXd0cUxfSVVMVjVVdzF1N3NySWd4UTBuZlRBdTRVV0ZxZVd6SXZ6eWtJRjU",
+    "published": "Tue, 31 Mar 2026 05:46:00 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXpMbG92QjhZYXF5OUEzd29TMEtxalAyRGNvQUU1V05sbWhaOEx3cnlXMGFJZUg0eXNYV0hVR193ZGozWWVsQVJ5UUc2RnRfQWNmaUppNXBQOXd0cUxfSVVMVjVVdzF1N3NySWd4UTBuZlRBdTRVV0ZxZVd6SXZ6eWtJRjU?oc=5\" target=\"_blank\">Memory-makers' shares are down. Don't blame Google</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theregister.com</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "5f5d50dce53b9288": {
+    "id": "5f5d50dce53b9288",
+    "group": "OVERALL",
+    "item": "ai_price_cuts",
+    "title": "What Is Oracle? A Software Giant Begins Layoffs of Tens of Thousands Amid Surge in AI Investment - TradingKey",
+    "title_norm": "what is oracle a software giant begins layoffs of tens of thousands amid surge in ai investment tradingkey",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUV9OOC1rblB3VVlQN0RjZnNHejR1YUE0V0NQSFpDeW1wRWZNN3pzZ19DX3RiNDJzaGo4X2I2NElfUWtVb08tTS04NnBkTENGVGdXcHdZUzhiRWE0LXI1U18wMHJITFJpbkZHMTBBWVRReENCUS11eWNlTFZZLWhzTkIwQXIzaEt5UWkycG55dWVTZ3M0ampTQXNtNy1qWnBCYktZMzFnOWRSZlFmNmRFS21ZOG9GSjQ?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUV9OOC1rblB3VVlQN0RjZnNHejR1YUE0V0NQSFpDeW1wRWZNN3pzZ19DX3RiNDJzaGo4X2I2NElfUWtVb08tTS04NnBkTENGVGdXcHdZUzhiRWE0LXI1U18wMHJITFJpbkZHMTBBWVRReENCUS11eWNlTFZZLWhzTkIwQXIzaEt5UWkycG55dWVTZ3M0ampTQXNtNy1qWnBCYktZMzFnOWRSZlFmNmRFS21ZOG9GSjQ",
+    "published": "Fri, 03 Apr 2026 13:26:49 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQUV9OOC1rblB3VVlQN0RjZnNHejR1YUE0V0NQSFpDeW1wRWZNN3pzZ19DX3RiNDJzaGo4X2I2NElfUWtVb08tTS04NnBkTENGVGdXcHdZUzhiRWE0LXI1U18wMHJITFJpbkZHMTBBWVRReENCUS11eWNlTFZZLWhzTkIwQXIzaEt5UWkycG55dWVTZ3M0ampTQXNtNy1qWnBCYktZMzFnOWRSZlFmNmRFS21ZOG9GSjQ?oc=5\" target=\"_blank\">What Is Oracle? A Software Giant Begins Layoffs of Tens of Thousands Amid Surge in AI Investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "3772d6048a4098da": {
+    "id": "3772d6048a4098da",
+    "group": "OVERALL",
+    "item": "ai_price_cuts",
+    "title": "3778.T Stock Today: Sakura Internet in Focus on Microsoft AI Pact April 04 - Meyka",
+    "title_norm": "3778 t stock today sakura internet in focus on microsoft ai pact april 04 meyka",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb3NwWElFYnJNbnVQbUlDRVh0eFN4bUVhZ0xHeTNNX2RJSlVXOW1lSGx2REhEdTRwY0FfTDVJdEFnLTBPdl8tMW1NWmJsYnZMZEczRVRTcnpvUkt5TTlMTnRJWVc3Y1hlZDhxdkpwaS1MWjdDLUZ3VUJBenFEd2lwNlRoNXpqQVZockxZTTZQS1FnbE0xQzBJdHF3aGVNLUpHZTVn?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb3NwWElFYnJNbnVQbUlDRVh0eFN4bUVhZ0xHeTNNX2RJSlVXOW1lSGx2REhEdTRwY0FfTDVJdEFnLTBPdl8tMW1NWmJsYnZMZEczRVRTcnpvUkt5TTlMTnRJWVc3Y1hlZDhxdkpwaS1MWjdDLUZ3VUJBenFEd2lwNlRoNXpqQVZockxZTTZQS1FnbE0xQzBJdHF3aGVNLUpHZTVn",
+    "published": "Fri, 03 Apr 2026 22:04:08 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNb3NwWElFYnJNbnVQbUlDRVh0eFN4bUVhZ0xHeTNNX2RJSlVXOW1lSGx2REhEdTRwY0FfTDVJdEFnLTBPdl8tMW1NWmJsYnZMZEczRVRTcnpvUkt5TTlMTnRJWVc3Y1hlZDhxdkpwaS1MWjdDLUZ3VUJBenFEd2lwNlRoNXpqQVZockxZTTZQS1FnbE0xQzBJdHF3aGVNLUpHZTVn?oc=5\" target=\"_blank\">3778.T Stock Today: Sakura Internet in Focus on Microsoft AI Pact April 04</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "6ee7b5a932c68430": {
+    "id": "6ee7b5a932c68430",
+    "group": "OVERALL",
+    "item": "ai_price_cuts",
+    "title": "Best cloud storage of 2026: tested, reviewed and rated by experts - TechRadar",
+    "title_norm": "best cloud storage of 2026 tested reviewed and rated by experts techradar",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pNTV6eHF0UDUydFB5eE9HRHBPQnBkcmFYdnlpSTdlamtrMDB0TGN5SXVqRjRZakUzOHNfN0RydGZScjA5U0V6eVM0dnE5aGc3bWhER3VLVmg0dHRTRnc?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pNTV6eHF0UDUydFB5eE9HRHBPQnBkcmFYdnlpSTdlamtrMDB0TGN5SXVqRjRZakUzOHNfN0RydGZScjA5U0V6eVM0dnE5aGc3bWhER3VLVmg0dHRTRnc",
+    "published": "Wed, 25 Mar 2026 07:00:00 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pNTV6eHF0UDUydFB5eE9HRHBPQnBkcmFYdnlpSTdlamtrMDB0TGN5SXVqRjRZakUzOHNfN0RydGZScjA5U0V6eVM0dnE5aGc3bWhER3VLVmg0dHRTRnc?oc=5\" target=\"_blank\">Best cloud storage of 2026: tested, reviewed and rated by experts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRadar</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "0a56a9c711be69ab": {
+    "id": "0a56a9c711be69ab",
+    "group": "OVERALL",
+    "item": "ai_price_cuts",
+    "title": "Nebius AI Cloud 3.5 introduces serverless AI to give developers frictionless compute for real-world AI - finansavisen.no",
+    "title_norm": "nebius ai cloud 3 5 introduces serverless ai to give developers frictionless compute for real world ai finansavisen no",
+    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOaHZJVnlQMDRDZUFxQW4zd2hHZHgyYWI1eUtwOWsxZXp5VVdvZzZYOVFMbmY4aGtvY2JqSHNHR0NRM2RIdlJJNGhKcWN2eEZabUFBOUswVUVqRHE1cnowb1VqZnRIcXdDR2stR1FOdHkxR3pRSVV2MVYwLURYUFpObVdaTk5jU3BlU2JUdU1HQWthamhKd040QUxtTWFyLXg0LWhSWlR6OUxNN01nbGVKYlJITkNNVV9qd2hrbkgwbXp6MXNqQlY1U19sakxEdFYtUndfdV9FT3FOUTA3bFVMUm9CRnBXa2tWTEpPcG9vVlJBbmFyWlVya0R5R1RQQnRLVTVEUmhELWt3UklYVFcyQ1V1UUppVjNpSDBWNGJubw?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOaHZJVnlQMDRDZUFxQW4zd2hHZHgyYWI1eUtwOWsxZXp5VVdvZzZYOVFMbmY4aGtvY2JqSHNHR0NRM2RIdlJJNGhKcWN2eEZabUFBOUswVUVqRHE1cnowb1VqZnRIcXdDR2stR1FOdHkxR3pRSVV2MVYwLURYUFpObVdaTk5jU3BlU2JUdU1HQWthamhKd040QUxtTWFyLXg0LWhSWlR6OUxNN01nbGVKYlJITkNNVV9qd2hrbkgwbXp6MXNqQlY1U19sakxEdFYtUndfdV9FT3FOUTA3bFVMUm9CRnBXa2tWTEpPcG9vVlJBbmFyWlVya0R5R1RQQnRLVTVEUmhELWt3UklYVFcyQ1V1UUppVjNpSDBWNGJubw",
+    "published": "Thu, 26 Mar 2026 12:00:03 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxOaHZJVnlQMDRDZUFxQW4zd2hHZHgyYWI1eUtwOWsxZXp5VVdvZzZYOVFMbmY4aGtvY2JqSHNHR0NRM2RIdlJJNGhKcWN2eEZabUFBOUswVUVqRHE1cnowb1VqZnRIcXdDR2stR1FOdHkxR3pRSVV2MVYwLURYUFpObVdaTk5jU3BlU2JUdU1HQWthamhKd040QUxtTWFyLXg0LWhSWlR6OUxNN01nbGVKYlJITkNNVV9qd2hrbkgwbXp6MXNqQlY1U19sakxEdFYtUndfdV9FT3FOUTA3bFVMUm9CRnBXa2tWTEpPcG9vVlJBbmFyWlVya0R5R1RQQnRLVTVEUmhELWt3UklYVFcyQ1V1UUppVjNpSDBWNGJubw?oc=5\" target=\"_blank\">Nebius AI Cloud 3.5 introduces serverless AI to give developers frictionless compute for real-world AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finansavisen.no</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "4776b1ca8504a7d1": {
+    "id": "4776b1ca8504a7d1",
+    "group": "OVERALL",
+    "item": "capex_up_revenue_down",
+    "title": "Nvidia Stock Outlook for 2026: The AI Boom Will Drive Growth, but CapEx Concerns Will Increase Dangers - vocal.media",
+    "title_norm": "nvidia stock outlook for 2026 the ai boom will drive growth but capex concerns will increase dangers vocal media",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTFV4Rnpjd1ZjbldwaWNLY0QybmhaVV9FbTV3dDFVVEhpb2NfQ25mWVBqNHNPUGFfZEN3RHRrRkVkQ21mRjdDSm9Gb2J0UGF4RVBncUswNy05OFdHOG9kTWRzOEZDcWM2d1JXMmlvbFBHS2pRLXMtcThnaFVGbWVEdW1ERWJHZ3IxRG5YMF9RUGhiUVhXUzVIaS13cmxhLWJwNHdUN0hFdDFKLXozelZZRXpyYVU1b1RYUlVhV3hqRXU5ZlhWM3lN?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTFV4Rnpjd1ZjbldwaWNLY0QybmhaVV9FbTV3dDFVVEhpb2NfQ25mWVBqNHNPUGFfZEN3RHRrRkVkQ21mRjdDSm9Gb2J0UGF4RVBncUswNy05OFdHOG9kTWRzOEZDcWM2d1JXMmlvbFBHS2pRLXMtcThnaFVGbWVEdW1ERWJHZ3IxRG5YMF9RUGhiUVhXUzVIaS13cmxhLWJwNHdUN0hFdDFKLXozelZZRXpyYVU1b1RYUlVhV3hqRXU5ZlhWM3lN",
+    "published": "Tue, 31 Mar 2026 14:30:36 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNTFV4Rnpjd1ZjbldwaWNLY0QybmhaVV9FbTV3dDFVVEhpb2NfQ25mWVBqNHNPUGFfZEN3RHRrRkVkQ21mRjdDSm9Gb2J0UGF4RVBncUswNy05OFdHOG9kTWRzOEZDcWM2d1JXMmlvbFBHS2pRLXMtcThnaFVGbWVEdW1ERWJHZ3IxRG5YMF9RUGhiUVhXUzVIaS13cmxhLWJwNHdUN0hFdDFKLXozelZZRXpyYVU1b1RYUlVhV3hqRXU5ZlhWM3lN?oc=5\" target=\"_blank\">Nvidia Stock Outlook for 2026: The AI Boom Will Drive Growth, but CapEx Concerns Will Increase Dangers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vocal.media</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm": {
+      "relevant": true,
+      "strength": 2,
+      "confidence": 60,
+      "reason": "The headline explicitly flags rising CapEx concerns as increasing dangers for Nvidia, a core AI infrastructure supplier, which constitutes a risk signal about higher capital expenditure pressure. The item provides no supporting data or indication of revenue decline, so the signal is weak-to-moderate and limited in detail.",
+      "signals": [
+        "Headline: CapEx concerns will increase dangers for Nvidia",
+        "Headline: AI boom will drive growth (demand signal)"
+      ]
+    },
+    "llm_model": "gpt-5-mini",
+    "llm_classified_at": "2026-04-04T17:38:05.932945+09:00"
+  },
+  "53903100a499ba44": {
+    "id": "53903100a499ba44",
+    "group": "OVERALL",
+    "item": "capex_up_revenue_down",
+    "title": "Microsoft's Increased Capital Spending Reveals the Underlying Financial Strain of AI Expansion - Bitget",
+    "title_norm": "microsoft s increased capital spending reveals the underlying financial strain of ai expansion bitget",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qaHJLMi1mOFJvWTF6OGc5SV9MdVFyTUh3Q2h5ckplS3IyanpyZkFOSUYwTzlIU0tZT3c2bkxSaHdZalVkZnZSY0xvdmtxNkJKQVIzY3VhM3JDNUNOVEHSAWNBVV95cUxNT2N1enRCTkNpSE5yeWJncmJDUjl5ejFfNGR1Ym4zWkRwMVM0WW1IQVJNUWtrSmdIbU9fMFR0UE5kYXB6WnYtdi1RcFFLdVlLZHNGYjFyejRQYkVJX200dkt2T0k?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qaHJLMi1mOFJvWTF6OGc5SV9MdVFyTUh3Q2h5ckplS3IyanpyZkFOSUYwTzlIU0tZT3c2bkxSaHdZalVkZnZSY0xvdmtxNkJKQVIzY3VhM3JDNUNOVEHSAWNBVV95cUxNT2N1enRCTkNpSE5yeWJncmJDUjl5ejFfNGR1Ym4zWkRwMVM0WW1IQVJNUWtrSmdIbU9fMFR0UE5kYXB6WnYtdi1RcFFLdVlLZHNGYjFyejRQYkVJX200dkt2T0k",
+    "published": "Fri, 03 Apr 2026 01:39:39 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qaHJLMi1mOFJvWTF6OGc5SV9MdVFyTUh3Q2h5ckplS3IyanpyZkFOSUYwTzlIU0tZT3c2bkxSaHdZalVkZnZSY0xvdmtxNkJKQVIzY3VhM3JDNUNOVEHSAWNBVV95cUxNT2N1enRCTkNpSE5yeWJncmJDUjl5ejFfNGR1Ym4zWkRwMVM0WW1IQVJNUWtrSmdIbU9fMFR0UE5kYXB6WnYtdi1RcFFLdVlLZHNGYjFyejRQYkVJX200dkt2T0k?oc=5\" target=\"_blank\">Microsoft's Increased Capital Spending Reveals the Underlying Financial Strain of AI Expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm": {
+      "relevant": true,
+      "strength": 3,
+      "confidence": 70,
+      "reason": "Title explicitly reports Microsoft increasing capital spending tied to AI expansion and highlights an underlying financial strain—directly relevant to hyperscaler capex/cost pressure risk. Revenue decline is not explicitly stated in the provided text, so no further inference was made.",
+      "signals": [
+        "capex_up",
+        "financial_strain",
+        "AI_expansion"
+      ]
+    },
+    "llm_model": "gpt-5-mini",
+    "llm_classified_at": "2026-04-04T17:38:16.308410+09:00"
+  },
+  "d15f44de7a9086d2": {
+    "id": "d15f44de7a9086d2",
+    "group": "OVERALL",
+    "item": "capex_up_revenue_down",
+    "title": "Alphabet Shares Climb as Analysts Affirm Long-Term Buy on AI Momentum and Cloud Surge - International Business Times Australia",
+    "title_norm": "alphabet shares climb as analysts affirm long term buy on ai momentum and cloud surge international business times australia",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON3pGUFZJeVRycXF3NDcwNHlQbkJpT09rbG1KZVlZb2ViTXg1M3k2V3dQS1pVcWtJdXRPdFZYaEF5UWtRNlBpRVpHQVVfZ0NiWFB6M3RINlVaWXJGYXRHT3VXSHAxdlE4aVh1Z0hEM1R5TGFtQ0tmbWZGSlFWZ0F6QUFXUUVQR1c5ejhSSDVNU3JzLWRhVFlocFRhaDBnYW93MldzRzVRN0taRVdKYi0w?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON3pGUFZJeVRycXF3NDcwNHlQbkJpT09rbG1KZVlZb2ViTXg1M3k2V3dQS1pVcWtJdXRPdFZYaEF5UWtRNlBpRVpHQVVfZ0NiWFB6M3RINlVaWXJGYXRHT3VXSHAxdlE4aVh1Z0hEM1R5TGFtQ0tmbWZGSlFWZ0F6QUFXUUVQR1c5ejhSSDVNU3JzLWRhVFlocFRhaDBnYW93MldzRzVRN0taRVdKYi0w",
+    "published": "Tue, 31 Mar 2026 14:12:36 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxON3pGUFZJeVRycXF3NDcwNHlQbkJpT09rbG1KZVlZb2ViTXg1M3k2V3dQS1pVcWtJdXRPdFZYaEF5UWtRNlBpRVpHQVVfZ0NiWFB6M3RINlVaWXJGYXRHT3VXSHAxdlE4aVh1Z0hEM1R5TGFtQ0tmbWZGSlFWZ0F6QUFXUUVQR1c5ejhSSDVNU3JzLWRhVFlocFRhaDBnYW93MldzRzVRN0taRVdKYi0w?oc=5\" target=\"_blank\">Alphabet Shares Climb as Analysts Affirm Long-Term Buy on AI Momentum and Cloud Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">International Business Times Australia</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "22e3f87fcd122db0": {
+    "id": "22e3f87fcd122db0",
+    "group": "OVERALL",
+    "item": "mgmt_tone_softening",
+    "title": "Tech giants' capital spending surging to $700 billion amid robust AI demand - Data Center Dynamics",
+    "title_norm": "tech giants capital spending surging to 700 billion amid robust ai demand data center dynamics",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRm5JM0pmSm9mVXVYSG52c3RDdkRsOE9ndURaTldFRGkySGlJRkJLVTJEZklfcHRZVjFUOE5sS19ZbGtmS3dITmVSNmg0ZWxuMkRVYUVtTGh0M2lJemZPYUZBZnFINDNBbDE1S2Rqd0FJQTNsbTVJREphd3RtVkZtTEM2QUFfbU5pUllCYnBNeS0yZjBDUXRRNS1ha0ZnbV84MzdnRUZOY0VZMUJLWTc3Ujd5dXdvb0dza1dJc0Nn?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRm5JM0pmSm9mVXVYSG52c3RDdkRsOE9ndURaTldFRGkySGlJRkJLVTJEZklfcHRZVjFUOE5sS19ZbGtmS3dITmVSNmg0ZWxuMkRVYUVtTGh0M2lJemZPYUZBZnFINDNBbDE1S2Rqd0FJQTNsbTVJREphd3RtVkZtTEM2QUFfbU5pUllCYnBNeS0yZjBDUXRRNS1ha0ZnbV84MzdnRUZOY0VZMUJLWTc3Ujd5dXdvb0dza1dJc0Nn",
+    "published": "Sat, 28 Mar 2026 09:54:16 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQRm5JM0pmSm9mVXVYSG52c3RDdkRsOE9ndURaTldFRGkySGlJRkJLVTJEZklfcHRZVjFUOE5sS19ZbGtmS3dITmVSNmg0ZWxuMkRVYUVtTGh0M2lJemZPYUZBZnFINDNBbDE1S2Rqd0FJQTNsbTVJREphd3RtVkZtTEM2QUFfbU5pUllCYnBNeS0yZjBDUXRRNS1ha0ZnbV84MzdnRUZOY0VZMUJLWTc3Ujd5dXdvb0dza1dJc0Nn?oc=5\" target=\"_blank\">Tech giants' capital spending surging to $700 billion amid robust AI demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Center Dynamics</font>",
+    "fetched_at": "2026-04-04T17:37:14.251803+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   }
 }
