@@ -11303,5 +11303,272 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-04-08",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 0,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 1,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 15.0,
+      "bucket": "낮음",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.1,
+          "raw_score": 0.04,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "European construction: easing inflation, tight power and rising carbon costs - MODUS | RICS",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZTZoM092NmFwQUJjNXFPN1ZXQjVOdm5NenBTQmc3Z25DWnR1WTFXZ3N2TmpvMDMxVEVOV3RnTlNFSjNqZHoxZ2pEZFVIeFBLU0wxUkN3MENvWFY2Ym9qQmV4XzVDX2lsUDhUbzFLNzBNT01VSmJrbkxzaTNsYzBrYlJGTlZhWVZkeDFzeHFIZw?oc=5",
+              "published": "Wed, 25 Mar 2026 00:00:00 GMT",
+              "strength": 1,
+              "confidence": 75,
+              "reason": "The title cites 'tight power' and 'rising carbon costs', which are operational/cost risks relevant to AI infrastructure and hyperscalers. However, the article appears focused on European construction rather than on hyperscalers specifically, so the signal is indirect and weak.",
+              "signals": [
+                "tight power",
+                "rising carbon costs",
+                "easing inflation",
+                "European construction"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 2,
+          "fresh_sum": 0.0,
+          "decay_sum": 1.88,
+          "raw_score": 0.75,
+          "strong_hits14": 2,
+          "evidence": [
+            {
+              "title": "Microsoft's Increased Capital Spending Reveals the Underlying Financial Strain of AI Expansion - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qaHJLMi1mOFJvWTF6OGc5SV9MdVFyTUh3Q2h5ckplS3IyanpyZkFOSUYwTzlIU0tZT3c2bkxSaHdZalVkZnZSY0xvdmtxNkJKQVIzY3VhM3JDNUNOVEHSAWNBVV95cUxNT2N1enRCTkNpSE5yeWJncmJDUjl5ejFfNGR1Ym4zWkRwMVM0WW1IQVJNUWtrSmdIbU9fMFR0UE5kYXB6WnYtdi1RcFFLdVlLZHNGYjFyejRQYkVJX200dkt2T0k?oc=5",
+              "published": "Fri, 03 Apr 2026 01:39:39 GMT",
+              "strength": 3,
+              "confidence": 70,
+              "reason": "Title explicitly reports Microsoft increasing capital spending tied to AI expansion and highlights an underlying financial strain—directly relevant to hyperscaler capex/cost pressure risk. Revenue decline is not explicitly stated in the provided text, so no further inference was made.",
+              "signals": [
+                "capex_up",
+                "financial_strain",
+                "AI_expansion"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Nvidia Stock Outlook for 2026: The AI Boom Will Drive Growth, but CapEx Concerns Will Increase Dangers - vocal.media",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTFV4Rnpjd1ZjbldwaWNLY0QybmhaVV9FbTV3dDFVVEhpb2NfQ25mWVBqNHNPUGFfZEN3RHRrRkVkQ21mRjdDSm9Gb2J0UGF4RVBncUswNy05OFdHOG9kTWRzOEZDcWM2d1JXMmlvbFBHS2pRLXMtcThnaFVGbWVEdW1ERWJHZ3IxRG5YMF9RUGhiUVhXUzVIaS13cmxhLWJwNHdUN0hFdDFKLXozelZZRXpyYVU1b1RYUlVhV3hqRXU5ZlhWM3lN?oc=5",
+              "published": "Tue, 31 Mar 2026 14:30:36 GMT",
+              "strength": 2,
+              "confidence": 60,
+              "reason": "The headline explicitly flags rising CapEx concerns as increasing dangers for Nvidia, a core AI infrastructure supplier, which constitutes a risk signal about higher capital expenditure pressure. The item provides no supporting data or indication of revenue decline, so the signal is weak-to-moderate and limited in detail.",
+              "signals": [
+                "Headline: CapEx concerns will increase dangers for Nvidia",
+                "Headline: AI boom will drive growth (demand signal)"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 3,
+          "recent14_count": 19,
+          "fresh_sum": 6.0,
+          "decay_sum": 18.82,
+          "raw_score": 11.63,
+          "strong_hits14": 19,
+          "evidence": [
+            {
+              "title": "The 410-Gigawatt Challenge: How AI Data Centers Are Straining Texas’ Grid - Construction Review",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkdIYTkyQ0pUMlNsMFBSaDhGSzlfTHQ3YVQ5VjAwOEl6anlpNEx2Q3N0OFE3c0psQnVLVHlMS3hpUW5lSDBOT0hSdDNublBiaG5sZ0RxcXlTQXlnTzlXd2VFd2ZQWnc0VENMVVowZVNQMFFobEdianNjWnhCd1dwZVJaVWl3VFBYWnF3aFMtbnByLXFFOWVnYnNvM1Bna04xcTZFNXRuMUhoa3h1Zmc?oc=5",
+              "published": "Thu, 02 Apr 2026 11:01:51 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The title explicitly states that AI data centers are straining Texas’ grid and quantifies a '410-Gigawatt Challenge,' indicating a clear and strong power-capacity risk to AI infrastructure in the region.",
+              "signals": [
+                "AI_data_center_power_demand_increase",
+                "regional_grid_capacity_constraint_Texas",
+                "large_scale_power_capacity_challenge",
+                "potential_power_availability_risk_for_data_centers"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Electrical parts shortage may delay almost half US AI projects - NewsBytes",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOHIyY3AybkhyUVA0dE1JcFlVQWVGTkZFTG52R002ckc3WGJIcmF4cW5sZDFZakNoa3p1ckJOVmZBNEpMZVJIVnN5cUZtYjljRlhubDdRTGZMWVh2TUxtRzhibFpoUFFHVkpBand2VEtLS010RmFlekpWMmlsRkFXQTB1M3hFdkhmaWlPVS0xdFlIVUNqTG9nLTgwb2xFa0N0Sjg3bmNjOVRpTUtxaEdr?oc=5",
+              "published": "Fri, 03 Apr 2026 08:05:50 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "Headline directly states an electrical parts shortage could delay nearly half of US AI projects, indicating a supply-chain risk to electrical/power components that can affect AI infrastructure deployment. Marked conservative because the headline uses 'may' and details of scope/causality are not provided.",
+              "signals": [
+                "Electrical parts shortage",
+                "May delay almost half US AI projects",
+                "Supply-chain risk to electrical/power components affecting AI project timelines"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "DEP Seeks Proposals For Electric Generation, Battery Storage To Quickly Enter Service To Feed Rising Energy Demands From A.I. Data Centers, Improve Grid Reliability, Address High Energy Costs - PA Environment Digest Blog",
+              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRFZWWk1LMzBFNzllTWVkUlI1UV9UWGxhUmpYa1Y4Qm4wTmR5RUJnSmpCUzRpU3MxbW9UYUxqVWc3YV9XeXFxM2VXVVUtLS1UNjh6SzRuR29KX2g2dXhRUFpILU5aRzZQYlJFNzl3aDNlM3p5c1BtMG9pa3d6SG10em9mWk9nZmVWY1RGQw?oc=5",
+              "published": "Sat, 04 Apr 2026 09:55:00 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Article explicitly links rising energy demands from A.I. data centers to actions by the state DEP to procure rapid electric generation and battery storage to improve grid reliability and address high energy costs, indicating a clear, actionable supply/risk signal for AI infrastructure power needs.",
+              "signals": [
+                "rising energy demands from A.I. data centers",
+                "DEP seeks proposals for quick-entry electric generation",
+                "DEP seeks proposals for battery storage",
+                "explicit goal to improve grid reliability",
+                "explicit goal to address high energy costs"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Emerald AI raises $25 million from Nvidia and others to build a fast pass for data centers connecting to the grid - Fortune",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNEdPaXdJWnNnbXh2bzVEUjJ2bndrTHZLdVRaS081Q2N5UlVBZnRXOGduQjBHMkUwVXB4UnU2NzdUbFZ1RlhOVS1hai13X3BQcURZQl9OZUV1cmlRdVpHNHVKWWszRzJBczlBazZvMnl2d3pzT0ZxeW1JbzVTVThOWkY1NVBqc0V2LVRSSllR?oc=5",
+              "published": "Tue, 31 Mar 2026 11:00:00 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Fortune reports Emerald AI raised $25M to build a 'fast pass' for data centers connecting to the grid, which implies existing delays or friction in power/utility interconnection for data centers. The article shows investor interest but does not quantify scope or severity, so signal is clear but not highly detailed.",
+              "signals": [
+                "Emerald AI raised $25M to build a 'fast pass' for data center grid connections",
+                "Product aims to accelerate/streamline utility interconnection/permits for data centers",
+                "Investor backing (including Nvidia) indicates a market need addressing grid connection delays"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Constellation Faces Grid Bottleneck as 2027 Crane Power Supply Now Uncertain - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vZlR0eEg0dVdkUFdsY3doaG0zVjJqOGstN0gxV2p4UGR2WGxSUUJTUEVyLV9WTEdvWnF3YTlpd2NHcmlSZmdNVmFvbnF5S0NLdUU1cmY0dkpUVnBNSUNuMnVnc9IBY0FVX3lxTE1vZlR0eEg0dVdkUFdsY3doaG0zVjJqOGstN0gxV2p4UGR2WGxSUUJTUEVyLV9WTEdvWnF3YTlpd2NHcmlSZmdNVmFvbnF5S0NLdUU1cmY0dkpUVnBNSUNuMnVncw?oc=5",
+              "published": "Mon, 06 Apr 2026 23:13:02 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline explicitly reports a grid bottleneck and that the 2027 crane power supply is now uncertain, which is a direct signal of a power-connection/supply risk relevant to power permit/connection delays. The article title is terse and does not provide detailed permit status or timeline, so strength is moderate and no further inference is made.",
+              "signals": [
+                "grid bottleneck reported",
+                "2027 crane power supply described as uncertain",
+                "explicit power-supply/connection risk for Constellation"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "When permitting becomes programme risk – and what to do about it - Data Center Dynamics",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb2ZWWFo4SUJ3Um5vRl9lbzc3VGluRE5VdEQzYVVJT3dlRGdwRmdiMXRnX0tublFwN3B2WE1GZGpjNHdrQ3RkeHhuTjhkaHZMdGpiUU9pNDBpMTdhclVSQWhvV0pfOWJUeWgySFZGUkNtWGFLXzB5Ulo4Ym1oTFVqLTlUa093NlBTUnc2Z0VWMlRxSHo1Vi1UUHk2UG5OeFA4SWJEN2p4dG91TGlTR1Zv?oc=5",
+              "published": "Wed, 01 Apr 2026 07:37:19 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The title explicitly flags permitting as a programme-level risk for data center projects and indicates mitigation advice. Source is Data Center Dynamics. No full article text provided, so classification is based on the clear headline but limited detail prevents a higher strength/confidence.",
+              "signals": [
+                "Permitting identified as a programme risk for data center projects",
+                "Permitting delays can impact project timelines/schedules",
+                "Article offers guidance/mitigation steps for permitting-related risks"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Emerald AI and Nvidia aim to offer the fast pass for data center grid connects, partnering with power producers and raising new funds - MSN",
+              "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPWGpWdm1aZ3dCLWFDZndmVGtxX3JJTEZfX2lmU3JNSnNkcmE3c1lZdzd5dVhoUjZhR201dWhVUUVXNno1YzlKOGNDNmdrdlZOVkR0WkF6MGNQUVd5NEs0cnoyTjdrNm9RS0J1UVBXNzJrdXk3SksyWWJSYy12RHhxYUZqUjZMUHRNQkVBM24xaVEyZ1M5bkxDbmFGQjRVM2tQdEhpNkI4MENGVlhiS0JhYXJWUkMwSE01TTFPejh5YTdtNnFuRXZEYzlpUEdnVU9pMk5PckJIRldCZ050VHdKYWxsdkktWUdKbFBZZXpKWkUyWVNJRmtJVnBlem1POVVOY0Y1U1l2NHBNR0dQX2ZrT0xvaGY?oc=5",
+              "published": "Tue, 31 Mar 2026 07:00:00 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline explicitly states Emerald AI and Nvidia aim to offer a \"fast pass\" for data center grid connects and are partnering with power producers and raising funds — directly addressing grid connection/permit bottlenecks.",
+              "signals": [
+                "Emerald AI and Nvidia aim to offer a \"fast pass\" for data center grid connects",
+                "Partnerships with power producers to accelerate grid connections",
+                "Raising new funds to support faster grid connects"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Energy deficits set to constrain AI's 2026 growth trajectory—Grid congestion points to a volatile, high-stakes gamble in the power sector - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRRlI3ejV1TGhfZkEtSGstak13NnZ4WUZMM0QxQzhfTEg3Z0VjU2lPaE8xNjhLMjRkME8xcnBwclFDeV9WVV9jc2EtdXo1Vy02Z1U2Q0N5VjFMWERSS0HSAWNBVV95cUxONHBFWVFiako3VE5BZjVxUjJPS2E0RVBUTlFlQnl3TFlFc2ZtUDRLOW9hWUJET0dzME1NSlFyYUoyUEtJbVhMX09rZXhPeW5xdlFyRDBEQzhZMlhGWW1xTVh1Vzg?oc=5",
+              "published": "Sun, 29 Mar 2026 17:16:01 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The headline explicitly links projected energy deficits and grid congestion to constraints on AI's 2026 growth, which is a direct power-supply risk for AI infrastructure and hyperscalers. The article title signals sector-wide volatility but provides no detailed permit/location specifics, so the signal is clear but not highly granular.",
+              "signals": [
+                "Projected energy deficits expected to constrain AI growth in 2026",
+                "Grid congestion creating volatility in the power sector",
+                "Elevated risk to AI infrastructure expansion and operations due to power constraints",
+                "High-stakes uncertainty in power supply for hyperscalers/data-center scaling"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.28,
+          "raw_score": 0.11,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "AI + Crypto: Is the Mass Institutional Rush Into AI a Bubble Waiting to Burst — or the Biggest Opportunity of the Decade? - KuCoin",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQnIyVlZFbjdhUGx5dHU1ZEhkMGs4NXdqd2FiSldGczY4Y3JPY0Z3S3dHQ0dQV29kUE1oOWlLLTJFMURtTTVLcnZvTzdSdFdjZ3BKSHZabUJIbkxmRUpQbU1pM1lwU3l5bGMwcm1YWkNWTGVxMUdpUGVjN1FJS1pyNlhYODFPTnpFR1RObFdnbUhKNEE?oc=5",
+              "published": "Fri, 27 Mar 2026 05:37:30 GMT",
+              "strength": 2,
+              "confidence": 75,
+              "reason": "The title explicitly frames a 'mass institutional rush into AI' and questions whether it is 'a bubble waiting to burst', which indicates a market-positioning risk (speculative demand surge and potential sharp correction). The article appears to be high-level commentary (KuCoin) without infrastructure- or hyperscaler-specific details, so the signal is moderate rather than strong.",
+              "signals": [
+                "mass institutional rush into AI",
+                "risk of AI market bubble",
+                "potential for market volatility/sharp correction",
+                "framing as biggest opportunity vs bubble"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 15,
+      "new_articles": 36,
+      "dedup_skips": 143,
+      "prefilter_skips": 28,
+      "llm_calls": 8,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 7,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 1,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 0
+      }
+    }
   }
 ]
