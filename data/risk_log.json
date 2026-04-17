@@ -13454,5 +13454,226 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-04-17",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 0,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 0,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 10.0,
+      "bucket": "낮음",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.31,
+          "raw_score": 0.12,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "Microsoft's Increased Capital Spending Reveals the Underlying Financial Strain of AI Expansion - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qaHJLMi1mOFJvWTF6OGc5SV9MdVFyTUh3Q2h5ckplS3IyanpyZkFOSUYwTzlIU0tZT3c2bkxSaHdZalVkZnZSY0xvdmtxNkJKQVIzY3VhM3JDNUNOVEHSAWNBVV95cUxNT2N1enRCTkNpSE5yeWJncmJDUjl5ejFfNGR1Ym4zWkRwMVM0WW1IQVJNUWtrSmdIbU9fMFR0UE5kYXB6WnYtdi1RcFFLdVlLZHNGYjFyejRQYkVJX200dkt2T0k?oc=5",
+              "published": "Fri, 03 Apr 2026 01:39:39 GMT",
+              "strength": 3,
+              "confidence": 70,
+              "reason": "Title explicitly reports Microsoft increasing capital spending tied to AI expansion and highlights an underlying financial strain—directly relevant to hyperscaler capex/cost pressure risk. Revenue decline is not explicitly stated in the provided text, so no further inference was made.",
+              "signals": [
+                "capex_up",
+                "financial_strain",
+                "AI_expansion"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 1,
+          "recent14_count": 18,
+          "fresh_sum": 1.5,
+          "decay_sum": 12.83,
+          "raw_score": 6.53,
+          "strong_hits14": 18,
+          "evidence": [
+            {
+              "title": "Electric Utilities Confront Implementation Challenges as $1.4 Trillion Grid Expansion Struggles with Permit Delays - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RelNWalVlMXVUOU1JUWVGNlh4YzVoRGhuT2h2TkhldkxKSTZhSTJvU1NULUxGODY1UlZBTm5PTFBMYkpKcTFUZkZYSlozeUR2djBJX0llb21GN0wyWlHSAWNBVV95cUxQS09SeXNjQlI1NEVKVEJ5ZmJYSHZKc2Ric0VJb2piRUJQeTFxRjF6NFdzTHV1b3hZQ1RnbnJvWWRuU1huaFU0UU4wMHNtUkdSVDN0ZUJvZHRxc1RucVRxRjEwbnc?oc=5",
+              "published": "Tue, 07 Apr 2026 01:39:37 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Title explicitly reports permit delays hindering implementation of a $1.4 trillion grid expansion and utilities confronting challenges. This is a clear operational/regulatory risk signal for power infrastructure expansion.",
+              "signals": [
+                "permit delays for grid expansion",
+                "implementation challenges for electric utilities",
+                "large-scale ($1.4T) grid expansion at risk",
+                "regulatory/approval bottlenecks slowing infrastructure build-out"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Electrical parts shortage may delay almost half US AI projects - NewsBytes",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOHIyY3AybkhyUVA0dE1JcFlVQWVGTkZFTG52R002ckc3WGJIcmF4cW5sZDFZakNoa3p1ckJOVmZBNEpMZVJIVnN5cUZtYjljRlhubDdRTGZMWVh2TUxtRzhibFpoUFFHVkpBand2VEtLS010RmFlekpWMmlsRkFXQTB1M3hFdkhmaWlPVS0xdFlIVUNqTG9nLTgwb2xFa0N0Sjg3bmNjOVRpTUtxaEdr?oc=5",
+              "published": "Fri, 03 Apr 2026 08:05:50 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "Headline directly states an electrical parts shortage could delay nearly half of US AI projects, indicating a supply-chain risk to electrical/power components that can affect AI infrastructure deployment. Marked conservative because the headline uses 'may' and details of scope/causality are not provided.",
+              "signals": [
+                "Electrical parts shortage",
+                "May delay almost half US AI projects",
+                "Supply-chain risk to electrical/power components affecting AI project timelines"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "PJM's ambitious 15-gigawatt expansion may compel data center owners to pay higher fees for connecting to the power grid - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSaW1sUU02Y3llV3F5TXVHVF85WUJRZU1TZmFOZmdnd3RXcjQtajl3YjExYm5RS0gtSm0xeEo2aVk3bEZ5TEdvc0RuRi1CQnR2OEFzeHNjSVFObU43eUo3VFpNR3rSAWpBVV95cUxNQWhJSHpfaG9rODF1VlBuemY3YWg3WkpYdWNDWlptaEY1TnprbWlQcktxWEs0aDd0TnJPeVZJRXkyZGVRQlFhby1qc2JacF9uXzdzTlZHcDFwQ0wxbmRROVVxQnIwZHZXUlp3?oc=5",
+              "published": "Fri, 10 Apr 2026 22:12:46 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Article states PJM's planned 15 GW expansion may force data center owners to pay higher fees to connect to the power grid. This directly signals a financial/infrastructure risk to data center operators and hyperscalers (increased interconnection costs), but does not provide specifics about outages or regulatory delays, so strength is moderate and inferences are limited to costs/connection impacts.",
+              "signals": [
+                "PJM 15 GW expansion impacting data center connections",
+                "higher interconnection/connection fees for data centers",
+                "increased cost risk to hyperscalers for grid access"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "DEP Seeks Proposals For Electric Generation, Battery Storage To Quickly Enter Service To Feed Rising Energy Demands From A.I. Data Centers, Improve Grid Reliability, Address High Energy Costs - PA Environment Digest Blog",
+              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRFZWWk1LMzBFNzllTWVkUlI1UV9UWGxhUmpYa1Y4Qm4wTmR5RUJnSmpCUzRpU3MxbW9UYUxqVWc3YV9XeXFxM2VXVVUtLS1UNjh6SzRuR29KX2g2dXhRUFpILU5aRzZQYlJFNzl3aDNlM3p5c1BtMG9pa3d6SG10em9mWk9nZmVWY1RGQw?oc=5",
+              "published": "Sat, 04 Apr 2026 09:55:00 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Article explicitly links rising energy demands from A.I. data centers to actions by the state DEP to procure rapid electric generation and battery storage to improve grid reliability and address high energy costs, indicating a clear, actionable supply/risk signal for AI infrastructure power needs.",
+              "signals": [
+                "rising energy demands from A.I. data centers",
+                "DEP seeks proposals for quick-entry electric generation",
+                "DEP seeks proposals for battery storage",
+                "explicit goal to improve grid reliability",
+                "explicit goal to address high energy costs"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "LevelTen Energy Q1 2026 Price Index: Solar and Wind PPA Prices Climb Amid Policy Pressure, Permitting Delays, and Data Center Demand - GreentechLead",
+              "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQQkNLYmdRdW5qMkpsSUsyWmVFUVdncVdEOUhFZGVScjhQVGV2QjE1V3hZcXlRekJFUTc1ZDRfdFBXYUZsTUJSQzBCUkR2OG1PQUpUZ3VJd1BMUnFDNTVMa0MySTN0bDRvRDRZZF93RzNoRWFMV0l6TUlXTUtCUmo2ZTc0VFEwMGNDUzVEVUEzb19EYVlmRklxNmZRcjlpWUk4ajBIdGdPQU9UaW5DNDJXWHJGSDhEQTd0azJzRmV0STlycWFVX0tMcFB5dndSVldKWHlORjNsbHZHNWF5YVBNRk10VFlhRTRFQVg5TEREVU50XzQ3c25UeFNXdkp6eFBX?oc=5",
+              "published": "Wed, 15 Apr 2026 09:25:25 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The headline explicitly identifies permitting delays as a contributing factor to rising solar and wind PPA prices, indicating a clear risk signal around power project permitting; article text not provided for further detail.",
+              "signals": [
+                "Headline cites permitting delays as a factor in rising solar and wind PPA prices",
+                "Article links permitting delays with increases in power procurement costs (PPAs)",
+                "Also mentions policy pressure and data center demand as additional drivers"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Constellation Faces Grid Bottleneck as 2027 Crane Power Supply Now Uncertain - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vZlR0eEg0dVdkUFdsY3doaG0zVjJqOGstN0gxV2p4UGR2WGxSUUJTUEVyLV9WTEdvWnF3YTlpd2NHcmlSZmdNVmFvbnF5S0NLdUU1cmY0dkpUVnBNSUNuMnVnc9IBY0FVX3lxTE1vZlR0eEg0dVdkUFdsY3doaG0zVjJqOGstN0gxV2p4UGR2WGxSUUJTUEVyLV9WTEdvWnF3YTlpd2NHcmlSZmdNVmFvbnF5S0NLdUU1cmY0dkpUVnBNSUNuMnVncw?oc=5",
+              "published": "Mon, 06 Apr 2026 23:13:02 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline explicitly reports a grid bottleneck and that the 2027 crane power supply is now uncertain, which is a direct signal of a power-connection/supply risk relevant to power permit/connection delays. The article title is terse and does not provide detailed permit status or timeline, so strength is moderate and no further inference is made.",
+              "signals": [
+                "grid bottleneck reported",
+                "2027 crane power supply described as uncertain",
+                "explicit power-supply/connection risk for Constellation"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Delay Project Tango data center vote, civic leaders urge county - AOL.com",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd3dXTmpQTV9Nckg0UzdEOHpOdHlIZHZRMnRHWjJ3X2hyLUQ0N1JpSWg4OEs5NGV3OWgtbXppU3hWa0R3dVZwbDFxUGhTSzZYVWJxdmxPcXhWX1UtWlY5SE40ak9YRnRNb19UN0JDSnlyVXM2OWRJc1J3X0RJSVRRbw?oc=5",
+              "published": "Tue, 07 Apr 2026 14:39:48 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline reports civic leaders urging the county to delay a vote on the 'Project Tango' data center—direct evidence of local opposition that could cause permitting/approval delays for a data center project.",
+              "signals": [
+                "Civic leaders urging county to delay vote on Project Tango data center",
+                "Local opposition that may delay permitting/approval for a data center project"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Constellation Faces Grid Bottleneck as 2027 Crane Power Supply Now Uncertain - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtRE9sSm40cWg5cGRTOGhrS29xTGRLN2kwaVg0Vm1ld3pJRUZ6OGwwWW5aaEwyNzgyTFZQWnBydzU5aHZKRGNRQndGbEwxNU5hVmQ4QmtxWWJ6WVZxNEJRUnduVV_SAWpBVV95cUxOUUIzYmQwWUp6NHVPb1FFZm53dHRQTnFIeUZBal9VOFdQOFltTEF5SXA1Q2I4cWZsakNxdjJyRnVUa0JQZjZWTGdpZVRJZGVNOHRGNnI5Z3RWOXlWWlRJX2xXdnk4VWZ2elNR?oc=5",
+              "published": "Mon, 06 Apr 2026 08:03:52 GMT",
+              "strength": 3,
+              "confidence": 75,
+              "reason": "Headline explicitly cites a grid bottleneck and says the 2027 crane power supply is now uncertain, which is a clear power/permit-related risk to project timelines. Assessment is conservative because only headline-level information is provided.",
+              "signals": [
+                "grid bottleneck",
+                "2027 crane power supply uncertain",
+                "potential power/permit delays",
+                "risk to project timeline"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 34,
+      "new_articles": 35,
+      "dedup_skips": 157,
+      "prefilter_skips": 32,
+      "llm_calls": 3,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 3,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 0
+      }
+    }
   }
 ]
