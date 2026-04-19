@@ -13881,5 +13881,209 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-04-19",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 0,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 0,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 10.0,
+      "bucket": "낮음",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 4,
+          "recent14_count": 20,
+          "fresh_sum": 9.3,
+          "decay_sum": 19.22,
+          "raw_score": 13.77,
+          "strong_hits14": 20,
+          "evidence": [
+            {
+              "title": "Electric Utilities Confront Implementation Challenges as $1.4 Trillion Grid Expansion Struggles with Permit Delays - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RelNWalVlMXVUOU1JUWVGNlh4YzVoRGhuT2h2TkhldkxKSTZhSTJvU1NULUxGODY1UlZBTm5PTFBMYkpKcTFUZkZYSlozeUR2djBJX0llb21GN0wyWlHSAWNBVV95cUxQS09SeXNjQlI1NEVKVEJ5ZmJYSHZKc2Ric0VJb2piRUJQeTFxRjF6NFdzTHV1b3hZQ1RnbnJvWWRuU1huaFU0UU4wMHNtUkdSVDN0ZUJvZHRxc1RucVRxRjEwbnc?oc=5",
+              "published": "Tue, 07 Apr 2026 01:39:37 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Title explicitly reports permit delays hindering implementation of a $1.4 trillion grid expansion and utilities confronting challenges. This is a clear operational/regulatory risk signal for power infrastructure expansion.",
+              "signals": [
+                "permit delays for grid expansion",
+                "implementation challenges for electric utilities",
+                "large-scale ($1.4T) grid expansion at risk",
+                "regulatory/approval bottlenecks slowing infrastructure build-out"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "AI Infrastructure Faces Delays from Permitting, Labor Shortages - Let's Data Science",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS1lXYWVuR29tRlIwR1lDM2pxaXBmYU9HQlN4T3c3WEhiWU5LV3MtTjBObFV6OHRHZ0lPNW0xM2hqNnJsTVFqTl9uSjBUMUVaU3hrczVUaU5jSTRidDR2RmxqQmhMV2hCVElreWU3RDUxcDJlUDZGY0dYOFdBU0Uzbk9ENGFRRmxRRVNERjNfVXBGNlBNNTZUV2dTUEJqamZTcHY3MA?oc=5",
+              "published": "Fri, 17 Apr 2026 17:43:09 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The article title explicitly states AI infrastructure is facing delays due to permitting and labor shortages, which directly indicates operational risk to deployment/timeline for AI infrastructure and hyperscalers.",
+              "signals": [
+                "permitting delays",
+                "labor shortages",
+                "delays to AI infrastructure deployment"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Data Center Construction Delays: Infrastructure and Permitting Hurdles in 2026 - News and Statistics - IndexBox",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNVUxYm9rdTRvNWJlTTdKODBVelVsaTBORXlYUVZPeHlwUGFnOFlNNF91VW1pN1B3dGNNSXB4NF9Ia1dEejc4R3huOGFsQWNmMElodGVUaEtUaXVRX2FkMnJUZ1JOdmMyY2V4b2NOTlNXRVl2RnRRa3dOWUZPcnVYTHpka2VEeENwYnFndjVfMmZTVFp1YTdwSmRUMnlYdnM5UExSd2pXcy1rS1k2bVVhYjdNNXI?oc=5",
+              "published": "Fri, 17 Apr 2026 10:33:00 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The title explicitly references 'Construction Delays' and 'Permitting Hurdles' for data centers in 2026, directly indicating permitting-related risk to infrastructure projects.",
+              "signals": [
+                "Permitting hurdles",
+                "Construction delays",
+                "Infrastructure hurdles",
+                "Data center construction (2026)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "PJM's ambitious 15-gigawatt expansion may compel data center owners to pay higher fees for connecting to the power grid - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSaW1sUU02Y3llV3F5TXVHVF85WUJRZU1TZmFOZmdnd3RXcjQtajl3YjExYm5RS0gtSm0xeEo2aVk3bEZ5TEdvc0RuRi1CQnR2OEFzeHNjSVFObU43eUo3VFpNR3rSAWpBVV95cUxNQWhJSHpfaG9rODF1VlBuemY3YWg3WkpYdWNDWlptaEY1TnprbWlQcktxWEs0aDd0TnJPeVZJRXkyZGVRQlFhby1qc2JacF9uXzdzTlZHcDFwQ0wxbmRROVVxQnIwZHZXUlp3?oc=5",
+              "published": "Fri, 10 Apr 2026 22:12:46 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Article states PJM's planned 15 GW expansion may force data center owners to pay higher fees to connect to the power grid. This directly signals a financial/infrastructure risk to data center operators and hyperscalers (increased interconnection costs), but does not provide specifics about outages or regulatory delays, so strength is moderate and inferences are limited to costs/connection impacts.",
+              "signals": [
+                "PJM 15 GW expansion impacting data center connections",
+                "higher interconnection/connection fees for data centers",
+                "increased cost risk to hyperscalers for grid access"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Permitting Hurdles and Labor Shortages Threaten AI Data Center Timelines - MENA Fintech Association",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUWxvaVMyci1WN2FfQkhpaVBrclZ2ZGNHbWdKcXdLMWl5d1lYTUM5UFdhSEFweVl4T0Fxd1dkWFFuUV9UWFFGTmJCZ0JVclh2bWdocjBuNnpiNnF1RzZ3Vkl6LWZlVlZfR0FWbTRTTmN2TlItNFNFNi1SYTRPUDFOQzA1YTNNZGZNWTRHOC1NS1ZxNzZBQzR1aVg0WWo4d1Y4ampYekVB?oc=5",
+              "published": "Sun, 19 Apr 2026 00:19:46 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The headline explicitly states permitting hurdles and labor shortages are threatening AI data center timelines, which is a clear signal of permitting-related project risk. The item provides no quantitative detail, so strength is moderate and no further inferences are made.",
+              "signals": [
+                "permitting hurdles",
+                "labor shortages",
+                "AI data center timeline risk"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "FERC tees up June decision on data center interconnection reform - Utility Dive",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZHBFaVdldVdYZC1jWEVfcHVPRFVEQnNwR2hrdkczcG9CY01sRU9hMEZhYlRnVTlzX3ZKUFJBT1hzZS0zcUpDRjFiSVJlbklpQ3ViUXYzRE8wQTlpRzFQbV96VUJXSW14STdGUER3RlZfNDk2YlZreTJRWWJCVzdtM052akVPbFptMTNyVXd6WmpoV1h4ZTN5WjIzYXRCcVk?oc=5",
+              "published": "Fri, 17 Apr 2026 23:23:01 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline explicitly states FERC has scheduled a June decision on data center interconnection reform, which directly pertains to interconnection/permit processes for data centers. No article details provided, so signal strength is moderate.",
+              "signals": [
+                "FERC scheduled a June decision on data center interconnection reform",
+                "Regulatory action targets data center interconnection processes (potentially relevant to permitting/interconnection delays)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "LevelTen Energy Q1 2026 Price Index: Solar and Wind PPA Prices Climb Amid Policy Pressure, Permitting Delays, and Data Center Demand - GreentechLead",
+              "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQQkNLYmdRdW5qMkpsSUsyWmVFUVdncVdEOUhFZGVScjhQVGV2QjE1V3hZcXlRekJFUTc1ZDRfdFBXYUZsTUJSQzBCUkR2OG1PQUpUZ3VJd1BMUnFDNTVMa0MySTN0bDRvRDRZZF93RzNoRWFMV0l6TUlXTUtCUmo2ZTc0VFEwMGNDUzVEVUEzb19EYVlmRklxNmZRcjlpWUk4ajBIdGdPQU9UaW5DNDJXWHJGSDhEQTd0azJzRmV0STlycWFVX0tMcFB5dndSVldKWHlORjNsbHZHNWF5YVBNRk10VFlhRTRFQVg5TEREVU50XzQ3c25UeFNXdkp6eFBX?oc=5",
+              "published": "Wed, 15 Apr 2026 09:25:25 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The headline explicitly identifies permitting delays as a contributing factor to rising solar and wind PPA prices, indicating a clear risk signal around power project permitting; article text not provided for further detail.",
+              "signals": [
+                "Headline cites permitting delays as a factor in rising solar and wind PPA prices",
+                "Article links permitting delays with increases in power procurement costs (PPAs)",
+                "Also mentions policy pressure and data center demand as additional drivers"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Constellation Faces Grid Bottleneck as 2027 Crane Power Supply Now Uncertain - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vZlR0eEg0dVdkUFdsY3doaG0zVjJqOGstN0gxV2p4UGR2WGxSUUJTUEVyLV9WTEdvWnF3YTlpd2NHcmlSZmdNVmFvbnF5S0NLdUU1cmY0dkpUVnBNSUNuMnVnc9IBY0FVX3lxTE1vZlR0eEg0dVdkUFdsY3doaG0zVjJqOGstN0gxV2p4UGR2WGxSUUJTUEVyLV9WTEdvWnF3YTlpd2NHcmlSZmdNVmFvbnF5S0NLdUU1cmY0dkpUVnBNSUNuMnVncw?oc=5",
+              "published": "Mon, 06 Apr 2026 23:13:02 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline explicitly reports a grid bottleneck and that the 2027 crane power supply is now uncertain, which is a direct signal of a power-connection/supply risk relevant to power permit/connection delays. The article title is terse and does not provide detailed permit status or timeline, so strength is moderate and no further inference is made.",
+              "signals": [
+                "grid bottleneck reported",
+                "2027 crane power supply described as uncertain",
+                "explicit power-supply/connection risk for Constellation"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 29,
+      "new_articles": 18,
+      "dedup_skips": 189,
+      "prefilter_skips": 15,
+      "llm_calls": 3,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 3,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 0
+      }
+    }
   }
 ]
