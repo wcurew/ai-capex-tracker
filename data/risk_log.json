@@ -15723,5 +15723,210 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-04-28",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 0,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 0,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 10.0,
+      "bucket": "낮음",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 4,
+          "recent14_count": 19,
+          "fresh_sum": 10.3,
+          "decay_sum": 25.28,
+          "raw_score": 16.79,
+          "strong_hits14": 19,
+          "evidence": [
+            {
+              "title": "Data-center builders eyeing AI gold rush waiting years for U.K. grid connections - The Japan Times",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMHRVR1dtX0dBcWdOS0llZkJaODVWRVczR1hWQzZ5UWRUUVo0QU9PbGhuV2NHU3JHUlRzc0pncVBxSEowU2swcHFqS3h2SE83bGhwY3Zwa0ZUWkRkdjlZdmtvc25NVGhaNWJHdW1IZEpNYS1XTXBPSFl3dEw0MGhVWERzNHE1RTc1NHNJ?oc=5",
+              "published": "Mon, 27 Apr 2026 03:04:00 GMT",
+              "strength": 4,
+              "confidence": 92,
+              "reason": "The headline explicitly states data-center builders are \"waiting years for U.K. grid connections,\" which directly indicates significant delays in power/grid permitting and connections for data center projects.",
+              "signals": [
+                "power_permit_delays",
+                "grid_connection_delays",
+                "data_center_development_risk",
+                "energy_capacity_constraints"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Data-center builders face years-long UK grid waits - Let's Data Science",
+              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVmZqdU02T213OG5sdW9XSE9odG82QlphbnR5aU9rakg5eTZLS1ZGb1hIQ2k4akx1dTl1bGNKaDJLMU1uNHFvZE9DUFBwd1RYUms3MDV4dTlUSkItLWxDWFdpb1YwV1JUMUkwXzJMRjE2bi00S0trVXMyMFltY1N2UlpqQ0ZpWEJ1WDNiNGdReEd5MEhaX2NN?oc=5",
+              "published": "Mon, 27 Apr 2026 03:04:00 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline explicitly reports 'years-long UK grid waits' affecting data-center builders, a clear operational risk to hyperscaler/data-center deployments in the UK (power/connection/permit delays).",
+              "signals": [
+                "Years-long UK grid waits for data-center builders",
+                "Grid connection/permit delays impacting data-center deployment timelines",
+                "Power/infrastructure bottlenecks for data-center construction in the UK"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Half of Planned U.S. Data Centers for 2026 Delayed or Canceled Amid Grid, Supply Chain, and Community Pushback - Ksst Radio",
+              "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONjZSTlN6ZGI3X1F4cTJNUG9ieUZhMDFtXzFSTXJhMy1rOTBsMWhVQ1MxOUVjaEZCY3NkZWRHbWstbThLYW1rS3pla09fYlZGRjdSRzZ0emdJRHBkOHI0eFZGNzlpVDFERWZNSGtjLTVTMF9iVzRZSnhFVnFCMVdHR1dUYjlyVHBfUG90amE3LWJISWVSUmZxaWdDSVQxZ3oxQXMtWlpXRTU1cWZ5ajRUcl9DMzJVRk5WN3NCVEdVUTRwRG9oX0dscmlLVFhpbWRUd0pkcE5zVC1FZw?oc=5",
+              "published": "Thu, 23 Apr 2026 07:00:00 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline explicitly reports that half of planned U.S. data centers for 2026 were delayed or canceled due to grid issues, supply chain problems, and community pushback — a direct and significant risk to hyperscaler/AI infrastructure deployment.",
+              "signals": [
+                "Half of planned U.S. data centers for 2026 delayed or canceled",
+                "Grid capacity constraints impacting data center development",
+                "Supply chain disruptions affecting data center construction/timelines",
+                "Community pushback and permit delays causing cancellations or postponements"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Gov. Hochul announces plan that ensures data centers help pay for electric grid upgrades - MSN",
+              "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNUjBnVGNodTNpUVFHUzBBcE1KcTBsMnNKQy1HTnZnb0VuTWExbmNCdVFmcFp3LUZKYVZzSDZ1TEFtc0F2a01XajIwdnloT2hsdGtvUVFKcDRDQk9xem9YS3RnUHI2c0w4LWxuelVuZTk2YkVyUVpzMEhnQjdiRFVaVjN0TTk3b3FNaTFadlF1b2tCelU4V0ZLcjdFTWdmRE5LLTVUa3FQaTVqTVM5UWRQd1BEc0JXNC1nMXViMl9fSHFOX2V3R1ViaS1fZ3VyS3VYMk4xOXluQWp0RGVjc1NaOUtILU9raF9ZTU52bGYyTW5NUThUT0FLclJ6VVBhQ3ZCX2p0czlDWG9OLVRDRXJSVEVZNEV0eHVwOVc3a0gxM1F1VmhWUjBpNlZEOWJ6dHB2b09NMmZEYkxtT21hQ005dFlkVUhqUGM0S01iVDZzd2d2TlhCekZaRjZ4TklNbGpNS0ppRVZORWd0Vk56MEk0aGM5NTBxZTM3M3pMOU05V0dldw?oc=5",
+              "published": "Sat, 25 Apr 2026 00:45:14 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "Headline states New York Gov. Hochul announced a plan that ensures data centers help pay for electric grid upgrades — a direct policy/financial signal affecting data center operators and hyperscalers in the region.",
+              "signals": [
+                "policy change: data centers required to contribute to grid upgrade costs",
+                "regional regulatory risk (New York)",
+                "potential increased operating/installation costs for data centers",
+                "electric grid upgrade funding requirement"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Grid Capacity Warnings Are Reshaping Facilities Site Selection - Environment+Energy Leader",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZWlGTVFUZUpXdzdQS0Q2SDNOSnMwNGV1WkxOS3Vtd0xRZGNmT0RlSU9EZThRTERzT0lseGhMNkstLXVJa01jSzk0OHhreW9sZzFpbnZGRV9MMTIxbHRNdkY2TC1rZDNhTmJySVlpMmhoSW43c1BVRXYxLW56dFF3a3NEVTRaWkhlYzNaNjlKMGR4WFlDbjM0YnlHN1hJZGFKMjZkTVlfNGNMbHlqRlNJQjh0UQ?oc=5",
+              "published": "Mon, 27 Apr 2026 12:00:00 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline explicitly states that grid capacity warnings are reshaping facilities site selection, indicating a clear operational risk from grid constraints affecting siting decisions. The summary does not provide details about permitting or explicit permit delays, so no further inferences were made.",
+              "signals": [
+                "grid_capacity_warnings_affecting_site_selection",
+                "power_grid_constraints_impacting_facility_siting"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Data centers are now competing with food processors for grid capacity, and three meat plants have already lost the fight - VegOut",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbk1pcHVUVGtubHRSNE5MSnB0cFhZQXZGTjg4dk1GczE5TmVyaHh3cEZ2QzdzcUF2ZGxPLU5kcExaTk1hdmFZaV9IZWdJS0ZDM2xmbTNWZnVpMVJ6eVZPbnYtZXR1bVctMXZHWVVxOUYzZ2pfV1hUNmVNOGRiajRtdmYzM1l3YlI5Rmp2b1hQeS1hUU5NUUNFU0hn?oc=5",
+              "published": "Sun, 26 Apr 2026 00:46:12 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The headline explicitly reports data centers competing with food processors for grid capacity and states that three meat plants have already 'lost the fight', which is a clear signal of grid-capacity constraints affecting industrial users and potential impacts on power access/allocations. No further details on permits or regulatory delays are provided, so strength is moderate.",
+              "signals": [
+                "Data centers competing with food processors for grid capacity",
+                "Three meat plants have lost access/allocation in that competition",
+                "Grid-capacity constraints impacting industrial food processors"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "France Eyes Steps to Speed up Data Centre Grid Connections - Global Banking & Finance Review®",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOFdOOWNaeVBoclJGa3NXdnk2VF9zellwcTlNeDcyWF9rcmZzNUU3Szl1NkR5dXM0V3p4WHZrU3NKcU02QU9vWEx4dFBkZ1VvTUc2eHM3VHROM3JxcVZPN3RQaWphc19CVXBHWkNhdjBYcFFJNHo2VVpneHpXVzhKak50ME9kejV1NU4zTXBQaE5DZWxRMXhQS0hPc2I?oc=5",
+              "published": "Thu, 23 Apr 2026 09:39:26 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Article states France is considering steps to speed up data centre grid connections, indicating recognized delays in grid connections for data centres.",
+              "signals": [
+                "France considering measures to speed up data centre grid connections",
+                "Recognition of delays/slow grid connection processes for data centres in France",
+                "Potential regulatory or process changes to accelerate power/grid permits/connections"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "France eyes steps to speed up data centre grid connections - MSN",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZTNpcXBRWFRhSmo1VHIwSUdzV25tS3RORjYwOWJOMmloMW1QRS1zbmhONlJVVy1iSzYwc1JsdzJzc256QmFzUXAwZjdMUUZOay0xWVhSajBCY19TY3pPUnI4dm1TbnNvbGpKZklObUlLdnM5RDVpd2NHNlJYNXptZEFFemg1MVNaUERRQjlfWlhaNTJwem8yUG9CNlM4ckNRdTg0X1Y4ZXhQTFV4LUdHWVRR?oc=5",
+              "published": "Thu, 23 Apr 2026 07:00:00 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline states France is considering steps to speed data-centre grid connections, indicating acknowledged issues with connection timelines and potential policy action affecting power/permitting delays.",
+              "signals": [
+                "government considering measures to accelerate data-centre grid connections in France",
+                "acknowledgement of delays or constraints in power/grid connections for data centres",
+                "potential regulatory or permitting changes targeting faster connection timelines"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 23,
+      "new_articles": 38,
+      "dedup_skips": 169,
+      "prefilter_skips": 34,
+      "llm_calls": 4,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 4,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 0
+      }
+    }
   }
 ]
