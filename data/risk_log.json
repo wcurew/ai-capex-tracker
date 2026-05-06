@@ -17776,5 +17776,299 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-05-06",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 0,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 3,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 25.0,
+      "bucket": "보통",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.96,
+          "raw_score": 0.38,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "Computing power is being re-centralized: After DeepSeek's price cut, who will control the AI ​​infrastructure? - PANews",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sRE5EYzVDNmUzRTJKWjd4LWF4YjRzdURaU2NKeVVkdF9rcW5jbFVCOUoyUHZpcDlkeWhvM050Q2x5UlU2eGlyNFhhSkRzS2w3RGU3Zk5qUHFQRm5GM0I1WjNBOWRpUjBxM0JtTjVkRi16aVMwc3FJX0V2YVNRM28?oc=5",
+              "published": "Wed, 29 Apr 2026 11:16:00 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The title explicitly states computing power is being re-centralized after DeepSeek's price cut and asks who will control AI infrastructure, indicating a risk signal about concentration of control over AI compute resources.",
+              "signals": [
+                "price cut by infrastructure provider (DeepSeek)",
+                "re-centralization of computing power",
+                "potential concentration of control over AI infrastructure"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 5,
+          "fresh_sum": 0.0,
+          "decay_sum": 5.14,
+          "raw_score": 2.56,
+          "strong_hits14": 5,
+          "evidence": [
+            {
+              "title": "'Magnificent 7' earnings rush reveals AI spending surge, with hyperscaler capex set to reach $725 billion in 2026 - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVnJfLWN1MXFqZXd1NTJFakZfU2xLdkFJLVBkcnNFSFBCbk9KZktKQ0FzMGxIUWVualo4LXFWRDRIRkFBOXBXUlA2WlBVMm1CNlVPMFRDYWtuZzRSSUExZlRySko2NG13RUQ0OXQzcGhEVEV5bmg3WjhPZzVsdGdQVkwwNEtIcXd5bmc2Z3dsQTNZV3NwQVV1bjk1UHBrMXM0Rl9sQ0JkUUNkTkt4YTUtYXJDbklJNk0ybXpsampFWXlaZlh1MGRuRndqY29zZzd5UmNsU0ZaYWVNUVRSZE1ONi14Y2ktVmJYcFAwZ2c3UFpnZC1rTzdzZW5R?oc=5",
+              "published": "Wed, 29 Apr 2026 22:49:01 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Title explicitly reports an AI spending surge and states hyperscaler capex is projected to reach $725 billion in 2026 — a clear, direct signal of rising hyperscaler capital expenditure. The text does not mention revenue declines, so no inference about revenue_down is made.",
+              "signals": [
+                "AI_spending_surge",
+                "hyperscaler_capex_increase",
+                "capex_projection_2026_725bn"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Is the AI CapEx Trade Cracking? 5 Stocks Most Exposed If OpenAI’s Slowdown Is Real - 24/7 Wall St.",
+              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZTRJYmJCWjZaQzdoQ3ZrMV80YmZURTFQUnlRTTZCUnl6cWxTT0V1M05hdWwtbkNqLUlxaHFCNnk0d290WjlNSFVYVnRjQVdldS03ZElLRmt0LTJJREZ3MGYySldBQ0JfbmVUaHQ5ZG5CSm54UWtrY1lFNDEyWlNjeHRjX0ZkV1I3YnpEa25PcUFXV1ZKOUQ0eVdRckRteXVaQmdUV1ZxVlUxQm5jNkltdlZWcy1WZWJXRDJSLTBoQlZiZw?oc=5",
+              "published": "Tue, 28 Apr 2026 20:18:26 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "The headline explicitly frames a potential slowdown at OpenAI as putting the AI-capex trade at risk and identifies five stocks as exposed — a direct signal about demand risk for AI infrastructure/capex-exposed firms. The piece is speculative (‘if ... slowdown is real’), so signal is moderate rather than definitive.",
+              "signals": [
+                "Potential OpenAI slowdown risk",
+                "AI CapEx trade under pressure",
+                "Stocks exposed to reduced AI-related capex",
+                "Demand risk for AI infrastructure / capex-exposed firms"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Google Just Warned of a Significant Increase in 2027 CapEx. Why GOOGL Stock Investors Don’t Seem to Care. - inkl",
+              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbmlyQzlHVi0tbGdETlFTdEFJSzhqRXJQbjFDclRlaWJVRXBrZHEzazRVSHBTSXpHNFpSTGVTQUJIdklpUS1KRElybWpkUGNvX0NnSzd4dExfbVJCUWpKNkNiSHZpbW84bHoxSGFaMVM0RjJCSHJNVUpRNUlCR043WFV0Ti1PXzBwSmxhbG1rS3R0aHIzUlNHZjBmSTlNd2ZtR1hmR2VVYUY1TGpqMVBJUlhjVVhrMVZPU0FTZVRKZEU5Tl9Gc0IyVg?oc=5",
+              "published": "Sat, 02 May 2026 14:00:02 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The title explicitly warns of a significant increase in Google's 2027 capital expenditures, which is directly relevant to hyperscaler/AI-infrastructure capex risk. The summary provides no details on magnitude, drivers, or revenue impact, so strength is moderate and no revenue-down inference is made.",
+              "signals": [
+                "increased_capex_forecast_2027",
+                "investor_apathy_toward_capex"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "The $720 Billion Capex Trap: 2 Artificial Intelligence (AI) Hyperscalers Spending on Growth While the Rest Spend on Maintenance - AOL.com",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VdlVNZ2xvbmI2T29TeFdyZ21GcjRvV1VxUE43LWFBUU1GbUY5UkxsVzJZSmRMdWFwOUhqOE0zX2J3UE9Vamd0Njcta0dXZXVWazFVMEU2UDF5dklHcFQ0dnBXS2FDZkFFVEM1U1JmeURQRE9wbnc?oc=5",
+              "published": "Mon, 27 Apr 2026 02:48:00 GMT",
+              "strength": 2,
+              "confidence": 80,
+              "reason": "Title explicitly highlights a potential industry risk: large aggregate capex ($720B) with only two AI hyperscalers pursuing growth while others limit spending to maintenance. However, only the headline/source is provided so supporting detail and evidence are lacking, warranting a cautious, moderate strength rating.",
+              "signals": [
+                "Headline claims $720B aggregate capex",
+                "Two AI hyperscalers are 'spending on growth'",
+                "Remaining hyperscalers are 'spending on maintenance'",
+                "Framing as a 'capex trap' implying potential financial/competitive risk concentration"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Is the AI CapEx trade cracking? 5 stocks most exposed if OpenAI’s slowdown is real - MSN",
+              "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPb1pERUNIb2lkZzdxU1ZVS1M5NDNxbkctSS1QXzlKZVg3aEQ5MW1JUF9yTTB3YmFJMjItdGdsd2xhSXFzNTMyZHBRWkp3Wks1ZFRuem5MRGt6WTEtVGZkMTJSWTlzUVB1MUtYMmg2d2hnYlBibzFZSDlzTlZYRkV2T2hlamFFOU82ZGNKN3phYmpCYzZicTVwOE5KM0ZHNGEtb01IRlZfSGJiWWZLWVRBMk1oQkxCWlB3QThfczhWZHVXaGNQSnRjWU5nVGUyTmhTMHhtVkdnNWhycXFDZjhDWDUwdUhQSng4RFpKUU5rY3Y?oc=5",
+              "published": "Tue, 28 Apr 2026 20:39:52 GMT",
+              "strength": 2,
+              "confidence": 60,
+              "reason": "The headline explicitly frames a potential slowdown at OpenAI as creating capex and revenue exposure for certain stocks — a direct signal of demand/revenue risk for AI infrastructure and hyperscaler suppliers. However, only the headline/link is available (no article details), so the assessment is tentative and conservative.",
+              "signals": [
+                "Potential slowdown in AI demand from a major model provider (OpenAI)",
+                "Increased capex risk for AI infrastructure vendors/hyperscalers",
+                "Revenue exposure for specific stocks/vendors tied to OpenAI-driven demand",
+                "Market re-evaluation of the 'AI CapEx' trade"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 1,
+          "recent14_count": 22,
+          "fresh_sum": 2.0,
+          "decay_sum": 15.96,
+          "raw_score": 8.08,
+          "strong_hits14": 22,
+          "evidence": [
+            {
+              "title": "Data-center builders eyeing AI gold rush waiting years for U.K. grid connections - The Japan Times",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMHRVR1dtX0dBcWdOS0llZkJaODVWRVczR1hWQzZ5UWRUUVo0QU9PbGhuV2NHU3JHUlRzc0pncVBxSEowU2swcHFqS3h2SE83bGhwY3Zwa0ZUWkRkdjlZdmtvc25NVGhaNWJHdW1IZEpNYS1XTXBPSFl3dEw0MGhVWERzNHE1RTc1NHNJ?oc=5",
+              "published": "Mon, 27 Apr 2026 03:04:00 GMT",
+              "strength": 4,
+              "confidence": 92,
+              "reason": "The headline explicitly states data-center builders are \"waiting years for U.K. grid connections,\" which directly indicates significant delays in power/grid permitting and connections for data center projects.",
+              "signals": [
+                "power_permit_delays",
+                "grid_connection_delays",
+                "data_center_development_risk",
+                "energy_capacity_constraints"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Denmark halts data centre growth as grid strain rises - The News International",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTV9ROC1Xems0MmExanIwRXpTNEZqUURpX0FIY2lqWHYteTZRU2xGdW8wWmVtMElyZ1d5VGVJYnJ4QmdJSEJ3SlNoRDQ0TDgydmJlUEsxaFRtNFVzOGNVSWhOdHRvYzlwQ1pKZEZUR1ZZZmZDWjZuYlRXNkJhekpzSENvcnBVTkRPeksxUnk2cDFTRWJfN2JKdXV5UQ?oc=5",
+              "published": "Mon, 04 May 2026 07:03:03 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline explicitly says Denmark 'halts data centre growth' as 'grid strain rises', indicating a government-imposed constraint tied to grid/power capacity that impacts data centre expansion.",
+              "signals": [
+                "Government halt/moratorium on data centre growth",
+                "National grid capacity strain/constraints",
+                "Restrictions affecting new data centre approvals/expansions"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Data-center builders face years-long UK grid waits - Let's Data Science",
+              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVmZqdU02T213OG5sdW9XSE9odG82QlphbnR5aU9rakg5eTZLS1ZGb1hIQ2k4akx1dTl1bGNKaDJLMU1uNHFvZE9DUFBwd1RYUms3MDV4dTlUSkItLWxDWFdpb1YwV1JUMUkwXzJMRjE2bi00S0trVXMyMFltY1N2UlpqQ0ZpWEJ1WDNiNGdReEd5MEhaX2NN?oc=5",
+              "published": "Mon, 27 Apr 2026 03:04:00 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline explicitly reports 'years-long UK grid waits' affecting data-center builders, a clear operational risk to hyperscaler/data-center deployments in the UK (power/connection/permit delays).",
+              "signals": [
+                "Years-long UK grid waits for data-center builders",
+                "Grid connection/permit delays impacting data-center deployment timelines",
+                "Power/infrastructure bottlenecks for data-center construction in the UK"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Half of Planned U.S. Data Centers for 2026 Delayed or Canceled Amid Grid, Supply Chain, and Community Pushback - Ksst Radio",
+              "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONjZSTlN6ZGI3X1F4cTJNUG9ieUZhMDFtXzFSTXJhMy1rOTBsMWhVQ1MxOUVjaEZCY3NkZWRHbWstbThLYW1rS3pla09fYlZGRjdSRzZ0emdJRHBkOHI0eFZGNzlpVDFERWZNSGtjLTVTMF9iVzRZSnhFVnFCMVdHR1dUYjlyVHBfUG90amE3LWJISWVSUmZxaWdDSVQxZ3oxQXMtWlpXRTU1cWZ5ajRUcl9DMzJVRk5WN3NCVEdVUTRwRG9oX0dscmlLVFhpbWRUd0pkcE5zVC1FZw?oc=5",
+              "published": "Thu, 23 Apr 2026 07:00:00 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline explicitly reports that half of planned U.S. data centers for 2026 were delayed or canceled due to grid issues, supply chain problems, and community pushback — a direct and significant risk to hyperscaler/AI infrastructure deployment.",
+              "signals": [
+                "Half of planned U.S. data centers for 2026 delayed or canceled",
+                "Grid capacity constraints impacting data center development",
+                "Supply chain disruptions affecting data center construction/timelines",
+                "Community pushback and permit delays causing cancellations or postponements"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Gov. Hochul announces plan that ensures data centers help pay for electric grid upgrades - MSN",
+              "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNUjBnVGNodTNpUVFHUzBBcE1KcTBsMnNKQy1HTnZnb0VuTWExbmNCdVFmcFp3LUZKYVZzSDZ1TEFtc0F2a01XajIwdnloT2hsdGtvUVFKcDRDQk9xem9YS3RnUHI2c0w4LWxuelVuZTk2YkVyUVpzMEhnQjdiRFVaVjN0TTk3b3FNaTFadlF1b2tCelU4V0ZLcjdFTWdmRE5LLTVUa3FQaTVqTVM5UWRQd1BEc0JXNC1nMXViMl9fSHFOX2V3R1ViaS1fZ3VyS3VYMk4xOXluQWp0RGVjc1NaOUtILU9raF9ZTU52bGYyTW5NUThUT0FLclJ6VVBhQ3ZCX2p0czlDWG9OLVRDRXJSVEVZNEV0eHVwOVc3a0gxM1F1VmhWUjBpNlZEOWJ6dHB2b09NMmZEYkxtT21hQ005dFlkVUhqUGM0S01iVDZzd2d2TlhCekZaRjZ4TklNbGpNS0ppRVZORWd0Vk56MEk0aGM5NTBxZTM3M3pMOU05V0dldw?oc=5",
+              "published": "Sat, 25 Apr 2026 00:45:14 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "Headline states New York Gov. Hochul announced a plan that ensures data centers help pay for electric grid upgrades — a direct policy/financial signal affecting data center operators and hyperscalers in the region.",
+              "signals": [
+                "policy change: data centers required to contribute to grid upgrade costs",
+                "regional regulatory risk (New York)",
+                "potential increased operating/installation costs for data centers",
+                "electric grid upgrade funding requirement"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "PJM Interconnection reviews 811 power projects as grid operator shifts to new approval model - The Business Journals",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR3E3aFNJU2Izb0FlalJUZWlZeS1oTFJBdC1wNTA3Wm9rX3lPSm14SXpXZVJBZHNGNzQ3M3VWQnl0OWFzUTZQeFU0RmVPc1k0dzdxd3ZfTWxOWVEwTWt1SExOcVVGY2RQNVl2bXJHSVd0NWpNSHlBQ1B2ekhTaTl4R25TdjdkRE1Rak5ic2tNNGlqbkg2UnNfNDJHeUcwZm4z?oc=5",
+              "published": "Wed, 29 Apr 2026 15:22:00 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Article states PJM is reviewing 811 power projects as it shifts to a new approval model, indicating a large interconnection/approval workload and a change in regulatory process that can create permit/approval delays or backlogs relevant to power availability for infrastructure.",
+              "signals": [
+                "approval_backlog",
+                "interconnection_review_increase",
+                "power_project_permit_delays",
+                "regulatory_approval_model_change"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Exploding number of AI data center build-outs delay Texas housing projects — data centers' high demand for electricians prices out contractors, homes now take two months longer to complete - Tom's Hardware",
+              "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPaloyQXNoeHh4VjhXdm14TVRyazJfN0QtYzFLSU5qREFiWnRTZjhJRkl2d0VPRGJrdF9URXJ1LTI5UkcwdEdISTFhMU9WVE8tZ3hIRHpUQ1hma2JjNGhDVFg0VW1LOHI2YllQTWcyWXZ2Wjl4MkdMMjVCU25SdVNWQUlvSzBaZXN3bTVTSzl3WGsxejNtQXkzY0NHNEUyNzdKeVpfRWNsWVlHVXBJMnBpX2xVbC1SM1ZOcXBfNS1XZXVQMnk0aVE4V2t1NnRlYTg2VzFKUkNlblVTMkxnanNHMk5kV1E2ZEI5ck8yLUlQOFFBRjU3LUFzOWRrWEJUYmZXQmNZQnliRk5VbjBNSDBBQUYxUlk5a0tycDZOMDA5ZmJ3ZjE5OEFLTFVGeFU1eXhXMWNxMTZ1aFJhMVJvTlpKa0ozWUdYenZ2U0N3c3c4ejN6Nm8ySnh6NUtNcWFIQQ?oc=5",
+              "published": "Thu, 30 Apr 2026 10:00:00 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The article directly reports rapid AI data center build-outs in Texas are driving up demand for electricians, pricing out contractors and causing residential construction to take about two months longer—indicating a clear local labor/resource competition risk from AI infrastructure expansion.",
+              "signals": [
+                "Rapid AI data center build-outs increasing demand for electricians in Texas",
+                "AI data center demand is pricing out residential contractors",
+                "Residential housing projects delayed (~2 months) due to contractor/electrician shortages"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "A 10 MW Alberta AI site aims to skip grid queues with gas power - Stock Titan",
+              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUnprcEhaYUprMVd1eXpVZ0Vwc19FTkNkYmo2MmR6Y1NoNm1ZamZjRWpIa19SRDVvMXN0ZDd4ZEgxN1BET0FQbXQyYmMtLUp5NnBuaVZ4NnFBR1hLYjdqa0hTbTZ3bE0xdnBWWDEzdl9aMjRZWmlHbHEyMXZuQmlpdjhOYm02MG5oSl93VW92RkRqVTFqTU1ob1Ezem1Dc2prcGFmc0xsOGdfaHl0MlZLLXU3WUxkR0U?oc=5",
+              "published": "Thu, 30 Apr 2026 12:30:00 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Title explicitly says a 10 MW AI site is aiming to 'skip grid queues' by using gas power, which directly indicates grid interconnection/connection delays driving onsite generation choices. The summary provides no further detail, so strength is moderate rather than maximum.",
+              "signals": [
+                "10 MW Alberta AI site plans to bypass grid queues",
+                "Deployment of onsite gas-fired power to avoid grid interconnection delays"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 14,
+      "new_articles": 33,
+      "dedup_skips": 189,
+      "prefilter_skips": 31,
+      "llm_calls": 2,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 2,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 0
+      }
+    }
   }
 ]
