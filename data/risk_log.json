@@ -24699,5 +24699,254 @@
         "market_positioning": 1
       }
     }
+  },
+  {
+    "date": "2026-06-02",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 0,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 0,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 10.0,
+      "bucket": "낮음",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.24,
+          "raw_score": 0.1,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "Google’s AI subscriptions get a new $100 tier, a price cut, and new features across all plans - Digital Trends",
+              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNWJMdVphS0JycDJSSVRmR0ozTzFWNjIxejRZOE9SYTc2WmlqYmpUZTFzMWZKeDZ3QnNNOU9SN0Y5czVYd1NxaXY3d2E0eXJ1RWZsQ1dQS19wNEM3Um1iR3BLMGhQNzh6T0NzVThYRE53QjkyRjhycEF3WERrSjZlUmFYMVFjM25qUElDTlB2Mmc3bzhWWTBHMUo5UXcxMWtWak0zTkxRSWxoR1FhOXR3MkJTUzhGb1BybDI0Qm9YNS1JbTVxMC1DVXJB?oc=5",
+              "published": "Tue, 19 May 2026 19:52:26 GMT",
+              "strength": 2,
+              "confidence": 90,
+              "reason": "Article reports a concrete change to Google’s AI subscription pricing (new $100 tier and a price cut) which is a direct hyperscaler pricing signal relevant to cost and vendor dynamics. No further impacts are described in the summary.",
+              "signals": [
+                "Google introduces a new $100 AI subscription tier",
+                "Google issues a price cut for AI subscriptions",
+                "New features added across all AI subscription plans"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 3,
+          "recent14_count": 17,
+          "fresh_sum": 7.8,
+          "decay_sum": 20.32,
+          "raw_score": 13.31,
+          "strong_hits14": 17,
+          "evidence": [
+            {
+              "title": "Neara Spotlights Grid ‘Visibility Gap’ as Key Risk to European AI Data Center Expansion - TipRanks",
+              "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTWU2bDZ3XzBDRjd0VzliWUVXcjg4bkJ4aFhJbEE4QmtYTTVTdUtObzNOOEl4dmVpN2IyZ3RQdG93RU5vVVVIV0txaWNaNWhUWkJIa25QbU1HcWhOMDZ2YWs4QnNLTnRHdm9yQXg3R1NHZk1UdEdKcjNabkdubTZUaF9PQW5ybDFfTE01VjJxYzRLUzJzd0M3Z3p0MHhLM1JuTHU5Y0Ytal9XaGY0bE5nOVg1aEVkZjdyYWk2YXRmb2pueWFmaE9OMjdkOGg2QQ?oc=5",
+              "published": "Sat, 23 May 2026 13:37:23 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The title explicitly states that Neara spotlights a grid 'visibility gap' as a key risk to European AI data center expansion, directly signaling a power/grid-related risk to infrastructure deployment.",
+              "signals": [
+                "Grid 'visibility gap' identified as a key risk to European AI data center expansion (Neara/TipRanks)",
+                "Grid-related risk to expansion of AI data centers in Europe"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "The wait for a high-power grid transformer just stretched from 30 months to five years — stranding every new AI data center trying to connect - MSN",
+              "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPajdIdDJNdGYyMDN1Mk44RjNwYnY5TzdzeHVaZ3kxWElwZElyUURidEN2TGFhVmZkQTdsNVllWFR3Q205cGd0b0FGd3N1N09rNEtmWlhJSHhJMXhaRFBZSzdBLWFrb3F6cklaVU5JU3lBYlpDNmVoR1ZRZkNqZHNsQUFTRm1naGVISnpwT2xGcElOTmNLaXBhS3Y3WmltT2dyU0F5UnFzQTl2aHJWQmN1UTZ0cmdEZi1ETDZCMTg0T2QtNVVHbkdVWlVERHBLcEFsdEdZYWZwbExjNlpuWmxzVXR6WHIydDhKS0IwRTFSbF9hd0swc1hpZWpoX1NWNDJwZzVFenlUVkx2TVRKOFBSNW9qa3djUTk4bzYzNDBR?oc=5",
+              "published": "Thu, 21 May 2026 01:04:45 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline reports lead time for a high-power grid transformer increased from 30 months to five years, explicitly stating this strands new AI data centers trying to connect to the grid — a direct infrastructure risk for AI/hyperscaler deployments.",
+              "signals": [
+                "5-year lead time for high-power grid transformer",
+                "Increase from 30 months to five years",
+                "AI data centers stranded/unable to connect",
+                "Grid connection/power-permitting bottleneck",
+                "Delayed availability of high-capacity electrical equipment"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Denmark Rations Grid Access as AI Buildout Floods Nordic Systems - Data Center Knowledge",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZnNwRENpTmRjUXBmb0FEWHVHRVE1TVJSYVYtNFJEN3daN0J6WW5PV19UYUp1d1hpNmJSN21Ydno2YzBSWEluQVBMMURUT00xVGVNX1JRaWNuV2tVVThoa2tCM3RMYU90bF9hall2WXViZWRkY3JSQkxrR2g1RURHNzV2N2VaN2xTTGdTenNmdU1OZ0xkbGx6QTlSdDRrLWFUYjdEbkctbWQycS1PQzN2Q3pRbw?oc=5",
+              "published": "Thu, 28 May 2026 18:25:12 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "Headline explicitly reports Denmark rationing grid access as AI/data-center buildout floods systems, directly indicating power/grid capacity constraints that can affect hyperscaler infrastructure expansion.",
+              "signals": [
+                "grid_access_rationing",
+                "power_capacity_constraints",
+                "data_center_buildout_affecting_grid"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Transformer shortage threatens half of planned US AI data centers - MSN",
+              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOVQ1WFRhSXVGbVNqRDA4ZjNmWWRMTXRmWlRnMHRJVnVqc1JVNGVEbmY5ZUp5S1BJYmNaZkR0WEFoMHcwNkpqQmQ0M0NmdzZvWFM2Ui1COFU1ODF2aV9LcXd6cGJfMFp5ZjliR0V6Z3RUTWJRcGxmSHNSTU9BT2RYNUhPRDRNWlBhbXczU0E4UmVDNV81LWoxWjQ5NDFuWjdESXU1bmVrcWF0X0xHdzZtSXl1VV9JNl9uM0hock4zaVdZbW93Snc?oc=5",
+              "published": "Wed, 20 May 2026 19:15:38 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "Headline explicitly states a transformer shortage is threatening half of planned US AI data centers, indicating a clear and direct power-infrastructure risk to AI data center deployments.",
+              "signals": [
+                "Transformer shortage",
+                "Threatens half of planned US AI data centers",
+                "Power/infrastructure constraint impacting AI data center deployments"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Transformer shortage stalls half of planned U.S. AI data centers - MSN",
+              "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbmJ5TDNjRXJXUzd2Sldnc1RJaUdadXcyWXFRX2NvUGdfSVNQbS1DQkY4Z0RRdTFDbHE3ZzNlRS1EbXRrUnp2M2VTbWxUb1ItUWpxcHp5QU1mYV8zdHQyQmt4Q1pQc1J2UVU5OHgtT0FLSUlqZ2xLaExFV2xmUXNYcC00MWRjWk5mV19UejJvaXhDRlZPbWxmRnlhNmNmS1A5dDNyTzFFTVhRdW5BOUZrSXJvdlZUWVpraHlrWWRpRjBvVjVTS1hHSW9fRUtYNTZSSzRnQ2lvbTlIdEYzVVY2ZmpmQzE5VGVqWnpjUGp3?oc=5",
+              "published": "Tue, 19 May 2026 18:26:21 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "The article headline explicitly states a transformer shortage is stalling about half of planned U.S. AI data centers, indicating a clear power-infrastructure supply risk affecting AI/hyperscaler buildouts.",
+              "signals": [
+                "transformer shortage affecting data centers",
+                "power equipment supply chain constraint",
+                "stalled AI data center projects",
+                "delays in AI data center deployment due to power infrastructure"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Senate bill would make AI data centers pay for power grid upgrades - ConsumerAffairs",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX3g0MGVuaUU1ZGRVVjVwWWtlOTZKQXg5eGdTazExMzRYdTRlbW9hTXBJZ1k0cDlmM3F1RzdfajNXLXZNWm1PdGh5RWdBODlTZnpuWGlDSHFKUmszNVA4cWJIbFpDdk90dmJrMkRjZ0k4LWx4OHJXdHBWdm9jVEktNmN6Wm5YbDhQZWpmbnFIQ0phejhqUnZpNWp1aFlXdlVGRnFISnB4VGo2TzdMYjItM3d4MFZiUQ?oc=5",
+              "published": "Tue, 19 May 2026 13:17:02 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "The headline describes a legislative proposal directly targeting AI data centers' responsibility for power grid upgrades, a clear regulatory/policy risk to AI infrastructure and hyperscalers (costs and power provisioning). No additional facts beyond the text were assumed.",
+              "signals": [
+                "Senate bill proposing AI data centers must pay for power grid upgrades",
+                "Direct regulatory/policy change affecting AI data center power provisioning",
+                "Potential financial impact on hyperscalers due to required infrastructure costs"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Is power grid connectivity the strategic bottleneck for AI? - The World Economic Forum",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmIwdWNjaDJTVVFkMFZ1TmMyU2tHb2V5bXh2LU83ZXpBdWYyQzQtTllSZ1FtVHloQmVZd1NXQzdKMWlReUYzdldtNU9zNUdTUUZVWERsd1V2WGh5MWVYRldFRjFSbG42TkdyenFWeEFHc2oxMmxCM3RzQWRWZjRndkQ0bFhmNnlRQTV3VV9VNklta3hWcjdOeW1RbzgtZmNhcWJaR1NRcHJYcHdtZHZ1STgzdkc?oc=5",
+              "published": "Mon, 18 May 2026 17:34:00 GMT",
+              "strength": 4,
+              "confidence": 80,
+              "reason": "The title explicitly frames power grid connectivity as a strategic bottleneck for AI, indicating a clear infrastructure risk related to power-grid capacity and connections relevant to AI deployment.",
+              "signals": [
+                "power_grid_connectivity",
+                "grid_connectivity_bottleneck"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "AI Runs on Electricity, but Washington Is Blocking the Grid - National Review",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbFNZOE5BS1NEVFRaNFByaWNxUjRuc2lUMEJIM2lNZm1MTzNTUzNlVVFUamJQQklwcF9ZMFVRU0ZYZzBaZ2NQOTgwaFBheGVXNmJWVC0xd2k0a1U2RmU4a0hhWHRfRjJ1cDgyTkt6ejBDUkJQTDZXUFRCWEh4dXBIN25OTm54QWVMWnFMTENWUm5ucVpQczF6bVBBVVRuWFl4aVNVbdIBpAFBVV95cUxQbFNZOE5BS1NEVFRaNFByaWNxUjRuc2lUMEJIM2lNZm1MTzNTUzNlVVFUamJQQklwcF9ZMFVRU0ZYZzBaZ2NQOTgwaFBheGVXNmJWVC0xd2k0a1U2RmU4a0hhWHRfRjJ1cDgyTkt6ejBDUkJQTDZXUFRCWEh4dXBIN25OTm54QWVMWnFMTENWUm5ucVpQczF6bVBBVVRuWFl4aVNVbQ?oc=5",
+              "published": "Mon, 01 Jun 2026 10:30:08 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline explicitly links Washington regulatory/permitting actions to blocking grid expansion needed to power AI, indicating a direct risk to electricity availability for AI infrastructure.",
+              "signals": [
+                "Permitting/regulatory delays in Washington are blocking or slowing grid upgrades needed to power AI.",
+                "Potential constraint on electricity availability for AI workloads due to grid development being impeded.",
+                "Regulatory/policy actions in Washington pose a risk to power infrastructure needed by AI systems."
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 2,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.67,
+          "raw_score": 0.27,
+          "strong_hits14": 2,
+          "evidence": [
+            {
+              "title": "AI chip rally triggers bubble warnings amid record gains - MSN",
+              "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZUJkZHJDM2dfNTJ3YTZGeW5vcXlhTEVVeGZwVkR2MXVBX0V6ci03eE9BemNZNkJMRWVsbmxvREZEWkt3LTR0VUc3aWtPQWdfYUJPZ3hkdl8za0lDYVVyVjdmVXZ4dEJTblplSzEzcEp6empmZThKYXd0ZEJYbzZUanJPY2NlY1BvQ3FmNDFWSjlFelo3UGhtN0JNNkt5TU9CeV9FZ3R3djFqWUYwN2FNOUFkU0ZJMVUzWUlRSm1PNW5ENEEzMVdneDJHRndCcFpTREJxbll5LTlsZ3l6anN5TGhxX0lkWHRzQXdIRE5IdmI?oc=5",
+              "published": "Tue, 19 May 2026 16:35:22 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline states an 'AI chip rally' that 'triggers bubble warnings amid record gains', indicating elevated market froth/overvaluation risk in the AI chip sector (market positioning signal).",
+              "signals": [
+                "AI chip rally",
+                "bubble warnings",
+                "record gains",
+                "market froth/overvaluation"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "BofA Survey Finds Most Fund Managers Now Worried About Overinvestment Amid AI Capex Surge; ‘Slow Down, Hyperscalers’ - MSN",
+              "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOLVpHdjdZMUFrU2U2VG5LRlBsN1JHWE1vQWJxUF9lOHZPLXFZeVFfU2JQZDZqaGwzWG1vRi1kdjRCcjZ1OVhLdnBzdjZSUnpYX3BXREhvUHpOSE96M0JFeHdfbEYyYVNZdXRPTUtxUjU0SURRb1dGQlpqWEJhaTMwM0RaaVNzRmFlb0l1VEZtWVhmYmZNeXUzU3l0ZDkxdkluM3VXTG93Um5qQmNUUFV5dVViVVY5WUp4ZEwwM2NlSWIyelppbWp6Y3owdXlVM0xPczVPSjFnYzRhbFhoWTZBandDT1JiMHM5NmdIeXpCYTdSd1otdmR1NGUzREtCTnBXMnAza2k4WVRlN2FUdTRKMl9UY0FJX0RzaUI1ZUZWdUVqMG12TDB4OFBPQ2R6V1FweE5hVnNWMWF4R3VFMGl4SHZqM3FXRVd4MEhMVGlPQ1BGcHlLU2xNX1BHREt1Vlc5MElvUFNtVGtqTGc3Y2hBMElJN1I0WlY3d01KMDRkNHpZTnhOQnJGZVh2NHVPdw?oc=5",
+              "published": "Tue, 19 May 2026 13:17:43 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Bank of America survey reports most fund managers are worried about overinvestment amid an AI-driven capex surge and urging hyperscalers to 'slow down' — a clear investor-sentiment signal of potential overcapacity/market risk for hyperscalers and AI infrastructure firms.",
+              "signals": [
+                "Investor concern about overinvestment in AI capex",
+                "Widespread fund-manager sentiment urging hyperscalers to slow capex",
+                "Market-positioning risk for hyperscalers due to AI-driven spending surge"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 40,
+      "new_articles": 43,
+      "dedup_skips": 135,
+      "prefilter_skips": 36,
+      "llm_calls": 7,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 6,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 1
+      }
+    }
   }
 ]
