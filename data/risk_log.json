@@ -26280,5 +26280,223 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-06-09",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 0,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 0,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 10.0,
+      "bucket": "낮음",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 2,
+          "recent14_count": 22,
+          "fresh_sum": 4.0,
+          "decay_sum": 20.55,
+          "raw_score": 11.12,
+          "strong_hits14": 22,
+          "evidence": [
+            {
+              "title": "Denmark Rations Grid Access as AI Buildout Floods Nordic Systems - Data Center Knowledge",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZnNwRENpTmRjUXBmb0FEWHVHRVE1TVJSYVYtNFJEN3daN0J6WW5PV19UYUp1d1hpNmJSN21Ydno2YzBSWEluQVBMMURUT00xVGVNX1JRaWNuV2tVVThoa2tCM3RMYU90bF9hall2WXViZWRkY3JSQkxrR2g1RURHNzV2N2VaN2xTTGdTenNmdU1OZ0xkbGx6QTlSdDRrLWFUYjdEbkctbWQycS1PQzN2Q3pRbw?oc=5",
+              "published": "Thu, 28 May 2026 18:25:12 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "Headline explicitly reports Denmark rationing grid access as AI/data-center buildout floods systems, directly indicating power/grid capacity constraints that can affect hyperscaler infrastructure expansion.",
+              "signals": [
+                "grid_access_rationing",
+                "power_capacity_constraints",
+                "data_center_buildout_affecting_grid"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Stressed US Grid Forcing Data Centers to Get More Flexible - EnergyNow.com",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNlhYa3dma1ZGMWgzVzFvaG5EX0pxcXlISERNZThFTk82SHc3Sm15SzJwTmp2dktqejZIaGlYMjl1cWhMbWh1SG54bGRlZ29LcDR3MGUwdkZhLVNNOE1ZU2xyNm5GblZJYnBMeE9jeW1QU1Z2NTMtdktOOVpKTFhiQ1pZTlF3YVRpempOUDBTUnNkVXM?oc=5",
+              "published": "Tue, 02 Jun 2026 23:16:33 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The headline explicitly states the US grid is stressed and is forcing data centers to become more flexible, which is a direct operational power risk for data center operators and hyperscalers. The summary/link provides that explicit signal but offers no specifics on outages, permit delays, or scale, so details are unclear.",
+              "signals": [
+                "Stressed US electricity grid",
+                "Data centers being forced to increase operational flexibility (e.g., demand response/load management)",
+                "Power-supply-related operational risk to data center/hyperscaler infrastructure"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "AI Runs on Electricity, but Washington Is Blocking the Grid - National Review",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbFNZOE5BS1NEVFRaNFByaWNxUjRuc2lUMEJIM2lNZm1MTzNTUzNlVVFUamJQQklwcF9ZMFVRU0ZYZzBaZ2NQOTgwaFBheGVXNmJWVC0xd2k0a1U2RmU4a0hhWHRfRjJ1cDgyTkt6ejBDUkJQTDZXUFRCWEh4dXBIN25OTm54QWVMWnFMTENWUm5ucVpQczF6bVBBVVRuWFl4aVNVbdIBpAFBVV95cUxQbFNZOE5BS1NEVFRaNFByaWNxUjRuc2lUMEJIM2lNZm1MTzNTUzNlVVFUamJQQklwcF9ZMFVRU0ZYZzBaZ2NQOTgwaFBheGVXNmJWVC0xd2k0a1U2RmU4a0hhWHRfRjJ1cDgyTkt6ejBDUkJQTDZXUFRCWEh4dXBIN25OTm54QWVMWnFMTENWUm5ucVpQczF6bVBBVVRuWFl4aVNVbQ?oc=5",
+              "published": "Mon, 01 Jun 2026 10:30:08 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline explicitly links Washington regulatory/permitting actions to blocking grid expansion needed to power AI, indicating a direct risk to electricity availability for AI infrastructure.",
+              "signals": [
+                "Permitting/regulatory delays in Washington are blocking or slowing grid upgrades needed to power AI.",
+                "Potential constraint on electricity availability for AI workloads due to grid development being impeded.",
+                "Regulatory/policy actions in Washington pose a risk to power infrastructure needed by AI systems."
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "BWRCI: In Wake of Illinois Data Center Freeze, VTCNZE PBC Proposes CHIPS-Inspired Public Equity Model to Unlock Grid Bottlenecks - 24-7 Press Release Newswire",
+              "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNQ2xFMGFnYVIwT0RCRlBqeVdCbi1LbnZmUGUwSFZGQlVzUVlSaWFlbWdsVVZhZ2VSZzVxWVpFTmR1NXZXN0xQV3JPMUlRZFJMVjVIU2doMGx5NU0tZldzZ0ZOUnVOREppaFAzbXJhU3VpR2hiY1MzXzJIaXYtZ0VhOFdoLTVIb3kwY21tS3E3bTB5Y1k3RUdqQmtBUHZjX21DbjN3WkU5Wlp5TzdLQUVmNjIzc25HQ1ByaDY3RjU1LXdCdW9xbk1abDNMNHc2RkJkMm9fdktPc2tuOVZELWU3bk4weFBpR01qTGtwY19qUEZtQl92QzU0OWNCa0JEVUhlVUdpWEROeDdwajV4?oc=5",
+              "published": "Tue, 09 Jun 2026 07:13:49 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The title explicitly references an 'Illinois Data Center Freeze' and discusses addressing 'grid bottlenecks' via a proposed CHIPS-inspired public equity model, indicating a concrete risk signal of power/grid-related permit or approval delays for data centers. The piece describes a proposal rather than documenting a systemic resolution, so the signal is clear but not definitive.",
+              "signals": [
+                "Illinois Data Center Freeze",
+                "grid bottlenecks",
+                "VTCNZE PBC proposes CHIPS-inspired public equity model",
+                "effort to 'unlock' grid constraints affecting data center approvals"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Austin Data Center Surge Puts Texas Grid On Record-Shattering Watch - Hoodline",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTlZ6Q2Fyc21UVXlqZ3kwWThPa1RvMGF2bDZCUnRVcnhmaHlsT1NSUm5LaGFFbFRUSGJSelNmdWM0Xzdqb0xUeUdIYnRQNlA4LUVQX3FaZjVETi1SZi1BZkxqcUlwTWk5bXo2VnlXTjRFM2pmcjFvZ0ZXa1gxZzVHTHJ5YXJWWmlwNFMtSXZNRWg1TnNNTUNlbDZVdlVCUQ?oc=5",
+              "published": "Thu, 04 Jun 2026 19:31:23 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Title explicitly reports a surge in data centers in Austin putting the Texas grid on 'record-shattering watch', directly indicating increased data-center power demand and regional grid stress relevant to hyperscaler infrastructure. No further detail in provided text.",
+              "signals": [
+                "increased_data_center_power_demand",
+                "regional_grid_stress",
+                "grid_reliability_concern"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "DOE’s Agora Simulates AI Data Center Power Challenges on the Grid - Data Center Knowledge",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNDVWSVg4bWZlcmhpUWM3MVdTbkR5bXVkdFZCTF9Nal9nZWhNaldQaXBIRHAxT1ZEeG5xdERGaFhFTmFUbGs0dnQ3N0w4UzJKMk5SMzdrb0pidzdoNkF4U1dzb3F4UGs4UkdTcWMwRU12RVZWZHlMd2l3U0ZBWW1LaFFRSEQ5QlNhT1l4R29ER250MjRfc1pfWjBJNUpaMVFpYko1ODV4QmVpcHJk?oc=5",
+              "published": "Tue, 02 Jun 2026 17:08:49 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline explicitly reports DOE simulation of AI data center power challenges on the grid, which is a direct indicator of power-related risk for AI infrastructure. The summary text itself is limited (headline only), so assessment is moderate rather than maximal.",
+              "signals": [
+                "AI data center power challenges on the grid",
+                "DOE simulation of grid impacts from AI data centers",
+                "potential grid capacity/stress risk for AI data centers"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "The Installed Transformer Gap in AI-era Cyber-physical Grid Resilience - RTO Insider",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObl9lVmxqRmU2d21GdEZrZ3ZIYTJJcEZfMl9KM3JBcWZ5cDl6VVIxY1JwSy1XSllNcEdVNzhmZnVkLWE5LThlWXBUdjk2VG84R2lGT2VUcjAtRnVzT1hRTE5jV3o5eUJQNG9kUmo2QUNENzBVTUtLRlF5XzlKb1NQZzFJZTlLajZmclJqaEE4VmFpLW0xNi16OXQ0cklLbVk?oc=5",
+              "published": "Mon, 01 Jun 2026 23:58:47 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The title explicitly references an 'Installed Transformer Gap' and 'AI-era Cyber-physical Grid Resilience', which directly signals a power/grid infrastructure risk relevant to AI-era deployments. The summary provides no further detail, so assessment is limited to that explicit wording.",
+              "signals": [
+                "Installed Transformer Gap",
+                "AI-era cyber-physical grid resilience"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "AI companies want power fast. The electric grid's gatekeeper wants them to learn the rules. - Politico",
+              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSjU3Wkt2WFgwSlNyZmw4a2ZPZzdRMWFZYzBVLW54cU5QeGZRMHF4OW85RjVfdTNKUjU5elhwNENCVUFaaVNsbjJSTXJzdlEtVjV1QUN1M0RRSGotaEdGNThlNVYwSU5QcjRVTkl0clhnZDJocHZvYmVSRU1aRncxdmlxTGcySHhIbTVZbg?oc=5",
+              "published": "Fri, 29 May 2026 09:00:00 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline indicates a clear tension between AI firms seeking rapid power hookups and grid authorities enforcing permitting/rules, signalling permit-related delays as a risk to AI infrastructure deployment.",
+              "signals": [
+                "AI companies seeking rapid access to electrical power",
+                "Electric grid regulator/gatekeeper enforcing rules that can slow or condition power connections",
+                "Potential for permit/process delays to impede AI data center or compute deployments"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.33,
+          "raw_score": 0.13,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "Asian markets bounce as Nvidia takes centre stage amid AI bubble fears - Digital Journal",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZGJUdE5ycHZtd2hNZWxIQ3Vrc2hCaWRfVkUyd3NNMXBvM1JDOXE5eXlZdzlMYU5YYmd0OGY2amdtTVdSeVUxaFBDTWFuSTJ5SnBGb3g5Rk1LU1EtRTZfQTg5OUhsdG43U0FNN1dLcVMxZmg2cFVLN0JWNkpxdWhINHhEODRlRVBRN0M3Mzg0OGpnRGU4enNnNlU2NVAxQ01VNFp2UUFHZkpuYm5RX1k0?oc=5",
+              "published": "Fri, 29 May 2026 05:12:00 GMT",
+              "strength": 2,
+              "confidence": 70,
+              "reason": "Headline indicates market positioning risk: Nvidia is driving market moves and there are cited 'AI bubble fears', implying concentration/valuation risk. However only a title/link is provided with no supporting details, so the signal is present but not strong or detailed.",
+              "signals": [
+                "Nvidia driving market movements (concentration risk)",
+                "AI bubble fears (potential overvaluation in AI-related equities)",
+                "Regional market sensitivity noted (Asian markets reacting to Nvidia/AI news)"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 33,
+      "new_articles": 31,
+      "dedup_skips": 143,
+      "prefilter_skips": 27,
+      "llm_calls": 4,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 4,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 0
+      }
+    }
   }
 ]
