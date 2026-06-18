@@ -28324,5 +28324,242 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-06-18",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 0,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 0,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 10.0,
+      "bucket": "낮음",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 1.23,
+          "raw_score": 0.49,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "AI computing capacity bottleneck easing? Report: Taiwan Semiconductor's CoWoS shortfall to narrow from 20% to 10% - Moomoo",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc25rdktfZ1VGdENjclFULXJDMHZFekN4a0NKU2JGaGQ2UmUxVUdGbXNFVnVadldjbHJLT3JaSThkdjJLamhQR3FpaU9vZHpRdGNITjN3RVRjLXQ1QTlSd1BZNTZ6NDZ4a0o0bHloOXZiVFFmbm5sb1c0Ym1SLWo3RVV0WHJUUV9kZ3QzUk80UEVGS1Fpbm01SGJVWkVxN0pibW1CR3piSzI4YjF3NzYybHotTm5yemNJ?oc=5",
+              "published": "Mon, 15 Jun 2026 11:51:50 GMT",
+              "strength": 2,
+              "confidence": 60,
+              "reason": "The report explicitly states TSMC's CoWoS shortfall is expected to narrow from 20% to 10%, which directly indicates a reduction in packaging-related supply constraints for AI chips and suggests easing of an AI computing capacity bottleneck. This is a single report-based signal, so strength is moderate-low.",
+              "signals": [
+                "TSMC CoWoS shortfall projected to narrow from 20% to 10%",
+                "Report frames AI computing capacity bottleneck as easing"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 4,
+          "recent14_count": 14,
+          "fresh_sum": 8.6,
+          "decay_sum": 16.63,
+          "raw_score": 12.31,
+          "strong_hits14": 14,
+          "evidence": [
+            {
+              "title": "As data centers seek to tap Texas’ energy, grid regulators are close to approving a new way of vetting requests - The Lufkin Daily News",
+              "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOeTJVOEhMeDhGbGVxcFZodGZCenJ1Nm44TEZhQ0tNb0xvR05NaVRnZFQ5N2lyZElaZkVieElmLTFaQVFxUWxseHI4M1dKQXZOT21qZVJwdmpGS0RsSURhT0gwVXdwVHFrTkhJTmJRNE5IbTM2MWFnTEtqVzBDNEMwV005TnNOZmFSVE1MYmZrNW91WGJMcnZPZV9SSUh0cU1aX1Z3Y29LbE1xR1BjRzNXdUNZRWJ1ek9uSk9uQzM2bEJ6dGZKYzZNaXZxNDhQX1ZLaUVmT1RHdEt0ZWlSMUs1N011bGhORnRDYnJOVkhYV05oRjEtU3NxdDJEYl9kUkFYLTJmYw?oc=5",
+              "published": "Thu, 18 Jun 2026 05:00:00 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline states Texas grid regulators are close to approving a new way of vetting requests by data centers seeking to tap energy. This is directly relevant to permitting/vetting processes for power access that can affect hyperscaler/data center deployments, though article details are not provided.",
+              "signals": [
+                "Grid regulators in Texas nearing approval of a new vetting process for data center energy requests",
+                "Direct link to data centers seeking to tap Texas energy (permits/requests)",
+                "Regulatory change in vetting requests that could affect power access/permitting for hyperscalers"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "States Reconsider Data Center Incentives and Permitting as Energy, Water, and Fiscal Pressures Mount - The National Law Review",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUVEMUNyVVhoYm9KNENLbFk0NFJWZ0puRXB3T1NULS1Ka2x0WjFRdG1TdUE2S01OX29fcmpwdFEyS2JFN2FKc29ldDh2QThvb0s4S09FdEMtRjUydWxQWG03SjlXeWNPWWZtODhQX2hXbUdYUjQzRXhaMHRuWW5NTXdjcUlKMnNNeVU4ZUhVbkpwcUU1d0xYakxlQlg2RkFOcXIzRU1lTlB2a1dJSm5pbVNR0gG3AUFVX3lxTE9POWJDTUIta0VkdXZvZWhQRFRnXzRUSTctVzhfODFaZUhpaFRiQm8xeGNJNzYxZ1dIWU5CeUZ5ekxTQi1kbWZfOVB2ZEdnNHRUUG1WMTZ3NEtxZmtkY18zZ2xacjZBVndrNGVwZUJ0MGllTzdXc2RLamdVZVZOUDUtdWp1VzVCdWhsVVE2ZWRJNlA4VzktZGpqaU9mNmVoMWdYTDNuNkpIdk5tVllVemQwSENseDJEUQ?oc=5",
+              "published": "Sat, 13 Jun 2026 18:06:13 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The article title explicitly states that states are reconsidering data center incentives and permitting due to mounting energy, water, and fiscal pressures, which is a direct policy/permitting risk signal for hyperscaler/AI infrastructure. No further details are provided in the summary, so strength is medium (not maximal) and conclusions are limited to what the title states.",
+              "signals": [
+                "State-level reconsideration of data center incentives",
+                "Potential changes or delays in permitting for data centers",
+                "Energy constraints cited as driver for policy review",
+                "Water resource constraints cited as driver for policy review",
+                "Fiscal pressures prompting reevaluation of incentives"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "States Reconsider Data Center Incentives and Permitting as Energy, Water, and Fiscal Pressures Mount - ArentFox Schiff",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM0h3MkxpSzZvSWtDcVpjUTB5UXZTUURoeFU5WFozcmtwX1VWVmhTbWp0QTJxNGZzYzNpNE5GUDJ5OHZiVUQ2TVNJTXIxamRRT3lPTUU0SFdvM3A0bXhTZmdVR2dYV1Jfb2xpUGNuUFI4dTktSHRReURfbzZVcFYyZ3dmaVpZdmZJRWs1U0VaQXVNOHQwWDlwejRhV1EyLXI2VEh0QU1LSHJCSFVsWXZRbmVWNGNvMkdMRHZKY2c5MA?oc=5",
+              "published": "Fri, 12 Jun 2026 05:00:00 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The title explicitly reports states are reconsidering data center incentives and permitting due to energy, water, and fiscal pressures, which directly signals potential permit delays or reduced incentives affecting hyperscaler/data center deployment.",
+              "signals": [
+                "State-level reconsideration of data center incentives",
+                "Potential permitting changes or delays for data centers",
+                "Energy and water resource pressures influencing data center policy",
+                "Fiscal pressures prompting incentive/policy adjustments"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Energy leaders push permitting reform, grid investment as demand surges - Daily Energy Insider",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNmJmVzBaZHJza1I2WGVod0ZHVktkZklFVnFDUXd1R2tmR0w5TTdLdjhSTFI2cG1UUjd4ckVmWDJxdXRBZndvYmwxWHgxRUJENVY1REZyOXJpaVl1RnlGMmwtVzN1YS1KVkUyMFRzR2o4UzVSRGpyRmo3Uk5YdUpTVU9oaEVqSHk2SUcwNmdFTnlZdFVZMTBjOG5wVmpjaHJPWTdpcEwtaWZiSkE1OWEydFRFdw?oc=5",
+              "published": "Wed, 10 Jun 2026 21:53:24 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The article reports energy leaders calling for permitting reform and increased grid investment in response to surging demand, which directly signals concerns about permitting bottlenecks and grid capacity constraints.",
+              "signals": [
+                "calls for permitting reform",
+                "need for increased grid investment",
+                "surging electricity demand"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "BWRCI: In Wake of Illinois Data Center Freeze, VTCNZE PBC Proposes CHIPS-Inspired Public Equity Model to Unlock Grid Bottlenecks - 24-7 Press Release Newswire",
+              "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNQ2xFMGFnYVIwT0RCRlBqeVdCbi1LbnZmUGUwSFZGQlVzUVlSaWFlbWdsVVZhZ2VSZzVxWVpFTmR1NXZXN0xQV3JPMUlRZFJMVjVIU2doMGx5NU0tZldzZ0ZOUnVOREppaFAzbXJhU3VpR2hiY1MzXzJIaXYtZ0VhOFdoLTVIb3kwY21tS3E3bTB5Y1k3RUdqQmtBUHZjX21DbjN3WkU5Wlp5TzdLQUVmNjIzc25HQ1ByaDY3RjU1LXdCdW9xbk1abDNMNHc2RkJkMm9fdktPc2tuOVZELWU3bk4weFBpR01qTGtwY19qUEZtQl92QzU0OWNCa0JEVUhlVUdpWEROeDdwajV4?oc=5",
+              "published": "Tue, 09 Jun 2026 07:13:49 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The title explicitly references an 'Illinois Data Center Freeze' and discusses addressing 'grid bottlenecks' via a proposed CHIPS-inspired public equity model, indicating a concrete risk signal of power/grid-related permit or approval delays for data centers. The piece describes a proposal rather than documenting a systemic resolution, so the signal is clear but not definitive.",
+              "signals": [
+                "Illinois Data Center Freeze",
+                "grid bottlenecks",
+                "VTCNZE PBC proposes CHIPS-inspired public equity model",
+                "effort to 'unlock' grid constraints affecting data center approvals"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Austin Data Center Surge Puts Texas Grid On Record-Shattering Watch - Hoodline",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTlZ6Q2Fyc21UVXlqZ3kwWThPa1RvMGF2bDZCUnRVcnhmaHlsT1NSUm5LaGFFbFRUSGJSelNmdWM0Xzdqb0xUeUdIYnRQNlA4LUVQX3FaZjVETi1SZi1BZkxqcUlwTWk5bXo2VnlXTjRFM2pmcjFvZ0ZXa1gxZzVHTHJ5YXJWWmlwNFMtSXZNRWg1TnNNTUNlbDZVdlVCUQ?oc=5",
+              "published": "Thu, 04 Jun 2026 19:31:23 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Title explicitly reports a surge in data centers in Austin putting the Texas grid on 'record-shattering watch', directly indicating increased data-center power demand and regional grid stress relevant to hyperscaler infrastructure. No further detail in provided text.",
+              "signals": [
+                "increased_data_center_power_demand",
+                "regional_grid_stress",
+                "grid_reliability_concern"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "PJM and ERCOT face grid connection requests exceeding US power capacity - Crypto Briefing",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV2RrWEtMTFM5YVdLc1pMRkRiRUpsUmNoTjNlOF9RYmRVTTNVWnY5d0toTXczb3J6LWhibVI1LTZ6YnBhS1lMTjV6WGliNmRqTmxUUzJHT1hWODktVkFIR3BoTWdpNDM0Tk9yenA3cGRsandPREowY3dfNjI5TXp0UHhR?oc=5",
+              "published": "Mon, 15 Jun 2026 00:55:02 GMT",
+              "strength": 3,
+              "confidence": 75,
+              "reason": "The headline explicitly reports PJM and ERCOT face grid connection requests that exceed US power capacity, indicating constraints on connecting new large power loads. That is directly relevant to AI infrastructure/hyperscalers which require large, reliable power connections, though the text does not explicitly mention data centers or hyperscalers.",
+              "signals": [
+                "PJM grid connection requests exceed US power capacity",
+                "ERCOT grid connection requests exceed US power capacity",
+                "Significant constraints on connecting new large power loads / potential connection/permit delays"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas's New Grid Rules Could Put Billions In Data Center Projects At Risk - Bisnow",
+              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSHdlVXBEZ1dwM0xxcGMtWFFSZlVvVEhXenU1cE83ZF9jNTZ6VUhIYko2WlUtM2RKeEN5UmpJTmZYM0RIZEpET0JfNU9UOVduSndJNVFqRDIyZXNvdHRvQlFzY2s5MHVuZlhldUJIVTNfOFdodllfMVA1Y1Eyc2t1eHBGZGs0bUkzV1VseTd1Y0xZUTBCZGJhXzJ4OWNWVmc0R2Rqa0xhUXFsZTFvNzBZbWxWcmw3YUxyLVlSQzl3?oc=5",
+              "published": "Thu, 04 Jun 2026 21:37:49 GMT",
+              "strength": 3,
+              "confidence": 75,
+              "reason": "The headline explicitly says Texas's new grid rules could put billions in data center projects at risk, indicating a concrete regulatory/grid-related threat to data-center power provisioning or interconnection in a key market. The summary does not detail the exact mechanism (e.g., permit delays, interconnection restrictions, curtailment), so the signal is clear but not fully specified, giving it moderate strength.",
+              "signals": [
+                "Texas new grid rules affecting data center projects",
+                "Billions of data center investment at risk in Texas",
+                "Potential impacts to grid interconnection or power provisioning for data centers"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.82,
+          "raw_score": 0.33,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "Tech giants' cash flow hits zero, valuations priced for the future—AI's 'Fourth Bubble Theory' emerges - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUks1bVdPWENBMkZUWGd6cl8wUXJWYUlxeXllZTQ4R2tMaHJKb3ZGZzRDTDhhanlTWE9ZZ0ozYWRDMnB2NGR1R1pvOEpFal9WWDgwTW5YTXZfeUVZS19BbGhaSUg0LUVHcnZ3MnBkLWY3SWpsTkZKOHltMGJrYnNKOE9SSW5KaFpCZ20xNnBJaHFNV2JOZ0lEVEExRUFYU00?oc=5",
+              "published": "Wed, 10 Jun 2026 10:00:00 GMT",
+              "strength": 3,
+              "confidence": 78,
+              "reason": "Headline explicitly reports tech giants' cash flow hitting zero and valuations being priced for future AI growth, framing an AI-related 'bubble'—this directly signals market-positioning risk for major providers, though full article detail is not available.",
+              "signals": [
+                "cash flow hits zero",
+                "valuations priced for the future",
+                "AI 'Fourth Bubble Theory' emerges",
+                "tech giants"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 17,
+      "new_articles": 36,
+      "dedup_skips": 132,
+      "prefilter_skips": 31,
+      "llm_calls": 5,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 5,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 0
+      }
+    }
   }
 ]
