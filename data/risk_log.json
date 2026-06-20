@@ -28798,5 +28798,239 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-06-20",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 0,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 0,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 10.0,
+      "bucket": "낮음",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.89,
+          "raw_score": 0.35,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "AI computing capacity bottleneck easing? Report: Taiwan Semiconductor's CoWoS shortfall to narrow from 20% to 10% - Moomoo",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc25rdktfZ1VGdENjclFULXJDMHZFekN4a0NKU2JGaGQ2UmUxVUdGbXNFVnVadldjbHJLT3JaSThkdjJLamhQR3FpaU9vZHpRdGNITjN3RVRjLXQ1QTlSd1BZNTZ6NDZ4a0o0bHloOXZiVFFmbm5sb1c0Ym1SLWo3RVV0WHJUUV9kZ3QzUk80UEVGS1Fpbm01SGJVWkVxN0pibW1CR3piSzI4YjF3NzYybHotTm5yemNJ?oc=5",
+              "published": "Mon, 15 Jun 2026 11:51:50 GMT",
+              "strength": 2,
+              "confidence": 60,
+              "reason": "The report explicitly states TSMC's CoWoS shortfall is expected to narrow from 20% to 10%, which directly indicates a reduction in packaging-related supply constraints for AI chips and suggests easing of an AI computing capacity bottleneck. This is a single report-based signal, so strength is moderate-low.",
+              "signals": [
+                "TSMC CoWoS shortfall projected to narrow from 20% to 10%",
+                "Report frames AI computing capacity bottleneck as easing"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 12,
+          "recent14_count": 20,
+          "fresh_sum": 25.7,
+          "decay_sum": 34.74,
+          "raw_score": 29.82,
+          "strong_hits14": 20,
+          "evidence": [
+            {
+              "title": "AI data centers get a government-mandated fast lane to the grid as FERC orders expedited connections - Bitcoin World",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY2U2SFZEa1EzSUpuT2IyN1Y2em5IWTlmTHAtSG1HVEhpcEx3Q2tSOWZHQ1J2cFJZODlONEFRWjlRQjBNOTVFXzBsdktLRHdLaHpoU09DYzAtd2tRXzNoOUlSUEdzSmZ3eDNiZzMzV3Q1RWhOMWhDSVNseEpYMzlwcThB?oc=5",
+              "published": "Thu, 18 Jun 2026 18:10:11 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline states FERC has ordered expedited grid connections for AI data centers, i.e., a government-mandated fast lane to the grid—directly signals changes to power permitting/interconnection processes affecting AI infrastructure.",
+              "signals": [
+                "FERC ordered expedited grid connections for AI data centers",
+                "Government-mandated fast lane for AI data center grid access",
+                "Implication of faster power permit/interconnection processing for AI facilities"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "FERC Orders Electric Grid Operators to Improve Speed-to-Power for Data Centers and Other Large Loads - ConstructConnect News",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTF1elNqWE9SRXE3UXlPbzdNMWFMQ09nV2llTXR2enpHa1hlTG9XWjJkbFBneDVzM0FWeGZmNmhyTHEwQ1dNLU5KeXZUZUY0ZW82MlNjMFg3OGdBSTd3VTQzZ3ExQ0oyV2FNbDhWSkxBZ1ktNWh3VFlRc0wzRTlDY2poMFNEZnFfcks5VllaYkUxem5CSUhmaU5NRm95WEZrYklMa3VtbWhUNjZaMTEzQzNoS21jd9IBxgFBVV95cUxNTDVBUmR6RUh2LTAzdkk5OWVQUTA1cDBpZEpYaFlpOGhRMVYyS0RLM1dqVHBReEticEhhWHdxWmo0dkEwNHc3WnROUnpISlk0X1MybUc4X3U5eEtRanp5S2pHc2VwR2VVRUo5MGJsNFpmc0lKUlJSc3ZNWlZxMG11NjJ4UndQUjhtamlTdVFjNE1pV01HTFNZUHZnU1ItZm5QZEtncmVjUk1kQjBJcDJWZ2RtXy0tTXIzenNoX0tkZGlRLXVTS2c?oc=5",
+              "published": "Fri, 19 Jun 2026 13:20:31 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Title explicitly reports FERC ordering grid operators to improve 'speed-to-power' for data centers and other large loads, indicating recognized issues/delays in getting power to data centers that could affect hyperscaler deployments. The item is a regulatory response rather than detailed incident data, so it signals a meaningful but not extreme risk.",
+              "signals": [
+                "Regulatory action (FERC) targeting slow speed-to-power for data centers",
+                "Indication of delays/issues in grid interconnection or provisioning for large loads",
+                "Potential impact on rapid commissioning/power availability for hyperscaler data centers"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "FERC orders grid operators to fast-track data center connections - MSN",
+              "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYkVrZ3Etbi15dGNtUHAwekw5WWhNMWZuNnRiMnVvNlJPYmZuT2FjcFoyOEFFU1lLb3NoVER1eFlMRkpGYmpCYVViVGgyNUROMTM1VG1uR1BsbVA5N21rRWdtSTZhZU5IMlkzVnpVXzVYNDhvVlZqMVJfZVJrd1V3clY4ZGVQd2czdW9qdUs3Y3pVemI0b3I4blBOOEdWWEx2ejRaN3c2Z2lxM0hRVFBjSUFTN2NBWlhfTUdseE9lcGJjSDJXaURZMW1lR3FTSVVBb2FRcGhvb2hCN0lWa1Y4Z0NzOFh1bzdSdl95aUxhUWZsTzByREFqVlhB?oc=5",
+              "published": "Thu, 18 Jun 2026 18:21:33 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The item describes a Federal Energy Regulatory Commission order directing grid operators to fast-track data center connections, which directly concerns power-grid connection processes for data centers and thus is relevant to hyperscaler/AI infrastructure risk around electricity access and permitting timelines.",
+              "signals": [
+                "FERC orders grid operators to fast-track data center connections",
+                "Regulatory intervention affecting data center grid connection processes"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "CPI | FERC Orders Grid Operators to Fast-Track Data Center Connections - PYMNTS.com",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGhCcVUyQ0FNemJoWGljX1VMSzU4NVB0VlF1RlMtTUtkR2M0Q3dYcGgxVnZkN3NDYXNRZUVNbHAtRVpSN2dpQjI1ZGxPSzFzaDdZNVFJNk0xOUZrM3hmVGNNMXlpbVJ4d1lyal8wWkt3cE5SNmtxenY3SlloVXVXcm5JVDNpbkt2RXc5RVljdXM5SEhCLWRNdTUzb2RJZHM?oc=5",
+              "published": "Fri, 19 Jun 2026 18:45:11 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "FERC has ordered grid operators to fast-track data center connections, which directly indicates regulators identified problems with interconnection/permitting timelines for data centers. The order is evidence of existing permitting/interconnection delays, even though it aims to mitigate them.",
+              "signals": [
+                "\"FERC Orders Grid Operators to Fast-Track Data Center Connections\" (PYMNTS.com)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "US government to fast-track grid connections for AI data centers - Crypto Briefing",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14ZEZtY2JrNFJfMmMtaC1JMjR3dS1CXzFSQWR4bE95MzM3T0Y2Q0ZONmVsVHhhelZDMElYNWJVZVNQbDF1Q3g5V0tUMUUyNFNaWWE4R1U3ZWFiazF5VzgwRE04cDcyMFpwYXJZd2dQVQ?oc=5",
+              "published": "Thu, 18 Jun 2026 16:22:52 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The headline explicitly says the US government will fast-track grid connections for AI data centers, indicating that grid interconnection and permitting for power to AI sites is a material issue warranting policy action. The text directly points to grid/permit-related constraints rather than unrelated topics.",
+              "signals": [
+                "grid connection delays",
+                "permitting delays for data centers",
+                "policy intervention to expedite power connections"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "FERC Fast-Tracks Grid Access for AI Data Centers as Surging Power Demand Tests U.S. Energy Infrastructure - Tekedia",
+              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObDZaVVU5Sk5oRDZQN2UtbjdlZEhLM0FCelViRnBLZ2JzT1pWWDdHQWFGSVNrZVF4UDR1U1p2VTIxcENGaW4zSE5hY0FPVTY1TXNrVUpmbVNTOXlDV19PWEI4TnEtbzltMXBlekg5dTZSblZBYUMzNmR1bEx2TWo0TzhKZVAxRUdScWFTMWlVUzE3LWhHcFd4emRrQVJ4TmdQOXlZYm0zRTl3YVZCRWYwaFVqUGVlb0NrNC1raWhabjJuMUZ0TzllbA?oc=5",
+              "published": "Fri, 19 Jun 2026 10:34:40 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline states FERC is fast-tracking grid access because surging power demand from AI data centers is testing U.S. energy infrastructure. This indicates a material risk that interconnection, permitting, and grid capacity constraints could delay AI data center deployments, prompting regulatory intervention.",
+              "signals": [
+                "surging power demand driven by AI data centers",
+                "FERC fast-tracking grid access for AI facilities",
+                "U.S. grid infrastructure being tested/strained",
+                "risk of interconnection and permitting delays for data center builds",
+                "regulatory intervention to expedite power access"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "As data centers seek to tap Texas’ energy, grid regulators are close to approving a new way of vetting requests - The Lufkin Daily News",
+              "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOeTJVOEhMeDhGbGVxcFZodGZCenJ1Nm44TEZhQ0tNb0xvR05NaVRnZFQ5N2lyZElaZkVieElmLTFaQVFxUWxseHI4M1dKQXZOT21qZVJwdmpGS0RsSURhT0gwVXdwVHFrTkhJTmJRNE5IbTM2MWFnTEtqVzBDNEMwV005TnNOZmFSVE1MYmZrNW91WGJMcnZPZV9SSUh0cU1aX1Z3Y29LbE1xR1BjRzNXdUNZRWJ1ek9uSk9uQzM2bEJ6dGZKYzZNaXZxNDhQX1ZLaUVmT1RHdEt0ZWlSMUs1N011bGhORnRDYnJOVkhYV05oRjEtU3NxdDJEYl9kUkFYLTJmYw?oc=5",
+              "published": "Thu, 18 Jun 2026 05:00:00 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline states Texas grid regulators are close to approving a new way of vetting requests by data centers seeking to tap energy. This is directly relevant to permitting/vetting processes for power access that can affect hyperscaler/data center deployments, though article details are not provided.",
+              "signals": [
+                "Grid regulators in Texas nearing approval of a new vetting process for data center energy requests",
+                "Direct link to data centers seeking to tap Texas energy (permits/requests)",
+                "Regulatory change in vetting requests that could affect power access/permitting for hyperscalers"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "States Reconsider Data Center Incentives and Permitting as Energy, Water, and Fiscal Pressures Mount - The National Law Review",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUVEMUNyVVhoYm9KNENLbFk0NFJWZ0puRXB3T1NULS1Ka2x0WjFRdG1TdUE2S01OX29fcmpwdFEyS2JFN2FKc29ldDh2QThvb0s4S09FdEMtRjUydWxQWG03SjlXeWNPWWZtODhQX2hXbUdYUjQzRXhaMHRuWW5NTXdjcUlKMnNNeVU4ZUhVbkpwcUU1d0xYakxlQlg2RkFOcXIzRU1lTlB2a1dJSm5pbVNR0gG3AUFVX3lxTE9POWJDTUIta0VkdXZvZWhQRFRnXzRUSTctVzhfODFaZUhpaFRiQm8xeGNJNzYxZ1dIWU5CeUZ5ekxTQi1kbWZfOVB2ZEdnNHRUUG1WMTZ3NEtxZmtkY18zZ2xacjZBVndrNGVwZUJ0MGllTzdXc2RLamdVZVZOUDUtdWp1VzVCdWhsVVE2ZWRJNlA4VzktZGpqaU9mNmVoMWdYTDNuNkpIdk5tVllVemQwSENseDJEUQ?oc=5",
+              "published": "Sat, 13 Jun 2026 18:06:13 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The article title explicitly states that states are reconsidering data center incentives and permitting due to mounting energy, water, and fiscal pressures, which is a direct policy/permitting risk signal for hyperscaler/AI infrastructure. No further details are provided in the summary, so strength is medium (not maximal) and conclusions are limited to what the title states.",
+              "signals": [
+                "State-level reconsideration of data center incentives",
+                "Potential changes or delays in permitting for data centers",
+                "Energy constraints cited as driver for policy review",
+                "Water resource constraints cited as driver for policy review",
+                "Fiscal pressures prompting reevaluation of incentives"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.59,
+          "raw_score": 0.24,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "Tech giants' cash flow hits zero, valuations priced for the future—AI's 'Fourth Bubble Theory' emerges - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUks1bVdPWENBMkZUWGd6cl8wUXJWYUlxeXllZTQ4R2tMaHJKb3ZGZzRDTDhhanlTWE9ZZ0ozYWRDMnB2NGR1R1pvOEpFal9WWDgwTW5YTXZfeUVZS19BbGhaSUg0LUVHcnZ3MnBkLWY3SWpsTkZKOHltMGJrYnNKOE9SSW5KaFpCZ20xNnBJaHFNV2JOZ0lEVEExRUFYU00?oc=5",
+              "published": "Wed, 10 Jun 2026 10:00:00 GMT",
+              "strength": 3,
+              "confidence": 78,
+              "reason": "Headline explicitly reports tech giants' cash flow hitting zero and valuations being priced for future AI growth, framing an AI-related 'bubble'—this directly signals market-positioning risk for major providers, though full article detail is not available.",
+              "signals": [
+                "cash flow hits zero",
+                "valuations priced for the future",
+                "AI 'Fourth Bubble Theory' emerges",
+                "tech giants"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 45,
+      "new_articles": 32,
+      "dedup_skips": 144,
+      "prefilter_skips": 25,
+      "llm_calls": 7,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 6,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 1
+      }
+    }
   }
 ]
