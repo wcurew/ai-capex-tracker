@@ -33052,5 +33052,282 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-07-05",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 1,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 0,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 15.0,
+      "bucket": "낮음",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 3,
+          "fresh_sum": 0.0,
+          "decay_sum": 1.31,
+          "raw_score": 1.02,
+          "strong_hits14": 3,
+          "evidence": [
+            {
+              "title": "As enterprises begin to focus on \"computing power cost reduction,\" Goldman Sachs warns that 5.3 trillion in AI capital expenditure is approaching credit saturation! - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NMndtYmx2UGNiSURTV0JEWEtlVC1DOUJyQjhvZV9LREN6UmxHWXViMWlOelptOFc1Mm1rYk9TOUpVMUo1emx4d3pJRDNmNm10SzhkbnBvTnJrTlpTanFvX0R5TdIBY0FVX3lxTE5NMndtYmx2UGNiSURTV0JEWEtlVC1DOUJyQjhvZV9LREN6UmxHWXViMWlOelptOFc1Mm1rYk9TOUpVMUo1emx4d3pJRDNmNm10SzhkbnBvTnJrTlpTanFvX0R5TQ?oc=5",
+              "published": "Sun, 21 Jun 2026 02:45:27 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The item explicitly reports Goldman Sachs warning that $5.3 trillion in AI capital expenditure is approaching credit saturation and notes enterprises focusing on computing-power cost reduction — a direct signal about AI infrastructure capital/financing stress. Assessment is moderate strength because the summary is a high-level headline without detailed data or timeline.",
+              "signals": [
+                "Goldman Sachs warns $5.3 trillion in AI capital expenditure is approaching credit saturation",
+                "Enterprises beginning to focus on 'computing power cost reduction'",
+                "Headline links AI capex pressures to potential credit saturation"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "As enterprises begin to focus on \"computing power cost reduction,\" Goldman Sachs warns that 5.3 trillion in AI capital expenditure is approaching credit saturation! - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYcHFOdk1vZ2RrWWV6WWZpaFlZTy1jZGU0dDZJWFVzY0NLbE1GZ0lrRHdrdjhVaWUyWVVLYUNBSmV2MEJCNFp4TzVuMmpiUzlnRzV2Q2FUTkZDQVRwQmfSAWNBVV95cUxOTTJ3bWJsdlBjYklEU1dCRFhLZVQtQzlCckI4b2VfS0RDelJsR1l1YjFpTnpabThXNTJta2JPUzlKVTFKNXpseHd6SUQzZjZtdEs4ZG5wb05ya05aU2pxb19EeU0?oc=5",
+              "published": "Sat, 20 Jun 2026 18:41:07 GMT",
+              "strength": 3,
+              "confidence": 75,
+              "reason": "The headline explicitly reports a Goldman Sachs warning that $5.3 trillion in AI capital expenditure is approaching 'credit saturation,' which directly signals financial/credit pressure on AI infrastructure investment. The summary provides no further detail, so the signal is moderately strong but limited by lack of context and supporting data.",
+              "signals": [
+                "ai_capex_credit_saturation",
+                "5.3_trillion_ai_capex",
+                "goldman_sachs_warning",
+                "enterprise_focus_on_computing_power_cost_reduction"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Jefferies Says Cheaper AI Models Boost Infrastructure Demand - Let's Data Science",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbW52cXljX1d0aFM0YUNMVnlCaVdUeWRmNlphaGtmQy00VnNPcDkyMmxZRktNNlFkdS1IVlRqOXNQT0xKRk5uMG85dFFOYkV6U0xmbk9NdWJ5VFpSZ2dtbFJRWEdORHRkbjlTakFObHhPdGc4WUxjajEzX0ltTzF3T1RCMEpLNmJoZDRTUzRsd3R4cEN2QjVseTRwaDdidFhFZW1EZQ?oc=5",
+              "published": "Fri, 26 Jun 2026 07:16:10 GMT",
+              "strength": 3,
+              "confidence": 70,
+              "reason": "Headline explicitly states that cheaper AI models 'boost infrastructure demand', a direct signal about demand for AI infrastructure/hyperscalers. No further details provided, so signal is clear but limited in scope.",
+              "signals": [
+                "cheaper_ai_models",
+                "boost_infrastructure_demand",
+                "jefferies_statement"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 1,
+          "recent14_count": 18,
+          "fresh_sum": 4.0,
+          "decay_sum": 15.75,
+          "raw_score": 9.2,
+          "strong_hits14": 18,
+          "evidence": [
+            {
+              "title": "AI Data Centers Triggered 1,800 MW Grid Drop: NERC Issues Highest Alert - Tech Times",
+              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVmJIZ0hyNnM4UXhXZ1N2N1lIOElBcGl2ZnZQMEhoSDVQSmpFTjRTTlVxc0xVV1B4MHg0d2VPVGljc2pVMkNMSVhXZ3NWM3gzTUNQWk41LWlodS1TWWVRWTM0T1d5a3ZvRFMzaXdHMWljbzZtbzJoZlotMVB5TzE2cWNnVTUxZkFQTmpRa1VWQ0xRRnhnbUFVdWdkdll4cVpLc0htNjFuNXQ5MF9Pdldia3d5RHRfNnBfWkVfUWdNUEhydw?oc=5",
+              "published": "Sat, 04 Jul 2026 15:22:03 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The headline explicitly states AI data centers triggered a 1,800 MW grid drop and that NERC issued its highest alert, which is a direct and strong signal of significant power-grid stress linked to AI infrastructure. No additional inferences (e.g., about permits) are made beyond the headline.",
+              "signals": [
+                "AI data centers associated with a 1,800 MW grid drop",
+                "NERC issued its highest alert in response",
+                "Significant grid stress linked to AI infrastructure"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas approves new ERCOT process to speed grid connections for data centers - MSN",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN3lTRm5lNkl2anBuand2cnhXUEJKbk1wTWZBc3lkaUJ4d1VXZGNwTmRyUElkbzRhUEx2TnNSektiM3hYWVBWZ2JZc0lHUTJWUTVRbl8zVkdJUzRQTjNSS0NMUDl0M2lnMmRXOGZsY2o5WVVBeTZSbDZsQ0lSY005dlMwU19qdEJ3UUNXeTRRcVl1QzNLVmNHUXFHU1FhcEsxTVh0el8yZ3paQVVNYVYxRDBNR0QtOXZ6NnRReTg2RXlVNGc?oc=5",
+              "published": "Tue, 23 Jun 2026 21:49:03 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline states Texas approved a new ERCOT process specifically to speed grid connections for data centers, directly addressing power connection/permitting delays for hyperscalers in the region.",
+              "signals": [
+                "Regulatory approval of new ERCOT process to speed data center grid connections",
+                "Direct action to reduce power connection/permitting delays in Texas",
+                "Improved timelines for hyperscaler/data center grid interconnections"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "AI Interconnect Delays Spur $1.75B National Grid-Joulent Deal - Data Center Knowledge",
+              "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTXFBa3VHcDgzUDUteXNraDltZGh6VDk4blVvU1NnU3lRdVZ4ZV83Uk01Q2tUTENTd2x0SGVtQUVYYVJ1bDlRNllaSWFQczVta2lyc1NYb0R0ZElWcmxxWVQtUmZNeXRFV0JGeU10SE5yUFU3U3pvb0w0bzF3QzFtdmpiWFhwYWp0QnBvZjk5YVBEU21qeExvam5BY2ZxTmt3RG1hdFZpNURnVm5VaGxvYUgxd2pxWUNLdUdxbFR4YUJicG91ZzhjR29LS2Y2eC1kaVFSWG1MbXY?oc=5",
+              "published": "Wed, 01 Jul 2026 21:35:12 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "Title explicitly cites 'AI Interconnect Delays' as the driver for a $1.75B National Grid–Joulent deal, indicating a clear and direct report of interconnect/power-related delays affecting AI/data center infrastructure.",
+              "signals": [
+                "\"AI Interconnect Delays Spur $1.75B National Grid-Joulent Deal\"",
+                "Mentions of interconnect delays tied to a major grid/deal",
+                "Source: Data Center Knowledge"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "AI Compute Shortage Forces Google to Ration Gemini for Meta Despite $460B Backlog - Tech Times",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ3ZKdzZBNnJfNlkwbHBSSzhUSmZIbWNkNHV4REp2MnotUmFBMGRXQ3Bvbk91eUt2bzJkaUxndWhpejcwVGZUcjc0UmNoVWJsVHhIa0otUjRNRUVLYjQ2cDlCN09zam5FY2ctSnhEa25jeEd5NWMwZjdXcVp5MV9xX1c2dERYeU5xZms0cl9pRFBsWnJXVHVfWlQyeHRrR1pzazlBcWtZT3VaR1hDSGxvSWwwcjRDTzFxQzEzVW5zRFBoNll1VkZz?oc=5",
+              "published": "Tue, 30 Jun 2026 16:24:10 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Title explicitly reports an AI compute shortage at Google that is forcing rationing of Gemini access for Meta despite high backlog, indicating a clear capacity constraint/rationing signal at a major hyperscaler.",
+              "signals": [
+                "compute_shortage_at_hyperscaler",
+                "rationing_of_AI_models_to_partners",
+                "hyperscaler_capacity_constraint",
+                "high_demand_backlog"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "6 takeaways from FERC’s data center interconnection decision - Utility Dive",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTUMtZnBtMnlvZ19LaFBxaGRQWXV0TVNjOUpnWUFuT3dtallDY0NrNFZVUDZKeWZEdXR3bGt6ZTFkZmhzV2I0UzZDaTQ0ZXRIcklEMThLNmlLdzg4cUljLWtvZTdRNEY1NFdGYUxnOHY5QTZNX3BnaFF4blo1MkxHbWFUSQ?oc=5",
+              "published": "Mon, 22 Jun 2026 15:23:38 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Title explicitly references a FERC decision on data center interconnection, which directly pertains to grid interconnection and permitting issues for data centers/hyperscalers. Article details are not provided, so impact magnitude cannot be determined—hence a moderate signal strength.",
+              "signals": [
+                "FERC decision on data center interconnection",
+                "Takeaways relevant to data center grid interconnection",
+                "Potential implications for power/permitting processes for data centers",
+                "Coverage by Utility Dive"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "FERC Mandates Fast-Track Data Center Grid Access, Shielding Ratepayers from Costs - Tech Times",
+              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQTE1V2JSWjcyT0RlNEFLUUxJOXBhYjNCUUhZemR0SWhKY2VERXltQVZrLWNWOEN6bVZVbVZ6V2hSaTlNRnRNaXdCWV9ndFVsY3J4b1NkU2hGNDJMUjRFTG5PZ2VKNGJWemtfUGgxTDFuWmFDalp3dy1BLXF3VDZ3N1l1b2lURkg0UVFKWVZhcm1vT09jNTBXTGYwaWo0TGtTaTlLdFBaRURRUHo4OFRrZ3UyMDBOejM0TWx4RjdMNUszczB2NzlkakNB?oc=5",
+              "published": "Sat, 20 Jun 2026 17:31:58 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The item states FERC has mandated fast-track grid access for data centers and will shield ratepayers from associated costs. This is a direct regulatory action addressing data-center grid access/permit delays, indicating a reduction in that risk; details are limited in the summary so strength is moderate.",
+              "signals": [
+                "FERC mandates fast-track data center grid access",
+                "FERC will shield ratepayers from costs related to data center grid access"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "US energy regulator orders overhaul of data center grid rules - MSN",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbTlWTThSWHcwS081dmJhbEg4ZFhEcnJaWDlIcDhPWFRTQzY2RkwxTE54VnQ0SFFmQWUzQnFpbHh0UEZSelhDWEhiMFlEaGNkSFQ0bzlBTGhkV3JVZ2lCX09VZ2FMSUpBTl9oZjZDOGFZTHN6OHBkbDJwZjhzUXNpRXNZNGx6bDlxLXZqTUJaYWRkX01HOE5LOGxHWGpDMFlwdFE1TkhMN3FxMUE?oc=5",
+              "published": "Sun, 21 Jun 2026 02:42:23 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The headline explicitly states a US energy regulator has ordered an overhaul of data center grid rules, which is a direct regulatory action affecting data center power/grid connections and permitting. The article text/link is not provided here, so details and scope are unknown; strength is moderate due to lack of specifics.",
+              "signals": [
+                "US energy regulator orders overhaul",
+                "data center grid rules",
+                "regulatory change affecting data center power/permitting",
+                "MSN news report"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "PJM votes on managing data center electricity demand as grid faces 32 GW surge - Crypto Briefing",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yRUpOUFpkWWI0aXl4OTZNU2JYaHI5Z3Q2UElYZjNlcG1NWTlOQ3NUT3l3bWUyejVVdjA0RkdYQzdXQ29kaEtpUzhSRldqOXdZTGMxNTVrSTNteXlUUXVsR084OFZNb2VKeXpCWg?oc=5",
+              "published": "Tue, 30 Jun 2026 21:29:33 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The summary explicitly reports PJM voting on measures to manage data center electricity demand amid a reported 32 GW surge, which directly signals grid capacity stress related to data center loads and is relevant to hyperscaler/data center power risk. The text does not mention permit delays or outcomes, so no inference about permitting is made.",
+              "signals": [
+                "PJM voting on measures to manage data center electricity demand",
+                "Grid facing a 32 GW surge in demand",
+                "Data center electricity demand identified as a driver of grid stress"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 2,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.82,
+          "raw_score": 0.33,
+          "strong_hits14": 2,
+          "evidence": [
+            {
+              "title": "Asset owners growing fearful of AI bubble - moneymanagement.com.au",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRUMyM0lnS1pyNnhNcjJUVk0wQl8ySHVwVjJ4d3U5TWJYMUUzNVpPdU1Ldi1ucklnNndPNGpoQzQzaHBHRVhxOExBS1JVSm5jMWJlNFhudVNtVzNSQ1FjUjg1MEQ1RmxrdGNHTVhzR2dfa2U4STlDVy13amVxeGJPMGplcw?oc=5",
+              "published": "Mon, 22 Jun 2026 20:02:10 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline explicitly reports that asset owners are growing fearful of an AI bubble, which is a clear indicator of shifting investor sentiment and crowding/valuation risk in AI market positioning.",
+              "signals": [
+                "Asset owners express fear of an AI bubble",
+                "Growing negative investor sentiment around AI valuations",
+                "Concerns about crowding/overvaluation in AI market positioning"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Investor concerns grow as AI stocks surge ahead - AOL.com",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcGNCaTZ4NTljV1dPTE55WnFnTmE0Q2JJQWhwMUVWWXl2N1FCOGtXaW41M2ZiOEx6RmpvLTNNM2NCVFRWYWVMcXdFNVA1VU5CTkp3eV8tNjhXQml1aGotSmF2cnFENS16SUFwU0pBaG50WThPSE1PR1lxTGNzZWsyZg?oc=5",
+              "published": "Wed, 24 Jun 2026 19:39:56 GMT",
+              "strength": 2,
+              "confidence": 80,
+              "reason": "Headline explicitly reports growing investor concerns alongside a surge in AI stocks — this is a market positioning signal about investor sentiment and valuation pressure. The article lacks company-specific or hyperscaler details, so the signal is present but limited in specificity, warranting a low–moderate strength.",
+              "signals": [
+                "Investor concerns growing about AI stocks",
+                "AI-related stocks are surging ahead"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 57,
+      "new_articles": 23,
+      "dedup_skips": 165,
+      "prefilter_skips": 20,
+      "llm_calls": 3,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 3,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 0
+      }
+    }
   }
 ]
