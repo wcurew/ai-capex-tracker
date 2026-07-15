@@ -35324,5 +35324,236 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-07-15",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 0,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 0,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 4
+      },
+      "score": 30.0,
+      "bucket": "보통",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 3,
+          "recent14_count": 14,
+          "fresh_sum": 8.0,
+          "decay_sum": 17.44,
+          "raw_score": 12.27,
+          "strong_hits14": 14,
+          "evidence": [
+            {
+              "title": "AI Data Centers Triggered 1,800 MW Grid Drop: NERC Issues Highest Alert - Tech Times",
+              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVmJIZ0hyNnM4UXhXZ1N2N1lIOElBcGl2ZnZQMEhoSDVQSmpFTjRTTlVxc0xVV1B4MHg0d2VPVGljc2pVMkNMSVhXZ3NWM3gzTUNQWk41LWlodS1TWWVRWTM0T1d5a3ZvRFMzaXdHMWljbzZtbzJoZlotMVB5TzE2cWNnVTUxZkFQTmpRa1VWQ0xRRnhnbUFVdWdkdll4cVpLc0htNjFuNXQ5MF9Pdldia3d5RHRfNnBfWkVfUWdNUEhydw?oc=5",
+              "published": "Sat, 04 Jul 2026 15:22:03 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The headline explicitly states AI data centers triggered a 1,800 MW grid drop and that NERC issued its highest alert, which is a direct and strong signal of significant power-grid stress linked to AI infrastructure. No additional inferences (e.g., about permits) are made beyond the headline.",
+              "signals": [
+                "AI data centers associated with a 1,800 MW grid drop",
+                "NERC issued its highest alert in response",
+                "Significant grid stress linked to AI infrastructure"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "AI Interconnect Delays Spur $1.75B National Grid-Joulent Deal - Data Center Knowledge",
+              "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTXFBa3VHcDgzUDUteXNraDltZGh6VDk4blVvU1NnU3lRdVZ4ZV83Uk01Q2tUTENTd2x0SGVtQUVYYVJ1bDlRNllaSWFQczVta2lyc1NYb0R0ZElWcmxxWVQtUmZNeXRFV0JGeU10SE5yUFU3U3pvb0w0bzF3QzFtdmpiWFhwYWp0QnBvZjk5YVBEU21qeExvam5BY2ZxTmt3RG1hdFZpNURnVm5VaGxvYUgxd2pxWUNLdUdxbFR4YUJicG91ZzhjR29LS2Y2eC1kaVFSWG1MbXY?oc=5",
+              "published": "Wed, 01 Jul 2026 21:35:12 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "Title explicitly cites 'AI Interconnect Delays' as the driver for a $1.75B National Grid–Joulent deal, indicating a clear and direct report of interconnect/power-related delays affecting AI/data center infrastructure.",
+              "signals": [
+                "\"AI Interconnect Delays Spur $1.75B National Grid-Joulent Deal\"",
+                "Mentions of interconnect delays tied to a major grid/deal",
+                "Source: Data Center Knowledge"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "$1.1 trillion in grid investment and AI data centers still face decade-long connection waits - MarketScale",
+              "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORmExYlBjWERXZW9WUmNHTW5iQ3AyVGhJY0U5YjdHYWRsODNTckExTEVNLXlZdFRuMzZGTW5FN25DRkJBMkNQY1R2d3VJRnM4a3U5TlRKZW8zb2x0V2VWbWk4a09EWGRhc3ZnenN1UXlNbHllQ1k3T0w4SnJaaEh0blVodElqVEM4ZmQ5WWsxYklJNnJYQ1lmLS04LXNOWHVBeGptTlBvbjlkQUpjektXZzFYVnJaWEg4QjRwWDRGS0xmek02Q0V5ZDFWeGw2Mlhqb0E?oc=5",
+              "published": "Tue, 14 Jul 2026 00:09:16 GMT",
+              "strength": 4,
+              "confidence": 80,
+              "reason": "The title explicitly states AI data centers face decade-long connection waits despite large grid investment, indicating clear power permit/grid-connection delays that pose an operational/deployment risk to hyperscaler AI infrastructure. Classification based only on the provided title/summary.",
+              "signals": [
+                "long grid connection wait times for AI data centers (up to a decade)",
+                "power permit and grid-connection delays",
+                "grid investment not resolving near-term connection bottlenecks",
+                "risk to AI data center deployment timelines and capacity"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Morgan Stanley says local data-center backlash will raise costs and delay US AI build-out - Blockspace Media",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGZwTHFjeC1vUDdiaHRESzROaUxDRXRwMTh5S0pPeWNoWjM4bHAwR1hTeHNYb2pvQzlDQ3hSYVNsVl83QUZSbHkxUW9fMXJwNGxYb1Qwa0JzZzFwNjBqczluRjNyRlZVVG9SM3BVRTdtOHg2NVBPekxkMnFoaVJzM3R1aXlQQQ?oc=5",
+              "published": "Tue, 14 Jul 2026 14:47:15 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "Morgan Stanley (reported by Blockspace Media) explicitly states local data-center backlash will increase costs and delay US AI build-out, indicating a clear operational/permits risk to hyperscaler infrastructure projects.",
+              "signals": [
+                "local data-center backlash against projects",
+                "increased costs for data-center development",
+                "delays to US AI build-out timelines"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "In the age of AI data centres and electrification, the grid is the real bottleneck - Energy-Storage.News",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS3haeHJuRkJHZTdkamhLMUx5RFJDd3dtMjlIT0lSN2F4VERzSXdJNTJuaVctYXM0bjR0X0N1dXN5Wm5kbzd1dlVaUWRTVmIzQlhTWGtCUlNkb0xSdGliMzlrOTc4Yjh2Q2tNcjVkOGpJSkZfc285bkc5MXd3cDBnMkY5a1pvdklPbzF6UUxuVHgzYWFPNGY5SGsyZ0ZJXzZFTnVEUzlpTUZlVEM5UXVuVXNUTmU?oc=5",
+              "published": "Thu, 09 Jul 2026 07:56:28 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "The title explicitly identifies the power grid as the primary bottleneck for AI data centres and electrification, which directly signals an infrastructure constraint risk for AI/hyperscaler operations and expansion.",
+              "signals": [
+                "Grid capacity constraints identified as a bottleneck for AI data centres",
+                "Electrification efforts limited by power grid bottlenecks",
+                "Operational and expansion risk for hyperscaler data centres due to grid limitations"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas approves new ERCOT process to speed grid connections for data centers - MSN",
+              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS3p3MGNBUmQ4cDRmbUJXTG1OR3RJZFotMnp0NHpqUS1FZHh5OFJ4UzU0V3k4NGNqLXNJcmNLdXpPTTN2ZXVIZGcxZkM0WHBveTNCQkdCTkFLQ1F6clRFMU9MODNwamY1eE11THZvaWhsSEpVZ1NOVUtBRGtOSEZxVzZNWURwU21malFyU3JSbV9PQkhiQ0prbDhxX0FZS1JWZjVzemZoUDlkZmtBLW5QN2RjbmtNVHFuRDI4VTNOU2p3ZTI1U3FnbWJEUnlfOGxHRVZn?oc=5",
+              "published": "Wed, 08 Jul 2026 03:05:34 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The report explicitly describes Texas/ERCOT approving a new process to speed grid connections for data centers, which directly pertains to power/permit delays for hyperscaler/data center projects. The article states the policy change but does not quantify impact, so strength is moderate.",
+              "signals": [
+                "ERCOT approved a new process intended to speed grid connections for data centers in Texas.",
+                "The change is aimed at addressing delays in grid connections/permits for hyperscalers and data centers.",
+                "The process could reduce time required to obtain power connections for new data center projects, though impact is not quantified."
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "AI Compute Shortage Forces Google to Ration Gemini for Meta Despite $460B Backlog - Tech Times",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ3ZKdzZBNnJfNlkwbHBSSzhUSmZIbWNkNHV4REp2MnotUmFBMGRXQ3Bvbk91eUt2bzJkaUxndWhpejcwVGZUcjc0UmNoVWJsVHhIa0otUjRNRUVLYjQ2cDlCN09zam5FY2ctSnhEa25jeEd5NWMwZjdXcVp5MV9xX1c2dERYeU5xZms0cl9pRFBsWnJXVHVfWlQyeHRrR1pzazlBcWtZT3VaR1hDSGxvSWwwcjRDTzFxQzEzVW5zRFBoNll1VkZz?oc=5",
+              "published": "Tue, 30 Jun 2026 16:24:10 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Title explicitly reports an AI compute shortage at Google that is forcing rationing of Gemini access for Meta despite high backlog, indicating a clear capacity constraint/rationing signal at a major hyperscaler.",
+              "signals": [
+                "compute_shortage_at_hyperscaler",
+                "rationing_of_AI_models_to_partners",
+                "hyperscaler_capacity_constraint",
+                "high_demand_backlog"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "“You’re Building a Google in 2 Years,” Why One Energy Analyst Warns The U.S. Grid Is Not Ready For What’s Coming - AOL.ca",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MSF85VjlGQVQ0cXF5eUJsUHdGSTFDcG0zVEVIby1pMjRkcE1ZQ1JBbnJwN3A1OU1pMl9lay1tT3ZtZ3R5UVQ4Mmprd2NybExZRGdORGQ5NjJvaGt5aTYwV3ZtaVVoMEloMnhEazBvX2RfaHl0MElLZEZB?oc=5",
+              "published": "Fri, 10 Jul 2026 20:15:18 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The headline explicitly links large-scale data center buildout (“Building a Google in 2 Years”) with an energy analyst warning that the U.S. grid is not ready, signaling potential power- and capacity-related risks for hyperscaler deployments.",
+              "signals": [
+                "Analyst warns U.S. grid not ready for upcoming demand",
+                "Reference to rapid large-scale data center buildout (“Building a Google in 2 Years”)",
+                "Potential power capacity constraints affecting hyperscaler deployment"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 2,
+          "recent14_count": 2,
+          "fresh_sum": 4.4,
+          "decay_sum": 4.55,
+          "raw_score": 4.46,
+          "strong_hits14": 2,
+          "evidence": [
+            {
+              "title": "BofA Survey: AI Bubble Tops Tail Risks for First Time; Cash Levels Trigger 'Sell' Signal - finance.biggo.com",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zenRHRzFaOHZtOWJ1MENwYWszQnRHdVluWVFyN1BMUXNuTjdJRjZaUU5PdmtFRWFJYzlYajFzMjhwblFMZXR1aUltVkdEVFhiWjUzcFhlNUhiRENPZnNVQjhCZThLR1lERDRPTDVNa0VlNzVvdnc?oc=5",
+              "published": "Tue, 14 Jul 2026 11:58:09 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline reports a BofA survey naming an 'AI bubble' as the top tail risk and that current cash levels trigger a 'sell' signal. This is a direct market-positioning / investor-sentiment signal about valuation/risk for AI-related assets, but the item is a headline only (no further details), so strength is moderate.",
+              "signals": [
+                "BofA survey: 'AI bubble' tops tail risks",
+                "Elevated cash levels trigger a 'Sell' signal"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "AI Bubble Concerns Rise Among Investors, Bank of America Survey Reveals - GuruFocus",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQVhxY3ZUY2NrUG8wbGJncG5EdDJCRXdwSFBtS0xzOE5YX3pvTjM3c3MyaHp3MGwwcGNVczg5cGdFeXdtbkxCTHFVYnNERFh3TS1uQ3p5Z2p5cmF2UER6bGFfY2pkSUFaRktqNWFLTUFQQ2xEZEJUVl9VS1ZZcXdnaTdjbkU0UkdvdWpQUVNWZWIxUE1Dc3JBTXdtUkxFYWtSOTBIMUltWDY3TG9YRFE?oc=5",
+              "published": "Tue, 14 Jul 2026 15:37:56 GMT",
+              "strength": 2,
+              "confidence": 80,
+              "reason": "Headline reports rising investor concerns about an AI bubble per a Bank of America survey, indicating a market-positioning risk signal for AI investments/hyperscalers; only a headline summary is provided with no quantitative details or direct operational impacts.",
+              "signals": [
+                "Bank of America survey: rising investor concerns about an AI bubble (GuruFocus article)"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 24,
+      "new_articles": 50,
+      "dedup_skips": 162,
+      "prefilter_skips": 41,
+      "llm_calls": 9,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 6,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 3
+      }
+    }
   }
 ]
