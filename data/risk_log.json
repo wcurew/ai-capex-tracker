@@ -36579,5 +36579,294 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-07-20",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 0,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 1,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 3
+      },
+      "score": 30.0,
+      "bucket": "보통",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 1,
+          "recent14_count": 1,
+          "fresh_sum": 1.0,
+          "decay_sum": 1.0,
+          "raw_score": 1.0,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "Microsoft (NASDAQ:MSFT) advances ahead of Nasdaq as investors anticipate AI capex easing - TechStock²",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNekIxR2dVcXhOWVVOcXVaRUt1VmFWX2tfNm1KZ19YTmQ0R3R0cWg4R2MwaWd5dmlNTFExcWJXMGRWX3NhaVV6Mkd2TVgtWFZ3QzhsTm5wTVJOVzdhazJMdnYxYUpzRTVYMkJGRDdHWnNpaXhCRzlQUWVnMUxUTWNaN25hbGFMa1JqTDNBTnh3NTVtenpSUUQ0UF9YQWhFN0dIbTVINy1jMnQ3QQ?oc=5",
+              "published": "Sun, 19 Jul 2026 20:37:49 GMT",
+              "strength": 1,
+              "confidence": 80,
+              "reason": "Headline explicitly states investors anticipate AI capex easing at Microsoft, which is a direct indicator of potential reduced hyperscaler AI infrastructure spending. However this is an investor expectation (not firm company guidance or measured capex decline) and contains no revenue information, so the signal is weak.",
+              "signals": [
+                "anticipated_AI_capex_easing",
+                "investor_expectation_of_capex_reduction",
+                "hyperscaler_capex_risk",
+                "no_revenue_information"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 1,
+          "recent14_count": 14,
+          "fresh_sum": 1.5,
+          "decay_sum": 13.99,
+          "raw_score": 6.99,
+          "strong_hits14": 14,
+          "evidence": [
+            {
+              "title": "Spain and Portugal Data Center Boom Faces Grid Bottlenecks - Bloomberg.com",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLWx1VWthRWVKdDB6MU9EbVo4T1E1VU44WEUxUFhZaTg5cDhfdS16eExNRDgzdEZBbjlxbkRHSGlNTjFxbVZtQzZvblBrRGJyUHJDMS1DYjdQUy1uUGZaTldPS1Fxc2VXTC12Y1RJdEVwdTREdk9ocW40bUNqbnZXRVZoQjc5bVY1YVR4eXhVN3hHV3FwRTEwb0t0aGhrbEdobHJSNTFaUDdEWllrMnQ4SA?oc=5",
+              "published": "Fri, 17 Jul 2026 13:09:27 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline explicitly states a data center boom in Spain and Portugal 'faces grid bottlenecks', which directly signals constrained power infrastructure relevant to data center/hyperscaler deployments.",
+              "signals": [
+                "data center boom in Spain and Portugal",
+                "grid bottlenecks affecting data center development",
+                "constrained power infrastructure for data centers"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "$1.1 trillion in grid investment and AI data centers still face decade-long connection waits - MarketScale",
+              "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORmExYlBjWERXZW9WUmNHTW5iQ3AyVGhJY0U5YjdHYWRsODNTckExTEVNLXlZdFRuMzZGTW5FN25DRkJBMkNQY1R2d3VJRnM4a3U5TlRKZW8zb2x0V2VWbWk4a09EWGRhc3ZnenN1UXlNbHllQ1k3T0w4SnJaaEh0blVodElqVEM4ZmQ5WWsxYklJNnJYQ1lmLS04LXNOWHVBeGptTlBvbjlkQUpjektXZzFYVnJaWEg4QjRwWDRGS0xmek02Q0V5ZDFWeGw2Mlhqb0E?oc=5",
+              "published": "Tue, 14 Jul 2026 00:09:16 GMT",
+              "strength": 4,
+              "confidence": 80,
+              "reason": "The title explicitly states AI data centers face decade-long connection waits despite large grid investment, indicating clear power permit/grid-connection delays that pose an operational/deployment risk to hyperscaler AI infrastructure. Classification based only on the provided title/summary.",
+              "signals": [
+                "long grid connection wait times for AI data centers (up to a decade)",
+                "power permit and grid-connection delays",
+                "grid investment not resolving near-term connection bottlenecks",
+                "risk to AI data center deployment timelines and capacity"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Morgan Stanley says local data-center backlash will raise costs and delay US AI build-out - Blockspace Media",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGZwTHFjeC1vUDdiaHRESzROaUxDRXRwMTh5S0pPeWNoWjM4bHAwR1hTeHNYb2pvQzlDQ3hSYVNsVl83QUZSbHkxUW9fMXJwNGxYb1Qwa0JzZzFwNjBqczluRjNyRlZVVG9SM3BVRTdtOHg2NVBPekxkMnFoaVJzM3R1aXlQQQ?oc=5",
+              "published": "Tue, 14 Jul 2026 14:47:15 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "Morgan Stanley (reported by Blockspace Media) explicitly states local data-center backlash will increase costs and delay US AI build-out, indicating a clear operational/permits risk to hyperscaler infrastructure projects.",
+              "signals": [
+                "local data-center backlash against projects",
+                "increased costs for data-center development",
+                "delays to US AI build-out timelines"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "In the age of AI data centres and electrification, the grid is the real bottleneck - Energy-Storage.News",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS3haeHJuRkJHZTdkamhLMUx5RFJDd3dtMjlIT0lSN2F4VERzSXdJNTJuaVctYXM0bjR0X0N1dXN5Wm5kbzd1dlVaUWRTVmIzQlhTWGtCUlNkb0xSdGliMzlrOTc4Yjh2Q2tNcjVkOGpJSkZfc285bkc5MXd3cDBnMkY5a1pvdklPbzF6UUxuVHgzYWFPNGY5SGsyZ0ZJXzZFTnVEUzlpTUZlVEM5UXVuVXNUTmU?oc=5",
+              "published": "Thu, 09 Jul 2026 07:56:28 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "The title explicitly identifies the power grid as the primary bottleneck for AI data centres and electrification, which directly signals an infrastructure constraint risk for AI/hyperscaler operations and expansion.",
+              "signals": [
+                "Grid capacity constraints identified as a bottleneck for AI data centres",
+                "Electrification efforts limited by power grid bottlenecks",
+                "Operational and expansion risk for hyperscaler data centres due to grid limitations"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas approves new ERCOT process to speed grid connections for data centers - MSN",
+              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS3p3MGNBUmQ4cDRmbUJXTG1OR3RJZFotMnp0NHpqUS1FZHh5OFJ4UzU0V3k4NGNqLXNJcmNLdXpPTTN2ZXVIZGcxZkM0WHBveTNCQkdCTkFLQ1F6clRFMU9MODNwamY1eE11THZvaWhsSEpVZ1NOVUtBRGtOSEZxVzZNWURwU21malFyU3JSbV9PQkhiQ0prbDhxX0FZS1JWZjVzemZoUDlkZmtBLW5QN2RjbmtNVHFuRDI4VTNOU2p3ZTI1U3FnbWJEUnlfOGxHRVZn?oc=5",
+              "published": "Wed, 08 Jul 2026 03:05:34 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The report explicitly describes Texas/ERCOT approving a new process to speed grid connections for data centers, which directly pertains to power/permit delays for hyperscaler/data center projects. The article states the policy change but does not quantify impact, so strength is moderate.",
+              "signals": [
+                "ERCOT approved a new process intended to speed grid connections for data centers in Texas.",
+                "The change is aimed at addressing delays in grid connections/permits for hyperscalers and data centers.",
+                "The process could reduce time required to obtain power connections for new data center projects, though impact is not quantified."
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Australia Applies Environmental Brakes to AI Data Center Boom Amid Power Grid Fears - streamlinefeed.co.ke",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU3hrNkdNc1RVb0FRc2Z5OWNXV3NfQjFuU2w0bnpMc2hWMnNJNlFHbURMcTBKRVBaRUNyMlVITTlaR1RfdnJ3VjB0RXl2NWVFazFKY2Q1dGNhYldQa0txcWYtN08wZGlfYjNEUm1wemd5TlN2aVJVRWpSVHd4LWRpN0JETnVIcjdhOVRfRDh2dzdSdnE0MmV6VDRJLUNJaHh6Zng5VTI3NDlLM1JtUnN6aldHME5XWGt6?oc=5",
+              "published": "Tue, 14 Jul 2026 07:00:00 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Article states Australia is applying environmental brakes to the AI data center boom due to power grid fears, indicating regulatory/permit delays and grid capacity concerns that can slow hyperscaler expansion.",
+              "signals": [
+                "regulatory_permit_delays",
+                "power_grid_capacity_constraints",
+                "environmental_review_requirements",
+                "project_slowdowns_for_data_centers",
+                "constraints_on_hyperscaler_expansion"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "“You’re Building a Google in 2 Years,” Why One Energy Analyst Warns The U.S. Grid Is Not Ready For What’s Coming - AOL.ca",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MSF85VjlGQVQ0cXF5eUJsUHdGSTFDcG0zVEVIby1pMjRkcE1ZQ1JBbnJwN3A1OU1pMl9lay1tT3ZtZ3R5UVQ4Mmprd2NybExZRGdORGQ5NjJvaGt5aTYwV3ZtaVVoMEloMnhEazBvX2RfaHl0MElLZEZB?oc=5",
+              "published": "Fri, 10 Jul 2026 20:15:18 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The headline explicitly links large-scale data center buildout (“Building a Google in 2 Years”) with an energy analyst warning that the U.S. grid is not ready, signaling potential power- and capacity-related risks for hyperscaler deployments.",
+              "signals": [
+                "Analyst warns U.S. grid not ready for upcoming demand",
+                "Reference to rapid large-scale data center buildout (“Building a Google in 2 Years”)",
+                "Potential power capacity constraints affecting hyperscaler deployment"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "The United States Could Face Serious Problems With Electricity By 2030 If The Power Grid Is Not Upgraded Faster - NCHStats",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS0lneExpQnEzY2xvTjM2SmJaMnl2elVvNWxTNDYtc2pHMVZsakNUU2xfZzE2NHN3anBMSnlUV2hlcHVuZFQzQkZTOTBPeDJyODFTYzlQdTB0cjhZSWpIZGxGSHBRQnBUOWEza2tmNlJYNmtRelNuWnRQNmo0VmtWQjJnYVRWM1k?oc=5",
+              "published": "Thu, 09 Jul 2026 13:21:37 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The headline explicitly warns of a clear risk: serious electricity problems by 2030 if the power grid is not upgraded faster. This identifies a timeline and a causal condition (insufficient pace of grid upgrades), constituting a meaningful infrastructure risk signal without further detail.",
+              "signals": [
+                "Serious electricity problems could occur by 2030",
+                "Power grid upgrades are not proceeding fast enough",
+                "Need for faster upgrades to the power grid to avoid risk"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 5,
+          "fresh_sum": 0.0,
+          "decay_sum": 5.47,
+          "raw_score": 2.69,
+          "strong_hits14": 5,
+          "evidence": [
+            {
+              "title": "AI Bubble Concerns Rise Among Investors, Bank of America Survey Reveals - GuruFocus",
+              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX19PQXpBVm1mOHNEUUF5V21vVjMtZlUxa1FreXRmRklleExpaTRSNVh3dmNYTWNGU1VmMl8wVjFLNHBTQlJjeW1oV3h1V2lsVWJhRUtRUWdaRmJCY3dVOVVETVBSaldiem1FSWF1V2dDWUtyVURVSFBxRFJjZ2ZsLTBHZ2lYd1ptOC1YdlAxZjJwN2VmRlZNakxTQnlKYWVlNkU2VGk2S3BJcWFkMGg3b1dfc1hpUFFTbmN4ZmJn?oc=5",
+              "published": "Wed, 15 Jul 2026 05:37:30 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Title explicitly states that investor concerns about an 'AI bubble' are rising per a Bank of America survey, which is a direct market-positioning risk signal (potential overvaluation/speculative positioning).",
+              "signals": [
+                "Bank of America survey reports rising investor concerns about an AI bubble",
+                "Investor sentiment shifting toward worry about AI overvaluation"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "BofA Survey: AI Bubble Tops Tail Risks for First Time; Cash Levels Trigger 'Sell' Signal - finance.biggo.com",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zenRHRzFaOHZtOWJ1MENwYWszQnRHdVluWVFyN1BMUXNuTjdJRjZaUU5PdmtFRWFJYzlYajFzMjhwblFMZXR1aUltVkdEVFhiWjUzcFhlNUhiRENPZnNVQjhCZThLR1lERDRPTDVNa0VlNzVvdnc?oc=5",
+              "published": "Tue, 14 Jul 2026 11:58:09 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline reports a BofA survey naming an 'AI bubble' as the top tail risk and that current cash levels trigger a 'sell' signal. This is a direct market-positioning / investor-sentiment signal about valuation/risk for AI-related assets, but the item is a headline only (no further details), so strength is moderate.",
+              "signals": [
+                "BofA survey: 'AI bubble' tops tail risks",
+                "Elevated cash levels trigger a 'Sell' signal"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "AI Bubble Concerns Rise Among Investors, Bank of America Survey Reveals - GuruFocus",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQVhxY3ZUY2NrUG8wbGJncG5EdDJCRXdwSFBtS0xzOE5YX3pvTjM3c3MyaHp3MGwwcGNVczg5cGdFeXdtbkxCTHFVYnNERFh3TS1uQ3p5Z2p5cmF2UER6bGFfY2pkSUFaRktqNWFLTUFQQ2xEZEJUVl9VS1ZZcXdnaTdjbkU0UkdvdWpQUVNWZWIxUE1Dc3JBTXdtUkxFYWtSOTBIMUltWDY3TG9YRFE?oc=5",
+              "published": "Tue, 14 Jul 2026 15:37:56 GMT",
+              "strength": 2,
+              "confidence": 80,
+              "reason": "Headline reports rising investor concerns about an AI bubble per a Bank of America survey, indicating a market-positioning risk signal for AI investments/hyperscalers; only a headline summary is provided with no quantitative details or direct operational impacts.",
+              "signals": [
+                "Bank of America survey: rising investor concerns about an AI bubble (GuruFocus article)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "It is not that the AI bubble is about to burst, but rather a flight from overcrowded trades—Wall Street’s strategic focus is shifting from 'AI compute beta' to 'cash flow alpha.' - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX0MxUDRYV3g5dkR2WUhTZWZVa2Z1REd5aENGWVlhSDNHWVV3b2VfYy1Wb29NUDVhOWF3NjBXUC1LWVR5elZycHU2NkphLUNXWlVPblZ0NHFzOXBHX1dRWS1LSTVQa2t3Z2xrTEk5eldBRzJ6bDlVbV9JUnIwUjBqdzBPZ3hZMWd5?oc=5",
+              "published": "Fri, 17 Jul 2026 13:30:06 GMT",
+              "strength": 2,
+              "confidence": 70,
+              "reason": "Headline explicitly describes a market shift away from 'AI compute beta' toward 'cash flow alpha', indicating reduced investor appetite for AI-compute–focused trades. However, it's a high-level market positioning comment with no direct operational or financial details about hyperscalers or infrastructure providers.",
+              "signals": [
+                "Investor flight from AI-compute–focused trades",
+                "Reduced investor appetite for AI compute beta exposures",
+                "Shift in market emphasis toward cash-flow–generating assets away from AI compute"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "AI Bubble Burst: The IBM Warning Supports The Major Concerns - Seeking Alpha",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQjdZLTh0YU04UVJjV2tzQVB6ZUxDbklfdU4zX0JicWlneHpKMmlOZGpybkh6bFhHVFR5S0FhYTJjczNac1d3SWxOODJha2tmZE1BMTJ1NHlmTkZ3TV9US3YxNlU4cHMzdWJma0VvdElkUUMtZmRocERQQjlJWTdiWjdhbGMwY3Bpck8tN19jRGduNndMNnRfdlJvUUYzRmhYRUE?oc=5",
+              "published": "Wed, 15 Jul 2026 12:31:52 GMT",
+              "strength": 2,
+              "confidence": 65,
+              "reason": "The headline explicitly frames an 'AI Bubble Burst' and cites an 'IBM Warning' that 'supports' concerns, which directly pertains to market positioning risk (potential overvaluation/speculative positioning). Only the title/source is available, so the signal is clear but evidence is limited to an opinion headline.",
+              "signals": [
+                "AI bubble risk",
+                "IBM warning supporting market concerns",
+                "speculative/overvalued AI market positioning"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 35,
+      "new_articles": 39,
+      "dedup_skips": 181,
+      "prefilter_skips": 33,
+      "llm_calls": 6,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 3,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 2,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 1
+      }
+    }
   }
 ]
