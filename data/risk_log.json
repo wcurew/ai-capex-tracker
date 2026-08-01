@@ -41223,5 +41223,424 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-08-01",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 4,
+        "mgmt_tone_softening": 2,
+        "capex_up_revenue_down": 4,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 57.5,
+      "bucket": "주의",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 2,
+          "recent14_count": 3,
+          "fresh_sum": 3.0,
+          "decay_sum": 5.67,
+          "raw_score": 4.57,
+          "strong_hits14": 3,
+          "evidence": [
+            {
+              "title": "Nebius Drops 10%, CoreWeave Sinks 9% as Rising Credit-Swap Costs Hit the AI Cloud Trade - 24/7 Wall St.",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd3p3TlFxYmpVdEZ6NEw0ZjhmYTlNMTJxbUtuX2s0dC03TWlHeWk4Y25xT2tWWkR4VV85cVpaWW9wRjBocF9ENm1NYlJPaTBfOHYtZEhqczBTaGNiU3Exek12WF9reVUzY1JTZ2xGSGd0YnJPY1B6cVNZbDg2azFHZVNHQm5MZ3dkcDV1RWpOSS1za1dMUGwwbTZIZjlSMG5qR0k3WE02VmRJa2ltMXhHakYwMlM1WE1TMkZ5WnZQTm9wTkFBaDVr?oc=5",
+              "published": "Wed, 29 Jul 2026 16:43:01 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline explicitly links notable equity declines for AI cloud providers (Nebius -10%, CoreWeave -9%) to rising credit-swap costs affecting the AI cloud trade, indicating a clear financial/market risk signal for AI infrastructure providers.",
+              "signals": [
+                "Nebius stock down ~10%",
+                "CoreWeave stock down ~9%",
+                "Rising credit-swap (CDS) costs impacting the AI cloud trade",
+                "Market/investor pressure on AI cloud providers"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "As Kimi K3 penetrates the premium pricing of closed-source models, open-weight AI ignites a 'model routing revolution'! The cheaper the token, the more explosive the demand for AI computing power. - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSFNJUHEtZUlNdXhSeTI5X2xPcjl3RW1iMnpmRWVJSDd4bjhZRXBFS2hqZmR2VlVyQXQ4Tnl5bTR1MUdlRnZXUW1vQkVKdzRtQUJ6TjVJbmtabWozMTFsZDhIU0RCb0NwdlVQZXExWkNhdGFTaHlsOWQ2LUpWTWt2aEhFME83c0pzeDVLd0FpeXY5djZOUnE4WVpGWHAwMnps?oc=5",
+              "published": "Mon, 27 Jul 2026 12:30:07 GMT",
+              "strength": 3,
+              "confidence": 75,
+              "reason": "The headline explicitly links lower token prices and open-weight models (model routing) to rapidly increased demand for AI computing power, which directly signals potential infrastructure demand and pricing pressure for hyperscalers. The claim is presented as a market observation rather than hard data, so strength is moderate.",
+              "signals": [
+                "Kimi K3 penetrating premium pricing of closed-source models",
+                "Open-weight AI ignites a 'model routing revolution'",
+                "Cheaper token prices lead to more explosive demand for AI computing power"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Nvidia's Margin Tightrope: Cost Cuts, Price Hikes, and a $750 Billion Credit Question - AD HOC NEWS",
+              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNGZfZGxmRXhUaTU3dWR0UWtDb0hVWmdMQXQ2cVp5UzZaZVlObVBrVm5SekNjRzVIR0ZiMHhTWnJMMHFFYXNzeGd5aS1ZOUNlal9tbWNSMm40LTBnaVR4OHFTTWVNWE9hWmtTWnJ4V3Q5ZTgyd1ZkWXlDVXlMRFQ2UVRTN2RHM09NaGQtWDNFNXUzaXFvZkVwZ05ZTlR5QzRuRldOTVRscEMtSWx4eUIzcmcwSDZ5cTd4ajJ4WHlyVHVWVnVIVkJob3VucW5Zem52YkRV?oc=5",
+              "published": "Wed, 29 Jul 2026 18:01:59 GMT",
+              "strength": 3,
+              "confidence": 70,
+              "reason": "The headline explicitly references Nvidia's margin pressure with 'cost cuts' and 'price hikes' and a '$750 billion credit question', which directly pertains to pricing and financial risks that could affect AI hardware/infrastructure. No further details are provided in the summary.",
+              "signals": [
+                "Nvidia margins",
+                "Cost cuts",
+                "Price hikes",
+                "$750 billion credit question"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 1,
+          "recent14_count": 2,
+          "fresh_sum": 1.0,
+          "decay_sum": 3.01,
+          "raw_score": 1.8,
+          "strong_hits14": 2,
+          "evidence": [
+            {
+              "title": "AI chip boom stretches equipment lead times, risks bottlenecks through 2028 - CHOSUNBIZ - Chosunbiz",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxSmJJQzRBZkhzMVRaRVVEMkV3Y1NlVzBaSWhfT09uTVJSOFZJZmkyWG1NeXdIc2tSTE4zQ1lJeHNYMjJpUWV4aDlpeG5IWHhqbEZ2Y0dVd0NRU25FakN3RjZ1S0g2dFVPU3RxRmNQMzZzSTVldVZZQUFn0gGOAUFVX3lxTE0xWlNwRHIzNEFUNjlpcXB0c05nRzkwRFFoRWRUN0JZVlpiYjU3U2kyY3NSWmNJYWZydGdJam1CX0ZSU1hjNlNqc3NiRi1xOFlXTGIzRTZZSEhKeldMRmh1THg4ZlA3QzZhbk12WXF1U0JMQldZX2lUVm9QUW1RMFdFcjBHX1NSTUpTMHFYMEE?oc=5",
+              "published": "Tue, 28 Jul 2026 06:46:00 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline explicitly reports an AI chip boom causing stretched equipment lead times and risk of bottlenecks through 2028, which is a direct supply/capacity risk for AI infrastructure and hyperscalers. Assessment stays within the article's stated claims.",
+              "signals": [
+                "AI chip boom (surge in demand)",
+                "Stretched equipment lead times",
+                "Risk of supply bottlenecks through 2028",
+                "Potential capacity constraints for infrastructure expansion"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Microsoft tops quarterly cloud growth estimates, easing spending concerns - SRN News",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVUlVbExCZUFnblg5R2ZHZlJLc0JsX1NLRGIzZzJUWmJIcjBObWRlaEw4YS1QZFBCX3lHVWhiR0V6Yk04WmRxdVdYbXpVUlI4VXdLdXNnMXNySFNVd1Uwd25oOXRnbFJDMUVQVG5pZWVab0MxWWdVZUtlWm5EMTlnbXVOSXhWeUNNenUzMlM2WVBKZGZWRkxtTg?oc=5",
+              "published": "Wed, 29 Jul 2026 20:25:43 GMT",
+              "strength": 2,
+              "confidence": 80,
+              "reason": "Headline states Microsoft topped quarterly cloud growth estimates and that this eased spending concerns—a direct signal of softened management tone about cloud demand/spending risk for a major hyperscaler. No further details provided in the summary to increase strength.",
+              "signals": [
+                "mgmt_tone_softening",
+                "reduced_spending_concerns",
+                "beat_growth_estimates"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 2,
+          "recent14_count": 10,
+          "fresh_sum": 5.6,
+          "decay_sum": 10.2,
+          "raw_score": 7.94,
+          "strong_hits14": 10,
+          "evidence": [
+            {
+              "title": "Amazon Goes All-In on Cloud, Boosts Capex to $220 Billion; Apple's Tepid Revenue Growth Triggers 8% After-Hours Plunge - finance.biggo.com",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YZUVrMTBQQUJ1OUNjS2hNancwOXpzcnhLekdHS3pDM3F2N1FzR0Y4eEdjUHRCVUNPZi05SGpnQWZfeFNtUE1vRTZSd3hhb2JKdG9pOHZXOGI2Skp6RDZNWXcyM1pFYm9mSnZXM0NtQ1haYlJaZ3c?oc=5",
+              "published": "Thu, 30 Jul 2026 23:55:00 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The headline explicitly states Amazon 'Goes All-In on Cloud' and boosts capex to $220B — a direct, strong indicator of increased hyperscaler capital expenditure for cloud infrastructure. Apple's revenue note is unrelated to hyperscaler/AI infrastructure risk.",
+              "signals": [
+                "Amazon boosts capex to $220 billion for cloud (headline)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "AI Chip Capex Explosion Turns Equipment Makers Into ‘Super Suppliers’ — Lead Times Stretch Past One Year - finance.biggo.com",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZb2hUQmF6MnVNU2JvRFV0SXoyUS02czN2Y19oRVlXNFVWa3VuMXRDSVhmVFJMYXNjYm1sdndCT2xJVEhEM1FidG9iMGlDNVBvV1dnYlA5R3pFR3BGT0VnTXphNmlQNXgyZ21UWEx0b3IxWWQ5Y2c?oc=5",
+              "published": "Thu, 23 Jul 2026 00:05:00 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Title explicitly reports an 'AI chip capex explosion' and lead times stretching past one year, indicating strong demand-driven supply constraints and potential deployment/cost risks for AI infrastructure operators. No information about revenue declines is provided, so classification is limited to capex and supply/timing risk.",
+              "signals": [
+                "Surge in AI chip capital expenditure (capex explosion)",
+                "Equipment lead times stretching past one year (supply/delivery delays)",
+                "Consolidation of equipment makers into dominant 'super suppliers' (supplier concentration risk)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Microsoft's CAPEX Brake Fails to Cool Supply Chain Expansion Fever; Taiwan Firms' Capital Expenditure Surges in Tandem - finance.biggo.com",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNaWd2Q1d3NG1TV3BNVFNMSlhfQXZGNUptTmczb3poRTZjeWRGWUcxR1hWYTNKZkZVamJmbXJUZUIxbVJIeTZKVjE4WjBuRnh5blc5ZlFKb2I0RnlraXFaNjljM2FIVU5pRWdMUl9vcmpFcmt0aHc?oc=5",
+              "published": "Fri, 31 Jul 2026 01:09:00 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Title states Microsoft attempted to slow CAPEX but supply-chain expansion continues, with Taiwan firms' capital expenditure surging — a clear signal about hyperscaler capex dynamics and supplier investment behavior relevant to AI infrastructure supply chains.",
+              "signals": [
+                "Microsoft attempted to reduce CAPEX but it did not curb supply-chain expansion",
+                "Supply-chain expansion/firm-level capital expenditure continues despite Microsoft's CAPEX brake",
+                "Taiwan firms' capital expenditure is surging in tandem with supply-chain expansion"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "AI Capex Slowdown Risks and China Tech Rebound - StartupHub.ai",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeVpPYXpYWXgyeV9OSG9Qdzk1eGhGQ2RQRWRkcURYeDBqUHBGN2FQNmlvWkU4YWJfTmNKX3VCNVpGOWNmbWVtUXd0bElEZ01mMGQzRVVnODREdHoxdUdTTFR6UG04OURfaEozZkFiY0tqRDRnNzhPZTR5SkJ4YllKTUw3dERjQUhIaWgzRG1iMXJ5WWRucW9aRjZtRWJpQ1dKd0RF?oc=5",
+              "published": "Mon, 20 Jul 2026 23:08:06 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The title explicitly cites \"AI Capex Slowdown Risks,\" which directly pertains to AI infrastructure/hyperscaler investment risk. Lack of article detail limits signal strength.",
+              "signals": [
+                "AI capex slowdown risk",
+                "China tech rebound"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Marvell Drops 8% as AI Capex Slowdown Fears Weigh on Chips; Broadcom, AMD, and Intel Slide - AOL.com",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kV0dka1V0Q1pzd0R1UWVvTTRxVGVOclNyam43ckhXczlqb0o3UC0wTnc5V284NjNpQ19qTVRyaExVQmFPdUN0T0c2UFA3WUdyVW02c3Z0MUNBa3I1WjNSTjFOQlRxallZQmZNUFZCS281bGxlSjJj?oc=5",
+              "published": "Thu, 23 Jul 2026 23:10:35 GMT",
+              "strength": 2,
+              "confidence": 80,
+              "reason": "Headline explicitly cites 'AI Capex Slowdown Fears' impacting major chipmakers, indicating market-perceived reduction in AI infrastructure spending. No concrete capex or revenue figures are provided, so this is a moderate/uncertain signal.",
+              "signals": [
+                "AI capex slowdown fears",
+                "Marvell stock down 8% tied to AI capex concerns",
+                "Broadcom, AMD, Intel share declines linked to AI capex outlook"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Alphabet delivers Q2 beat with cloud revenue surging, capex disappoints (GOOG:NASDAQ) - Seeking Alpha",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTEs3Mm0wOXpiWm1falhHeERDWmRrSHgtWHc3QVBJeEdQVk50STVsTXhNYTl4SjFsVWFqMEpheTF3VWExNlRXNFJXN0dwZG9zRGdhQzRWTTJtdjA3R0NIdlV0VXZFTHpxR3AwcVpyLVBDODJZV1FabndvZWJRcWxnRXJQdHVuMHNvMFVROEV3ZXhENVEzVUw2cUpFaGNnVEF6d0JVMmpqQjQ3S21MWEptLQ?oc=5",
+              "published": "Wed, 22 Jul 2026 20:57:00 GMT",
+              "strength": 2,
+              "confidence": 80,
+              "reason": "Headline specifically notes Alphabet's cloud revenue surging while capex 'disappoints', which directly pertains to hyperscaler revenue vs. infrastructure investment. However, only the headline is available and gives no quantitative detail, so the signal is moderate and limited.",
+              "signals": [
+                "cloud_revenue_surging",
+                "capex_below_expectations",
+                "hyperscaler_investment_signal"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Meta Q2 2026 Earnings Preview: Can Ad Growth Keep Up With Meta’s AI Spending Surge? - MEXC",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEJQd2EyX2gtQXNMNDdiQjJsX0JnZmRvaTh4SUViYkJQVTUyb2xnQkNYcGpqWFNEYXp4YUVVVE9lZ1Z3WDhJS2pVQUN6Skt5LXNqOEdBbjY4azdEY3JIcUdSbnIzV3p0Mk93d0R1aUxyVmlId1FNSlg5eUY3TDZBeE1sOUo?oc=5",
+              "published": "Tue, 28 Jul 2026 07:08:07 GMT",
+              "strength": 2,
+              "confidence": 75,
+              "reason": "The headline explicitly notes an AI spending surge at Meta (implying higher capex) and questions whether ad growth can keep up (implying potential revenue pressure). However, the summary is an earnings preview and does not state actual revenue declines, so the signal is suggestive but not definitive.",
+              "signals": [
+                "AI spending surge at Meta (implying increased capex)",
+                "Questioning whether ad growth can keep up with AI spending (potential revenue shortfall)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Analysis:** This is a financial analysis/news piece about Alphabet (Google) potentially cutting AI CapEx. The user explicitly asked in the last message to output a \"**纯 json 字符串**\" (pure JSON string), not HTML. However, the system prompt is very strict about - odaily.news",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VSFhOR3k4TUZyR1FGUjdqTjhRWWxEa2wydklSYjNSMzZfVFByNUpLMGd6SDhnWmVfdmtvODFpWldPVmljZnhtSDczM3RCYi1s?oc=5",
+              "published": "Wed, 22 Jul 2026 10:13:22 GMT",
+              "strength": 2,
+              "confidence": 70,
+              "reason": "The item is a financial analysis explicitly reporting a potential cut to Alphabet's AI capital expenditure, which directly signals risk to hyperscaler AI infrastructure investment. The report expresses uncertainty (potential cut), so the signal strength is moderate and no further inferences are made.",
+              "signals": [
+                "alphabet_potential_ai_capex_cut",
+                "ai_infrastructure_spend_uncertainty",
+                "financial_analysis_news"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 9,
+          "recent14_count": 26,
+          "fresh_sum": 18.4,
+          "decay_sum": 39.47,
+          "raw_score": 27.33,
+          "strong_hits14": 26,
+          "evidence": [
+            {
+              "title": "America's biggest power grid just told data centers it can cut their power off - Startup Fortune",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN3gySlNVTEgxT0dKZkdIcDZPYWo1WEZCbHhDamlidUpvc05iQlU3eGtvdEt1MlZGNTBYaTlhMzRQR2xuUXRrd1dWVEhhTjNsV24zM3JRZ19qQ2RkNlF1dTRRUmRWdVdOM3k3bGhwSXIyVGxNMG5FamNlc3ZlOTF0dFVsUlh5WWJNSFd6QWN1M2xwMFMxZUFEMU5aeGx4cmlrcFVxMkl0SDM?oc=5",
+              "published": "Tue, 28 Jul 2026 16:32:32 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Title states the largest U.S. power grid told data centers it can cut their power off, a direct operational risk to data center/hyperscaler availability and capacity; no further inferences made beyond that statement.",
+              "signals": [
+                "grid operator notified data centers it can curtail/cut power",
+                "direct threat to data center availability",
+                "increased operational risk for hyperscalers dependent on that grid"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas Sets Curtailment Precedent: Co-Located AI Campuses Must Run Off-Grid - Tech Times",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ3MtdGxOa3IyTkF5M1ZQdDZRR3ZhcGdPcVI1aF9NT3hIelVheXFyV29PMGZaQ1FnN0hxbGhMWFJpWmFyYVBLLUJ3Y295VEwtNHZ1bWpObGE1VU9SclVXWGw4U3NuWThBVFpFSkNYMi1ZMjhLb2dEOFVwWjRlTzJyUmVSQ3lfemY3UmdVTVIwQmFHZ04tYjZWVnctU1owWHVnbzJlYkNYeG9lWkVtcjJGeXplTUVUaDJxSUc5Mncxd2pkb1g5SHZV?oc=5",
+              "published": "Fri, 31 Jul 2026 02:11:55 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "Headline indicates a regulatory precedent in Texas forcing co-located AI campuses to operate off-grid due to curtailment — a clear, direct signal of power/permit constraints affecting AI infrastructure siting and operations.",
+              "signals": [
+                "Regulatory curtailment precedent in Texas requiring co-located AI campuses to run off-grid",
+                "Power/permit constraints affecting AI campus connection to the grid",
+                "Increased need for on-site generation and energy storage for AI campuses",
+                "Risk of enforced grid curtailment impacting AI data center operations"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Grid Connection Becomes the Bottleneck for AI Data Centers - Cloudmagazin",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT19kN0dGYUxlUjFuX3plaFh6TndxNHdyWlpLcVk2NEtYY20zSF9qZXJzdlpUVGVlUGZiV3Q2aU1VM3ZRbXAyYmlhYU8xZjFGMU53c296V3ZLbmRtQzFpcTlkU0ZYd2NGWVJUeThnVHBYR1g3dUpJWHVYa3loOFI0bUZPdkMwa2hxaDkzQzBEaw?oc=5",
+              "published": "Wed, 29 Jul 2026 03:46:10 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "Article title explicitly states that grid connection is the bottleneck for AI data centers, directly indicating power/grid connection constraints that can delay or limit data center deployment.",
+              "signals": [
+                "grid connection bottleneck for AI data centers",
+                "power/grid connection constraints",
+                "potential delays in grid hookups/permits"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "The 60-Day Clock: FERC Just Forced Six Grid Operators to Rewrite the Rules for Every Data Center Over 20 MW - Substack",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsMXk1eEhuellRb1RQdHJ4YTNOS2JqLWZ2S2ZjZWFuQnN1dFFJR01LTVRPM0x1YnpZaUI3S0UwdEZOWC1rT0dZMnBsUDRtUDN2M2xkTVI2WUt6NlVlakd6T0R5d0NjTVMwOVY3dE1tMmp5Mlp6VkdqTA?oc=5",
+              "published": "Tue, 21 Jul 2026 14:32:19 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "FERC has directed six grid operators to rewrite rules that specifically apply to every data center above 20 MW. This is a clear, sector-specific regulatory action that is likely to affect permitting/interconnection processes for large hyperscaler/AI data centers and could cause delays or new requirements.",
+              "signals": [
+                "FERC ordered six grid operators to rewrite rules for data centers >20 MW",
+                "Rule changes apply to every data center over 20 MW (scope: large facilities)",
+                "Regulatory change affecting grid operator procedures tied to data center interconnection/permits",
+                "Potential for altered permitting or interconnection timelines for large hyperscaler sites"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Data centre projects face crackdown to free up power grid - telegraph.co.uk",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOTlKdXZ6VE1NbGNNWDVwRmNVUTlJQW1ZSm1CTGp5NUNpRjhkaXJjVlVJdUVreWFJT3ZGM2Y5TlZUY1BheTJfUU1uWnRselZPamFPZFg1bmN4QXpLV3RnTXdOblNhZkhHOFZxb0ZWUjVpM1VCQ2lxWWdHemZqQnR1QlY3cGFVaE1uNFFiNVJ1U25QQkJzZ3NiS2tORExXLUw0V2lsMDV3?oc=5",
+              "published": "Wed, 29 Jul 2026 08:34:00 GMT",
+              "strength": 4,
+              "confidence": 80,
+              "reason": "Headline explicitly states data centre projects face a crackdown to free up the power grid, which directly signals regulatory/power-connection constraints that can impact data centre/hyperscaler deployments.",
+              "signals": [
+                "regulatory crackdown on data centre projects",
+                "power grid capacity constraints affecting data centres",
+                "potential permitting or power-connection delays"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Grid energy in 2026: connection backlogs, AI load growth, and the infrastructure race reshaping enterprise power - MarketScale",
+              "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeHN6RXBaVlNNdWdJaVRSWm9UY0xrNjhjeFVGQmV3NkJRNE40RzNlOEVyNUptSUcwak5yckhTblZSMUE2enJ2cDZfMGstMjBzYS1qYlVZT3NjbGNCem84RDRqR2tpUU1hUFd5SWx0anRic1VDWElRUUVseEloLXlUVllJM1ItbHA3NlZfcVBTYmJPbkhVaE9jRjZPTFNUVngySkExQWRrTDgycWxRb0JIOWRfQUNkWkVXWDFuc0tUeVF3WDZGeVo2cFI1bXEwa0c1bElxVm1JQURqbXBBc2l1M0RhMVpUaTg1bzVN?oc=5",
+              "published": "Tue, 21 Jul 2026 11:46:49 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "Title explicitly cites connection backlogs and AI-driven load growth affecting enterprise power and an infrastructure race — clear indicators of grid/power supply risk for AI/hyperscaler deployments. Assessment limited to signals named in the title; no additional inference made.",
+              "signals": [
+                "connection backlogs for grid connections",
+                "AI load growth increasing electricity demand",
+                "infrastructure race reshaping enterprise power"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Ofgem proposes grid connection fees to deter speculative data centre projects - Envirotec Magazine",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ1YxY3cwRTRCdTFaalRjRlF0eHl1Q0s3YkxTOTZmQXFZQ2Y0eXZSb05YOTRCZ1BhQS1IeFltYTBwcHZoMldwWmtpTWkzZUdHbFRDOXZuWjlyR1JQQ295b1Bzb0FqbERVMlpJcGp0MGljUGNjWDRuSjdXdnRHbTRjZEgwYmxUY2NsQjZjbFBTMGlqdk1pdHlRSUxwajg4QnhKSEpTUVZFVUtpUDhhSmZKcHl2SEwzdkpfRXVr?oc=5",
+              "published": "Fri, 31 Jul 2026 12:21:36 GMT",
+              "strength": 3,
+              "confidence": 88,
+              "reason": "Ofgem is proposing grid connection fees specifically aimed at deterring speculative data centre projects. This is a clear regulatory action affecting grid connection/permit processes and may increase costs or barriers for data centre grid connections (potentially affecting timelines or project viability).",
+              "signals": [
+                "Ofgem proposes grid connection fees for data centres",
+                "Regulatory tightening on grid connection processes",
+                "Increased costs/barriers for securing grid connections",
+                "Potential impact on speculative data centre projects and connection timelines"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Datacentre projects face fees for grid access to ease connection queue, Ofgem says - The Guardian",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaldiU0NJcy1aelc5TGp4V1hZNngzbFhwcnhVZDRCWjNUd09xc3VPd0hLdnhYSzVtQ0lJZC1vbVgyT2lWQ2ZxbnF0NFFid3hmX0F5QUp0T2JBSEVhNHlFbEV1NzUyUF90ejljcEZmTkNnZUdZSGlUbVpYUEdEZDE1WGFTSV9iVldUbmoyZldBTEt2ZmtBY0xzX29iVkFxckZ0MkM3QkdtRWNsS00?oc=5",
+              "published": "Wed, 29 Jul 2026 19:56:00 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline reports Ofgem saying datacentre projects will face fees for grid access to ease the connection queue, which directly signals a power-access/permit-related risk for datacentre projects.",
+              "signals": [
+                "Ofgem: datacentre projects face fees for grid access to ease connection queue",
+                "Potential for additional costs or delays for datacentre grid connections due to queue-management fees"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 2,
+          "fresh_sum": 0.0,
+          "decay_sum": 1.16,
+          "raw_score": 0.46,
+          "strong_hits14": 2,
+          "evidence": [
+            {
+              "title": "US Stock Short Interest Hits 16-Year High Amid AI Bubble Fears and Middle East Turmoil - finance.biggo.com",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51SDl5S1JvY3I1TXB3NkhYRGM4ZFY0eHJvaDhQM1ptYVBrNDMybWdPcUk4NVdJZ1NMOEY5dFFmU0Fnd3FKZDFtcndFZl9LUXZqVGwzNGI5b2xEcXdaMG9DVk5LMHlVMnBIdEZGb2dxZF9lY2RXRkE?oc=5",
+              "published": "Thu, 23 Jul 2026 02:57:00 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "Headline states US stock short interest has reached a 16-year high, explicitly attributing higher shorting to AI bubble fears and Middle East turmoil—this is a clear market-positioning signal indicating elevated bearish bets.",
+              "signals": [
+                "US stock short interest at 16-year high",
+                "Increased short positions driven by AI bubble fears",
+                "Increased short positions driven by Middle East turmoil"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "GOOGL: AI Crash Imminent? The Savior Has Arrived Market concerns regarding an AI bubble have intensified as heavy capex fails to yield immediate bottom-line results. However, Alphabet (GOOGL) may have just provided the 'savior' narrative the tech sector - Longbridge",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jbzNPMkFUQWVLLUV1Nl94Y040QkFVTGgwTjQ3ZnlGSEc1MHVxbWJwZTdCbWNFeHRPcGo3SFJFZkJ5QUVwb3I2RE41RGRjWW8?oc=5",
+              "published": "Thu, 23 Jul 2026 02:15:16 GMT",
+              "strength": 2,
+              "confidence": 85,
+              "reason": "Article highlights market concerns about an AI bubble and notes heavy capex not producing immediate bottom-line results for Alphabet, which is a direct market-positioning risk signal for hyperscalers; language is speculative, so signal strength is moderate but not definitive.",
+              "signals": [
+                "Market concerns about an AI bubble",
+                "Heavy capex failing to yield immediate bottom-line results for Alphabet",
+                "Speculation of an imminent AI crash",
+                "Alphabet framed as potential 'savior' narrative for the sector"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 20,
+      "new_articles": 37,
+      "dedup_skips": 206,
+      "prefilter_skips": 30,
+      "llm_calls": 7,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 6,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 1,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 0
+      }
+    }
   }
 ]
