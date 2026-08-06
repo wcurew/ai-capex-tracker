@@ -43388,5 +43388,452 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-08-06",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 2,
+        "mgmt_tone_softening": 1,
+        "capex_up_revenue_down": 3,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 38.8,
+      "bucket": "보통",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 4,
+          "fresh_sum": 0.0,
+          "decay_sum": 3.48,
+          "raw_score": 1.89,
+          "strong_hits14": 4,
+          "evidence": [
+            {
+              "title": "Nebius Drops 10%, CoreWeave Sinks 9% as Rising Credit-Swap Costs Hit the AI Cloud Trade - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUXRnd2Y0MG1NVldhYnNfcUlqaEVFXzRFak1VVmk2MURoWkwtN3NyLUdFQ0diSjk5ZU1jN3oyeHJ2T3pDck4yU2NLSGQ0czNQWjliX1VTcVpaTmdPZFZOUG5wN2FYS2M0UUJaa2ZjLWN2MnZOdkFuSlZHSnFTSXJxUjVFeUdQX1UzanZGbTUwMVhmOFlobTVPQ201Q3I?oc=5",
+              "published": "Wed, 29 Jul 2026 16:43:01 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "Article reports significant stock declines for AI cloud providers (Nebius -10%, CoreWeave -9%) explicitly linked to rising credit-swap costs, signaling market/credit risk pressure on AI infrastructure providers.",
+              "signals": [
+                "Nebius stock down 10%",
+                "CoreWeave stock down 9%",
+                "Rising credit-swap costs/credit-default swap costs",
+                "Pressure on AI cloud trade / investor concern"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Nebius Drops 10%, CoreWeave Sinks 9% as Rising Credit-Swap Costs Hit the AI Cloud Trade - 24/7 Wall St.",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd3p3TlFxYmpVdEZ6NEw0ZjhmYTlNMTJxbUtuX2s0dC03TWlHeWk4Y25xT2tWWkR4VV85cVpaWW9wRjBocF9ENm1NYlJPaTBfOHYtZEhqczBTaGNiU3Exek12WF9reVUzY1JTZ2xGSGd0YnJPY1B6cVNZbDg2azFHZVNHQm5MZ3dkcDV1RWpOSS1za1dMUGwwbTZIZjlSMG5qR0k3WE02VmRJa2ltMXhHakYwMlM1WE1TMkZ5WnZQTm9wTkFBaDVr?oc=5",
+              "published": "Wed, 29 Jul 2026 16:43:01 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline explicitly links notable equity declines for AI cloud providers (Nebius -10%, CoreWeave -9%) to rising credit-swap costs affecting the AI cloud trade, indicating a clear financial/market risk signal for AI infrastructure providers.",
+              "signals": [
+                "Nebius stock down ~10%",
+                "CoreWeave stock down ~9%",
+                "Rising credit-swap (CDS) costs impacting the AI cloud trade",
+                "Market/investor pressure on AI cloud providers"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "As Kimi K3 penetrates the premium pricing of closed-source models, open-weight AI ignites a 'model routing revolution'! The cheaper the token, the more explosive the demand for AI computing power. - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSFNJUHEtZUlNdXhSeTI5X2xPcjl3RW1iMnpmRWVJSDd4bjhZRXBFS2hqZmR2VlVyQXQ4Tnl5bTR1MUdlRnZXUW1vQkVKdzRtQUJ6TjVJbmtabWozMTFsZDhIU0RCb0NwdlVQZXExWkNhdGFTaHlsOWQ2LUpWTWt2aEhFME83c0pzeDVLd0FpeXY5djZOUnE4WVpGWHAwMnps?oc=5",
+              "published": "Mon, 27 Jul 2026 12:30:07 GMT",
+              "strength": 3,
+              "confidence": 75,
+              "reason": "The headline explicitly links lower token prices and open-weight models (model routing) to rapidly increased demand for AI computing power, which directly signals potential infrastructure demand and pricing pressure for hyperscalers. The claim is presented as a market observation rather than hard data, so strength is moderate.",
+              "signals": [
+                "Kimi K3 penetrating premium pricing of closed-source models",
+                "Open-weight AI ignites a 'model routing revolution'",
+                "Cheaper token prices lead to more explosive demand for AI computing power"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Nvidia's Margin Tightrope: Cost Cuts, Price Hikes, and a $750 Billion Credit Question - AD HOC NEWS",
+              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNGZfZGxmRXhUaTU3dWR0UWtDb0hVWmdMQXQ2cVp5UzZaZVlObVBrVm5SekNjRzVIR0ZiMHhTWnJMMHFFYXNzeGd5aS1ZOUNlal9tbWNSMm40LTBnaVR4OHFTTWVNWE9hWmtTWnJ4V3Q5ZTgyd1ZkWXlDVXlMRFQ2UVRTN2RHM09NaGQtWDNFNXUzaXFvZkVwZ05ZTlR5QzRuRldOTVRscEMtSWx4eUIzcmcwSDZ5cTd4ajJ4WHlyVHVWVnVIVkJob3VucW5Zem52YkRV?oc=5",
+              "published": "Wed, 29 Jul 2026 18:01:59 GMT",
+              "strength": 3,
+              "confidence": 70,
+              "reason": "The headline explicitly references Nvidia's margin pressure with 'cost cuts' and 'price hikes' and a '$750 billion credit question', which directly pertains to pricing and financial risks that could affect AI hardware/infrastructure. No further details are provided in the summary.",
+              "signals": [
+                "Nvidia margins",
+                "Cost cuts",
+                "Price hikes",
+                "$750 billion credit question"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 3,
+          "fresh_sum": 0.0,
+          "decay_sum": 1.66,
+          "raw_score": 1.16,
+          "strong_hits14": 3,
+          "evidence": [
+            {
+              "title": "AI chip boom stretches equipment lead times, risks bottlenecks through 2028 - CHOSUNBIZ - Chosunbiz",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxSmJJQzRBZkhzMVRaRVVEMkV3Y1NlVzBaSWhfT09uTVJSOFZJZmkyWG1NeXdIc2tSTE4zQ1lJeHNYMjJpUWV4aDlpeG5IWHhqbEZ2Y0dVd0NRU25FakN3RjZ1S0g2dFVPU3RxRmNQMzZzSTVldVZZQUFn0gGOAUFVX3lxTE0xWlNwRHIzNEFUNjlpcXB0c05nRzkwRFFoRWRUN0JZVlpiYjU3U2kyY3NSWmNJYWZydGdJam1CX0ZSU1hjNlNqc3NiRi1xOFlXTGIzRTZZSEhKeldMRmh1THg4ZlA3QzZhbk12WXF1U0JMQldZX2lUVm9QUW1RMFdFcjBHX1NSTUpTMHFYMEE?oc=5",
+              "published": "Tue, 28 Jul 2026 06:46:00 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline explicitly reports an AI chip boom causing stretched equipment lead times and risk of bottlenecks through 2028, which is a direct supply/capacity risk for AI infrastructure and hyperscalers. Assessment stays within the article's stated claims.",
+              "signals": [
+                "AI chip boom (surge in demand)",
+                "Stretched equipment lead times",
+                "Risk of supply bottlenecks through 2028",
+                "Potential capacity constraints for infrastructure expansion"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Microsoft tops quarterly cloud growth estimates, easing spending concerns - SRN News",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVUlVbExCZUFnblg5R2ZHZlJLc0JsX1NLRGIzZzJUWmJIcjBObWRlaEw4YS1QZFBCX3lHVWhiR0V6Yk04WmRxdVdYbXpVUlI4VXdLdXNnMXNySFNVd1Uwd25oOXRnbFJDMUVQVG5pZWVab0MxWWdVZUtlWm5EMTlnbXVOSXhWeUNNenUzMlM2WVBKZGZWRkxtTg?oc=5",
+              "published": "Wed, 29 Jul 2026 20:25:43 GMT",
+              "strength": 2,
+              "confidence": 80,
+              "reason": "Headline states Microsoft topped quarterly cloud growth estimates and that this eased spending concerns—a direct signal of softened management tone about cloud demand/spending risk for a major hyperscaler. No further details provided in the summary to increase strength.",
+              "signals": [
+                "mgmt_tone_softening",
+                "reduced_spending_concerns",
+                "beat_growth_estimates"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Microsoft tops Wall Street estimates for cloud growth, easing spending concerns - The Globe and Mail",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaVJPVzNLRmMxZS1Lb3EwSE93b2NJM1ljdlR1OTY5OVNDLWtJemQ0RU1MM2ljRng3aG41Y2hoRnNaRFdHa2FjbnJKVlVZb3RPbGxlOXFyUDg3ZVVXbld1TUNtcWxoNDYwbDBBd09jNkdtRmFvZXlFUnFFYTV3NmtZUHI0cGQtOGFtaG1CWVA0QU5DTWVlNFlzX1liWmoxNUJq?oc=5",
+              "published": "Wed, 29 Jul 2026 20:19:05 GMT",
+              "strength": 1,
+              "confidence": 60,
+              "reason": "Headline indicates Microsoft’s cloud growth beat estimates and eased spending concerns, which is directly relevant to hyperscaler risk posture but is high-level and lacks detailed management commentary or metrics to clearly indicate a change in management tone.",
+              "signals": [
+                "Microsoft cloud growth topped Wall Street estimates",
+                "Article states spending concerns were eased"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 8,
+          "fresh_sum": 0.0,
+          "decay_sum": 5.4,
+          "raw_score": 2.66,
+          "strong_hits14": 8,
+          "evidence": [
+            {
+              "title": "Amazon Goes All-In on Cloud, Boosts Capex to $220 Billion; Apple's Tepid Revenue Growth Triggers 8% After-Hours Plunge - finance.biggo.com",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YZUVrMTBQQUJ1OUNjS2hNancwOXpzcnhLekdHS3pDM3F2N1FzR0Y4eEdjUHRCVUNPZi05SGpnQWZfeFNtUE1vRTZSd3hhb2JKdG9pOHZXOGI2Skp6RDZNWXcyM1pFYm9mSnZXM0NtQ1haYlJaZ3c?oc=5",
+              "published": "Thu, 30 Jul 2026 23:55:00 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The headline explicitly states Amazon 'Goes All-In on Cloud' and boosts capex to $220B — a direct, strong indicator of increased hyperscaler capital expenditure for cloud infrastructure. Apple's revenue note is unrelated to hyperscaler/AI infrastructure risk.",
+              "signals": [
+                "Amazon boosts capex to $220 billion for cloud (headline)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "AI Chip Capex Explosion Turns Equipment Makers Into ‘Super Suppliers’ — Lead Times Stretch Past One Year - finance.biggo.com",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZb2hUQmF6MnVNU2JvRFV0SXoyUS02czN2Y19oRVlXNFVWa3VuMXRDSVhmVFJMYXNjYm1sdndCT2xJVEhEM1FidG9iMGlDNVBvV1dnYlA5R3pFR3BGT0VnTXphNmlQNXgyZ21UWEx0b3IxWWQ5Y2c?oc=5",
+              "published": "Thu, 23 Jul 2026 00:05:00 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Title explicitly reports an 'AI chip capex explosion' and lead times stretching past one year, indicating strong demand-driven supply constraints and potential deployment/cost risks for AI infrastructure operators. No information about revenue declines is provided, so classification is limited to capex and supply/timing risk.",
+              "signals": [
+                "Surge in AI chip capital expenditure (capex explosion)",
+                "Equipment lead times stretching past one year (supply/delivery delays)",
+                "Consolidation of equipment makers into dominant 'super suppliers' (supplier concentration risk)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Chris Wood warns AI capex binge may burn billions as markets turn against Big Tech spending - The Economic Times",
+              "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPM3JZSVYwejF6TTZHRFhSY09xbm1pOGRrSThRMW1STkJoTFQyeXVfSWxFVXFEVXBjNmFVZFljVWhoMkxBYklBeG91TVdDNFRaVldlNW1OMzl4Z1FfN1pVaWFTZWpkVGpubHljcFl3ekhvX3R0SE1tcGloa2pPN3JOdVJaY2hNTVFPU19WX3JvNnNWR19aWGZlejZoUHlKWUVPNEoxVjd1aUdGODRXTzluODNJTzVCcjhUX3VqUEdZWmtSbXlsUnJwd3JrMUxyODZUakkwNXpCSEZ0bUtaVDU3QVRsYzAxcmhiR3F1cUZ5ZkNMUHdmNFdpOVRjV1ltaXd5ckYtWWx5LTZuZjNNekHSAZMCQVVfeXFMTjF5SjVpaEZVdEpaOURIQm8xekR6bGRqRzMwSHZQNWxfZTJMM0paOEpTWjNkaVJsbGJQQVVlZ0pxb0p3WkVid0c2Z00yMVBIdTNzQUdIM1A1QW90emk2UGV1UXhGd0VzY3FiUXlySkg2d3pyYVZFUmhQWnpjX3NlSC1QR2JhMm9Uc3RjR251MEk3OTBfb3pmeV9xNzZ2Y0pyMGR0QzFfcm01bjV1Uk1udTdqN3plYjdUcjB6RnQzY3hLN0Z4X1VzVFMzSGtyajdSVlIxU3FKV2V0VlVLakJjVTJuZ0FwdkRta2N5dHZjcXdGUFlHbnNOc3ctMWVrNEhkTWdYXzlJWWYyczZFY19RRUFoOGM?oc=5",
+              "published": "Sat, 01 Aug 2026 07:38:20 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline is a direct warning that large AI-related capital expenditure by Big Tech could 'burn billions' and that markets are turning against such spending, indicating a clear risk signal about elevated capex and negative investor sentiment for hyperscalers. This is an analyst warning (not confirmed losses), so strength is moderate.",
+              "signals": [
+                "Large AI-related capital expenditure by Big Tech/hyperscalers",
+                "Risk of significant financial losses from capex ('may burn billions')",
+                "Negative market/investor sentiment toward Big Tech spending"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Microsoft's CAPEX Brake Fails to Cool Supply Chain Expansion Fever; Taiwan Firms' Capital Expenditure Surges in Tandem - finance.biggo.com",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNaWd2Q1d3NG1TV3BNVFNMSlhfQXZGNUptTmczb3poRTZjeWRGWUcxR1hWYTNKZkZVamJmbXJUZUIxbVJIeTZKVjE4WjBuRnh5blc5ZlFKb2I0RnlraXFaNjljM2FIVU5pRWdMUl9vcmpFcmt0aHc?oc=5",
+              "published": "Fri, 31 Jul 2026 01:09:00 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Title states Microsoft attempted to slow CAPEX but supply-chain expansion continues, with Taiwan firms' capital expenditure surging — a clear signal about hyperscaler capex dynamics and supplier investment behavior relevant to AI infrastructure supply chains.",
+              "signals": [
+                "Microsoft attempted to reduce CAPEX but it did not curb supply-chain expansion",
+                "Supply-chain expansion/firm-level capital expenditure continues despite Microsoft's CAPEX brake",
+                "Taiwan firms' capital expenditure is surging in tandem with supply-chain expansion"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Marvell Drops 8% as AI Capex Slowdown Fears Weigh on Chips; Broadcom, AMD, and Intel Slide - AOL.com",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kV0dka1V0Q1pzd0R1UWVvTTRxVGVOclNyam43ckhXczlqb0o3UC0wTnc5V284NjNpQ19qTVRyaExVQmFPdUN0T0c2UFA3WUdyVW02c3Z0MUNBa3I1WjNSTjFOQlRxallZQmZNUFZCS281bGxlSjJj?oc=5",
+              "published": "Thu, 23 Jul 2026 23:10:35 GMT",
+              "strength": 2,
+              "confidence": 80,
+              "reason": "Headline explicitly cites 'AI Capex Slowdown Fears' impacting major chipmakers, indicating market-perceived reduction in AI infrastructure spending. No concrete capex or revenue figures are provided, so this is a moderate/uncertain signal.",
+              "signals": [
+                "AI capex slowdown fears",
+                "Marvell stock down 8% tied to AI capex concerns",
+                "Broadcom, AMD, Intel share declines linked to AI capex outlook"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Alphabet delivers Q2 beat with cloud revenue surging, capex disappoints (GOOG:NASDAQ) - Seeking Alpha",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTEs3Mm0wOXpiWm1falhHeERDWmRrSHgtWHc3QVBJeEdQVk50STVsTXhNYTl4SjFsVWFqMEpheTF3VWExNlRXNFJXN0dwZG9zRGdhQzRWTTJtdjA3R0NIdlV0VXZFTHpxR3AwcVpyLVBDODJZV1FabndvZWJRcWxnRXJQdHVuMHNvMFVROEV3ZXhENVEzVUw2cUpFaGNnVEF6d0JVMmpqQjQ3S21MWEptLQ?oc=5",
+              "published": "Wed, 22 Jul 2026 20:57:00 GMT",
+              "strength": 2,
+              "confidence": 80,
+              "reason": "Headline specifically notes Alphabet's cloud revenue surging while capex 'disappoints', which directly pertains to hyperscaler revenue vs. infrastructure investment. However, only the headline is available and gives no quantitative detail, so the signal is moderate and limited.",
+              "signals": [
+                "cloud_revenue_surging",
+                "capex_below_expectations",
+                "hyperscaler_investment_signal"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Meta Q2 2026 Earnings Preview: Can Ad Growth Keep Up With Meta’s AI Spending Surge? - MEXC",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEJQd2EyX2gtQXNMNDdiQjJsX0JnZmRvaTh4SUViYkJQVTUyb2xnQkNYcGpqWFNEYXp4YUVVVE9lZ1Z3WDhJS2pVQUN6Skt5LXNqOEdBbjY4azdEY3JIcUdSbnIzV3p0Mk93d0R1aUxyVmlId1FNSlg5eUY3TDZBeE1sOUo?oc=5",
+              "published": "Tue, 28 Jul 2026 07:08:07 GMT",
+              "strength": 2,
+              "confidence": 75,
+              "reason": "The headline explicitly notes an AI spending surge at Meta (implying higher capex) and questions whether ad growth can keep up (implying potential revenue pressure). However, the summary is an earnings preview and does not state actual revenue declines, so the signal is suggestive but not definitive.",
+              "signals": [
+                "AI spending surge at Meta (implying increased capex)",
+                "Questioning whether ad growth can keep up with AI spending (potential revenue shortfall)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Asia Wrap: Alphabet’s Capex Surge Reopens the AI Funding Question as Oil Eyes $100 - CryptoRank",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOelFST1h5QW50cVpadHpsSkhyZDl3ZEVqSEF1bzZxQUU2ck40Z0hzZ3U5SGh0R2pvQUluX011YXJYT3pKV2M1T1Y1M0lBOGJWQjFoMGZ2T1VPQjRsRGhVNGdMelZQaGlpMF9UZDdNZXdjQ0NnM1RSenVhX0NFNF80T1RUa2pyTi1O?oc=5",
+              "published": "Thu, 23 Jul 2026 10:19:58 GMT",
+              "strength": 2,
+              "confidence": 60,
+              "reason": "Headline explicitly reports an Alphabet capex surge tied to AI funding questions, which is directly relevant to hyperscaler/AI infrastructure risk (increased capital intensity). However the item does not provide details on revenue, profitability, scale or duration of spending, so strength is moderate and no inference of revenue decline is made.",
+              "signals": [
+                "Alphabet_capex_surge",
+                "increased_AI_infrastructure_spending",
+                "AI_funding_concerns"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 23,
+          "recent14_count": 46,
+          "fresh_sum": 61.5,
+          "decay_sum": 90.31,
+          "raw_score": 73.52,
+          "strong_hits14": 46,
+          "evidence": [
+            {
+              "title": "Texas Governor Greg Abbott has directed a halt on new data center connections to the ERCOT grid pending a comprehensive audit of their energy use, water consumption, financing, ownership, and community impacts. - Energy News Beat",
+              "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQcGxLRlEwdTlHZFlJM0xFS2xJNjFjMllWMVRqWlRPT2N2ZnNpSUExMkwwRlNfWE9jMk1ydUc3cXRoOXYzNEQ4WlIyTlhLNDdpNEZQMzBCV1prWU8yZm0yYnY3ZkRzNURmTHh1WG9QcWxMNHZPVjlJUEtOZVNYdkFESUhmUEY4aDJkdWFuSHdPVDRUdG1tdFBuTzhtRDlySzk0a2xZdDBMT01IVm9lanFjYmpDOVR1ZEFheXRwcU41OHM1Vl9hSTk5THIwR3FocU1vQU91V0ZoZ2ltb3IzalRwM1BqTGZnd09KbkJ0MWhpbUJOckQzdlpCQlNNZTJ3dmZwZEdiTFUtNWFvTm9qczhkOFQ4Y2dkUWdPLUdhMGlFajVKLTVxeU92MEg0eWIxcVpka0NBSDM2TW1vcTBfQ2lQWjdBdERBWVVhbmc?oc=5",
+              "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+              "strength": 4,
+              "confidence": 92,
+              "reason": "Texas Governor Greg Abbott has directed a halt on new data center connections to the ERCOT grid pending a comprehensive audit of energy use, water consumption, financing, ownership, and community impacts — an explicit moratorium that will cause immediate connection/permitting delays for data centers in ERCOT.",
+              "signals": [
+                "Moratorium on new data center connections to the ERCOT grid",
+                "Directive pending comprehensive audit covering energy use, water consumption, financing, ownership, community impacts",
+                "State-level regulatory action by the governor affecting data center connections/permits",
+                "Immediate potential for connection/permit delays for data centers in Texas"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas Pauses Data Center Grid Approvals as Power Requests Hit 474 GW - TechRepublic",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTGdPMTloMW9xZmVnUzRjSVpWajhlb1ZPYmQ2RzR5MGpXYk5nLUtianhBaUNfcGE5UFF0Wm11dHNsbVUzNXhBam5VcTB2X25RYzRwaGNiTUJzRkZBM2F1M1k0TzlqYmtnOE1PSmlwQ3lFQjlNd0NuXzJKM0thb2NfMUE0bng3TGZ6bWc?oc=5",
+              "published": "Wed, 05 Aug 2026 18:45:42 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The article states Texas has paused data center grid approvals while data center power requests reached 474 GW — a direct, strong signal of a permitting pause amid very high power demand.",
+              "signals": [
+                "Texas has paused data center grid approvals",
+                "Data center power requests have reached 474 GW"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Governor Orders Audit, Pauses New Data Center Grid Connections - Seguin Today",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVEhWeXphR0I2MXBCVnRBa0wyM29yQl9YQktWbV90dFk1SEtodmNBRjduTjdkd083blpzeHJkMjJMYUZCcWhoN0w1UGVISkMzb0FYRXBGTEdMRzB3YlV5SDgtT2h2cGxRRk9Pa0lmWkJVRWpORTRiYWNHMklrbXl3UC1MZXViakQ0WWtKcEVpR3JWXzZpTG5iVG1qakFfQQ?oc=5",
+              "published": "Thu, 06 Aug 2026 07:52:30 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Article headline states the governor has ordered an audit and paused new data center grid connections — a direct policy action that will cause delays or suspension of new grid hookups for data centers, i.e., power/permit impacts.",
+              "signals": [
+                "Governor orders audit of grid connections for data centers",
+                "Pause on new data center grid connections announced",
+                "Direct policy action affecting power/permits for data center grid access"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Abbott Orders Full Audit of Texas Data Center Interconnection Queue, Threatens to Deny Grid Access - POWER Magazine",
+              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOXzNzVjgxcGstc1NDQmhEakRRdWVreHZqYzhhNU9zc2hPMDMzMXNYdmtoTzFNd3ZSSE9HdjQ1YVBCOUszRFpGM1E3dFZwRElNNWxnb3VEVllKc0RMZEpuUm1YMlFOZXhrVGNrajJHVTdxdUhOWVg1clpXNUZwVDZiQlNDZGZYVGdGcVgzblNVMVBPbk1HMUtoVVFiMnZaOHk1aEd1Vm5zWmFwNmZwb2xsZ0x5WTNlZHBDQk9mNDh3Vzc?oc=5",
+              "published": "Tue, 04 Aug 2026 21:06:53 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The item title explicitly states a state executive (Abbott) ordered a full audit of the Texas data center interconnection queue and 'threatens to deny grid access.' This directly concerns data-center interconnection and potential denial of grid access — a clear, high-impact risk to data-center/hyperscaler power provisioning and permitting processes.",
+              "signals": [
+                "State-ordered audit of Texas data center interconnection queue",
+                "Explicit threat to deny grid access to data centers",
+                "Risk of interconnection/permit delays for data centers",
+                "Direct state-level intervention in data-center power access"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas halts data center connections to power grid amid overwhelming demand - arstechnica.com",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbTUwQkdEOGhVcmdJTHBjOGt6NTAyVl84QTAtV3FaaVZiUENza0p0UkdKYWN4bkk1dE1FZnlRMTJPb2hRdllKczVEQjQ5SXI0Y3NqYWpPZS1nV3RXeUYxXzlMdC1JQjZPWWp1aE5icnFveGxJOHdhaUduMGVhRS1fMUE3dmhHcTBlMWZrcGljZ0dmenpWU3F1UUZ3U1VkVTIyMy03b0VQLVZfQlRQak1B?oc=5",
+              "published": "Tue, 04 Aug 2026 20:34:28 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The article title states Texas has halted data center connections to the power grid due to overwhelming demand, which is a direct signal of power-connection and permitting constraints affecting data centers in Texas.",
+              "signals": [
+                "Texas halted data center connections to the power grid",
+                "overwhelming demand for electricity in Texas",
+                "power-connection/permitting constraints for data centers",
+                "potential impact on new data center connections/expansions in Texas"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Greg Abbott Orders PUCT And ERCOT To Halt Texas Data Center Grid Connections Pending Audit - NewsCord",
+              "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORUkxT2x3ZkhaaUFuc0hRT3pISWxNRmJhZ3lOaFlydUJvblh6d0hnWVF4MUpoajZ1QWxLbE12Qmt0eENRVllBTzFLY1ZMOVppY0VMLXR6aDR0UEIxeWJobGQxN3E3MEtyMzMxN1A1VzBTNEZkTjBRcGlDZWFfQmNCRU5yancwSGNYNHJ4QkpvNGZLNUVOYUhnUWJVSUJmNW02NV9Jekk2N1ZpYlcyNkhsS0RCTnZzbHF5S2g1ZmwwRTYzaDR1YXBqMGxHYjFiR2o2YjZtX0FhbGNzOVZMbGxZLWcxODFZTUZpWGc?oc=5",
+              "published": "Wed, 05 Aug 2026 01:02:12 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The title explicitly states the governor ordered PUCT and ERCOT to halt data center grid connections pending an audit, which directly indicates an immediate regulatory action causing grid connection/permit delays for data centers.",
+              "signals": [
+                "Executive order halting grid connections for data centers",
+                "Regulatory (PUCT/ERCOT) suspension of interconnection approvals",
+                "Pending audit causing delays in data center grid permits/connections"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Greg Abbott Orders PUCT and ERCOT to Audit Texas Data Centers, Pausing Grid Connections: 14 outlets compared - NewsCord",
+              "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWFVKQi1DRWk3TFhHSTRaaUY0RHRHdG4xSFF0QW1xbGtNaHFJWFdLNWFtaE5zbkNxdFJmRzJidEgxeEx3ZUY5bThJWUFYVHAteTAweHNpYlpwUlhfM3hVRU1kV0N4b2drVFFMN0tXRGFxTXB3cDE4VUlWdUplT1BIaWFqOXM3Y0NZc0VkbTdMTnduNG00VTllTWdPdEluZlhuTVM1VWpHX1Z3cmIwUVZ4Q3ZNM0xMUWN5MU9yT3ROdm94cWVUOVlXNkFnMFJEemRtVmFaOHgxMGhMbzh6OG4zM3ZCNWQ3YlJlZUE?oc=5",
+              "published": "Tue, 04 Aug 2026 21:26:14 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Title explicitly states the governor ordered PUCT and ERCOT to audit Texas data centers and paused grid connections, which directly signals regulatory action affecting data center grid hookups. No additional inference made.",
+              "signals": [
+                "Governor-ordered audit of Texas data centers by PUCT and ERCOT",
+                "Pause on grid connections for data centers"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas data center audits halt new projects as queue hits 474 gigawatts - The Cryptonomist",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wOHMtMWx0bjZjNHFlWXdjX3R1X011ZlI3UEs4RmNNbnlFYlBzNmMwN1RYa3ZINHJHUm9lYTJIckJRR0tOalNmX1FVelE3a2VBSUdOQmRzRmFRNG4zTXNJTE9MaTFlZHphNlhkRmRLM2JNcWl4TGsw?oc=5",
+              "published": "Tue, 04 Aug 2026 21:47:01 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Article reports that Texas data center audits have halted new projects and that a large queue (474 GW) has built up — a direct, strong indicator of permitting/power-approval risk that can constrain data center expansion for hyperscalers and AI infrastructure providers in the region.",
+              "signals": [
+                "Data center audits in Texas halting new projects",
+                "Large queued capacity awaiting approval (474 gigawatts)",
+                "Regulatory/permitting risk affecting data center expansion and power provisioning"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 2,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.51,
+          "raw_score": 0.21,
+          "strong_hits14": 2,
+          "evidence": [
+            {
+              "title": "US Stock Short Interest Hits 16-Year High Amid AI Bubble Fears and Middle East Turmoil - finance.biggo.com",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51SDl5S1JvY3I1TXB3NkhYRGM4ZFY0eHJvaDhQM1ptYVBrNDMybWdPcUk4NVdJZ1NMOEY5dFFmU0Fnd3FKZDFtcndFZl9LUXZqVGwzNGI5b2xEcXdaMG9DVk5LMHlVMnBIdEZGb2dxZF9lY2RXRkE?oc=5",
+              "published": "Thu, 23 Jul 2026 02:57:00 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "Headline states US stock short interest has reached a 16-year high, explicitly attributing higher shorting to AI bubble fears and Middle East turmoil—this is a clear market-positioning signal indicating elevated bearish bets.",
+              "signals": [
+                "US stock short interest at 16-year high",
+                "Increased short positions driven by AI bubble fears",
+                "Increased short positions driven by Middle East turmoil"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "GOOGL: AI Crash Imminent? The Savior Has Arrived Market concerns regarding an AI bubble have intensified as heavy capex fails to yield immediate bottom-line results. However, Alphabet (GOOGL) may have just provided the 'savior' narrative the tech sector - Longbridge",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jbzNPMkFUQWVLLUV1Nl94Y040QkFVTGgwTjQ3ZnlGSEc1MHVxbWJwZTdCbWNFeHRPcGo3SFJFZkJ5QUVwb3I2RE41RGRjWW8?oc=5",
+              "published": "Thu, 23 Jul 2026 02:15:16 GMT",
+              "strength": 2,
+              "confidence": 85,
+              "reason": "Article highlights market concerns about an AI bubble and notes heavy capex not producing immediate bottom-line results for Alphabet, which is a direct market-positioning risk signal for hyperscalers; language is speculative, so signal strength is moderate but not definitive.",
+              "signals": [
+                "Market concerns about an AI bubble",
+                "Heavy capex failing to yield immediate bottom-line results for Alphabet",
+                "Speculation of an imminent AI crash",
+                "Alphabet framed as potential 'savior' narrative for the sector"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 9,
+      "new_articles": 36,
+      "dedup_skips": 161,
+      "prefilter_skips": 28,
+      "llm_calls": 8,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 8,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 0
+      }
+    }
   }
 ]
