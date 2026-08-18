@@ -48206,5 +48206,365 @@
         "market_positioning": 1
       }
     }
+  },
+  {
+    "date": "2026-08-18",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 1,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 3,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 1
+      },
+      "score": 35.0,
+      "bucket": "보통",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 2,
+          "fresh_sum": 0.0,
+          "decay_sum": 1.89,
+          "raw_score": 0.75,
+          "strong_hits14": 2,
+          "evidence": [
+            {
+              "title": "Jensen Huang’s $500 Billion Nvidia AI Financing Bet Faces a China Problem—Could Cheaper Chinese Chips Sink GPU Values? - TradingView",
+              "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOTmZUMFhRbFR2dFVIYkIxTlFvX19sSlR2amZLblZBUmJuY3lWS1NhY0NVRnVtTFluUWM2UGpjWHZ0b2FNUDFyNVI4d1BnVUt4OWFFeGxlNTNrNXloaURkSllkbzVEMVF4S3FWR09aaTZhZUZod0xkaWtmcEpwUTZhcDQ0NEN4Y3NzTkxseGJVQnQyUU5yRk4xMjFSZEQ2VDdkbURubmVPclVBdkZWWGY0ZWFUMmljNmstYXFsb3pfWUhFTzVTNVBGUFhnYWNHR1ZmZW1qeHdDQzlFdmh4d1Y5TU9nME5qZklQZGF5aHZtcDZMcWdnNk1ORUl2enFQZmI4azQ1T1FB?oc=5",
+              "published": "Wed, 12 Aug 2026 09:13:46 GMT",
+              "strength": 3,
+              "confidence": 70,
+              "reason": "Headline explicitly raises the risk that cheaper Chinese chips could depress GPU values, which is directly relevant to AI infrastructure pricing/asset value. The summary is a question rather than definitive proof, so the signal is plausible but not confirmed.",
+              "signals": [
+                "Potential GPU price declines due to cheaper Chinese chips",
+                "Competitive pressure on Nvidia GPU valuation",
+                "Market risk to AI hardware asset values"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "CRWV Revenue Could Surge To Over $100B Eventually As AI Compute Gets Cheaper, Morningstar Says - TradingView",
+              "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeVkxTVJjR05HcXdOLW10aHg0d2ZjVTVPNmFPVWRUR2pWMi1PTHpRMHJxQndLSnZmZ1FhZFQyOVlWUG9qQTFPc2liMENXbEczZFZfLVluX3I2cVdWNnFEYmdTVFNlZHY4YWJXZHJFY2FxYVZSVHVYQS1CSU5SQUYyMVctaHEtX2xMNkZfbGhERGZXUFpSeEt5WDUxWnpSbFVxYzFZRng0c1RKVzFTTEprOEt3WFp3bFE3Wng0cHdXSmctZWp0Q1dHZWE1VXYwMm9FZ2xNNjNld1dRdlcyRWlVS3VqMjlsWnNz?oc=5",
+              "published": "Wed, 12 Aug 2026 10:12:20 GMT",
+              "strength": 2,
+              "confidence": 70,
+              "reason": "The headline explicitly states “AI Compute Gets Cheaper” and links lower compute costs to higher CRWV revenue per Morningstar, which directly signals AI price declines. However, this is a single analyst/media headline rather than broad empirical pricing data, so strength is moderate and I do not infer broader industry confirmation beyond the text.",
+              "signals": [
+                "Headline: 'AI Compute Gets Cheaper' (Morningstar commentary)",
+                "Analyst projection links cheaper AI compute to revenue growth for CRWV"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 7,
+          "fresh_sum": 0.0,
+          "decay_sum": 7.18,
+          "raw_score": 3.37,
+          "strong_hits14": 7,
+          "evidence": [
+            {
+              "title": "Magnificent Seven Show Cracks in 2026 as AI Capex Surge Splits the Group - finance.biggo.com",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0ZlEwb0FiSU5QWXJCMklpU21INk5yVVZnZE9ZMkxDOUZYTndBbnNUeWtpMlEwYll2cFJaU2praWhXcGo2WVA4S1ducUE0ckFZYmZ1LWtxalRqMFdHcVV3ZUpYOTBMRk9WRUpUWTlFRUxkODVseFE?oc=5",
+              "published": "Fri, 14 Aug 2026 08:35:00 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The headline explicitly describes an AI-driven capex surge among the 'Magnificent Seven' and notes cracks/splits in 2026 alongside revenue weakness. That directly signals infrastructure-related capital intensity and divergence within major hyperscalers, which is pertinent to AI infrastructure risk assessment. Assessment is conservative given only the headline/summary context.",
+              "signals": [
+                "AI-related capital expenditure surge",
+                "Revenue weakness/decline among major tech firms",
+                "Divergence/splitting performance within the Magnificent Seven"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Tencent records negative free cash in Q2 after surge in AI capex - Telecompaper",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZmlaVkpmazl5WWZzNnlJNVRvZWZVYlpLQWdMN2FKeGUxaVd5V2ljU2x4Y3htWlBJRzVERTk3Yl8ybVVTYnNsNDhmVlJ2TUROMV9MMS1nZklTR3FmZ2I2dUJ4SUlpVXJBY25vaHoyeXM0TDV5QnpsVXU1QTltYjVuYk9rY2k0VDJ6RnZSSW1QVkNkOWdydXJFQk0zcWVfNGQ0VDZINWpFTVZuX1E?oc=5",
+              "published": "Thu, 13 Aug 2026 12:57:21 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The headline explicitly links a surge in AI capex to Tencent recording negative free cash in Q2, which is a direct signal of financial strain related to AI infrastructure investment at a major hyperscaler. Information is limited to a single-quarter result, so strength is moderated.",
+              "signals": [
+                "surge in AI capital expenditures",
+                "negative free cash flow in Q2",
+                "financial pressure related to AI infrastructure investment"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Chinese tech giant Tencent sees spending surge, defends potential 'superior' AI returns - cnbc.com",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVXcyRWI1eTdzeUtIMkJSTkJ6YlhUNGNhakNwY2Jmc2FrUVpNT2NKbHM3VmxxcEpTWERUSExkcmlPSVlCSVVvTExYQmxzZm1WWWx5dVRMc1BCZzBOcWJpVC1hckFwQUhNUXBKZV9MaXZpS2JwNWFSVDBMTmM5MW4wZlAwVDlNaTFzd3ctTDVEcm5jZTDSAZgBQVVfeXFMTkxxQkgyOE9Sb2lVeWJtTUY4bHlsbXM4V1M2b0JPU2c2eEFGOW44RGowR0x1Z0RUTVZQRTdSOWszNXJiMkZyRnlVRzFUU0tJd0QyNWJzUkpNakxsY3NBX1V5LXZsVjU5WVQ3eTFxT2doZHZxNkk4WVFpb21jemNHUWV4bmxxWENndlMxd1VjOTVIRU9lcllYdEs?oc=5",
+              "published": "Wed, 12 Aug 2026 09:03:35 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline explicitly reports a spending surge at Tencent and frames it as AI-related investment; this is a clear signal of increased capex for AI infrastructure. The article title does not mention revenue decline, so no revenue_down signal is asserted.",
+              "signals": [
+                "capex_up"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Why SanDisk Stock Dropped 50% From June Peak Amid AI CapEx Doubts, Rising Chinese Competition - TradingKey",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS0JKWGhZekw0bDltdDBqMWQxUTEtbm9EYmlDUjFKZTVMb1I1RHliaktvZk9JWm1xSy1BdUVMNzRTWHNYYlZhakF3dDhJZV9sQ0JQV1BXUjdpTFFvUHZqQzhIYUhFendCRVMtX01OSERrQWtLTDNtU19LeUlaeldwWDlpSHVLTWJTVjNOcVVtaHBQMXBLU01xc19xZWhlUng0LVY5T09KUGZobEZEU3NXLTlrSzY4SnVYUXctNGh6OA?oc=5",
+              "published": "Fri, 07 Aug 2026 19:18:18 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The article explicitly cites 'AI CapEx doubts' and rising Chinese competition as reasons for SanDisk's stock decline, indicating demand uncertainty and competitive pressure for storage suppliers in the AI infrastructure market. This is a direct risk signal for suppliers serving hyperscalers/AI workloads.",
+              "signals": [
+                "AI CapEx doubts affecting demand for storage vendors",
+                "Rising Chinese competition in the storage market",
+                "SanDisk revenue/stock pressure tied to AI market conditions"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Cloud capex forecast calls for 29% jump in 2027 as compute demand exceeds capacity: MS - Seeking Alpha",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ1hYYVZlUHhtR0J2cWhYdWVXbDlqMEliRURjdHJ2RHM2SVFuUXJmWWtXb2xtVmRQQlMzY2hQT1RFWE5uZ3dyQUxPQWFpek42akpFZWQtSkEyQkgtQ1NWeEFLdXcyYXFoazlqVmFTT3RrQk9sdVFVWGdqeFdkUXRMakRPYzd5dnRPdnVEQ3hSaXVWWGpXUWsyVHNPck5jRDlreldJQVo2X2NDVDRfZkhpZDFSWG1hUHQ5MjNQRGF2VQ?oc=5",
+              "published": "Sat, 08 Aug 2026 12:00:39 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Article headline explicitly forecasts a 29% capex increase in 2027 due to compute demand exceeding capacity — a clear capex-up / capacity-pressure signal for hyperscalers. The text does not mention revenue declines, so no inference about revenue_down is made.",
+              "signals": [
+                "capex_up",
+                "compute_demand_exceeds_capacity",
+                "capacity_shortage_risk"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Oracle Stock Forecast: ORCL Faces Layoffs, $70B Capex and Rising Debt - TradingKey",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeHNuY25XOEVoWjNvUGh4bEh1YkxKNFQ1STZwdExBWWFVd3dTeENlMzJtNmNPc1lqYmZJRTRDdkY1Ry1SQ0xzVF9JeERLU2VnajFLZHRLd0F2MHNjQWdhcHV4ci12cnJsQkZSa0hvOWJ6bVRJaHo0RjhueFk3T0tqQkk3aldKTXZCdDItQlJGeDNISEJ2Q0Q5blVWLVNLUERFYXY1cWFMenNwc3kyR3dBcWp6WGhzSEpZ?oc=5",
+              "published": "Thu, 13 Aug 2026 02:03:59 GMT",
+              "strength": 3,
+              "confidence": 75,
+              "reason": "Title explicitly reports a $70B capex plan and rising debt for Oracle along with layoffs, which are direct signals about increased infrastructure spending and financial strain relevant to AI/hyperscaler risk. The summary does not state revenue decline, so no inference about revenue was made.",
+              "signals": [
+                "capex_increase: $70B capex",
+                "rising_debt",
+                "layoffs"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Camtek Piles Up $600M in Orders While AI CapEx Forecasters Debate Slowdown - Tech Times",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMmVjcjJFc2VnbFpMeTZ6MFZvVlBld1ZKX1RvdUdoQWk4eENYSFliTmhHOU9BcVh5MVBwalMwemt2SkFFZlctUmlIVWpwUm44LXRsY2xySUxIY2JwZ2R5dXdMMFg0LXUyZmgwOFlURmV3ZnBtbk42QXM3VWJjTWJqVEMzMlM3QUVrUjhiTThNVlZuV3VwV1d6SGZUMVJNZ3lkbUtmLUhFVDM0NDhQUVFLOUViaC1Ec2h5bVYtNDRMYw?oc=5",
+              "published": "Mon, 10 Aug 2026 23:25:29 GMT",
+              "strength": 2,
+              "confidence": 75,
+              "reason": "Article headline reports Camtek has $600M in orders, indicating continued capex demand for semiconductor equipment and conflicting with AI capex slowdown forecasts. The summary does not provide evidence of revenue declines, so the specific 'capex_up_revenue_down' pattern is only weakly supported.",
+              "signals": [
+                "supplier_orders_up (Camtek $600M)",
+                "capex_demand_persistence",
+                "conflicting_capex_forecasts",
+                "no_evidence_of_revenue_down_in_text"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 3,
+          "recent14_count": 47,
+          "fresh_sum": 8.8,
+          "decay_sum": 42.04,
+          "raw_score": 22.59,
+          "strong_hits14": 47,
+          "evidence": [
+            {
+              "title": "Texas pauses data center grid reviews as governor orders audit of power queue - The Cool Down",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMm91UGQwVGJGVVotbXZ4UWw4VEUyRHUxaWtTdWRxQkdLYWhLVVkyajd4Z1Z0dW1vNElFcTV3SnBkTExGZXprbllvTG5SWXI5OFc3QzJ6MXZqNEtwcUJrX1dNVERZdXJJT1dDSllsckkzd3JUUFhLVkl5ZmVGTTRkN0lDQkJnRm8xUXc?oc=5",
+              "published": "Mon, 17 Aug 2026 13:00:00 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Article states Texas has paused data center grid reviews and the governor ordered an audit of the power queue—direct indicators that processing of data center power/interconnection approvals is being interrupted.",
+              "signals": [
+                "Pause in data center grid reviews in Texas",
+                "Governor-ordered audit of the power queue"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Oracle’s $165 Billion Data Center Plan Gets a Gas Pipeline Delay - Energy News Beat",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTWdiV0JSTkg0RDZlNEl6WFIxb1FCUGFQTUpxeldxeENHR245aldsTFIwNkE5ZUhvMFFfTzdDTHB4TDNhNk1ralIyRXJ1ZTcwem5hVF82MC1yZF9CWHpKWlc0NkFFUmh5bnNocUZHMXF1eU1rdHBSVnExQlRFUUdUVDFaQ0p5QWFFdjZySHBLZ1ZDQ2Z4c3dmMmJMT0drRFE?oc=5",
+              "published": "Sat, 15 Aug 2026 14:34:10 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline explicitly reports a gas pipeline delay affecting Oracle’s large data center plan, indicating a concrete energy/permit-related risk to hyperscaler infrastructure deployment.",
+              "signals": [
+                "gas pipeline permitting delay",
+                "energy supply risk to data center buildout",
+                "regulatory/permit delay affecting hyperscaler infrastructure"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Data Center Backlash Widens as Texas Freezes 474 GW Grid Queue - Natural Gas Intelligence",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU3VoYldLUkpqRmxETDA5ZUJ6TTl1bEZGSTJ5WGxFTlpCUVJkazg5ck5mel9KdU1nTXB4RWlkTUo4eXJhdXR5UnYtdW1BbnpwNHgxT1dOUUhRUE5USzlSNjMwTnE3Y0hyTU40OS1McjdTUTFfSndfMFBqa1Y1ZU1QS2VQMXh1RzEtekJJNEI4STdyLXZ2MWUyQXAwRVc?oc=5",
+              "published": "Wed, 12 Aug 2026 12:58:13 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline states Texas froze a 474 GW grid queue amid data center backlash, directly indicating regulatory action causing interconnection/permit delays that threaten data center power availability and project timelines.",
+              "signals": [
+                "Texas froze a 474 GW grid interconnection queue",
+                "Data center backlash reported in response to the freeze",
+                "Regulatory action likely causing interconnection/permit delays for data center projects"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas moratorium on data centers puts 20% of U.S. pipeline at risk of delay - Bloomberg NEF - Seeking Alpha",
+              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZHM5YzVGTm9MWmFmLXRXc2tkeXBBR0drSnJDQlJMbkZzUWZPWnVacklBQ3hQUXRGd0luTzlrODFJalNhdk9ma1ozTmJ2WFloU2pkWnhSd3lhVms0XzlQVHhWVlo4bzBwd0o5SHVUVFZWaEVlMEc5eHd2ZUVORkpWeVRpNWxEelZDUmdMVl9TUGpKeTZUTkJSdDE2bE50X1pJUDVqQnJQZlViTkJIRXdtQlRuMExhRmdiVklNdXRfMFZYaVM4RHNWMQ?oc=5",
+              "published": "Sun, 09 Aug 2026 00:20:07 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The article states a Texas moratorium on data centers that Bloomberg NEF says puts 20% of the U.S. data center pipeline at risk of delay, directly indicating a clear permitting/regulatory risk to data center deployments.",
+              "signals": [
+                "Texas moratorium on data center construction/permits",
+                "20% of U.S. data center pipeline at risk of delay (Bloomberg NEF)",
+                "Permitting/regulatory risk to data center deployments",
+                "Potential delays to hyperscaler/data center expansion pipeline"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas pauses new data center approvals as Abbott orders grid, water impact review - thecooldown.com",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPczNhVU1vN1BVcEZILTQ1amllT1YwVThCM0tLU2JCWjBob19mcS1CME5ZWWVXZWhKcXNCTUgwZ3dPN0c3TWV3cmQyenZDNVJURE1mLWd0Rkd0TUstcDFGek5nVE5CN25rTmZvOGU2cW9tS01ybkJnLW9Ya3A1ZENNb2ZXVlU?oc=5",
+              "published": "Sat, 08 Aug 2026 05:08:00 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline states Texas has paused new data center approvals while the governor ordered a grid and water impact review, indicating a clear, state-level regulatory pause that will delay permits for new data centers.",
+              "signals": [
+                "state-level pause on new data center approvals",
+                "governor-ordered grid and water impact review",
+                "permit delays for new data centers",
+                "potential constraints tied to power and water impact assessment"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas Audit Could Delay 49.8 GW of Data Center Load, Cost Projects Up to $15 Billion, BNEF Warns - POWER Magazine",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZXN0RUdvRDRQeXRXOHlSWWl4cnJLWW12Um05OUpCMEN2QzgxTmYtaHRFdC1QVGRwbWpwY1NrYjR5SjZxdGFEVXRrSFRpeGtLZk5XSGN0eGFKZ3FacTNfc2wwUjV1YVJfanVKYnBQWjRQOHIzWW5ITFZ6RDRpUnhNWkZkRDZfajBQQUxka1hIbUFEcE43X0tHZ1BKN3pKM1NBNnJmSmstMmp3cVpWVlpVaVh6eTFseEU1QWdR?oc=5",
+              "published": "Fri, 07 Aug 2026 01:34:19 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The article headline explicitly states a Texas audit could delay 49.8 GW of data center load and raise project costs up to $15 billion (per BNEF), which is a direct regulatory/permit risk signal for data center projects and hyperscalers in Texas.",
+              "signals": [
+                "Texas state audit causing permit/approval delays",
+                "Potential delay of 49.8 GW of data center load",
+                "Projected additional project costs up to $15 billion",
+                "Regulatory/permitting risk to data center projects and hyperscalers (BNEF warning)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas Pauses Data Center Grid Approvals as Power Requests Hit 474 GW - TechRepublic",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTGdPMTloMW9xZmVnUzRjSVpWajhlb1ZPYmQ2RzR5MGpXYk5nLUtianhBaUNfcGE5UFF0Wm11dHNsbVUzNXhBam5VcTB2X25RYzRwaGNiTUJzRkZBM2F1M1k0TzlqYmtnOE1PSmlwQ3lFQjlNd0NuXzJKM0thb2NfMUE0bng3TGZ6bWc?oc=5",
+              "published": "Wed, 05 Aug 2026 18:45:42 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The article states Texas has paused data center grid approvals while data center power requests reached 474 GW — a direct, strong signal of a permitting pause amid very high power demand.",
+              "signals": [
+                "Texas has paused data center grid approvals",
+                "Data center power requests have reached 474 GW"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Governor Orders Audit, Pauses New Data Center Grid Connections - Seguin Today",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVEhWeXphR0I2MXBCVnRBa0wyM29yQl9YQktWbV90dFk1SEtodmNBRjduTjdkd083blpzeHJkMjJMYUZCcWhoN0w1UGVISkMzb0FYRXBGTEdMRzB3YlV5SDgtT2h2cGxRRk9Pa0lmWkJVRWpORTRiYWNHMklrbXl3UC1MZXViakQ0WWtKcEVpR3JWXzZpTG5iVG1qakFfQQ?oc=5",
+              "published": "Thu, 06 Aug 2026 07:52:30 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Article headline states the governor has ordered an audit and paused new data center grid connections — a direct policy action that will cause delays or suspension of new grid hookups for data centers, i.e., power/permit impacts.",
+              "signals": [
+                "Governor orders audit of grid connections for data centers",
+                "Pause on new data center grid connections announced",
+                "Direct policy action affecting power/permits for data center grid access"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 1,
+          "recent14_count": 2,
+          "fresh_sum": 1.0,
+          "decay_sum": 1.69,
+          "raw_score": 1.27,
+          "strong_hits14": 2,
+          "evidence": [
+            {
+              "title": "There isn't just one AI bubble, strategist says — there's a 'rolling sequence of bubbles' instead - Fortune",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaHE5enlCZU4wRTJnUk9ETFlzMTA4RWF5cnQ5ZlhjX3pNTUEzeVhHdEJJanp6SFU2MzdVNHdCc2xNMXcyTHQyWko2SzRxLThzQkJQRDhlREVFNS1sWERyckF4THBZVlJFUjBwZHJQcU1KM2hRNEJnTjlFSmUwcE54ZWtjeThaR0NVQmZXdllsRmpncHNIRm9oRG8xc0s?oc=5",
+              "published": "Sun, 16 Aug 2026 08:30:00 GMT",
+              "strength": 2,
+              "confidence": 72,
+              "reason": "Headline quotes a strategist asserting a 'rolling sequence of bubbles' in AI, which directly signals market-positioning risk (cyclical/overvaluation concerns). It's a single opinionated claim rather than broad empirical evidence, so strength is moderate.",
+              "signals": [
+                "rolling_sequence_of_bubbles",
+                "market_overvaluation",
+                "sector_volatility",
+                "strategist_opinion"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "The AI Bubble Burst To Resume: Sell The Rally - Seeking Alpha",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0NkMjBEenVRdmVLRlV5Yks4SVJmaU5JZGlzMURQY1hIeDZucTFST3BBWnZkZUJTOTlCOURXRWpJSDNtSWlkcm16eTRjZ0JXZVo3ODFkU0wyaHROclhBY0lBbnBuQWkxYUdyV3B4cWg1N3MzLU5Cdnk3X0lOdlZEN0pwdGpIWFJlZ3N4di1R?oc=5",
+              "published": "Tue, 04 Aug 2026 15:31:00 GMT",
+              "strength": 2,
+              "confidence": 60,
+              "reason": "The headline explicitly frames AI as a 'bubble' resuming and calls to 'sell the rally,' which is a clear market/valuation risk signal for AI-related companies. No specifics about infrastructure, hyperscalers, or concrete data are provided, limiting the signal's strength.",
+              "signals": [
+                "sentiment_bubble",
+                "market_valuation_risk",
+                "sell_signal"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 38,
+      "new_articles": 37,
+      "dedup_skips": 159,
+      "prefilter_skips": 32,
+      "llm_calls": 5,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 4,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 1
+      }
+    }
   }
 ]
