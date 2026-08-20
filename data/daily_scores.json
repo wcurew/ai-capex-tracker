@@ -11522,5 +11522,72 @@
     "article_count_total": 1493,
     "article_count_14d": 383,
     "new_articles_today": 43
+  },
+  {
+    "date": "2026-08-20",
+    "run_at": "2026-08-20T17:32:38.452098+09:00",
+    "overall_score": 35.0,
+    "risk_level": "보통",
+    "item_scores": {
+      "ai_price_cuts": 0,
+      "mgmt_tone_softening": 0,
+      "capex_up_revenue_down": 3,
+      "dc_vacancy": 0,
+      "power_permit_delays": 4,
+      "market_positioning": 2
+    },
+    "item_meta": {
+      "ai_price_cuts": {
+        "recent3_count": 0,
+        "recent14_count": 2,
+        "fresh_sum": 0.0,
+        "decay_sum": 1.36,
+        "raw_score": 0.54,
+        "strong_hits14": 2
+      },
+      "mgmt_tone_softening": {
+        "recent3_count": 0,
+        "recent14_count": 0,
+        "fresh_sum": 0.0,
+        "decay_sum": 0.0,
+        "raw_score": 0.0,
+        "strong_hits14": 0
+      },
+      "capex_up_revenue_down": {
+        "recent3_count": 0,
+        "recent14_count": 7,
+        "fresh_sum": 0.0,
+        "decay_sum": 5.19,
+        "raw_score": 2.58,
+        "strong_hits14": 7
+      },
+      "dc_vacancy": {
+        "recent3_count": 0,
+        "recent14_count": 0,
+        "fresh_sum": 0.0,
+        "decay_sum": 0.0,
+        "raw_score": 0.0,
+        "strong_hits14": 0
+      },
+      "power_permit_delays": {
+        "recent3_count": 0,
+        "recent14_count": 32,
+        "fresh_sum": 0.0,
+        "decay_sum": 30.31,
+        "raw_score": 12.63,
+        "strong_hits14": 32
+      },
+      "market_positioning": {
+        "recent3_count": 1,
+        "recent14_count": 2,
+        "fresh_sum": 1.5,
+        "decay_sum": 3.21,
+        "raw_score": 2.18,
+        "strong_hits14": 2
+      }
+    },
+    "article_count_total": 1515,
+    "article_count_14d": 349,
+    "new_articles_today": 32
   }
 ]
