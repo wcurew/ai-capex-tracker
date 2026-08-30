@@ -52051,5 +52051,324 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-08-30",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 4,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 0,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 1
+      },
+      "score": 35.0,
+      "bucket": "보통",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 2,
+          "recent14_count": 3,
+          "fresh_sum": 5.5,
+          "decay_sum": 7.68,
+          "raw_score": 6.87,
+          "strong_hits14": 3,
+          "evidence": [
+            {
+              "title": "Alibaba shares fall nearly 10% after $10.2 billion AI share sale at discount - Profit by Pakistan Today",
+              "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPejRpVDNFZzBoemNQRG0wRXVxb29HYi1vZkVYcUZCRC11UzRqQUlmREJzcG5MY3A3d0tJNDZTenpKdDBjdi05NGlYSGJEY2tYTVUzR1A5MWZrNmhpWlZGLUo1MUg0OXE4NjBuYnlZTklaYldVVW5sd3hSRWc2OHR3RHlwVG5ZamtIaFVCaUxFeURFblNQYTFwa2JwbDBjeGw2aUNERl9NSkRoWG1jS29VMHo1QnNoVFk1aEhZYVRKR000cGR0TXc4YmJzcXJZQQ?oc=5",
+              "published": "Mon, 24 Aug 2026 08:09:40 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Title reports a large ($10.2B) discounted AI-focused share sale by Alibaba and an immediate ~10% share price drop — a clear, direct market risk signal for the hyperscaler.",
+              "signals": [
+                "$10.2 billion discounted AI share sale by Alibaba",
+                "Alibaba shares fell nearly 10% after the sale"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Gemini 3.7 Flash Price Cut: 50% Off AI Costs [2026] - tech-insider.org",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nNDBxeUgzQlJSQl9lMmpvdEtEUlRqSjNWa29xUFRpM0VLUzVVVWxBUEtlZHRUaGhhWThERFNjOVpWcVRfc053Z0RaVUhPajZBd0FUc2U4NHMycThtTmVRRERPeXp1d1lIejNRZjBiTDJZUE1u?oc=5",
+              "published": "Sun, 30 Aug 2026 09:49:45 GMT",
+              "strength": 4,
+              "confidence": 80,
+              "reason": "Headline explicitly reports a 50% price cut for Gemini 3.7 Flash (2026), a direct hyperscaler AI pricing change that is a clear signal affecting AI infrastructure costs and competitive pricing. No additional impacts are inferred beyond the headline.",
+              "signals": [
+                "50% price cut",
+                "Gemini 3.7 Flash",
+                "AI costs reduced",
+                "hyperscaler pricing change",
+                "2026"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "NVIDIA Quietly Freezes Its Cloud Credit Support Deals After Internal Talks Warn of Antitrust Exposure - Wccftech",
+              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUndzY2JKcUFwa1FCeWJ4S19iZWkzRjU2M28yczM5bzhkM0o2WEViSUZ4dHdWaVowNHNpdjVUREJZVmZNMEJySXktSWdVYzIweFV6T19EQWdZb2VxeWlGeGJxMlpNdDFmcUxXMmlacjR5RDhud3JPVkYxcXl5ZE1ZR09XWTdRM1laOUMtN214X1BrYmZVenVvQnk0aE1SYXRnUFVTY3V6X1lmQ2xQYVhnQkotbHR4N20yaHd0akRBbUd0bEZJalHSAcYBQVVfeXFMTVJ3c2NiSnFBcGtRQnlieEtfYmVpM0Y1NjNvMnMzOW84ZDNKNlhFYklGeHR3VmlaMDRzaXY1VERCWVZmTTBCckl5LUlnVWMyMHhVek9fREFnWW9lcXlpRnhicTJaTXQxZnFMVzJpWnI0eUQ4bndyT1ZGMXF5eWRNWUdPV1k3UTNZWjlDLTdteF9Qa2JmVXp1b0J5NGhNUmF0Z1BVU2N1el9ZZkNsUGFYZ0JKLWx0eDdtMmh3dGpEQW1HdGxGSWpR?oc=5",
+              "published": "Thu, 27 Aug 2026 23:55:00 GMT",
+              "strength": 3,
+              "confidence": 70,
+              "reason": "The headline explicitly reports that NVIDIA 'freezes' its cloud credit support deals following internal discussions warning of antitrust exposure, which directly indicates a change in vendor cloud-support practices relevant to AI infrastructure/hyperscaler pricing/support. Assessment limited to the statements in the item; no additional market impact is inferred.",
+              "signals": [
+                "NVIDIA froze cloud credit support deals",
+                "Internal talks warned of antitrust exposure related to those deals"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.82,
+          "raw_score": 0.33,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "AI capex slowdown could derail India's cyclical recovery, weigh on growth: Nuvama - The Economic Times",
+              "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVkh4dzdPTnRMWEgwSmpTWkRHWjB3anFZaFBjSU5UNnoteU5taTQzLVJzNzE5UXJvcmhtRzBvbjFsc2kwQTNwcXdfUWR0a09nMHc4RlpPWDBNdXdKdzczMWtfSmI5OUNQbVg5cENjeEJHaFk3Q2wzUHVYUDc5b3dYdU1scTVsYzlKWjl5d0ZPd05iZEhiSEZyME0wX1JSQVM1dTVwLVh4V20xQ2pUaHFJVEpfR0ZiQXJaSTE2SnBTem5CbEt0LXYyVFBwVHM2MUxwWUoyM08zWlJvN2lrNVA2RDB0UjZUV2dhNEsyZUlUeHJnbE3SAfgBQVVfeXFMT18wdkZhbGFSbDR1Qm1pMUZkaERsN0REdmN1aFdMSmRsNXA2Y2xrRS13bFRvRXU2MTdIckRpWFprVmZnczZIcm9BaEpBWmdBUDY3dTVQWlJSVS1GczlDUG5DNGl5QnZNR1FvUE1RVzlCUDBYRVdKaDR0OXFTZ3lDWk4tVnZZVGhOT1J1QkpSWUdxSkFWLVB3OUhqbHVyekU5blo4UXhOVXFaNE9FY1RsUHZBb0NXeW1TbFp5Z3RrNkN1RG1BNHlmTV8yaUVBa0cyOHhxYndpNVFKQ05vUnpNSHFkVkJUQmlqT01TZm0yRVpjRUVSRVpFUXI?oc=5",
+              "published": "Sat, 22 Aug 2026 03:35:16 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The headline explicitly identifies an 'AI capex slowdown' as a risk that could derail India's cyclical recovery and weigh on growth, which directly signals reduced AI infrastructure investment risk. No article details provided on magnitude, timing, or specific actors, so the signal strength is moderate.",
+              "signals": [
+                "AI capex slowdown",
+                "risk to India's cyclical recovery",
+                "economic growth headwind from reduced AI investment"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 1,
+          "recent14_count": 16,
+          "fresh_sum": 2.4,
+          "decay_sum": 17.75,
+          "raw_score": 9.04,
+          "strong_hits14": 16,
+          "evidence": [
+            {
+              "title": "America’s power grid can’t keep up with AI: Why hundreds of data center projects are freezing - The Economic Times",
+              "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOb25qczdQLVYxX3F6MmVRb0szbUo5SkRSSzNHZnVLdlNoSnFCa2dHek5GWE1naktVRzVBVzRMb1lVTzVyX0syLWh4NE9Qbk5GYjg3QWhhMTJFTGRGdHZ2WnNZR1ozb0hvTDVCYnVqQURfcUpuU0lpdmptT3VnRnhDODdnMWpKaGVmZktoNXJsaTdEM3BqWTVhUjl1alZWX3YzM3gtRktPRW5KQWM3M25neEpqQVo0Xy15Q0pQZ28yN1RSSWpyT1U2SWxGUGQ4amFXUTVxUUQycVlkTzBNNVNpM3c4SW9RQjNMTE5qUmUyWHNnMlp5WjVSNV94enU1UmVBMFVsUkY5TndHdUtuUWfSAY4CQVVfeXFMTm9uanM3UC1WMV9xejJlUW9LM21KOUpEUkszR2Z1S3ZTaEpxQmtnR3pORlhNZ2pLVUc1QVc0TG9ZVU81cl9LMi1oeDRPUG5ORmI4N0FoYTEyRUxkRnR2dlpzWUdaM29Ib0w1QmJ1akFEX3FKblNJaXZqbU91Z0Z4Qzg3ZzFqSmhlZmZLaDVybGk3RDNwalk1YVI5dWpWVl92MzN4LUZLT0VuSkFjNzNuZ3hKakFaNF8teUNKUGdvMjdUUklqck9VNklsRlBkOGphV1E1cVFEMnFZZE8wTTVTaTN3OElvUUIzTExOalJlMlhzZzJaeVo1UjVfeHp1NVJlQTBVbFJGOU53R3VLblFn?oc=5",
+              "published": "Thu, 27 Aug 2026 12:22:00 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline reports that the US power grid and related permitting/capacity processes are unable to keep up with AI-driven data center demand, leading to hundreds of projects freezing—this directly signals infrastructure and hyperscaler expansion risk.",
+              "signals": [
+                "Power grid capacity insufficient for AI/data center demand",
+                "Hundreds of data center projects frozen",
+                "Delays in power hookups/permits causing project freezes",
+                "Increased risk to hyperscaler/data center build-out timelines"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "America’s power grid can’t keep up with AI: Why hundreds of data center projects are freezing - The Economic Times",
+              "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOVRaeXdoTG9WOTJzcS0teDc1c2ZKZFpmRXdPMmJnR3JzaVZyNHRwQy11UGRSUzBfNWdWWUtTcDJ5SmcxM1RGWGFkVnhMbThOeEUySnF6a0hkUElwLU10MjZjdkNjd1M2T3NZNFRBZTlCcFVIMWhLVFNqdGlBVHg2S0Fmc1pRajdoMWdHWVBVV0QtSUhPQWlKdENXRGxXemZDN2RNSHc5RFF2b1Z0aVNoSHluYzFJZlpBdF9UUnlERVVPVk55MjZKVTUzOWtRLVdLR1J3M1BoOWZVUldWckk3NmxGdHV0cHlrVW5nbjc5SGRIN0UyWnlUVkUwN3FoLUdRMFNWNWpBYmHSAY4CQVVfeXFMTm9uanM3UC1WMV9xejJlUW9LM21KOUpEUkszR2Z1S3ZTaEpxQmtnR3pORlhNZ2pLVUc1QVc0TG9ZVU81cl9LMi1oeDRPUG5ORmI4N0FoYTEyRUxkRnR2dlpzWUdaM29Ib0w1QmJ1akFEX3FKblNJaXZqbU91Z0Z4Qzg3ZzFqSmhlZmZLaDVybGk3RDNwalk1YVI5dWpWVl92MzN4LUZLT0VuSkFjNzNuZ3hKakFaNF8teUNKUGdvMjdUUklqck9VNklsRlBkOGphV1E1cVFEMnFZZE8wTTVTaTN3OElvUUIzTExOalJlMlhzZzJaeVo1UjVfeHp1NVJlQTBVbFJGOU53R3VLblFn?oc=5",
+              "published": "Thu, 27 Aug 2026 12:22:41 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline explicitly states the power grid can’t keep up with AI and that hundreds of data-center projects are freezing—direct evidence of power/permit-related deployment risk for hyperscalers.",
+              "signals": [
+                "power permit delays",
+                "grid capacity constraints",
+                "data center project freezes"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Five of six US grid operators seek delay on FERC’s data centre power deadline - capacityglobal.com",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMGhsMFBWY3RLWjhaMnQwS012NHU4WDVhVEtsQ1FWTVY2c0RRNnNaWDdVb3JlaU53TFNXVS03VXJkdnExNWg3ZUFVVFBFMHBCQTczQlM1RmV2c3FJS09WYTBxWVdCOXF6TC1obVBLS0I4YXhtazQxQjV6ZDJhWlNRc0pKcGYyeFZXTnpheVZ6V25rYmlkVnQ2UUg0clAtUmw2VDRVV0hncktDZUs3a2c?oc=5",
+              "published": "Mon, 24 Aug 2026 10:48:50 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline states five of six US grid operators are seeking a delay to FERC’s data-centre power deadline, directly indicating a risk to regulatory/timeline for data-centre power approvals and connections.",
+              "signals": [
+                "Majority of US grid operators requesting delay to FERC data-centre power deadline",
+                "Regulatory deadline for data-centre power is being contested",
+                "Potential delays to permits/approvals for data-centre power connections",
+                "Coordination/implementation risk between grid operators and FERC on data-centre power timelines"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas pauses data center grid reviews as governor orders audit of power queue - The Cool Down",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMm91UGQwVGJGVVotbXZ4UWw4VEUyRHUxaWtTdWRxQkdLYWhLVVkyajd4Z1Z0dW1vNElFcTV3SnBkTExGZXprbllvTG5SWXI5OFc3QzJ6MXZqNEtwcUJrX1dNVERZdXJJT1dDSllsckkzd3JUUFhLVkl5ZmVGTTRkN0lDQkJnRm8xUXc?oc=5",
+              "published": "Mon, 17 Aug 2026 13:00:00 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Article states Texas has paused data center grid reviews and the governor ordered an audit of the power queue—direct indicators that processing of data center power/interconnection approvals is being interrupted.",
+              "signals": [
+                "Pause in data center grid reviews in Texas",
+                "Governor-ordered audit of the power queue"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Project Jupiter: Gas Pipeline Delay Threatens Oracle's $165 Billion New Mexico AI Data Center - Construction Review",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeWxYdHUxbjAxQUlHaVdFTXZENEpOVGFuMGM0cTRhOURvREY2Y09IaHl0RjRtbm5MSUZSLV9BNGlKNXBNVUlOS0tDLW9CNE56bmprOXdfQk9FWkZ0YnNhajRZalBqX01TaHVXbkFQTy1xY0wzQkRMMXM3bHZCU0l1MHBUYlhSbVlVSFhfS2k3RmtYUVBnb0pNZnA3UVNRdVItYWpuaG9WdUw2V3E1aFhyT3d0UHhnTGk5RVlqQmsxUHk4b2VGc184?oc=5",
+              "published": "Sat, 15 Aug 2026 15:35:25 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The title explicitly states a gas pipeline delay 'threatens' Oracle's New Mexico AI data center (Project Jupiter), indicating a direct risk to the facility's energy/fuel supply. No further details are provided in the text.",
+              "signals": [
+                "Gas pipeline delay threatens Project Jupiter (Oracle's New Mexico AI data center)",
+                "Direct risk to energy/fuel supply for Oracle's $165 billion New Mexico AI data center",
+                "Potential operational impact to a hyperscaler data center due to fuel/infrastructure delay"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Wood Mackenzie: US grid operators set to serve just 28% of requested data centre power - capacityglobal.com",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM2VvU2RONkdxZlpzd2hWRmxMRlBYOVViNWFYN040ZUhuZmRxazhDRVFkSy1ZbkVtalNxQ0h1U0REN29jZ0FLQ0x0S0FJV2hObWJWMTVqOXJZVGlCT0lSU1VoZVlJWVEwNmJIVGlWZGprc0lrSk82TXEyTFNiQzA1NWRmLXdfUUhNTFdacHpxQVZVQ1FFN1E?oc=5",
+              "published": "Tue, 25 Aug 2026 14:01:24 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "Headline states US grid operators are set to serve only 28% of requested data-centre power (Wood Mackenzie / CapacityGlobal), which directly signals a material risk to data-centre/hyperscaler power provisioning.",
+              "signals": [
+                "US grid operators set to serve only 28% of requested data-centre power",
+                "Large shortfall between requested and deliverable power for data centres (per Wood Mackenzie / CapacityGlobal)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas hits pause on its own AI boom: Inside the 300-project grid audit - capacityglobal.com",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBncWhTR2Y0OEpwZlpwcGNNdW9DUmZVcE5PV0hpNGs3MlFWRWJjN25xTV9tbWxaUDQ1b2dzM0JNenFHUGtWYkVyb3lvTzdLeEJidWlxOW5KNzhXeEpVZzlHbGR6RjN6dF9XTUxrSg?oc=5",
+              "published": "Mon, 17 Aug 2026 12:22:57 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "Headline indicates Texas has paused AI project development as a result of a state/grid audit covering ~300 projects, signaling a clear regulatory/grid-level intervention that can delay or halt power-related deployments for AI/hyperscaler infrastructure.",
+              "signals": [
+                "Texas paused AI project development",
+                "State/grid audit covering ~300 projects",
+                "Regulatory/grid-level intervention halting projects",
+                "Potential delays to power-related AI infrastructure deployments"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "The Interconnection Fast Pass: Can a $17M Battery Really Replace 5 Years in the Queue? - Substack",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hVzI1ZUhZdnh1dEs3N3NzRDdmWnJFaVRqUHJHTUJTTm9fbmpHRG5qMUVEVzh0SGp2RFBNc0p1SGgtYUtGeVBFX1RHQVdNcmwwNjZNcHg0T2dqdmZkYzRvMVpvNkVIV1IwRDlGUUdFbXdfWWdBc0lDRQ?oc=5",
+              "published": "Tue, 25 Aug 2026 14:30:42 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The item explicitly describes using a $17M battery as an 'interconnection fast pass' to avoid a 5-year queue, which directly signals grid interconnection/permit delays and costly workarounds that can affect large infrastructure projects (including data centers/hyperscalers).",
+              "signals": [
+                "grid_interconnection_queue_backlogs",
+                "use_of_battery_storage_to_bypass_interconnection_delays",
+                "high_capital_costs_for_fast_interconnection",
+                "permit/interconnection_timeline_risk",
+                "project_timeline_disruption_due_to_grid_constraints"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 4,
+          "fresh_sum": 0.0,
+          "decay_sum": 1.39,
+          "raw_score": 1.06,
+          "strong_hits14": 4,
+          "evidence": [
+            {
+              "title": "AI bubble named top tail risk in BofA survey: Time to rotate tech profits? - Investing.com UK",
+              "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORTZzVTNwYUNPY3lFZGpRNi1ZYUY0SWxuRDVOMFNVSDYzc0NNdjBob1NvcDVvZU9FVnNzOVVVb0RUbUY2VnNRcUhjUmpjbFJwSkszREVwZmJ6akQ5aWZvQjNnTjhLakdmSS1kcTJ1Z003M1FWM0Z2V0ZGQ0pBN3llVThQRnJtSWtXT1hfZlBDZEhDNDZweHFpQXBNUWUwT0VfVVA3UnJ1dWYwZkRnbV9uMjdRYlhuNElOSDFDTEpZcFZfWG1mTURhOUVsVDhwZw?oc=5",
+              "published": "Tue, 18 Aug 2026 12:58:00 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The headline explicitly reports a BofA survey naming an 'AI bubble' as the top tail risk and asks about rotating tech profits, directly indicating concentrated market positioning in AI/tech and potential investor rotation risk. No further detail provided, so moderate strength.",
+              "signals": [
+                "BofA survey names 'AI bubble' as top tail risk",
+                "Headline suggests investor concentration in AI/tech"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "AI bubble named top tail risk in BofA survey: Time to rotate tech profits? - Investing.com",
+              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ0I4anQ3enFzLXU0cTExMTN4T3VKN2E5SXFpLURxWmF3QlZfXzVxRVpMRW02REUtZ2xoSm81cUtkTFhCZTZRdDVZWC1EWDlqaUFHVlVZRHkyRVlMWVMtb3N2TEhXa0hGc1g1RGlsSnFIMHB3Zy1xYTFjNXZRUlE0OWlQVmxsVnB4cVJUSnhXU3JhQWdFT0dXbWdaUnI2MDc0NE1EdjlvSm1vVHFGOS1mUUNfLW53OFNrVUxER2NsS005MThGMDJkekRhT0daZnc?oc=5",
+              "published": "Tue, 18 Aug 2026 13:02:52 GMT",
+              "strength": 3,
+              "confidence": 70,
+              "reason": "Headline explicitly reports a BofA survey naming an 'AI bubble' as the top tail risk and asks if it's time to rotate tech profits—this is a direct market-positioning signal (investor sentiment and potential rotation away from AI/tech). Only a headline/link provided, so signal is clear but limited in detail.",
+              "signals": [
+                "BofA survey identifies 'AI bubble' as top tail risk",
+                "Headline suggests investors may rotate profits out of tech/AI"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Investors flag AI bubble as top tail risk for second straight month - Seeking Alpha",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFZXRXc2NVIwRjhTUGR6UWJmWm1qeHg0UzR2TFc0cUNrQW9zSWQyX3ZLUGpTOEIxMWlGcmhwMDBYOEtyNDFQN09JVzlYamVURWRRWmlVUmhjWld3aldYNTQwVmxkMnE5V1RvNF9ORlBrMnIxMFdnOExGUWtHdml2ZzlMekJrUlhaSzdhdDZUUm1kMmdQS1V4WDFVVDBYbUlSdzU2OFFKc3g?oc=5",
+              "published": "Tue, 18 Aug 2026 15:47:15 GMT",
+              "strength": 2,
+              "confidence": 80,
+              "reason": "The headline explicitly reports investors have flagged an 'AI bubble' as the top tail risk for a second month, which is a direct market-positioning/sentiment signal relevant to AI sector risk exposure.",
+              "signals": [
+                "Investor sentiment: 'AI bubble' flagged as top tail risk (second consecutive month)",
+                "Elevated market-positioning concern around AI"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "There isn't just one AI bubble, strategist says — there's a 'rolling sequence of bubbles' instead - Fortune",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaHE5enlCZU4wRTJnUk9ETFlzMTA4RWF5cnQ5ZlhjX3pNTUEzeVhHdEJJanp6SFU2MzdVNHdCc2xNMXcyTHQyWko2SzRxLThzQkJQRDhlREVFNS1sWERyckF4THBZVlJFUjBwZHJQcU1KM2hRNEJnTjlFSmUwcE54ZWtjeThaR0NVQmZXdllsRmpncHNIRm9oRG8xc0s?oc=5",
+              "published": "Sun, 16 Aug 2026 08:30:00 GMT",
+              "strength": 2,
+              "confidence": 72,
+              "reason": "Headline quotes a strategist asserting a 'rolling sequence of bubbles' in AI, which directly signals market-positioning risk (cyclical/overvaluation concerns). It's a single opinionated claim rather than broad empirical evidence, so strength is moderate.",
+              "signals": [
+                "rolling_sequence_of_bubbles",
+                "market_overvaluation",
+                "sector_volatility",
+                "strategist_opinion"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 56,
+      "new_articles": 20,
+      "dedup_skips": 171,
+      "prefilter_skips": 19,
+      "llm_calls": 1,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 0,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 1,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 0
+      }
+    }
   }
 ]
