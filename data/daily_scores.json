@@ -12195,7 +12195,7 @@
   },
   {
     "date": "2026-09-01",
-    "run_at": "2026-09-01T00:47:50.883569+09:00",
+    "run_at": "2026-09-01T22:01:01.513819+09:00",
     "overall_score": 35.0,
     "risk_level": "보통",
     "item_scores": {
@@ -12209,11 +12209,11 @@
     "item_meta": {
       "ai_price_cuts": {
         "recent3_count": 1,
-        "recent14_count": 3,
+        "recent14_count": 4,
         "fresh_sum": 2.0,
-        "decay_sum": 5.55,
-        "raw_score": 3.92,
-        "strong_hits14": 3
+        "decay_sum": 7.11,
+        "raw_score": 4.54,
+        "strong_hits14": 4
       },
       "mgmt_tone_softening": {
         "recent3_count": 0,
@@ -12256,8 +12256,8 @@
         "strong_hits14": 3
       }
     },
-    "article_count_total": 1375,
-    "article_count_14d": 339,
-    "new_articles_today": 26
+    "article_count_total": 1397,
+    "article_count_14d": 361,
+    "new_articles_today": 22
   }
 ]
