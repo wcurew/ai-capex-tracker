@@ -53835,5 +53835,278 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-09-06",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 2,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 0,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 20.0,
+      "bucket": "보통",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 5,
+          "fresh_sum": 0.0,
+          "decay_sum": 3.49,
+          "raw_score": 1.9,
+          "strong_hits14": 5,
+          "evidence": [
+            {
+              "title": "Alibaba shares fall nearly 10% after $10.2 billion AI share sale at discount - Profit by Pakistan Today",
+              "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPejRpVDNFZzBoemNQRG0wRXVxb29HYi1vZkVYcUZCRC11UzRqQUlmREJzcG5MY3A3d0tJNDZTenpKdDBjdi05NGlYSGJEY2tYTVUzR1A5MWZrNmhpWlZGLUo1MUg0OXE4NjBuYnlZTklaYldVVW5sd3hSRWc2OHR3RHlwVG5ZamtIaFVCaUxFeURFblNQYTFwa2JwbDBjeGw2aUNERl9NSkRoWG1jS29VMHo1QnNoVFk1aEhZYVRKR000cGR0TXc4YmJzcXJZQQ?oc=5",
+              "published": "Mon, 24 Aug 2026 08:09:40 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Title reports a large ($10.2B) discounted AI-focused share sale by Alibaba and an immediate ~10% share price drop — a clear, direct market risk signal for the hyperscaler.",
+              "signals": [
+                "$10.2 billion discounted AI share sale by Alibaba",
+                "Alibaba shares fell nearly 10% after the sale"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Gemini 3.7 Flash Price Cut: 50% Off AI Costs [2026] - tech-insider.org",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nNDBxeUgzQlJSQl9lMmpvdEtEUlRqSjNWa29xUFRpM0VLUzVVVWxBUEtlZHRUaGhhWThERFNjOVpWcVRfc053Z0RaVUhPajZBd0FUc2U4NHMycThtTmVRRERPeXp1d1lIejNRZjBiTDJZUE1u?oc=5",
+              "published": "Sun, 30 Aug 2026 09:49:45 GMT",
+              "strength": 4,
+              "confidence": 80,
+              "reason": "Headline explicitly reports a 50% price cut for Gemini 3.7 Flash (2026), a direct hyperscaler AI pricing change that is a clear signal affecting AI infrastructure costs and competitive pricing. No additional impacts are inferred beyond the headline.",
+              "signals": [
+                "50% price cut",
+                "Gemini 3.7 Flash",
+                "AI costs reduced",
+                "hyperscaler pricing change",
+                "2026"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "NVIDIA Quietly Freezes Its Cloud Credit Support Deals After Internal Talks Warn of Antitrust Exposure - Wccftech",
+              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOG92U093NlpVUGtIMUl2WDAtdGhBWGRSSUxtMTBlVzE1LU1aZzE5R1YxVFJiUHVHOFNGX2p6dXl2ZFdnYzVUZlZOVlUzX3p4N1R4WkhOcnhaNFVFQUpfMC1ycGNlblJaOWdtQjlrbzBIRWFsMEdOYlBxU3ZzOHlKUW51MEdWMHBtRXRndWFSamRSNGt2ckNzbkltUnZWWWZoNmh5T19ZTDFRQlpzRk8yZktQVlh5WXpBYnU1M3V5WjXSAcYBQVVfeXFMTVJ3c2NiSnFBcGtRQnlieEtfYmVpM0Y1NjNvMnMzOW84ZDNKNlhFYklGeHR3VmlaMDRzaXY1VERCWVZmTTBCckl5LUlnVWMyMHhVek9fREFnWW9lcXlpRnhicTJaTXQxZnFMVzJpWnI0eUQ4bndyT1ZGMXF5eWRNWUdPV1k3UTNZWjlDLTdteF9Qa2JmVXp1b0J5NGhNUmF0Z1BVU2N1el9ZZkNsUGFYZ0JKLWx0eDdtMmh3dGpEQW1HdGxGSWpR?oc=5",
+              "published": "Thu, 27 Aug 2026 23:55:49 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Article reports NVIDIA has frozen its cloud credit support deals following internal discussions warning of antitrust exposure — a direct internal-action signal indicating regulatory/competitive risk that could affect cloud support and commercial terms for AI infrastructure partners.",
+              "signals": [
+                "NVIDIA frozen cloud credit support deals",
+                "internal discussions flagged antitrust exposure",
+                "potential reduction/withdrawal of support to cloud providers"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "NVIDIA Quietly Freezes Its Cloud Credit Support Deals After Internal Talks Warn of Antitrust Exposure - Wccftech",
+              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUndzY2JKcUFwa1FCeWJ4S19iZWkzRjU2M28yczM5bzhkM0o2WEViSUZ4dHdWaVowNHNpdjVUREJZVmZNMEJySXktSWdVYzIweFV6T19EQWdZb2VxeWlGeGJxMlpNdDFmcUxXMmlacjR5RDhud3JPVkYxcXl5ZE1ZR09XWTdRM1laOUMtN214X1BrYmZVenVvQnk0aE1SYXRnUFVTY3V6X1lmQ2xQYVhnQkotbHR4N20yaHd0akRBbUd0bEZJalHSAcYBQVVfeXFMTVJ3c2NiSnFBcGtRQnlieEtfYmVpM0Y1NjNvMnMzOW84ZDNKNlhFYklGeHR3VmlaMDRzaXY1VERCWVZmTTBCckl5LUlnVWMyMHhVek9fREFnWW9lcXlpRnhicTJaTXQxZnFMVzJpWnI0eUQ4bndyT1ZGMXF5eWRNWUdPV1k3UTNZWjlDLTdteF9Qa2JmVXp1b0J5NGhNUmF0Z1BVU2N1el9ZZkNsUGFYZ0JKLWx0eDdtMmh3dGpEQW1HdGxGSWpR?oc=5",
+              "published": "Thu, 27 Aug 2026 23:55:00 GMT",
+              "strength": 3,
+              "confidence": 70,
+              "reason": "The headline explicitly reports that NVIDIA 'freezes' its cloud credit support deals following internal discussions warning of antitrust exposure, which directly indicates a change in vendor cloud-support practices relevant to AI infrastructure/hyperscaler pricing/support. Assessment limited to the statements in the item; no additional market impact is inferred.",
+              "signals": [
+                "NVIDIA froze cloud credit support deals",
+                "Internal talks warned of antitrust exposure related to those deals"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Alibaba unveils cheaper Qwen AI model: is this what its stock needed? - TradingView",
+              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOakhlbXhLUUd2QTdWV0ptV2poYm1PbGhOSVllUkRuSlZOSndNOEhxQjVuaW9RaldSWlpPYjU0UEczbHBoU1E3R0V4eXd6RVRSVVp3eXVjMVN0VktoeEM2aTZsWG1leFBKTXlWSWxPdDEyVGRFVV9QUW1qcUFPcmZaOGJqVWRzQkJQaU00RzdndUVMVlhkazRxOHd5R0l2MVNWWTFCZXZYbDI5WUkxaFJVTUx1dFRfbWJrNjVhaUhUZy1ndw?oc=5",
+              "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+              "strength": 2,
+              "confidence": 60,
+              "reason": "Title explicitly states Alibaba has unveiled a cheaper Qwen AI model — an explicit price-cut signal in the AI model/offerings market that can indicate pricing pressure relevant to AI infrastructure and hyperscalers. Details on scope/impact not provided, so strength is limited.",
+              "signals": [
+                "Alibaba unveils a cheaper Qwen AI model (price cut)",
+                "Article frames the move in relation to Alibaba's stock performance"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 2,
+          "recent14_count": 15,
+          "fresh_sum": 4.4,
+          "decay_sum": 16.41,
+          "raw_score": 9.7,
+          "strong_hits14": 15,
+          "evidence": [
+            {
+              "title": "Texas Freezes New Data Centre Grid Connections Pending Audit - technology.org",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVDY3RldjNFJ4ZmF5Wi15d0lLeklCN0FEUGZmUnRxNXRYd2pBVllBSzNia2hCZWc2ZlJWbzAwb2R4MDZoTzRBS1ZHWE1MMlprRnVIRV9vdks1SXVCLXFwS2VyUEYtU3oyZzV5bnh4Z2Y1QXhwUWJXamdweE8wY1RaS0psNlo3MXpJX2JLN3hnVmt5Zw?oc=5",
+              "published": "Fri, 04 Sep 2026 11:27:17 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Title explicitly states Texas has frozen new data centre grid connections pending an audit, directly indicating delays to power connections/permits for data centres.",
+              "signals": [
+                "Texas freezes new data centre grid connections pending audit"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "America’s power grid can’t keep up with AI: Why hundreds of data center projects are freezing - The Economic Times",
+              "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOb25qczdQLVYxX3F6MmVRb0szbUo5SkRSSzNHZnVLdlNoSnFCa2dHek5GWE1naktVRzVBVzRMb1lVTzVyX0syLWh4NE9Qbk5GYjg3QWhhMTJFTGRGdHZ2WnNZR1ozb0hvTDVCYnVqQURfcUpuU0lpdmptT3VnRnhDODdnMWpKaGVmZktoNXJsaTdEM3BqWTVhUjl1alZWX3YzM3gtRktPRW5KQWM3M25neEpqQVo0Xy15Q0pQZ28yN1RSSWpyT1U2SWxGUGQ4amFXUTVxUUQycVlkTzBNNVNpM3c4SW9RQjNMTE5qUmUyWHNnMlp5WjVSNV94enU1UmVBMFVsUkY5TndHdUtuUWfSAY4CQVVfeXFMTm9uanM3UC1WMV9xejJlUW9LM21KOUpEUkszR2Z1S3ZTaEpxQmtnR3pORlhNZ2pLVUc1QVc0TG9ZVU81cl9LMi1oeDRPUG5ORmI4N0FoYTEyRUxkRnR2dlpzWUdaM29Ib0w1QmJ1akFEX3FKblNJaXZqbU91Z0Z4Qzg3ZzFqSmhlZmZLaDVybGk3RDNwalk1YVI5dWpWVl92MzN4LUZLT0VuSkFjNzNuZ3hKakFaNF8teUNKUGdvMjdUUklqck9VNklsRlBkOGphV1E1cVFEMnFZZE8wTTVTaTN3OElvUUIzTExOalJlMlhzZzJaeVo1UjVfeHp1NVJlQTBVbFJGOU53R3VLblFn?oc=5",
+              "published": "Thu, 27 Aug 2026 12:22:00 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline reports that the US power grid and related permitting/capacity processes are unable to keep up with AI-driven data center demand, leading to hundreds of projects freezing—this directly signals infrastructure and hyperscaler expansion risk.",
+              "signals": [
+                "Power grid capacity insufficient for AI/data center demand",
+                "Hundreds of data center projects frozen",
+                "Delays in power hookups/permits causing project freezes",
+                "Increased risk to hyperscaler/data center build-out timelines"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "America’s power grid can’t keep up with AI: Why hundreds of data center projects are freezing - The Economic Times",
+              "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOVRaeXdoTG9WOTJzcS0teDc1c2ZKZFpmRXdPMmJnR3JzaVZyNHRwQy11UGRSUzBfNWdWWUtTcDJ5SmcxM1RGWGFkVnhMbThOeEUySnF6a0hkUElwLU10MjZjdkNjd1M2T3NZNFRBZTlCcFVIMWhLVFNqdGlBVHg2S0Fmc1pRajdoMWdHWVBVV0QtSUhPQWlKdENXRGxXemZDN2RNSHc5RFF2b1Z0aVNoSHluYzFJZlpBdF9UUnlERVVPVk55MjZKVTUzOWtRLVdLR1J3M1BoOWZVUldWckk3NmxGdHV0cHlrVW5nbjc5SGRIN0UyWnlUVkUwN3FoLUdRMFNWNWpBYmHSAY4CQVVfeXFMTm9uanM3UC1WMV9xejJlUW9LM21KOUpEUkszR2Z1S3ZTaEpxQmtnR3pORlhNZ2pLVUc1QVc0TG9ZVU81cl9LMi1oeDRPUG5ORmI4N0FoYTEyRUxkRnR2dlpzWUdaM29Ib0w1QmJ1akFEX3FKblNJaXZqbU91Z0Z4Qzg3ZzFqSmhlZmZLaDVybGk3RDNwalk1YVI5dWpWVl92MzN4LUZLT0VuSkFjNzNuZ3hKakFaNF8teUNKUGdvMjdUUklqck9VNklsRlBkOGphV1E1cVFEMnFZZE8wTTVTaTN3OElvUUIzTExOalJlMlhzZzJaeVo1UjVfeHp1NVJlQTBVbFJGOU53R3VLblFn?oc=5",
+              "published": "Thu, 27 Aug 2026 12:22:41 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline explicitly states the power grid can’t keep up with AI and that hundreds of data-center projects are freezing—direct evidence of power/permit-related deployment risk for hyperscalers.",
+              "signals": [
+                "power permit delays",
+                "grid capacity constraints",
+                "data center project freezes"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Five of six US grid operators seek delay on FERC’s data centre power deadline - capacityglobal.com",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMGhsMFBWY3RLWjhaMnQwS012NHU4WDVhVEtsQ1FWTVY2c0RRNnNaWDdVb3JlaU53TFNXVS03VXJkdnExNWg3ZUFVVFBFMHBCQTczQlM1RmV2c3FJS09WYTBxWVdCOXF6TC1obVBLS0I4YXhtazQxQjV6ZDJhWlNRc0pKcGYyeFZXTnpheVZ6V25rYmlkVnQ2UUg0clAtUmw2VDRVV0hncktDZUs3a2c?oc=5",
+              "published": "Mon, 24 Aug 2026 10:48:50 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline states five of six US grid operators are seeking a delay to FERC’s data-centre power deadline, directly indicating a risk to regulatory/timeline for data-centre power approvals and connections.",
+              "signals": [
+                "Majority of US grid operators requesting delay to FERC data-centre power deadline",
+                "Regulatory deadline for data-centre power is being contested",
+                "Potential delays to permits/approvals for data-centre power connections",
+                "Coordination/implementation risk between grid operators and FERC on data-centre power timelines"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas audits 474 GW data centre queue as US tackles speculative power demand - domain-b.com",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUnZvblRCRHdjb2N2X1N5NWhNTXlCLTZ2VDg3aXlRbWhxemdkT0JMcFRtMjJKME1LYWVZbGxuZlRBUGxuQXN4Zi1QVWs5NnhFSTZ0M2I0WWNhdFpNaGhyWDlQZjIxY1J5ZzVtZnlPT1RubWZhSlhFVnNwczJ4dmNnUUNSeEFMWWdoUGlyVUhudDdWNS13dWNYa0FJQzBHaDU5TFludThLeTNPbkZFVnR2Zjd3NmRaalpR0gG-AUFVX3lxTE96VGdDcXdkUHN1VVhKSnRnZVRSODhVTlpZMHpBaDg3OE1rQ1BsTnkzSU9OeFlfSloyLTBJYy1aR3p6X1haYUw5bmdielg3TkRMNjlMZnFsOFpmYnpGVFZxRjJ1Z1V6emttdlFJUHVQVlJFLVZIdEg2a2ZHcVdsWjNQTmpXZzVJR3NsT1FENmNIcHl4aHJ4TDAyZU1tVWVQcTJQY3BlRjhVYUVIb2R4dzVsbHpCbVV1bmljanBrREE?oc=5",
+              "published": "Tue, 01 Sep 2026 13:57:03 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "Headline explicitly reports Texas auditing a 474 GW data-centre queue and US actions addressing speculative power demand, indicating regulatory scrutiny and likely permitting/power-supply delays that could impact data-centre/hyperscaler deployments.",
+              "signals": [
+                "regulatory audits of data-centre permit queue",
+                "speculative power demand concerns",
+                "potential permitting delays for data-centre projects",
+                "large aggregated proposed power capacity (474 GW)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Wood Mackenzie: US grid operators set to serve just 28% of requested data centre power - capacityglobal.com",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM2VvU2RONkdxZlpzd2hWRmxMRlBYOVViNWFYN040ZUhuZmRxazhDRVFkSy1ZbkVtalNxQ0h1U0REN29jZ0FLQ0x0S0FJV2hObWJWMTVqOXJZVGlCT0lSU1VoZVlJWVEwNmJIVGlWZGprc0lrSk82TXEyTFNiQzA1NWRmLXdfUUhNTFdacHpxQVZVQ1FFN1E?oc=5",
+              "published": "Tue, 25 Aug 2026 14:01:24 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "Headline states US grid operators are set to serve only 28% of requested data-centre power (Wood Mackenzie / CapacityGlobal), which directly signals a material risk to data-centre/hyperscaler power provisioning.",
+              "signals": [
+                "US grid operators set to serve only 28% of requested data-centre power",
+                "Large shortfall between requested and deliverable power for data centres (per Wood Mackenzie / CapacityGlobal)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas Data Center Audit Halts Grid Connections Amid Bipartisan Backlash - lawnews.co.uk",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaC15TW1YeXBZU3dIM1lFUmpWaW1XMk1RRksyOFRQX1VLUnVrNHp4Ukd0Q1IwTkpLVW9QOHBWbVpPTFpqUDhfVDM0dU52OVNjVnhkSk10WEd0SEl0dFpLRUNQbUUyOTZzZGhOeWVpNDA1dHhXY0dHbkpDSXM1LUd5MW02d3N1UkRqNV9vSW5sblBhS2x2UzZDZGhGV3hwdmxEUmRIa1VxTUhSWVRqQXc?oc=5",
+              "published": "Wed, 02 Sep 2026 10:07:12 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline explicitly reports a Texas data center audit that has halted grid connections and provoked bipartisan backlash, indicating a regulatory action that is interrupting grid hookups for data centers. This is a direct signal of risk to data-center power provisioning/expansion; no additional operational impacts are inferred beyond the headline.",
+              "signals": [
+                "audit_halts_grid_connections",
+                "bipartisan_backlash",
+                "texas_data_centers_affected",
+                "regulatory_action_affecting_grid_connections"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Public grid supply fails to keep up with the expansion of computing power; U.S. companies are extensively deploying behind-the-meter power generation. - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWHZ4XzI0VWVRaHhRU2hHdnFnbVZNWWUzUzJuMlNjcFBSVExJd2tuNVdMc1I0RFR6NG11emprdWpMc2hvTC12d29lOHAtQVlBWWhBTUtDOEhvcVJLUklNWWs0WHNVVEd2dFc2WEZ3WE9CMGgwSjJIVTFXaFhXa1FTNlJPV3M4REZPTTJKOXlYZDE3NnpVUkt6WlJZMA?oc=5",
+              "published": "Wed, 02 Sep 2026 08:52:03 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The headline explicitly states public grid supply is failing to keep up with expansion of computing power and that U.S. companies are extensively deploying behind-the-meter power generation, which directly signals power-supply constraints relevant to AI/data-center infrastructure.",
+              "signals": [
+                "Public grid supply failing to keep up with expansion of computing power",
+                "U.S. companies extensively deploying behind-the-meter (on-site) power generation"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 35,
+      "new_articles": 0,
+      "dedup_skips": 0,
+      "prefilter_skips": 0,
+      "llm_calls": 0,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 0,
+      "urls_fail": 13,
+      "per_item_llm_calls": {
+        "power_permit_delays": 0,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 0
+      }
+    }
   }
 ]
