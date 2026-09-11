@@ -55160,5 +55160,264 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-09-11",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 3,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 0,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 25.0,
+      "bucket": "보통",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 1,
+          "recent14_count": 4,
+          "fresh_sum": 1.6,
+          "decay_sum": 2.89,
+          "raw_score": 2.61,
+          "strong_hits14": 4,
+          "evidence": [
+            {
+              "title": "Gemini 3.7 Flash Price Cut: 50% Off AI Costs [2026] - tech-insider.org",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nNDBxeUgzQlJSQl9lMmpvdEtEUlRqSjNWa29xUFRpM0VLUzVVVWxBUEtlZHRUaGhhWThERFNjOVpWcVRfc053Z0RaVUhPajZBd0FUc2U4NHMycThtTmVRRERPeXp1d1lIejNRZjBiTDJZUE1u?oc=5",
+              "published": "Sun, 30 Aug 2026 09:49:45 GMT",
+              "strength": 4,
+              "confidence": 80,
+              "reason": "Headline explicitly reports a 50% price cut for Gemini 3.7 Flash (2026), a direct hyperscaler AI pricing change that is a clear signal affecting AI infrastructure costs and competitive pricing. No additional impacts are inferred beyond the headline.",
+              "signals": [
+                "50% price cut",
+                "Gemini 3.7 Flash",
+                "AI costs reduced",
+                "hyperscaler pricing change",
+                "2026"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "NVIDIA Quietly Freezes Its Cloud Credit Support Deals After Internal Talks Warn of Antitrust Exposure - Wccftech",
+              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOG92U093NlpVUGtIMUl2WDAtdGhBWGRSSUxtMTBlVzE1LU1aZzE5R1YxVFJiUHVHOFNGX2p6dXl2ZFdnYzVUZlZOVlUzX3p4N1R4WkhOcnhaNFVFQUpfMC1ycGNlblJaOWdtQjlrbzBIRWFsMEdOYlBxU3ZzOHlKUW51MEdWMHBtRXRndWFSamRSNGt2ckNzbkltUnZWWWZoNmh5T19ZTDFRQlpzRk8yZktQVlh5WXpBYnU1M3V5WjXSAcYBQVVfeXFMTVJ3c2NiSnFBcGtRQnlieEtfYmVpM0Y1NjNvMnMzOW84ZDNKNlhFYklGeHR3VmlaMDRzaXY1VERCWVZmTTBCckl5LUlnVWMyMHhVek9fREFnWW9lcXlpRnhicTJaTXQxZnFMVzJpWnI0eUQ4bndyT1ZGMXF5eWRNWUdPV1k3UTNZWjlDLTdteF9Qa2JmVXp1b0J5NGhNUmF0Z1BVU2N1el9ZZkNsUGFYZ0JKLWx0eDdtMmh3dGpEQW1HdGxGSWpR?oc=5",
+              "published": "Thu, 27 Aug 2026 23:55:49 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Article reports NVIDIA has frozen its cloud credit support deals following internal discussions warning of antitrust exposure — a direct internal-action signal indicating regulatory/competitive risk that could affect cloud support and commercial terms for AI infrastructure partners.",
+              "signals": [
+                "NVIDIA frozen cloud credit support deals",
+                "internal discussions flagged antitrust exposure",
+                "potential reduction/withdrawal of support to cloud providers"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "NVIDIA Quietly Freezes Its Cloud Credit Support Deals After Internal Talks Warn of Antitrust Exposure - Wccftech",
+              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUndzY2JKcUFwa1FCeWJ4S19iZWkzRjU2M28yczM5bzhkM0o2WEViSUZ4dHdWaVowNHNpdjVUREJZVmZNMEJySXktSWdVYzIweFV6T19EQWdZb2VxeWlGeGJxMlpNdDFmcUxXMmlacjR5RDhud3JPVkYxcXl5ZE1ZR09XWTdRM1laOUMtN214X1BrYmZVenVvQnk0aE1SYXRnUFVTY3V6X1lmQ2xQYVhnQkotbHR4N20yaHd0akRBbUd0bEZJalHSAcYBQVVfeXFMTVJ3c2NiSnFBcGtRQnlieEtfYmVpM0Y1NjNvMnMzOW84ZDNKNlhFYklGeHR3VmlaMDRzaXY1VERCWVZmTTBCckl5LUlnVWMyMHhVek9fREFnWW9lcXlpRnhicTJaTXQxZnFMVzJpWnI0eUQ4bndyT1ZGMXF5eWRNWUdPV1k3UTNZWjlDLTdteF9Qa2JmVXp1b0J5NGhNUmF0Z1BVU2N1el9ZZkNsUGFYZ0JKLWx0eDdtMmh3dGpEQW1HdGxGSWpR?oc=5",
+              "published": "Thu, 27 Aug 2026 23:55:00 GMT",
+              "strength": 3,
+              "confidence": 70,
+              "reason": "The headline explicitly reports that NVIDIA 'freezes' its cloud credit support deals following internal discussions warning of antitrust exposure, which directly indicates a change in vendor cloud-support practices relevant to AI infrastructure/hyperscaler pricing/support. Assessment limited to the statements in the item; no additional market impact is inferred.",
+              "signals": [
+                "NVIDIA froze cloud credit support deals",
+                "Internal talks warned of antitrust exposure related to those deals"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "The latest ‘crack in the thesis’ for the trillion-dollar AI boom: Tokens are getting cheaper - Fortune",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QXzc1aGxiTS1XLV9ldDBxbzdtWm1SSHQzcVpfeXpWbFdxZ191dHMwdDRkYWFpXzdRYm9LQjk2V1p6U2JqNzdDRFZkbXZxdEtrRjd0T1Qxb2RNWDVxVGplcDN2NFBHblZXai1UOTM3TQ?oc=5",
+              "published": "Wed, 09 Sep 2026 20:22:00 GMT",
+              "strength": 2,
+              "confidence": 75,
+              "reason": "Headline explicitly states tokens are getting cheaper and frames this as a potential 'crack in the thesis' for the trillion-dollar AI boom, indicating a downside risk to AI market valuation or unit economics that could affect hyperscalers. Evidence is limited to the headline, so signal strength is moderate.",
+              "signals": [
+                "Tokens are getting cheaper",
+                "Headline frames cheaper tokens as a 'crack in the thesis' for the trillion-dollar AI boom (market/valuation/unit-economics downside)"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 2,
+          "recent14_count": 14,
+          "fresh_sum": 5.4,
+          "decay_sum": 17.76,
+          "raw_score": 10.84,
+          "strong_hits14": 14,
+          "evidence": [
+            {
+              "title": "Texas Freezes New Data Centre Grid Connections Pending Audit - technology.org",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVDY3RldjNFJ4ZmF5Wi15d0lLeklCN0FEUGZmUnRxNXRYd2pBVllBSzNia2hCZWc2ZlJWbzAwb2R4MDZoTzRBS1ZHWE1MMlprRnVIRV9vdks1SXVCLXFwS2VyUEYtU3oyZzV5bnh4Z2Y1QXhwUWJXamdweE8wY1RaS0psNlo3MXpJX2JLN3hnVmt5Zw?oc=5",
+              "published": "Fri, 04 Sep 2026 11:27:17 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Title explicitly states Texas has frozen new data centre grid connections pending an audit, directly indicating delays to power connections/permits for data centres.",
+              "signals": [
+                "Texas freezes new data centre grid connections pending audit"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas audits 474 GW data centre queue as US tackles speculative power demand - domain-b.com",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUnZvblRCRHdjb2N2X1N5NWhNTXlCLTZ2VDg3aXlRbWhxemdkT0JMcFRtMjJKME1LYWVZbGxuZlRBUGxuQXN4Zi1QVWs5NnhFSTZ0M2I0WWNhdFpNaGhyWDlQZjIxY1J5ZzVtZnlPT1RubWZhSlhFVnNwczJ4dmNnUUNSeEFMWWdoUGlyVUhudDdWNS13dWNYa0FJQzBHaDU5TFludThLeTNPbkZFVnR2Zjd3NmRaalpR0gG-AUFVX3lxTE96VGdDcXdkUHN1VVhKSnRnZVRSODhVTlpZMHpBaDg3OE1rQ1BsTnkzSU9OeFlfSloyLTBJYy1aR3p6X1haYUw5bmdielg3TkRMNjlMZnFsOFpmYnpGVFZxRjJ1Z1V6emttdlFJUHVQVlJFLVZIdEg2a2ZHcVdsWjNQTmpXZzVJR3NsT1FENmNIcHl4aHJ4TDAyZU1tVWVQcTJQY3BlRjhVYUVIb2R4dzVsbHpCbVV1bmljanBrREE?oc=5",
+              "published": "Tue, 01 Sep 2026 13:57:03 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "Headline explicitly reports Texas auditing a 474 GW data-centre queue and US actions addressing speculative power demand, indicating regulatory scrutiny and likely permitting/power-supply delays that could impact data-centre/hyperscaler deployments.",
+              "signals": [
+                "regulatory audits of data-centre permit queue",
+                "speculative power demand concerns",
+                "potential permitting delays for data-centre projects",
+                "large aggregated proposed power capacity (474 GW)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas Data Center Audit Halts Grid Connections Amid Bipartisan Backlash - lawnews.co.uk",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaC15TW1YeXBZU3dIM1lFUmpWaW1XMk1RRksyOFRQX1VLUnVrNHp4Ukd0Q1IwTkpLVW9QOHBWbVpPTFpqUDhfVDM0dU52OVNjVnhkSk10WEd0SEl0dFpLRUNQbUUyOTZzZGhOeWVpNDA1dHhXY0dHbkpDSXM1LUd5MW02d3N1UkRqNV9vSW5sblBhS2x2UzZDZGhGV3hwdmxEUmRIa1VxTUhSWVRqQXc?oc=5",
+              "published": "Wed, 02 Sep 2026 10:07:12 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline explicitly reports a Texas data center audit that has halted grid connections and provoked bipartisan backlash, indicating a regulatory action that is interrupting grid hookups for data centers. This is a direct signal of risk to data-center power provisioning/expansion; no additional operational impacts are inferred beyond the headline.",
+              "signals": [
+                "audit_halts_grid_connections",
+                "bipartisan_backlash",
+                "texas_data_centers_affected",
+                "regulatory_action_affecting_grid_connections"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Public grid supply fails to keep up with the expansion of computing power; U.S. companies are extensively deploying behind-the-meter power generation. - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWHZ4XzI0VWVRaHhRU2hHdnFnbVZNWWUzUzJuMlNjcFBSVExJd2tuNVdMc1I0RFR6NG11emprdWpMc2hvTC12d29lOHAtQVlBWWhBTUtDOEhvcVJLUklNWWs0WHNVVEd2dFc2WEZ3WE9CMGgwSjJIVTFXaFhXa1FTNlJPV3M4REZPTTJKOXlYZDE3NnpVUkt6WlJZMA?oc=5",
+              "published": "Wed, 02 Sep 2026 08:52:03 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The headline explicitly states public grid supply is failing to keep up with expansion of computing power and that U.S. companies are extensively deploying behind-the-meter power generation, which directly signals power-supply constraints relevant to AI/data-center infrastructure.",
+              "signals": [
+                "Public grid supply failing to keep up with expansion of computing power",
+                "U.S. companies extensively deploying behind-the-meter (on-site) power generation"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "U.S. battery storage boom is driven by data centers and interconnection backlogs - pv magazine USA",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZFFaUGRxaG15UzMtZUVKTC1MTkZHT19TR21vbjdYUVVoVXJTRmhhQnNYRElEZk9jZ2xsTTFnZlFPaWhTQUVGTEV2YnU5d3E2cHZSU1FXRW1mYXhSbllkNXMxMHZhTkNPSm5VajhSRFplV3k3RVg1eVF0UnhVNnBnQTBweGY3WjZtZzdWS3dBMmczWnRZZUZmWEdlNDNySk5vTE5hcXBBdG52OEU1QlJud3VYYjNHQ19QRFpj?oc=5",
+              "published": "Mon, 31 Aug 2026 11:24:14 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The article title explicitly links data centers and interconnection backlogs as drivers of a battery storage boom, which indicates grid interconnection bottlenecks are affecting data center power provisioning. This is a direct signal relevant to hyperscaler power/infrastructure risk without requiring further inference.",
+              "signals": [
+                "interconnection_backlogs",
+                "battery_storage_adoption_by_data_centers",
+                "data_center_power_supply_constraints"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "The Texas Brake: Why the Most Permissive Grid in America Just Froze 474 GW - avanzaenergy.substack.com",
+              "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbXJOcTN5THZSWFNvN2dzU1dwTndYeGdsT2V0VmtjR2xzY0EtNHY4elpxMUFJcllnUVRKdDlOVGVhU1VJeDRhUlBLV09IcXZHMG50TUxBTm8xTnlaNDkwVzZ6WGpaeTBSZE9kS253dUxZQmZMc1NOVFE4bWFwNHF3SzRyWFVCZzktTXV0eHByS0NOTXM0Y0x6R3ktMkV1NC02SERVZUNzdm96TnRIc3BXTktDcnF1R0Q2WGk0d09ER3FiajNkNWRQN1VrREJDQldJYWNqV1BnbllDZHc?oc=5",
+              "published": "Tue, 08 Sep 2026 14:30:31 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Title directly reports a large-scale grid failure (“froze 474 GW”) and characterizes the grid as “most permissive,” indicating systemic vulnerability in power supply — a clear risk signal for infrastructure dependent on grid stability. No details on downstream impacts or permits are provided in the title, so strength is high but not maximal.",
+              "signals": [
+                "large-scale grid freeze",
+                "474 GW of capacity affected",
+                "‘permissive’ grid policies/vulnerabilities"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Powering the AI boom: Germany's Reifegradverfahren and the shift from first-come to first-ready grid connections - Freshfields",
+              "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbnhWYmRHQmVfb2xmTW52UXF2WE9iSDVBTzF6MDBpdGRsd2wxS3FrcFNOQWFkLWc4U2ZaYkNhcnRaa1Y1Y1g5R0YzWWptczdTMUpxaFJyMk9xS1A5Y3FpTktaVWdESkxSSmRGYWRIMEJPdXpmNWZlVGh2RElRbmIxOXJRVUwxbEYtZFk0Nk5CQ3AzaTRjMW82OE40b2hWVUpNOUpuazVuTkMwcnYySmpHbjlkSGRaMGsyMzZsVDl1QmNsbUo0NENSaUYyaTVpcjgtR0lPR0Y3S05kOGJidlVVYU53a1RrdTNXX3ZCWA?oc=5",
+              "published": "Mon, 07 Sep 2026 12:19:31 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The title explicitly links Germany's Reifegradverfahren and a shift from 'first-come' to 'first-ready' grid connections to 'powering the AI boom', indicating a direct policy change affecting grid connection/permit processes for AI infrastructure.",
+              "signals": [
+                "Mention of Germany's Reifegradverfahren (maturity assessment) for grid connections",
+                "Shift from first-come to first-ready grid connection allocation",
+                "Explicit link to 'powering the AI boom' (AI infrastructure context)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Powering the AI boom: Germany's Reifegradverfahren and the shift from first-come to first-ready grid connections - Freshfields",
+              "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNY1g0VDM2SzQwVHpwSGcxUXdSdTNRN2hMQmxQa0VLQjZfV2lXbng2cjRqZC1EUjlsd0lfQkVFSm5WTXJhUlJjXzd1U2otQzNwTGlDOHdaempLQTAyTlJIRXA1QmxmUXR5ak1YMkhLVG10SWVRNXBGNXhFY0tfdExXUWprc3ZNaHFiOG8zbERfZUdUZWtRVjduT0w2blhLUTJiaVV1VzVsSVVYbzZGdWkyYUVtdVN3VnRLdDliN2lyM0FuMVhoRTE4ZGJIUHNMSXQ2TlpPQ1k0a3I4WnRsWk9jZWxrY0R0dw?oc=5",
+              "published": "Mon, 07 Sep 2026 06:36:44 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The article title explicitly discusses Germany's Reifegradverfahren and a policy shift from first-come to first-ready grid connections in the context of 'Powering the AI boom', which directly pertains to power permitting and grid-connection processes for AI infrastructure. The summary provides no quantitative impact details, so the signal is clear but not quantified—hence a moderate strength assessment.",
+              "signals": [
+                "Policy change: introduction of Reifegradverfahren (maturity assessment) for grid connections",
+                "Shift from first-come to first-ready allocation of grid connections",
+                "Potential for altered timelines/permits for power connections relevant to AI infrastructure projects"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 25,
+      "new_articles": 54,
+      "dedup_skips": 135,
+      "prefilter_skips": 48,
+      "llm_calls": 6,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 5,
+        "dc_vacancy": 1,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 0
+      }
+    }
   }
 ]
