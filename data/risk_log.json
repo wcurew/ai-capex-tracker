@@ -55419,5 +55419,250 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-09-12",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 4,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 0,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 30.0,
+      "bucket": "보통",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 2,
+          "recent14_count": 3,
+          "fresh_sum": 3.4,
+          "decay_sum": 4.48,
+          "raw_score": 4.33,
+          "strong_hits14": 3,
+          "evidence": [
+            {
+              "title": "Gemini 3.7 Flash Price Cut: 50% Off AI Costs [2026] - tech-insider.org",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nNDBxeUgzQlJSQl9lMmpvdEtEUlRqSjNWa29xUFRpM0VLUzVVVWxBUEtlZHRUaGhhWThERFNjOVpWcVRfc053Z0RaVUhPajZBd0FUc2U4NHMycThtTmVRRERPeXp1d1lIejNRZjBiTDJZUE1u?oc=5",
+              "published": "Sun, 30 Aug 2026 09:49:45 GMT",
+              "strength": 4,
+              "confidence": 80,
+              "reason": "Headline explicitly reports a 50% price cut for Gemini 3.7 Flash (2026), a direct hyperscaler AI pricing change that is a clear signal affecting AI infrastructure costs and competitive pricing. No additional impacts are inferred beyond the headline.",
+              "signals": [
+                "50% price cut",
+                "Gemini 3.7 Flash",
+                "AI costs reduced",
+                "hyperscaler pricing change",
+                "2026"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Cloudflare R2 vs AWS S3: 99% Cheaper Egress in 2026 - shattered.io",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCU0syeWF1VUF1UmtKOFNUeWN1LTJscVRaRVN2TS1OdEJlWlBqeDRsN2sxZnYyMjNZMHBzY09VaVVfYm1jY2E1X1dZSlQwelBCZ09TaDhISXZsdFdncHZReGFyR1B5Ui1PVHc?oc=5",
+              "published": "Thu, 10 Sep 2026 20:19:50 GMT",
+              "strength": 3,
+              "confidence": 75,
+              "reason": "The item explicitly compares Cloudflare R2 vs AWS S3 egress pricing for 2026 and claims a 99% cheaper egress — a direct price-competition signal that could affect hyperscaler storage/egress economics. Evidence here is a single article headline/summary without supporting data, so strength is moderate and conclusions are conservative.",
+              "signals": [
+                "Claim: Cloudflare R2 offers 99% cheaper egress vs AWS S3 in 2026",
+                "Competitive pricing comparison focused on egress costs between Cloudflare R2 and AWS S3 (2026)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "The latest ‘crack in the thesis’ for the trillion-dollar AI boom: Tokens are getting cheaper - Fortune",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QXzc1aGxiTS1XLV9ldDBxbzdtWm1SSHQzcVpfeXpWbFdxZ191dHMwdDRkYWFpXzdRYm9LQjk2V1p6U2JqNzdDRFZkbXZxdEtrRjd0T1Qxb2RNWDVxVGplcDN2NFBHblZXai1UOTM3TQ?oc=5",
+              "published": "Wed, 09 Sep 2026 20:22:00 GMT",
+              "strength": 2,
+              "confidence": 75,
+              "reason": "Headline explicitly states tokens are getting cheaper and frames this as a potential 'crack in the thesis' for the trillion-dollar AI boom, indicating a downside risk to AI market valuation or unit economics that could affect hyperscalers. Evidence is limited to the headline, so signal strength is moderate.",
+              "signals": [
+                "Tokens are getting cheaper",
+                "Headline frames cheaper tokens as a 'crack in the thesis' for the trillion-dollar AI boom (market/valuation/unit-economics downside)"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 3,
+          "recent14_count": 16,
+          "fresh_sum": 5.4,
+          "decay_sum": 17.76,
+          "raw_score": 10.85,
+          "strong_hits14": 16,
+          "evidence": [
+            {
+              "title": "Texas Freezes New Data Centre Grid Connections Pending Audit - technology.org",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVDY3RldjNFJ4ZmF5Wi15d0lLeklCN0FEUGZmUnRxNXRYd2pBVllBSzNia2hCZWc2ZlJWbzAwb2R4MDZoTzRBS1ZHWE1MMlprRnVIRV9vdks1SXVCLXFwS2VyUEYtU3oyZzV5bnh4Z2Y1QXhwUWJXamdweE8wY1RaS0psNlo3MXpJX2JLN3hnVmt5Zw?oc=5",
+              "published": "Fri, 04 Sep 2026 11:27:17 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Title explicitly states Texas has frozen new data centre grid connections pending an audit, directly indicating delays to power connections/permits for data centres.",
+              "signals": [
+                "Texas freezes new data centre grid connections pending audit"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas audits 474 GW data centre queue as US tackles speculative power demand - domain-b.com",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUnZvblRCRHdjb2N2X1N5NWhNTXlCLTZ2VDg3aXlRbWhxemdkT0JMcFRtMjJKME1LYWVZbGxuZlRBUGxuQXN4Zi1QVWs5NnhFSTZ0M2I0WWNhdFpNaGhyWDlQZjIxY1J5ZzVtZnlPT1RubWZhSlhFVnNwczJ4dmNnUUNSeEFMWWdoUGlyVUhudDdWNS13dWNYa0FJQzBHaDU5TFludThLeTNPbkZFVnR2Zjd3NmRaalpR0gG-AUFVX3lxTE96VGdDcXdkUHN1VVhKSnRnZVRSODhVTlpZMHpBaDg3OE1rQ1BsTnkzSU9OeFlfSloyLTBJYy1aR3p6X1haYUw5bmdielg3TkRMNjlMZnFsOFpmYnpGVFZxRjJ1Z1V6emttdlFJUHVQVlJFLVZIdEg2a2ZHcVdsWjNQTmpXZzVJR3NsT1FENmNIcHl4aHJ4TDAyZU1tVWVQcTJQY3BlRjhVYUVIb2R4dzVsbHpCbVV1bmljanBrREE?oc=5",
+              "published": "Tue, 01 Sep 2026 13:57:03 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "Headline explicitly reports Texas auditing a 474 GW data-centre queue and US actions addressing speculative power demand, indicating regulatory scrutiny and likely permitting/power-supply delays that could impact data-centre/hyperscaler deployments.",
+              "signals": [
+                "regulatory audits of data-centre permit queue",
+                "speculative power demand concerns",
+                "potential permitting delays for data-centre projects",
+                "large aggregated proposed power capacity (474 GW)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Nvidia Calls Australia 2GW Sovereign AI Hub; Grid Queues Won't Supply All Partners in Time - Tech Times",
+              "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbHAxYjEwVF94TG50SGJDN1pjbEl0czRlcF9Pdi1BZzBfbUpWeHE1bFQ2SGVwNUQtaXJlN1VfSTFCanV2M0dtRk40VHY0ai1IWkdnSVl0aWRTXzNSYUx1bXNrSG5iVDh4WDQzWFo1dHpuSFExWmUtaFZUUk9IVEJGeHpDSGJRS1pqVzFIanZrX2pLQWt1THA3V2VVVTZSMUVGcE1DdEI5TnFleGhzUnhod1pSN3ZrR3ZkREZ3S1l1Yk9MSzM1QzBNZHdRTjBXY294WFJjS09mSQ?oc=5",
+              "published": "Thu, 10 Sep 2026 12:44:40 GMT",
+              "strength": 3,
+              "confidence": 88,
+              "reason": "The article title explicitly states that grid queues \"won't supply all partners in time,\" indicating a clear risk of delayed power provisioning/connection for the proposed 2GW AI hub. Information is direct but limited to a single report, so strength is medium-high rather than maximum.",
+              "signals": [
+                "grid_queue_backlogs",
+                "timing_risk_of_power_supply",
+                "insufficient_grid_capacity_for_project"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas Data Center Audit Halts Grid Connections Amid Bipartisan Backlash - lawnews.co.uk",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaC15TW1YeXBZU3dIM1lFUmpWaW1XMk1RRksyOFRQX1VLUnVrNHp4Ukd0Q1IwTkpLVW9QOHBWbVpPTFpqUDhfVDM0dU52OVNjVnhkSk10WEd0SEl0dFpLRUNQbUUyOTZzZGhOeWVpNDA1dHhXY0dHbkpDSXM1LUd5MW02d3N1UkRqNV9vSW5sblBhS2x2UzZDZGhGV3hwdmxEUmRIa1VxTUhSWVRqQXc?oc=5",
+              "published": "Wed, 02 Sep 2026 10:07:12 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline explicitly reports a Texas data center audit that has halted grid connections and provoked bipartisan backlash, indicating a regulatory action that is interrupting grid hookups for data centers. This is a direct signal of risk to data-center power provisioning/expansion; no additional operational impacts are inferred beyond the headline.",
+              "signals": [
+                "audit_halts_grid_connections",
+                "bipartisan_backlash",
+                "texas_data_centers_affected",
+                "regulatory_action_affecting_grid_connections"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Public grid supply fails to keep up with the expansion of computing power; U.S. companies are extensively deploying behind-the-meter power generation. - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWHZ4XzI0VWVRaHhRU2hHdnFnbVZNWWUzUzJuMlNjcFBSVExJd2tuNVdMc1I0RFR6NG11emprdWpMc2hvTC12d29lOHAtQVlBWWhBTUtDOEhvcVJLUklNWWs0WHNVVEd2dFc2WEZ3WE9CMGgwSjJIVTFXaFhXa1FTNlJPV3M4REZPTTJKOXlYZDE3NnpVUkt6WlJZMA?oc=5",
+              "published": "Wed, 02 Sep 2026 08:52:03 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The headline explicitly states public grid supply is failing to keep up with expansion of computing power and that U.S. companies are extensively deploying behind-the-meter power generation, which directly signals power-supply constraints relevant to AI/data-center infrastructure.",
+              "signals": [
+                "Public grid supply failing to keep up with expansion of computing power",
+                "U.S. companies extensively deploying behind-the-meter (on-site) power generation"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Ofgem's proposed data centre grid connection reforms - Browne Jacobson",
+              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTklUd0xzakFvYlpFemhvTjhTaGI5QmFHR2tMaW9aR0NlMElGWHN0eVNIcFhzQ1Jra3RDTHBJNGs3STZGQWVDQUhUaDVhcjhSWWZWRXlGM0RoV2ZTZmFaQnY3TXdKc1FXa2ZfS3Rpa1VYbV9EYzg5V2pFbS1YNUJNVnRSQTFBSDRkWlo3eEI0Ym5yR3VIRGVvUWpRNTNlVnIxRVhobFZjeG1YeTJ2QWxZSWY0a3ppZnNtNUdJMmphT3R5a01fZUlqNWdCcw?oc=5",
+              "published": "Tue, 01 Sep 2026 07:00:00 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The title explicitly references Ofgem proposing data centre grid connection reforms, which is directly relevant to power/connection/permitting risk for data centres and hyperscalers. No article body is provided, so specifics and impacts cannot be inferred.",
+              "signals": [
+                "Ofgem proposing reforms to data centre grid connections (regulatory change)",
+                "Potential implications for data centre power/grid connection timelines and permits",
+                "UK regulatory risk affecting hyperscaler/data centre infrastructure"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "U.S. battery storage boom is driven by data centers and interconnection backlogs - pv magazine USA",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZFFaUGRxaG15UzMtZUVKTC1MTkZHT19TR21vbjdYUVVoVXJTRmhhQnNYRElEZk9jZ2xsTTFnZlFPaWhTQUVGTEV2YnU5d3E2cHZSU1FXRW1mYXhSbllkNXMxMHZhTkNPSm5VajhSRFplV3k3RVg1eVF0UnhVNnBnQTBweGY3WjZtZzdWS3dBMmczWnRZZUZmWEdlNDNySk5vTE5hcXBBdG52OEU1QlJud3VYYjNHQ19QRFpj?oc=5",
+              "published": "Mon, 31 Aug 2026 11:24:14 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The article title explicitly links data centers and interconnection backlogs as drivers of a battery storage boom, which indicates grid interconnection bottlenecks are affecting data center power provisioning. This is a direct signal relevant to hyperscaler power/infrastructure risk without requiring further inference.",
+              "signals": [
+                "interconnection_backlogs",
+                "battery_storage_adoption_by_data_centers",
+                "data_center_power_supply_constraints"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "The Texas Brake: Why the Most Permissive Grid in America Just Froze 474 GW - avanzaenergy.substack.com",
+              "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbXJOcTN5THZSWFNvN2dzU1dwTndYeGdsT2V0VmtjR2xzY0EtNHY4elpxMUFJcllnUVRKdDlOVGVhU1VJeDRhUlBLV09IcXZHMG50TUxBTm8xTnlaNDkwVzZ6WGpaeTBSZE9kS253dUxZQmZMc1NOVFE4bWFwNHF3SzRyWFVCZzktTXV0eHByS0NOTXM0Y0x6R3ktMkV1NC02SERVZUNzdm96TnRIc3BXTktDcnF1R0Q2WGk0d09ER3FiajNkNWRQN1VrREJDQldJYWNqV1BnbllDZHc?oc=5",
+              "published": "Tue, 08 Sep 2026 14:30:31 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Title directly reports a large-scale grid failure (“froze 474 GW”) and characterizes the grid as “most permissive,” indicating systemic vulnerability in power supply — a clear risk signal for infrastructure dependent on grid stability. No details on downstream impacts or permits are provided in the title, so strength is high but not maximal.",
+              "signals": [
+                "large-scale grid freeze",
+                "474 GW of capacity affected",
+                "‘permissive’ grid policies/vulnerabilities"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 32,
+      "new_articles": 30,
+      "dedup_skips": 157,
+      "prefilter_skips": 20,
+      "llm_calls": 10,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 7,
+        "dc_vacancy": 1,
+        "ai_price_cuts": 1,
+        "capex_up_revenue_down": 1,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 0
+      }
+    }
   }
 ]
