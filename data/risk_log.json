@@ -57448,5 +57448,281 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-09-20",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 0,
+        "mgmt_tone_softening": 2,
+        "capex_up_revenue_down": 0,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 17.5,
+      "bucket": "낮음",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 2,
+          "fresh_sum": 0.0,
+          "decay_sum": 1.09,
+          "raw_score": 0.44,
+          "strong_hits14": 2,
+          "evidence": [
+            {
+              "title": "Cloudflare R2 vs AWS S3: 99% Cheaper Egress in 2026 - shattered.io",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCU0syeWF1VUF1UmtKOFNUeWN1LTJscVRaRVN2TS1OdEJlWlBqeDRsN2sxZnYyMjNZMHBzY09VaVVfYm1jY2E1X1dZSlQwelBCZ09TaDhISXZsdFdncHZReGFyR1B5Ui1PVHc?oc=5",
+              "published": "Thu, 10 Sep 2026 20:19:50 GMT",
+              "strength": 3,
+              "confidence": 75,
+              "reason": "The item explicitly compares Cloudflare R2 vs AWS S3 egress pricing for 2026 and claims a 99% cheaper egress — a direct price-competition signal that could affect hyperscaler storage/egress economics. Evidence here is a single article headline/summary without supporting data, so strength is moderate and conclusions are conservative.",
+              "signals": [
+                "Claim: Cloudflare R2 offers 99% cheaper egress vs AWS S3 in 2026",
+                "Competitive pricing comparison focused on egress costs between Cloudflare R2 and AWS S3 (2026)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "The latest ‘crack in the thesis’ for the trillion-dollar AI boom: Tokens are getting cheaper - Fortune",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QXzc1aGxiTS1XLV9ldDBxbzdtWm1SSHQzcVpfeXpWbFdxZ191dHMwdDRkYWFpXzdRYm9LQjk2V1p6U2JqNzdDRFZkbXZxdEtrRjd0T1Qxb2RNWDVxVGplcDN2NFBHblZXai1UOTM3TQ?oc=5",
+              "published": "Wed, 09 Sep 2026 20:22:00 GMT",
+              "strength": 2,
+              "confidence": 75,
+              "reason": "Headline explicitly states tokens are getting cheaper and frames this as a potential 'crack in the thesis' for the trillion-dollar AI boom, indicating a downside risk to AI market valuation or unit economics that could affect hyperscalers. Evidence is limited to the headline, so signal strength is moderate.",
+              "signals": [
+                "Tokens are getting cheaper",
+                "Headline frames cheaper tokens as a 'crack in the thesis' for the trillion-dollar AI boom (market/valuation/unit-economics downside)"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 1,
+          "recent14_count": 1,
+          "fresh_sum": 1.6,
+          "decay_sum": 1.7,
+          "raw_score": 1.64,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "Arm Shares Rally as CEO Signals Supply Easing for $2 Billion AI Chip Push - finance.biggo.com",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kUmhudzlkM05oN2dTNDI5WXozXzVpdHdMNkhqV3hDWWlYUDQ1SHhhQVJpamlBY0UzandvTkNTNm0yVGlNTHZxNkJEbHd3TnRQQlYyVkVOQVZteUhuTjBKYTZNUFdVa0d0OC1Ecnp4QlUxT3kzUHc?oc=5",
+              "published": "Fri, 18 Sep 2026 18:19:00 GMT",
+              "strength": 2,
+              "confidence": 80,
+              "reason": "The headline explicitly says the CEO signaled supply easing for a $2B AI chip push, which directly pertains to supply-side risk for AI infrastructure. Lack of supporting details in the provided text limits signal strength.",
+              "signals": [
+                "supply_easing",
+                "management_guidance",
+                "chip_supply_risk_reduction",
+                "arm_ai_chip_push"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.75,
+          "raw_score": 0.3,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "LITEON Risks Explained: AI CapEx, Valuation, Customer Concentration and Optical Technology Risk - MEXC",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVHY0bDdya25SNEgtQno2cFlScUhxVXNISE9VTmJ3N2F0eWw4cHlaQnlCcXZlYThmaGhZNzdZcExGR1BmV3loM0JpUDNZZGZGem1Eejh2X0pDcGtaWmVJX3hrMUdaOEwybU9hRmFKMVYtQVBnMVZHRkVISTZfdExBUXVIdnhua1VuQkl4UDdyMnFhOFhudTZ4TER0RlBrOW1SMVh6ZVV0Wl9tODU5NFluZ250Q3ZweFYybDA2eFFpakFIZGI0Mk9n?oc=5",
+              "published": "Mon, 14 Sep 2026 07:14:46 GMT",
+              "strength": 2,
+              "confidence": 75,
+              "reason": "Title explicitly identifies 'AI CapEx' as a risk for LITEON and also cites customer concentration, valuation, and optical technology risks. The provided text does not state specific capex increases or revenue declines, so the signal is present but not strongly detailed—hence a moderate strength and conservative confidence.",
+              "signals": [
+                "AI CapEx risk",
+                "Valuation risk",
+                "Customer concentration risk",
+                "Optical technology risk"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.89,
+          "raw_score": 0.35,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "Low vacancy, strong fundamentals: Korea’s data center market ripe for investment, says Cushman & Wakefield - Korea JoongAng Daily",
+              "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUlRFN0xHX0NaQU5lbHpXYlFqUndaZUllXzRxSF8xUlhHMFhOSGlXYV9hcE9OajB3N0taRzJWWk1nTVBrR3FmTVoyZHhvVE4xT2twX0JpdmV6dFd6eUNNQUZFWUNxSHlVQmhHeFlLNF91cmxPZTF4V3prb1dzLUg0aGN3VUNDMm10SUxJUVdRdW9ZbVJuNlMxN09KVWJjdUM5N2pwOS16aXB4eVlWakNtMGNnU2JBSk9fWkk4N0JLdldpVFRKQzlWcC1XeEdjdnA3UHA2QUw5YVk5ZDhmRFhtS3pyNDNwUXltN3FyU09R?oc=5",
+              "published": "Tue, 15 Sep 2026 01:04:01 GMT",
+              "strength": 2,
+              "confidence": 70,
+              "reason": "Headline explicitly reports 'low vacancy' and 'strong fundamentals' for Korea's data center market (Cushman & Wakefield). This is directly relevant to data‑center capacity/market conditions for hyperscalers, but the item provides only a high‑level market statement with no specific operational or outage risk details.",
+              "signals": [
+                "Low vacancy in Korea data center market",
+                "Strong fundamentals in Korea data center market",
+                "Market described as 'ripe for investment' by Cushman & Wakefield"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "power_permit_delays": {
+          "recent3_count": 2,
+          "recent14_count": 17,
+          "fresh_sum": 3.9,
+          "decay_sum": 20.86,
+          "raw_score": 11.19,
+          "strong_hits14": 17,
+          "evidence": [
+            {
+              "title": "Branch Energy raises $33 million for 'grid-in-a-box' batteries to bypass years-long data center queue - pv magazine USA",
+              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYzZ2QmVjOTVKc3FKNjhqMG9IV1BHN2kzbzBtbmxZVy1fVmdjMm05SkJzNS0xT3VhTVVoOGdrR0FTbW1aZW4yTld4Z0txbkREcG1QcEM0el9iVlZPOEpBaUIzemtmVkdtN3Npb3I3YjBOUTRLT1ZMM1NQdUJHZ29EX3dNTFBWSUtjNFhTbHhCQ2R5OWJaR1lXN3F3TF96R2VBUWlWdThTelBWRUREWW4wTElvOFFHV1RoYmg0UXRPRHRLa0ZKcHNuZHFGdzVBN0RNRHhPOQ?oc=5",
+              "published": "Wed, 16 Sep 2026 10:52:53 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline explicitly cites 'years-long data center queue' and describes batteries intended to 'bypass' that queue, directly indicating multi-year delays in grid interconnection/permits for data center power projects.",
+              "signals": [
+                "years-long data center grid interconnection queue",
+                "market adoption of battery 'grid-in-a-box' to avoid queue",
+                "capital raised ($33M) to deploy battery solutions to bypass delays"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Massachusetts Tightens Data Center Environmental Permitting - Environment+Energy Leader",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOelBxTnFrZmxZZTlYQkp0LTBDaG1ydWthZXRPeXk2SjBKNEtkLVpJYXJDUlpoSmtfSk5VZlpvNy1MNXRrcFkxVmxsMUc1SmVpeUdOa0lUbkRrc214cGN3Y2JNbFRPZUpVZVh3NFBDd1U3ZndBMFA4LXlGem1LaU5ybElIZXQtb0pFZG1QN3VFZmZaQW5kVDZ2dmpmZUxSWU9MclRZZzE1R2FUcmFqNW1LV2xCZnA?oc=5",
+              "published": "Thu, 10 Sep 2026 16:00:00 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The headline explicitly states Massachusetts has tightened environmental permitting for data centers, a direct regulatory change that signals increased permitting risk (and likely delays) for data center projects in that jurisdiction—directly relevant to hyperscaler infrastructure planning.",
+              "signals": [
+                "Massachusetts tightens environmental permitting for data centers",
+                "Regulatory change affecting data center permitting timelines"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "AI data centers strain an electric grid built for a different era - Yahoo",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQlkzQUd4NkdRTU5jcnZPVkU1QlJRN1ZkRFhyVzVjWWtHeG5xMEdRdWptdUpFR1phWHpIZTFzZG02OGZSQWx3dFd3eTRBSWJYZzRDUjFhX1JyQXdLcmt2OTNqX0dnbVBXZk9hWVhTS1NKdG1xNFJVR0Vhblcyc09DcWhMQ2tBZ192MnVSZnl3?oc=5",
+              "published": "Tue, 15 Sep 2026 12:15:47 GMT",
+              "strength": 3,
+              "confidence": 88,
+              "reason": "The headline explicitly states AI data centers are straining an electric grid “built for a different era,” which directly indicates a risk to power infrastructure capacity for AI/hyperscaler deployments. Full article content not provided, so severity and specific impacts are unclear.",
+              "signals": [
+                "AI data centers increasing electricity demand",
+                "Electric grid capacity/mismatch with modern AI loads",
+                "Potential need for grid upgrades or capacity expansion affecting hyperscale deployments"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Nvidia Calls Australia 2GW Sovereign AI Hub; Grid Queues Won't Supply All Partners in Time - Tech Times",
+              "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbHAxYjEwVF94TG50SGJDN1pjbEl0czRlcF9Pdi1BZzBfbUpWeHE1bFQ2SGVwNUQtaXJlN1VfSTFCanV2M0dtRk40VHY0ai1IWkdnSVl0aWRTXzNSYUx1bXNrSG5iVDh4WDQzWFo1dHpuSFExWmUtaFZUUk9IVEJGeHpDSGJRS1pqVzFIanZrX2pLQWt1THA3V2VVVTZSMUVGcE1DdEI5TnFleGhzUnhod1pSN3ZrR3ZkREZ3S1l1Yk9MSzM1QzBNZHdRTjBXY294WFJjS09mSQ?oc=5",
+              "published": "Thu, 10 Sep 2026 12:44:40 GMT",
+              "strength": 3,
+              "confidence": 88,
+              "reason": "The article title explicitly states that grid queues \"won't supply all partners in time,\" indicating a clear risk of delayed power provisioning/connection for the proposed 2GW AI hub. Information is direct but limited to a single report, so strength is medium-high rather than maximum.",
+              "signals": [
+                "grid_queue_backlogs",
+                "timing_risk_of_power_supply",
+                "insufficient_grid_capacity_for_project"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "UK regulator plans BESS fees to cut grid connection queue - pv magazine Global",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM3EtRlFJazlRR3c1bE9kUjJOSEJKdlljb21XMXFxbF9YeDdjMHBBdUR3RXFJc05BLXlZMlV6LXppVk12WTN6bjg3eG92dnNRX1R1WlZqZjV2Y2hEWGtSYzFwbDllZTFaeEl3b1pDV2hGX2NCUy1LVmF6NllGekRtcldNV2Q3Sm81YmlTSmlDNGNmbXJqRV9HQ1dCSEJvZw?oc=5",
+              "published": "Sat, 19 Sep 2026 09:04:33 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The headline states the UK regulator is planning fees for battery energy storage systems (BESS) specifically intended to cut the grid connection queue, which directly pertains to grid connection/permit queue management and potential impacts on connection timing and costs.",
+              "signals": [
+                "UK regulator plans fees for BESS to cut grid connection queue",
+                "Policy change aimed at managing grid connection queue for battery storage (BESS)",
+                "Published by pv magazine Global reporting regulator action on connection queue"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "US data centre boom outpaces grid, needs $110 billion power investment - ET Datacenters",
+              "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQV0NQOGszWmFqVFBpU09mMXVJa29hazVSTmtuUWRnczVhMF8tVlJxSTk0VWFIUnJBQ3cyODNTaFNmeEljQXp4c3Z6bEx5eERHOFFoR3lITmxoN2hCV3h0U2lSYnp1ZDBYOGdad24yRjJUOVZSb044ckIwdEp6SkhtZ2FtaE1ZZjVMTFltckUxME9WUUNjb3dBY1RleG5tY0FjRzNzd2JMVTVObXE4UWtWRjBrNnBoY0JXTEgxOWlwWWVjWnRXeVpzYlFZd0RYODUwYmNVZVBUUWpuQktTYnFtWUZqYjB2X3k5OWRaZUt0a1Q1aldhU3pDcGNENUwtSXZaNl9rRE9EbjBfXzg3SVlyYTh3ZkcweFViNDZvd08xU2ZETkZFQWVUdEpR0gH4AUFVX3lxTE1mSHEzTEFjZURPZk93d25uUEZPOWlDN25nZ1NyWkdOMnZ4cHhwcTdNZk13eEJkRTUzeFN3aTVPLVdNTkhKRWxaU1B6dkJYcE1jWUQ1UWhTNmZZcVpLS3hFdHZqbkxQLVVBQlQzbjZvUUxPci12N05tNWNXNUI2Z3hUX1dXY1VaZVRDMmJSN0F6OUdUcnVfbGpyaVJiQWdrUWNMRl9xUTZIWkNHNXZReHFpU3ZrU283bmhJUk90YmhXa0tyaUdNTGxvclVydks3c3BRT1JodG5xQUU2MUV6Nld6bDhobVZoeG9tYzg0VjdaT3FrRERBYjJO?oc=5",
+              "published": "Thu, 17 Sep 2026 06:01:51 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline explicitly reports US data centre growth outpacing the grid and an estimated $110 billion needed for power investment—this directly indicates a power infrastructure shortfall risk relevant to data centre/hyperscaler operations.",
+              "signals": [
+                "US data centre expansion outpacing grid capacity",
+                "Estimated $110 billion required for power infrastructure investment",
+                "Risk of insufficient power supply for data centres"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "US House Overwhelmingly Passes Ratepayer Protection Act; Data Centers Must Bear Grid Costs - finance.biggo.com",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qSnA3SHN4azUwTVhieHJLNENZRVFQSUhLOFNNUU9DQ24yV2NNSGFPdm5OUkU4eFluaGZQZXlISEhqcVNMcFBVNkU3Qkhid0dpTmVlUmpaT1dMXzhFVXJwNUxCUnJrbjRGaDZHanR4T1RGSlV6a1E?oc=5",
+              "published": "Thu, 17 Sep 2026 03:36:00 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The headline states the U.S. House passed the Ratepayer Protection Act and explicitly requires data centers to bear grid costs, which is a direct policy action affecting data-center power-related obligations. The item is specific to data-center grid cost allocation but does not provide further detail on permitting or timelines, so strength is moderate-high and inference is limited to the headline facts.",
+              "signals": [
+                "US House overwhelmingly passed the Ratepayer Protection Act",
+                "Ratepayer Protection Act requires data centers to bear grid costs",
+                "Source: finance.biggo.com"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "America is building datacenters faster than the grid can power them - The Register",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVDFrZXlhYTFqbFJDemR5NkNwR0RCR2lZam5SUXd1ckxCSzVfVlVJZ2F1aWlfWTlzdWM5TjdfUmplekE1REFqeTdvalpsUTNXZEE4dXEyR2VYYmkxNTRKcTc0WnNRRHF1ZmhEeGtuNlJkdFVvZ0hKY2lmR0FUekpLTThkTjQ5RzJZTy1RWjdCU05uQ3BVTXpBQ0lKa0d6UF9uc1lQY1B2Tm8xdDFsdzI5YkpLRVg1ZkliVEZWNjI0OA?oc=5",
+              "published": "Tue, 15 Sep 2026 16:37:00 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline explicitly states U.S. datacenter construction is outpacing the grid's ability to power them, indicating a tangible risk to AI infrastructure from insufficient grid capacity and related permitting/upgrade delays.",
+              "signals": [
+                "datacenter growth outpacing grid power capacity",
+                "potential delays in power permits or grid upgrades",
+                "risk to hyperscaler operations from insufficient electric infrastructure"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 66,
+      "new_articles": 18,
+      "dedup_skips": 182,
+      "prefilter_skips": 15,
+      "llm_calls": 3,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 2,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 1,
+        "market_positioning": 0
+      }
+    }
   }
 ]
