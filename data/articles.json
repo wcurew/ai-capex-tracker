@@ -1,247 +1,4 @@
 {
-  "1ddc833d62fe4c15": {
-    "id": "1ddc833d62fe4c15",
-    "group": "OVERALL",
-    "item": "power_permit_delays",
-    "title": "Data centers used 1.5 percent of global electricity in 2024, but AI is driving demand into concentrated clusters where the IEA says one in five planned projects could face grid delays - ScienceBlog.com",
-    "title_norm": "data centers used 1 5 percent of global electricity in 2024 but ai is driving demand into concentrated clusters where the iea says one in five planned projects could face grid delays scienceblog com",
-    "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOYl9kZDVWRjFjb3pFdGVyOUN1TW4wdF9wOTBZQWNSLTBnZXVTY1hndWJhTzN6VUV2STd5WlZFQklOU0hfckJTNVZXLXc0a3poeERlMkJ4dUIzUVY1SHkzMERZWWdnenBuazFnZ2tSTDVTd2d0QXQ1RnhGbUpfMjFadnZEUURkb3pxczNxZ3NtWmNOcUI4cV9Fa0FRQXdaeEFUX2lObGIwSDI2ZnRWbzR1TkdCMlk1MW1aOXBwLWw1a2tjR01iTU5rZU5OSmxTSVB1c05TRzk0aXNrQVJHaXR1LUtiNXZRX202N21qREoweHBzaUllc1Z0YXBWLXg1M0tBalBicG9OQjZHWWpNazc2UElLbS10c3JRRHNGTk80LVYwaDZnZDN0UlBBV1o5NUhIbU9n?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOYl9kZDVWRjFjb3pFdGVyOUN1TW4wdF9wOTBZQWNSLTBnZXVTY1hndWJhTzN6VUV2STd5WlZFQklOU0hfckJTNVZXLXc0a3poeERlMkJ4dUIzUVY1SHkzMERZWWdnenBuazFnZ2tSTDVTd2d0QXQ1RnhGbUpfMjFadnZEUURkb3pxczNxZ3NtWmNOcUI4cV9Fa0FRQXdaeEFUX2lObGIwSDI2ZnRWbzR1TkdCMlk1MW1aOXBwLWw1a2tjR01iTU5rZU5OSmxTSVB1c05TRzk0aXNrQVJHaXR1LUtiNXZRX202N21qREoweHBzaUllc1Z0YXBWLXg1M0tBalBicG9OQjZHWWpNazc2UElLbS10c3JRRHNGTk80LVYwaDZnZDN0UlBBV1o5NUhIbU9n",
-    "published": "Tue, 11 Aug 2026 00:30:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxOYl9kZDVWRjFjb3pFdGVyOUN1TW4wdF9wOTBZQWNSLTBnZXVTY1hndWJhTzN6VUV2STd5WlZFQklOU0hfckJTNVZXLXc0a3poeERlMkJ4dUIzUVY1SHkzMERZWWdnenBuazFnZ2tSTDVTd2d0QXQ1RnhGbUpfMjFadnZEUURkb3pxczNxZ3NtWmNOcUI4cV9Fa0FRQXdaeEFUX2lObGIwSDI2ZnRWbzR1TkdCMlk1MW1aOXBwLWw1a2tjR01iTU5rZU5OSmxTSVB1c05TRzk0aXNrQVJHaXR1LUtiNXZRX202N21qREoweHBzaUllc1Z0YXBWLXg1M0tBalBicG9OQjZHWWpNazc2UElLbS10c3JRRHNGTk80LVYwaDZnZDN0UlBBV1o5NUhIbU9n?oc=5\" target=\"_blank\">Data centers used 1.5 percent of global electricity in 2024, but AI is driving demand into concentrated clusters where the IEA says one in five planned projects could face grid delays</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ScienceBlog.com</font>",
-    "fetched_at": "2026-08-11T17:48:54.803781+09:00",
-    "llm": {
-      "relevant": true,
-      "strength": 3,
-      "confidence": 80,
-      "reason": "The article cites the IEA saying 'one in five planned projects could face grid delays' as AI-driven demand concentrates data center development, directly indicating a material risk of power/grid-related delays for planned projects.",
-      "signals": [
-        "IEA: one in five planned projects could face grid delays",
-        "AI-driven demand is concentrating data center buildouts into clusters",
-        "Data centers consumed 1.5% of global electricity in 2024"
-      ]
-    },
-    "llm_model": "gpt-5-mini",
-    "llm_classified_at": "2026-08-11T17:49:03.873993+09:00"
-  },
-  "4e9022fb287d9efe": {
-    "id": "4e9022fb287d9efe",
-    "group": "OVERALL",
-    "item": "power_permit_delays",
-    "title": "Op-Ed: New York shouldn’t run from the data-center future - The Center Square",
-    "title_norm": "op ed new york shouldn t run from the data center future the center square",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGF3Zk1xbmlsRF9xOEtLNDlJWGc4eVFvbkNGTHJ6QWJITFg4Tk81Y0d2Zm90bGE4ejR0UW9DMlh0WUotamN5TUIxWEhIRUxjSUJrOHUzY0dWSGNHazM1OHhaQ1luckdNSUo5amQ2VW1uTDA1WmE2R0h2aHAzTzNscG9vVFJ1X1ZBRFg2S2VvOTFfc2pYVTQyadIBmAFBVV95cUxNOGF3Zk1xbmlsRF9xOEtLNDlJWGc4eVFvbkNGTHJ6QWJITFg4Tk81Y0d2Zm90bGE4ejR0UW9DMlh0WUotamN5TUIxWEhIRUxjSUJrOHUzY0dWSGNHazM1OHhaQ1luckdNSUo5amQ2VW1uTDA1WmE2R0h2aHAzTzNscG9vVFJ1X1ZBRFg2S2VvOTFfc2pYVTQyaQ?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGF3Zk1xbmlsRF9xOEtLNDlJWGc4eVFvbkNGTHJ6QWJITFg4Tk81Y0d2Zm90bGE4ejR0UW9DMlh0WUotamN5TUIxWEhIRUxjSUJrOHUzY0dWSGNHazM1OHhaQ1luckdNSUo5amQ2VW1uTDA1WmE2R0h2aHAzTzNscG9vVFJ1X1ZBRFg2S2VvOTFfc2pYVTQyadIBmAFBVV95cUxNOGF3Zk1xbmlsRF9xOEtLNDlJWGc4eVFvbkNGTHJ6QWJITFg4Tk81Y0d2Zm90bGE4ejR0UW9DMlh0WUotamN5TUIxWEhIRUxjSUJrOHUzY0dWSGNHazM1OHhaQ1luckdNSUo5amQ2VW1uTDA1WmE2R0h2aHAzTzNscG9vVFJ1X1ZBRFg2S2VvOTFfc2pYVTQyaQ",
-    "published": "Mon, 10 Aug 2026 16:07:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGF3Zk1xbmlsRF9xOEtLNDlJWGc4eVFvbkNGTHJ6QWJITFg4Tk81Y0d2Zm90bGE4ejR0UW9DMlh0WUotamN5TUIxWEhIRUxjSUJrOHUzY0dWSGNHazM1OHhaQ1luckdNSUo5amQ2VW1uTDA1WmE2R0h2aHAzTzNscG9vVFJ1X1ZBRFg2S2VvOTFfc2pYVTQyadIBmAFBVV95cUxNOGF3Zk1xbmlsRF9xOEtLNDlJWGc4eVFvbkNGTHJ6QWJITFg4Tk81Y0d2Zm90bGE4ejR0UW9DMlh0WUotamN5TUIxWEhIRUxjSUJrOHUzY0dWSGNHazM1OHhaQ1luckdNSUo5amQ2VW1uTDA1WmE2R0h2aHAzTzNscG9vVFJ1X1ZBRFg2S2VvOTFfc2pYVTQyaQ?oc=5\" target=\"_blank\">Op-Ed: New York shouldn’t run from the data-center future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Center Square</font>",
-    "fetched_at": "2026-08-11T17:48:54.803781+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "ef2f6a6f119ebd55": {
-    "id": "ef2f6a6f119ebd55",
-    "group": "OVERALL",
-    "item": "power_permit_delays",
-    "title": "Nvidia and Wall Street Firms Target $500 Billion AI Infrastructure Financing - Eurasia Business News",
-    "title_norm": "nvidia and wall street firms target 500 billion ai infrastructure financing eurasia business news",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMkhKY3NnbFdBUndRNE42YVlrbHZBUTlGb3E4RkxnQ01nUTFDcHhubzAyZEVpWlAtY29NLWdHX3M2ajFLUWo2MjVBNzdKU3ZOeEJVY0Y2bHI5N2xuMmM3ekpMWlRNR1hkb3gyN1VWclFoaV9HZkxEWmhaNEF2ZWVWOW93T01GVTl2ZXh4aHRPYVI4Vnhqc1N2NTF2N1NwOWZnaTBrVlJuWVhpcXRSVVlNWGEydnV0LVZoXy1J?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMkhKY3NnbFdBUndRNE42YVlrbHZBUTlGb3E4RkxnQ01nUTFDcHhubzAyZEVpWlAtY29NLWdHX3M2ajFLUWo2MjVBNzdKU3ZOeEJVY0Y2bHI5N2xuMmM3ekpMWlRNR1hkb3gyN1VWclFoaV9HZkxEWmhaNEF2ZWVWOW93T01GVTl2ZXh4aHRPYVI4Vnhqc1N2NTF2N1NwOWZnaTBrVlJuWVhpcXRSVVlNWGEydnV0LVZoXy1J",
-    "published": "Mon, 10 Aug 2026 21:54:11 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMkhKY3NnbFdBUndRNE42YVlrbHZBUTlGb3E4RkxnQ01nUTFDcHhubzAyZEVpWlAtY29NLWdHX3M2ajFLUWo2MjVBNzdKU3ZOeEJVY0Y2bHI5N2xuMmM3ekpMWlRNR1hkb3gyN1VWclFoaV9HZkxEWmhaNEF2ZWVWOW93T01GVTl2ZXh4aHRPYVI4Vnhqc1N2NTF2N1NwOWZnaTBrVlJuWVhpcXRSVVlNWGEydnV0LVZoXy1J?oc=5\" target=\"_blank\">Nvidia and Wall Street Firms Target $500 Billion AI Infrastructure Financing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Eurasia Business News</font>",
-    "fetched_at": "2026-08-11T17:48:54.803781+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "f7d5c896e2f12bea": {
-    "id": "f7d5c896e2f12bea",
-    "group": "OVERALL",
-    "item": "power_permit_delays",
-    "title": "Stock surges! Fermi (FRMI.US) secures first AI data center lease, locking in a $6.5 billion, 15-year contract - Moomoo",
-    "title_norm": "stock surges fermi secures first ai data center lease locking in a 6 5 billion 15 year contract moomoo",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdjIyT2NRRVpKTGhZTUZpNERjdWFqbjVGaEpaZGxrX2FxWEdWaTRocW45U1hYRElnU2VWWTQxeGpYWGpTQWtJemJqa1p3R2xBMXVPU0g3dnZNa1YxX0V5MERicEpUOFVLa2hxb3gta3lhSnJtY2hHQ2d0ZWxqbUVjZGZYdXlqQVc1N2tELWhLVWkwcEljYzFDZ181d25hOWY3TFAySQ?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdjIyT2NRRVpKTGhZTUZpNERjdWFqbjVGaEpaZGxrX2FxWEdWaTRocW45U1hYRElnU2VWWTQxeGpYWGpTQWtJemJqa1p3R2xBMXVPU0g3dnZNa1YxX0V5MERicEpUOFVLa2hxb3gta3lhSnJtY2hHQ2d0ZWxqbUVjZGZYdXlqQVc1N2tELWhLVWkwcEljYzFDZ181d25hOWY3TFAySQ",
-    "published": "Tue, 11 Aug 2026 01:32:38 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOdjIyT2NRRVpKTGhZTUZpNERjdWFqbjVGaEpaZGxrX2FxWEdWaTRocW45U1hYRElnU2VWWTQxeGpYWGpTQWtJemJqa1p3R2xBMXVPU0g3dnZNa1YxX0V5MERicEpUOFVLa2hxb3gta3lhSnJtY2hHQ2d0ZWxqbUVjZGZYdXlqQVc1N2tELWhLVWkwcEljYzFDZ181d25hOWY3TFAySQ?oc=5\" target=\"_blank\">Stock surges! Fermi (FRMI.US) secures first AI data center lease, locking in a $6.5 billion, 15-year contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
-    "fetched_at": "2026-08-11T17:48:54.803781+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "cd92691a9172fa0b": {
-    "id": "cd92691a9172fa0b",
-    "group": "OVERALL",
-    "item": "power_permit_delays",
-    "title": "Why Keel Infrastructure Stock Dived by Over 12% Today - AOL.com",
-    "title_norm": "why keel infrastructure stock dived by over 12 today aol com",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZHpNQkhxVGI4Vy00NTZCNjBSRFJDaG9tT0UzOXRtazhzS3pLSUdEcEh2YXN0eHNEWlNlNHl4dnNCZlpyZDBheEQtby01VHVBcWpocENUbmNoN2pxTXpDcHJPRkVaa0I4N25YcDR1d3l1ai1QSDJFbm9Bc3VFc1pwVnVWa291dw?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZHpNQkhxVGI4Vy00NTZCNjBSRFJDaG9tT0UzOXRtazhzS3pLSUdEcEh2YXN0eHNEWlNlNHl4dnNCZlpyZDBheEQtby01VHVBcWpocENUbmNoN2pxTXpDcHJPRkVaa0I4N25YcDR1d3l1ai1QSDJFbm9Bc3VFc1pwVnVWa291dw",
-    "published": "Tue, 11 Aug 2026 01:10:46 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNZHpNQkhxVGI4Vy00NTZCNjBSRFJDaG9tT0UzOXRtazhzS3pLSUdEcEh2YXN0eHNEWlNlNHl4dnNCZlpyZDBheEQtby01VHVBcWpocENUbmNoN2pxTXpDcHJPRkVaa0I4N25YcDR1d3l1ai1QSDJFbm9Bc3VFc1pwVnVWa291dw?oc=5\" target=\"_blank\">Why Keel Infrastructure Stock Dived by Over 12% Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-    "fetched_at": "2026-08-11T17:48:54.803781+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "c1d4c8aed0113cc4": {
-    "id": "c1d4c8aed0113cc4",
-    "group": "OVERALL",
-    "item": "power_permit_delays",
-    "title": "More Data Center Operators Commit to Abbott's Texas Standards as Power Companies Endorse ERCOT Batch Framework - POWER Magazine",
-    "title_norm": "more data center operators commit to abbott s texas standards as power companies endorse ercot batch framework power magazine",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQS1CSDQwNm1JZjdFX1RNcmlJM2NzeU9fSjk2azFoRjVBOXJTTFFJUkp1aVZqZlN0RVhUTXFkSk5TQ2Q3eUdsU1Zra2NDUXR0c3Bua0NvX1l4UXdNY0dsOGp1YlNtUlZETVRDTUs5T09HN1ZPWXptRDBSYTJWaWIwejc3Vm9GdkhCVnpvWU9wOTYtU29welQ5QVpiYjFiMkJObTRRQzcyNkVZcnhtcEt6UVI4bXJxWnFMT0RqbzNKNkdEWGt5ZHhyNlhJeF9XTDVi?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQS1CSDQwNm1JZjdFX1RNcmlJM2NzeU9fSjk2azFoRjVBOXJTTFFJUkp1aVZqZlN0RVhUTXFkSk5TQ2Q3eUdsU1Zra2NDUXR0c3Bua0NvX1l4UXdNY0dsOGp1YlNtUlZETVRDTUs5T09HN1ZPWXptRDBSYTJWaWIwejc3Vm9GdkhCVnpvWU9wOTYtU29welQ5QVpiYjFiMkJObTRRQzcyNkVZcnhtcEt6UVI4bXJxWnFMT0RqbzNKNkdEWGt5ZHhyNlhJeF9XTDVi",
-    "published": "Mon, 10 Aug 2026 19:13:43 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQS1CSDQwNm1JZjdFX1RNcmlJM2NzeU9fSjk2azFoRjVBOXJTTFFJUkp1aVZqZlN0RVhUTXFkSk5TQ2Q3eUdsU1Zra2NDUXR0c3Bua0NvX1l4UXdNY0dsOGp1YlNtUlZETVRDTUs5T09HN1ZPWXptRDBSYTJWaWIwejc3Vm9GdkhCVnpvWU9wOTYtU29welQ5QVpiYjFiMkJObTRRQzcyNkVZcnhtcEt6UVI4bXJxWnFMT0RqbzNKNkdEWGt5ZHhyNlhJeF9XTDVi?oc=5\" target=\"_blank\">More Data Center Operators Commit to Abbott's Texas Standards as Power Companies Endorse ERCOT Batch Framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POWER Magazine</font>",
-    "fetched_at": "2026-08-11T17:48:54.803781+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "6f5e8135bf252860": {
-    "id": "6f5e8135bf252860",
-    "group": "OVERALL",
-    "item": "power_permit_delays",
-    "title": "Gov. Abbott's pause on new data center grid approvals won't affect pair of Hunt County projects - cnhinews.com",
-    "title_norm": "gov abbott s pause on new data center grid approvals won t affect pair of hunt county projects cnhinews com",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQkloRjE3UGdnbjlOWnIxcV9LZUk2bkYya05LWDZONV9WQ0VKbmc3UWNIa1Bldm1obTgxQU0xb3JIMi1mZS1VcXpfR2tyeEQ3YUNVQk5mNm1xSjVZcjRVWkllaVJkVnBKanB1QUwyLWQtZVdpMGYwV0tSYm1GazZzZjQwY2dia09XUnJ5LUhNeEF5c0hzSUoyZ0JuYTU?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQkloRjE3UGdnbjlOWnIxcV9LZUk2bkYya05LWDZONV9WQ0VKbmc3UWNIa1Bldm1obTgxQU0xb3JIMi1mZS1VcXpfR2tyeEQ3YUNVQk5mNm1xSjVZcjRVWkllaVJkVnBKanB1QUwyLWQtZVdpMGYwV0tSYm1GazZzZjQwY2dia09XUnJ5LUhNeEF5c0hzSUoyZ0JuYTU",
-    "published": "Mon, 10 Aug 2026 21:39:46 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQQkloRjE3UGdnbjlOWnIxcV9LZUk2bkYya05LWDZONV9WQ0VKbmc3UWNIa1Bldm1obTgxQU0xb3JIMi1mZS1VcXpfR2tyeEQ3YUNVQk5mNm1xSjVZcjRVWkllaVJkVnBKanB1QUwyLWQtZVdpMGYwV0tSYm1GazZzZjQwY2dia09XUnJ5LUhNeEF5c0hzSUoyZ0JuYTU?oc=5\" target=\"_blank\">Gov. Abbott's pause on new data center grid approvals won't affect pair of Hunt County projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnhinews.com</font>",
-    "fetched_at": "2026-08-11T17:48:54.803781+09:00",
-    "llm": {
-      "relevant": true,
-      "strength": 2,
-      "confidence": 85,
-      "reason": "Article reports a state-level pause on new data center grid approvals (a permitting action that can delay hyperscaler builds), but explicitly notes it will not affect a specific pair of Hunt County projects, so the risk signal is present but limited/mitigated in scope.",
-      "signals": [
-        "State-level pause on new data center grid approvals",
-        "Two Hunt County projects reported as not affected by the pause"
-      ]
-    },
-    "llm_model": "gpt-5-mini",
-    "llm_classified_at": "2026-08-11T17:49:17.675969+09:00"
-  },
-  "3aad832541eef585": {
-    "id": "3aad832541eef585",
-    "group": "OVERALL",
-    "item": "power_permit_delays",
-    "title": "90% of New Texas Power Demand Is AI Data Centers – And the State Just Hit Pause - Gadget Review",
-    "title_norm": "90 of new texas power demand is ai data centers and the state just hit pause gadget review",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0hXN1lWenRYNmNXWUd1aGRsU2p2NVVPaDI4dUJwOFlWQTkwa3ZDa2E3cnlPSmJKbW5FQkFLa2NnTmxsV2VMNl96c2kxNzJyYWZfWEVxblhDaWhrWHg4VFJjM19YU2tEeE1ISDRyQ0ZNN2hHOUJDTDFzUkZ5Y0J3eUpOckd6dG9RVkdKZjVvTVVuNXBSQV94SGY4NlE0YUlJaVdvWm1ybmI?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0hXN1lWenRYNmNXWUd1aGRsU2p2NVVPaDI4dUJwOFlWQTkwa3ZDa2E3cnlPSmJKbW5FQkFLa2NnTmxsV2VMNl96c2kxNzJyYWZfWEVxblhDaWhrWHg4VFJjM19YU2tEeE1ISDRyQ0ZNN2hHOUJDTDFzUkZ5Y0J3eUpOckd6dG9RVkdKZjVvTVVuNXBSQV94SGY4NlE0YUlJaVdvWm1ybmI",
-    "published": "Mon, 10 Aug 2026 16:29:49 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0hXN1lWenRYNmNXWUd1aGRsU2p2NVVPaDI4dUJwOFlWQTkwa3ZDa2E3cnlPSmJKbW5FQkFLa2NnTmxsV2VMNl96c2kxNzJyYWZfWEVxblhDaWhrWHg4VFJjM19YU2tEeE1ISDRyQ0ZNN2hHOUJDTDFzUkZ5Y0J3eUpOckd6dG9RVkdKZjVvTVVuNXBSQV94SGY4NlE0YUlJaVdvWm1ybmI?oc=5\" target=\"_blank\">90% of New Texas Power Demand Is AI Data Centers – And the State Just Hit Pause</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gadget Review</font>",
-    "fetched_at": "2026-08-11T17:48:54.803781+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "1c6cce7e2eca2cf2": {
-    "id": "1c6cce7e2eca2cf2",
-    "group": "OVERALL",
-    "item": "capex_up_revenue_down",
-    "title": "Camtek Piles Up $600M in Orders While AI CapEx Forecasters Debate Slowdown - Tech Times",
-    "title_norm": "camtek piles up 600m in orders while ai capex forecasters debate slowdown tech times",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMmVjcjJFc2VnbFpMeTZ6MFZvVlBld1ZKX1RvdUdoQWk4eENYSFliTmhHOU9BcVh5MVBwalMwemt2SkFFZlctUmlIVWpwUm44LXRsY2xySUxIY2JwZ2R5dXdMMFg0LXUyZmgwOFlURmV3ZnBtbk42QXM3VWJjTWJqVEMzMlM3QUVrUjhiTThNVlZuV3VwV1d6SGZUMVJNZ3lkbUtmLUhFVDM0NDhQUVFLOUViaC1Ec2h5bVYtNDRMYw?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMmVjcjJFc2VnbFpMeTZ6MFZvVlBld1ZKX1RvdUdoQWk4eENYSFliTmhHOU9BcVh5MVBwalMwemt2SkFFZlctUmlIVWpwUm44LXRsY2xySUxIY2JwZ2R5dXdMMFg0LXUyZmgwOFlURmV3ZnBtbk42QXM3VWJjTWJqVEMzMlM3QUVrUjhiTThNVlZuV3VwV1d6SGZUMVJNZ3lkbUtmLUhFVDM0NDhQUVFLOUViaC1Ec2h5bVYtNDRMYw",
-    "published": "Mon, 10 Aug 2026 23:25:29 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNMmVjcjJFc2VnbFpMeTZ6MFZvVlBld1ZKX1RvdUdoQWk4eENYSFliTmhHOU9BcVh5MVBwalMwemt2SkFFZlctUmlIVWpwUm44LXRsY2xySUxIY2JwZ2R5dXdMMFg0LXUyZmgwOFlURmV3ZnBtbk42QXM3VWJjTWJqVEMzMlM3QUVrUjhiTThNVlZuV3VwV1d6SGZUMVJNZ3lkbUtmLUhFVDM0NDhQUVFLOUViaC1Ec2h5bVYtNDRMYw?oc=5\" target=\"_blank\">Camtek Piles Up $600M in Orders While AI CapEx Forecasters Debate Slowdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
-    "fetched_at": "2026-08-11T17:48:54.803781+09:00",
-    "llm": {
-      "relevant": true,
-      "strength": 2,
-      "confidence": 75,
-      "reason": "Article headline reports Camtek has $600M in orders, indicating continued capex demand for semiconductor equipment and conflicting with AI capex slowdown forecasts. The summary does not provide evidence of revenue declines, so the specific 'capex_up_revenue_down' pattern is only weakly supported.",
-      "signals": [
-        "supplier_orders_up (Camtek $600M)",
-        "capex_demand_persistence",
-        "conflicting_capex_forecasts",
-        "no_evidence_of_revenue_down_in_text"
-      ]
-    },
-    "llm_model": "gpt-5-mini",
-    "llm_classified_at": "2026-08-11T17:49:35.471633+09:00"
-  },
-  "4dada215d5971c08": {
-    "id": "4dada215d5971c08",
-    "group": "OVERALL",
-    "item": "mgmt_tone_softening",
-    "title": "Air cargo market conditions becoming increasingly localised - Air Cargo News",
-    "title_norm": "air cargo market conditions becoming increasingly localised air cargo news",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeUdRTkc2NnNva1R0elhvYkJiYmN5Tm02bktka3NJSXA3OHlBZENqeXg0R010M0I3OTRBbkNDam5qdE1SeXRsU2pRUjlRUzJEN09JdTdkc1NiVUNwbkFYdHkzS1BiY0ZtNXNqaVJtWmlzTmFKNjczRDFmOGNKZDZxcFhYaWI5bkJBa3Z6NFVhUHVJU0JIRWc1bWNOeFJUQzllQjIwWUlCYUpPcUtfSk1Hag?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeUdRTkc2NnNva1R0elhvYkJiYmN5Tm02bktka3NJSXA3OHlBZENqeXg0R010M0I3OTRBbkNDam5qdE1SeXRsU2pRUjlRUzJEN09JdTdkc1NiVUNwbkFYdHkzS1BiY0ZtNXNqaVJtWmlzTmFKNjczRDFmOGNKZDZxcFhYaWI5bkJBa3Z6NFVhUHVJU0JIRWc1bWNOeFJUQzllQjIwWUlCYUpPcUtfSk1Hag",
-    "published": "Mon, 10 Aug 2026 15:43:55 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQeUdRTkc2NnNva1R0elhvYkJiYmN5Tm02bktka3NJSXA3OHlBZENqeXg0R010M0I3OTRBbkNDam5qdE1SeXRsU2pRUjlRUzJEN09JdTdkc1NiVUNwbkFYdHkzS1BiY0ZtNXNqaVJtWmlzTmFKNjczRDFmOGNKZDZxcFhYaWI5bkJBa3Z6NFVhUHVJU0JIRWc1bWNOeFJUQzllQjIwWUlCYUpPcUtfSk1Hag?oc=5\" target=\"_blank\">Air cargo market conditions becoming increasingly localised</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Air Cargo News</font>",
-    "fetched_at": "2026-08-11T17:48:54.803781+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "168c27a22a26bce9": {
-    "id": "168c27a22a26bce9",
-    "group": "OVERALL",
-    "item": "mgmt_tone_softening",
-    "title": "MLCC Supply-Demand Gap Widens Sharply as Clients Pay 2-3x Premiums, Lead Times Stretch to 16 Months - finance.biggo.com",
-    "title_norm": "mlcc supply demand gap widens sharply as clients pay 2 3x premiums lead times stretch to 16 months finance biggo com",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1bzlwV2Vnc011V0VfWjZIcXM4MTFDQTR0NmxaVlNPaXdFVWJLUWdoYU8xOWVYb0FNbHhZTjJra0pVcFpCZkNWZXh3QXRfMm84LW14UFBrLWlybjU4TUtYeUtNZHlzN2RoZEtpSnVzMFRDR3hCUlE?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1bzlwV2Vnc011V0VfWjZIcXM4MTFDQTR0NmxaVlNPaXdFVWJLUWdoYU8xOWVYb0FNbHhZTjJra0pVcFpCZkNWZXh3QXRfMm84LW14UFBrLWlybjU4TUtYeUtNZHlzN2RoZEtpSnVzMFRDR3hCUlE",
-    "published": "Tue, 11 Aug 2026 02:55:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFA1bzlwV2Vnc011V0VfWjZIcXM4MTFDQTR0NmxaVlNPaXdFVWJLUWdoYU8xOWVYb0FNbHhZTjJra0pVcFpCZkNWZXh3QXRfMm84LW14UFBrLWlybjU4TUtYeUtNZHlzN2RoZEtpSnVzMFRDR3hCUlE?oc=5\" target=\"_blank\">MLCC Supply-Demand Gap Widens Sharply as Clients Pay 2-3x Premiums, Lead Times Stretch to 16 Months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
-    "fetched_at": "2026-08-11T17:48:54.803781+09:00",
-    "llm": {
-      "relevant": false,
-      "strength": 0,
-      "confidence": 90,
-      "reason": "The summary describes MLCC supply shortages, clients paying 2–3x premiums, and lead times extending to 16 months. It contains no management commentary or indication that executive/management tone has softened, so it does not constitute evidence of a 'management tone softening' signal.",
-      "signals": [
-        "Clients paying 2-3x premiums for MLCCs",
-        "Lead times stretching to 16 months",
-        "Widening supply-demand gap for MLCCs"
-      ]
-    },
-    "llm_model": "gpt-5-mini",
-    "llm_classified_at": "2026-08-11T17:49:42.976068+09:00"
-  },
-  "405dd0e8d480c1fb": {
-    "id": "405dd0e8d480c1fb",
-    "group": "OVERALL",
-    "item": "mgmt_tone_softening",
-    "title": "Will Microsoft Show Strength Again? Earnings May Be Inflection Point for AI Investment Returns - TradingKey",
-    "title_norm": "will microsoft show strength again earnings may be inflection point for ai investment returns tradingkey",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1ZlZlNBVFQ4Uk5VOThOcVhwMU9lTGpmTG5LcDRONnppMzVmcWpNcFJfblVPeWJoWk9yRkVOamFCVXY3X3IzLWMtVFhZMWRPa2ZlLUNueWp0V3hRSm9oT0FpcDN0TkQtaFpVYVdZYTdBSzRXRDVXancwdkVYVVU4MzVJdlNSeHFNczJPZS1xX2pwM3hST21VR1lEbHhyckJHcW5IUk5ZMHNRbDBvOTFGQXRIZ3I5S3NBSmRqYzRZaW55OTNOQmRjaQ?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1ZlZlNBVFQ4Uk5VOThOcVhwMU9lTGpmTG5LcDRONnppMzVmcWpNcFJfblVPeWJoWk9yRkVOamFCVXY3X3IzLWMtVFhZMWRPa2ZlLUNueWp0V3hRSm9oT0FpcDN0TkQtaFpVYVdZYTdBSzRXRDVXancwdkVYVVU4MzVJdlNSeHFNczJPZS1xX2pwM3hST21VR1lEbHhyckJHcW5IUk5ZMHNRbDBvOTFGQXRIZ3I5S3NBSmRqYzRZaW55OTNOQmRjaQ",
-    "published": "Tue, 11 Aug 2026 03:11:15 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1ZlZlNBVFQ4Uk5VOThOcVhwMU9lTGpmTG5LcDRONnppMzVmcWpNcFJfblVPeWJoWk9yRkVOamFCVXY3X3IzLWMtVFhZMWRPa2ZlLUNueWp0V3hRSm9oT0FpcDN0TkQtaFpVYVdZYTdBSzRXRDVXancwdkVYVVU4MzVJdlNSeHFNczJPZS1xX2pwM3hST21VR1lEbHhyckJHcW5IUk5ZMHNRbDBvOTFGQXRIZ3I5S3NBSmRqYzRZaW55OTNOQmRjaQ?oc=5\" target=\"_blank\">Will Microsoft Show Strength Again? Earnings May Be Inflection Point for AI Investment Returns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
-    "fetched_at": "2026-08-11T17:48:54.803781+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "b8aec37c7bbb59f8": {
-    "id": "b8aec37c7bbb59f8",
-    "group": "OVERALL",
-    "item": "mgmt_tone_softening",
-    "title": "Supermicro earnings preview: why SMCI needs more than a top-line beat - TradingView",
-    "title_norm": "supermicro earnings preview why smci needs more than a top line beat tradingview",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOUtrSG1ySDd1ZERtYXZDWU9FbUI3bWdwTXljeHk3UFpPTHd0SE9weG1oa1QydmtaQU1xOTlfX0VReVgzcUxOckIyMHZvU1NDOVRHbUpYdE1EZ0ZlYXREM2pGT0VSRjQxZHlPUkl5NzRGZ2ZMZFVRd0lIVVBabmZaVnZmWTQ2WmNaR1dzYmF3RkN0V3lSaFdiRVRYU3R0UWVTTFpVTl9nNnFKbm1SZjdMcENVTDJJTmxiWWhZZXlEZmVrNDg?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOUtrSG1ySDd1ZERtYXZDWU9FbUI3bWdwTXljeHk3UFpPTHd0SE9weG1oa1QydmtaQU1xOTlfX0VReVgzcUxOckIyMHZvU1NDOVRHbUpYdE1EZ0ZlYXREM2pGT0VSRjQxZHlPUkl5NzRGZ2ZMZFVRd0lIVVBabmZaVnZmWTQ2WmNaR1dzYmF3RkN0V3lSaFdiRVRYU3R0UWVTTFpVTl9nNnFKbm1SZjdMcENVTDJJTmxiWWhZZXlEZmVrNDg",
-    "published": "Mon, 10 Aug 2026 16:01:33 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOUtrSG1ySDd1ZERtYXZDWU9FbUI3bWdwTXljeHk3UFpPTHd0SE9weG1oa1QydmtaQU1xOTlfX0VReVgzcUxOckIyMHZvU1NDOVRHbUpYdE1EZ0ZlYXREM2pGT0VSRjQxZHlPUkl5NzRGZ2ZMZFVRd0lIVVBabmZaVnZmWTQ2WmNaR1dzYmF3RkN0V3lSaFdiRVRYU3R0UWVTTFpVTl9nNnFKbm1SZjdMcENVTDJJTmxiWWhZZXlEZmVrNDg?oc=5\" target=\"_blank\">Supermicro earnings preview: why SMCI needs more than a top-line beat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-    "fetched_at": "2026-08-11T17:48:54.803781+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "b09446b923bc4627": {
-    "id": "b09446b923bc4627",
-    "group": "OVERALL",
-    "item": "mgmt_tone_softening",
-    "title": "NVIDIA partners with Apollo, BlackRock, Blackstone, KKR and others to mobilise over $500 billion for AI infrastructure - livemint.com",
-    "title_norm": "nvidia partners with apollo blackrock blackstone kkr and others to mobilise over 500 billion for ai infrastructure livemint com",
-    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPX3FxVU5mWjlCTEVnbDlJc2lzWDZNMTllYTZZZ2N2RU1TQVdUWkExX1JxSnFGVjhIMHRPOUNGeGcxX195aXNmSG9jRmQzZEY4T09VR0dsRy0tQ21iRzRxM2dBTEx5b1FISUI1RTNSY1UzN3pIclRXNndhRDFzTmw3QWlpblJoSlVsaUpDd3BqdTJUY0ttUFR1LUFsM29XS0tSOEtkMnVnMm84YmNrZmtDcU5heDdjQ0tkS1Nxa2w2YTNpbWZYYVEyRGJYdkdESFpBeGFib20wTGRnc0dCY3U1T2xSc3l5Rm9rbVhqU0FPcHFoUWlvWDNJM3ExbE1Md9IBgwJBVV95cUxQMHBfRHJveXN0Vm95bmZLQ09oNUxsSk16Q19TU2VJeWdrTlUxZWRIa0tNTHV0VWMyNGpZTjRxNk5aQU53TnZQeDMwSUtvSHE4YkQtSFAwUDJxNjNwWWk2blVLV3FzM1B0ZUlucElYYm9DNExPc1pSS2FsNGhvVDZ4NzZ1clhLd1ZKZkp1YXFKSDBYNXJuM2E2Ml9zbEFoRXNLTjhkaWdzUEFfbmlYWUFGR0lrU0hGNmVyT1NHa0FlZHhJcWYxWTl5YkhuNEg0RWd6SWlvakh6ZkRrYllIeTdKd2trRGQyUUFmZFhnczRIVVNiUnlYY2hVWGs0MWRlMUhSODlJ?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPX3FxVU5mWjlCTEVnbDlJc2lzWDZNMTllYTZZZ2N2RU1TQVdUWkExX1JxSnFGVjhIMHRPOUNGeGcxX195aXNmSG9jRmQzZEY4T09VR0dsRy0tQ21iRzRxM2dBTEx5b1FISUI1RTNSY1UzN3pIclRXNndhRDFzTmw3QWlpblJoSlVsaUpDd3BqdTJUY0ttUFR1LUFsM29XS0tSOEtkMnVnMm84YmNrZmtDcU5heDdjQ0tkS1Nxa2w2YTNpbWZYYVEyRGJYdkdESFpBeGFib20wTGRnc0dCY3U1T2xSc3l5Rm9rbVhqU0FPcHFoUWlvWDNJM3ExbE1Md9IBgwJBVV95cUxQMHBfRHJveXN0Vm95bmZLQ09oNUxsSk16Q19TU2VJeWdrTlUxZWRIa0tNTHV0VWMyNGpZTjRxNk5aQU53TnZQeDMwSUtvSHE4YkQtSFAwUDJxNjNwWWk2blVLV3FzM1B0ZUlucElYYm9DNExPc1pSS2FsNGhvVDZ4NzZ1clhLd1ZKZkp1YXFKSDBYNXJuM2E2Ml9zbEFoRXNLTjhkaWdzUEFfbmlYWUFGR0lrU0hGNmVyT1NHa0FlZHhJcWYxWTl5YkhuNEg0RWd6SWlvakh6ZkRrYllIeTdKd2trRGQyUUFmZFhnczRIVVNiUnlYY2hVWGs0MWRlMUhSODlJ",
-    "published": "Tue, 11 Aug 2026 04:10:35 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPX3FxVU5mWjlCTEVnbDlJc2lzWDZNMTllYTZZZ2N2RU1TQVdUWkExX1JxSnFGVjhIMHRPOUNGeGcxX195aXNmSG9jRmQzZEY4T09VR0dsRy0tQ21iRzRxM2dBTEx5b1FISUI1RTNSY1UzN3pIclRXNndhRDFzTmw3QWlpblJoSlVsaUpDd3BqdTJUY0ttUFR1LUFsM29XS0tSOEtkMnVnMm84YmNrZmtDcU5heDdjQ0tkS1Nxa2w2YTNpbWZYYVEyRGJYdkdESFpBeGFib20wTGRnc0dCY3U1T2xSc3l5Rm9rbVhqU0FPcHFoUWlvWDNJM3ExbE1Md9IBgwJBVV95cUxQMHBfRHJveXN0Vm95bmZLQ09oNUxsSk16Q19TU2VJeWdrTlUxZWRIa0tNTHV0VWMyNGpZTjRxNk5aQU53TnZQeDMwSUtvSHE4YkQtSFAwUDJxNjNwWWk2blVLV3FzM1B0ZUlucElYYm9DNExPc1pSS2FsNGhvVDZ4NzZ1clhLd1ZKZkp1YXFKSDBYNXJuM2E2Ml9zbEFoRXNLTjhkaWdzUEFfbmlYWUFGR0lrU0hGNmVyT1NHa0FlZHhJcWYxWTl5YkhuNEg0RWd6SWlvakh6ZkRrYllIeTdKd2trRGQyUUFmZFhnczRIVVNiUnlYY2hVWGs0MWRlMUhSODlJ?oc=5\" target=\"_blank\">NVIDIA partners with Apollo, BlackRock, Blackstone, KKR and others to mobilise over $500 billion for AI infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">livemint.com</font>",
-    "fetched_at": "2026-08-11T17:48:54.803781+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "e6a8a9eedc4d5acb": {
-    "id": "e6a8a9eedc4d5acb",
-    "group": "OVERALL",
-    "item": "power_permit_delays",
-    "title": "Nvidia Isn't the AI Bottleneck Anymore: These 5 Utility Stocks Are the New Trade - TradingView",
-    "title_norm": "nvidia isn t the ai bottleneck anymore these 5 utility stocks are the new trade tradingview",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVWg1UE0wSmxVVFczbE9Dd0k2a2dKV1ZfdG93ay16VTlhd0JkNnZTSFB0YS16V0llLTZ2clhVVFpLZDQ0VkozQUpxRVJ3X254OE8yOHBXeUtyRy0tRWRCMUhjNEhWV1VBLU52VjlqQ1RVcEtfaDhwaVBBRTRIZlZndG9LOTRQWlNvaW56MUFaN05pSXZnejVTUUtMR3ItNGVNeEpELV9NLVV3RTRrTGZXaGpoTHlzODFXMFRGZVNKTFRoNERadWdTbG1JOEpxd2FtWGwyRg?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVWg1UE0wSmxVVFczbE9Dd0k2a2dKV1ZfdG93ay16VTlhd0JkNnZTSFB0YS16V0llLTZ2clhVVFpLZDQ0VkozQUpxRVJ3X254OE8yOHBXeUtyRy0tRWRCMUhjNEhWV1VBLU52VjlqQ1RVcEtfaDhwaVBBRTRIZlZndG9LOTRQWlNvaW56MUFaN05pSXZnejVTUUtMR3ItNGVNeEpELV9NLVV3RTRrTGZXaGpoTHlzODFXMFRGZVNKTFRoNERadWdTbG1JOEpxd2FtWGwyRg",
-    "published": "Tue, 11 Aug 2026 14:00:10 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVWg1UE0wSmxVVFczbE9Dd0k2a2dKV1ZfdG93ay16VTlhd0JkNnZTSFB0YS16V0llLTZ2clhVVFpLZDQ0VkozQUpxRVJ3X254OE8yOHBXeUtyRy0tRWRCMUhjNEhWV1VBLU52VjlqQ1RVcEtfaDhwaVBBRTRIZlZndG9LOTRQWlNvaW56MUFaN05pSXZnejVTUUtMR3ItNGVNeEpELV9NLVV3RTRrTGZXaGpoTHlzODFXMFRGZVNKTFRoNERadWdTbG1JOEpxd2FtWGwyRg?oc=5\" target=\"_blank\">Nvidia Isn't the AI Bottleneck Anymore: These 5 Utility Stocks Are the New Trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-    "fetched_at": "2026-08-12T18:07:26.283138+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "101c905fd2fd51d9": {
     "id": "101c905fd2fd51d9",
     "group": "OVERALL",
@@ -281,58 +38,6 @@
     "fetched_at": "2026-08-12T18:07:26.283138+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
-  "e7b7d49751037e00": {
-    "id": "e7b7d49751037e00",
-    "group": "OVERALL",
-    "item": "power_permit_delays",
-    "title": "Tech Giants Pledge Compliance as Texas Cracks Down on Data Center Grid & Water Strain - KSST Radio",
-    "title_norm": "tech giants pledge compliance as texas cracks down on data center grid water strain ksst radio",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYzl6Vm5kUnJUVlkxWFhPUzBlN1NZektlQTZsN1d6Q1FXWU5sa0V2N1FtTGkyUjVNam5OR3JYXzBaUzdPS1R3VGk4YTNyS3NmQWRRTjQ4NzRkNFlLN2ZFeVMySWxMRFJXRVFhdmhyeUw4UUxUZFZYLUpBcC1qSE1KSGNkODk2YWV3MHZmTDVnWDVHQlNqQldRNnFFYXJJdDNCLXNGSnFHSGF5MlZVV1h2YkFrcnlIT0pielE?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYzl6Vm5kUnJUVlkxWFhPUzBlN1NZektlQTZsN1d6Q1FXWU5sa0V2N1FtTGkyUjVNam5OR3JYXzBaUzdPS1R3VGk4YTNyS3NmQWRRTjQ4NzRkNFlLN2ZFeVMySWxMRFJXRVFhdmhyeUw4UUxUZFZYLUpBcC1qSE1KSGNkODk2YWV3MHZmTDVnWDVHQlNqQldRNnFFYXJJdDNCLXNGSnFHSGF5MlZVV1h2YkFrcnlIT0pielE",
-    "published": "Tue, 11 Aug 2026 14:11:28 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOYzl6Vm5kUnJUVlkxWFhPUzBlN1NZektlQTZsN1d6Q1FXWU5sa0V2N1FtTGkyUjVNam5OR3JYXzBaUzdPS1R3VGk4YTNyS3NmQWRRTjQ4NzRkNFlLN2ZFeVMySWxMRFJXRVFhdmhyeUw4UUxUZFZYLUpBcC1qSE1KSGNkODk2YWV3MHZmTDVnWDVHQlNqQldRNnFFYXJJdDNCLXNGSnFHSGF5MlZVV1h2YkFrcnlIT0pielE?oc=5\" target=\"_blank\">Tech Giants Pledge Compliance as Texas Cracks Down on Data Center Grid & Water Strain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSST Radio</font>",
-    "fetched_at": "2026-08-12T18:07:26.283138+09:00",
-    "llm": {
-      "relevant": true,
-      "strength": 3,
-      "confidence": 75,
-      "reason": "Headline states Texas is cracking down on data center grid and water strain and that tech companies pledge compliance. This indicates active regulatory scrutiny of data center infrastructure (power/water) that is directly relevant to permitting and access risks, though the brief summary does not detail explicit permit delays.",
-      "signals": [
-        "regulatory_action",
-        "grid_constraint",
-        "water_constraint",
-        "data_center_regulation"
-      ]
-    },
-    "llm_model": "gpt-5-mini",
-    "llm_classified_at": "2026-08-12T18:07:38.336319+09:00"
-  },
-  "5d49155e2d233d87": {
-    "id": "5d49155e2d233d87",
-    "group": "OVERALL",
-    "item": "power_permit_delays",
-    "title": "AI's Biggest Bottleneck Isn't Chips - It's the Supply Chain - StreetInsider",
-    "title_norm": "ai s biggest bottleneck isn t chips it s the supply chain streetinsider",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRFc4R0dUTkJNd25jM3FBdHV3aktrUVN0QWhTZ3ljUFNVR3hseW1zdXROa2Nad1h3cmJaS3VhN2pURXVPeEpqMEo3NVd6ci1DRHdzV2FwTUZCRWllWE1rdTJJZXVlU0VuRGFKR1QzMzVoMFV5a2xsbkgwMUxoSnRXSDZZX05OcHJhM3FFZ3FVZjVmNXhYY05WM1d3RVF2SzhqY0M0R3dIV1JwLU9ROUpYOWhJZFFIY2c?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRFc4R0dUTkJNd25jM3FBdHV3aktrUVN0QWhTZ3ljUFNVR3hseW1zdXROa2Nad1h3cmJaS3VhN2pURXVPeEpqMEo3NVd6ci1DRHdzV2FwTUZCRWllWE1rdTJJZXVlU0VuRGFKR1QzMzVoMFV5a2xsbkgwMUxoSnRXSDZZX05OcHJhM3FFZ3FVZjVmNXhYY05WM1d3RVF2SzhqY0M0R3dIV1JwLU9ROUpYOWhJZFFIY2c",
-    "published": "Tue, 11 Aug 2026 13:32:15 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNRFc4R0dUTkJNd25jM3FBdHV3aktrUVN0QWhTZ3ljUFNVR3hseW1zdXROa2Nad1h3cmJaS3VhN2pURXVPeEpqMEo3NVd6ci1DRHdzV2FwTUZCRWllWE1rdTJJZXVlU0VuRGFKR1QzMzVoMFV5a2xsbkgwMUxoSnRXSDZZX05OcHJhM3FFZ3FVZjVmNXhYY05WM1d3RVF2SzhqY0M0R3dIV1JwLU9ROUpYOWhJZFFIY2c?oc=5\" target=\"_blank\">AI's Biggest Bottleneck Isn't Chips - It's the Supply Chain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StreetInsider</font>",
-    "fetched_at": "2026-08-12T18:07:26.283138+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "c89cab9e4fa71c76": {
-    "id": "c89cab9e4fa71c76",
-    "group": "OVERALL",
-    "item": "ai_price_cuts",
-    "title": "Which 'AI Sovereignty' Are You Buying? - Tech Policy Press",
-    "title_norm": "which ai sovereignty are you buying tech policy press",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40S3d2U3ltX1BISFdMb0gyRmxXejhOS1BkUkNDSXdLV2gwM09tdVdEay1mb283dVVCX19WaVY2Sk9XemZ4Vlg3WHhRZmVNMjFrdEVLeGdkbDZZcE9RUml3TlZQOW5NcUVua0htdg?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40S3d2U3ltX1BISFdMb0gyRmxXejhOS1BkUkNDSXdLV2gwM09tdVdEay1mb283dVVCX19WaVY2Sk9XemZ4Vlg3WHhRZmVNMjFrdEVLeGdkbDZZcE9RUml3TlZQOW5NcUVua0htdg",
-    "published": "Mon, 10 Aug 2026 17:49:30 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE40S3d2U3ltX1BISFdMb0gyRmxXejhOS1BkUkNDSXdLV2gwM09tdVdEay1mb283dVVCX19WaVY2Sk9XemZ4Vlg3WHhRZmVNMjFrdEVLeGdkbDZZcE9RUml3TlZQOW5NcUVua0htdg?oc=5\" target=\"_blank\">Which 'AI Sovereignty' Are You Buying?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Policy Press</font>",
-    "fetched_at": "2026-08-12T18:07:26.283138+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "28ab9a43c8a3089f": {
     "id": "28ab9a43c8a3089f",
     "group": "OVERALL",
@@ -356,45 +61,6 @@
     "link_norm": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSFFDYWYtQnNac3BkeXVuX1NDTmdXXzdDRUhDNUVEMFhzcTZMT01vSlhhZERpZXd2djZsMHEtVmVJcXNMYXd6ZVp6WTFRSVA3VmYxVTlsMmNrTnN3QUFDckJSWk55cWI3cDBCWEs0bDBwVnRfOUFBcXFJb3o1dEFEd2JJNXNfQ2lKN1ZTd1A4Zm5XWXpZUFJnSk9Mb25TNklVbmFocGVLdU5GU1hMM09tdURnZlZmb3VpeEF0eDBTNlc5U2NHT0JxdW9QblI1Z282RTlVRGx6Zw",
     "published": "Wed, 12 Aug 2026 07:30:00 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSFFDYWYtQnNac3BkeXVuX1NDTmdXXzdDRUhDNUVEMFhzcTZMT01vSlhhZERpZXd2djZsMHEtVmVJcXNMYXd6ZVp6WTFRSVA3VmYxVTlsMmNrTnN3QUFDckJSWk55cWI3cDBCWEs0bDBwVnRfOUFBcXFJb3o1dEFEd2JJNXNfQ2lKN1ZTd1A4Zm5XWXpZUFJnSk9Mb25TNklVbmFocGVLdU5GU1hMM09tdURnZlZmb3VpeEF0eDBTNlc5U2NHT0JxdW9QblI1Z282RTlVRGx6Zw?oc=5\" target=\"_blank\">Enterprise AI compute costs go unmeasured</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
-    "fetched_at": "2026-08-12T18:07:26.283138+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "e7acd791293be4ad": {
-    "id": "e7acd791293be4ad",
-    "group": "OVERALL",
-    "item": "ai_price_cuts",
-    "title": "Shifting from price wars to value wars, the competitive logic of cloud computing has changed. - 36 Kr",
-    "title_norm": "shifting from price wars to value wars the competitive logic of cloud computing has changed 36 kr",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDQ1NhVkpuaE1ZVjNXMF9IVXhKdzNvU0pnajNGczVSUFZFZERpdlllTnpHVWRwRkdfeG5Ralk2YUYtWnoxNFBqSXNCUmgtM3Z0UXcw?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDQ1NhVkpuaE1ZVjNXMF9IVXhKdzNvU0pnajNGczVSUFZFZERpdlllTnpHVWRwRkdfeG5Ralk2YUYtWnoxNFBqSXNCUmgtM3Z0UXcw",
-    "published": "Tue, 11 Aug 2026 06:42:01 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDQ1NhVkpuaE1ZVjNXMF9IVXhKdzNvU0pnajNGczVSUFZFZERpdlllTnpHVWRwRkdfeG5Ralk2YUYtWnoxNFBqSXNCUmgtM3Z0UXcw?oc=5\" target=\"_blank\">Shifting from price wars to value wars, the competitive logic of cloud computing has changed.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36 Kr</font>",
-    "fetched_at": "2026-08-12T18:07:26.283138+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "582485ddbfc4814f": {
-    "id": "582485ddbfc4814f",
-    "group": "OVERALL",
-    "item": "ai_price_cuts",
-    "title": "OVHcloud CEO warns of 87% cloud price hikes - Computing UK",
-    "title_norm": "ovhcloud ceo warns of 87 cloud price hikes computing uk",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOGY4ck1CNzZrd1JWTkllZjVpRFBrMXpTZjBoUGNjNXRwcGtFSFZySVM1dkdWMnF4NFM0MXBiY0pITTlaMTR4RVBaQ2xRWUEzcndZY1VJeWFFN1FVQ0l6V3pNOFB4dldaYmhlQVppT1JiVnprZXFhYV9NdTQ4Z3BNUE01Y20zN2RWSFM5V0ZYazNoMDVUWWpfNUJ3Z2k?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOGY4ck1CNzZrd1JWTkllZjVpRFBrMXpTZjBoUGNjNXRwcGtFSFZySVM1dkdWMnF4NFM0MXBiY0pITTlaMTR4RVBaQ2xRWUEzcndZY1VJeWFFN1FVQ0l6V3pNOFB4dldaYmhlQVppT1JiVnprZXFhYV9NdTQ4Z3BNUE01Y20zN2RWSFM5V0ZYazNoMDVUWWpfNUJ3Z2k",
-    "published": "Tue, 11 Aug 2026 12:10:47 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQOGY4ck1CNzZrd1JWTkllZjVpRFBrMXpTZjBoUGNjNXRwcGtFSFZySVM1dkdWMnF4NFM0MXBiY0pITTlaMTR4RVBaQ2xRWUEzcndZY1VJeWFFN1FVQ0l6V3pNOFB4dldaYmhlQVppT1JiVnprZXFhYV9NdTQ4Z3BNUE01Y20zN2RWSFM5V0ZYazNoMDVUWWpfNUJ3Z2k?oc=5\" target=\"_blank\">OVHcloud CEO warns of 87% cloud price hikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Computing UK</font>",
-    "fetched_at": "2026-08-12T18:07:26.283138+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "62f0012192cd6cf7": {
-    "id": "62f0012192cd6cf7",
-    "group": "OVERALL",
-    "item": "ai_price_cuts",
-    "title": "Microsoft is ordering 300,000+ Maia 300 AI chips from TSMC as it races to reduce its dependence on Nvidia - The Next Web",
-    "title_norm": "microsoft is ordering 300 000 maia 300 ai chips from tsmc as it races to reduce its dependence on nvidia the next web",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVkg4RlJoZmJzZklkcmhyZ0J0MWpUWXhjLWNZN0FxNVJ1Nm1yaFpHTG9vWmtkR2FUcTNhOHk5RGc0V3NZQ2lzSmpEWDIxM3NwUURtcXFPcXFlTkxnNVRYMXBCTVd1c0NSZDFIdGtZY0ItMTlJYVU3WENMRWFKLTBlOUZjeFhXOWc?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVkg4RlJoZmJzZklkcmhyZ0J0MWpUWXhjLWNZN0FxNVJ1Nm1yaFpHTG9vWmtkR2FUcTNhOHk5RGc0V3NZQ2lzSmpEWDIxM3NwUURtcXFPcXFlTkxnNVRYMXBCTVd1c0NSZDFIdGtZY0ItMTlJYVU3WENMRWFKLTBlOUZjeFhXOWc",
-    "published": "Mon, 10 Aug 2026 15:17:32 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPVkg4RlJoZmJzZklkcmhyZ0J0MWpUWXhjLWNZN0FxNVJ1Nm1yaFpHTG9vWmtkR2FUcTNhOHk5RGc0V3NZQ2lzSmpEWDIxM3NwUURtcXFPcXFlTkxnNVRYMXBCTVd1c0NSZDFIdGtZY0ItMTlJYVU3WENMRWFKLTBlOUZjeFhXOWc?oc=5\" target=\"_blank\">Microsoft is ordering 300,000+ Maia 300 AI chips from TSMC as it races to reduce its dependence on Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Next Web</font>",
     "fetched_at": "2026-08-12T18:07:26.283138+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
@@ -424,32 +90,6 @@
     "fetched_at": "2026-08-12T18:07:26.283138+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
-  "de83d77779369529": {
-    "id": "de83d77779369529",
-    "group": "OVERALL",
-    "item": "ai_price_cuts",
-    "title": "Cloud Computing Exits the Price War: From Selling Resources to Selling Intelligence, Whoever Helps Clients Profit Wins - finance.biggo.com",
-    "title_norm": "cloud computing exits the price war from selling resources to selling intelligence whoever helps clients profit wins finance biggo com",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42QnlTRnpudGVGZHJxNS1PbjgxOVRfQTV6aGJ0Uk8xY1p5Tm1pcmQtZUNlUTJCZ2pGQzlVT2d6YWlKcVBxSDRrbDJYXzRZQkJ5dGVncGQzcHdHbkh2blBQQ3pfOVBpdjlTSm1qRUtNbHJpLVF0Y0E?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42QnlTRnpudGVGZHJxNS1PbjgxOVRfQTV6aGJ0Uk8xY1p5Tm1pcmQtZUNlUTJCZ2pGQzlVT2d6YWlKcVBxSDRrbDJYXzRZQkJ5dGVncGQzcHdHbkh2blBQQ3pfOVBpdjlTSm1qRUtNbHJpLVF0Y0E",
-    "published": "Tue, 11 Aug 2026 06:06:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE42QnlTRnpudGVGZHJxNS1PbjgxOVRfQTV6aGJ0Uk8xY1p5Tm1pcmQtZUNlUTJCZ2pGQzlVT2d6YWlKcVBxSDRrbDJYXzRZQkJ5dGVncGQzcHdHbkh2blBQQ3pfOVBpdjlTSm1qRUtNbHJpLVF0Y0E?oc=5\" target=\"_blank\">Cloud Computing Exits the Price War: From Selling Resources to Selling Intelligence, Whoever Helps Clients Profit Wins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
-    "fetched_at": "2026-08-12T18:07:26.283138+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "425900511d183a51": {
-    "id": "425900511d183a51",
-    "group": "OVERALL",
-    "item": "ai_price_cuts",
-    "title": "CRWV's Solidigm Deal: Can Priority SSD Access Give an Edge in AI Cloud? - TradingView",
-    "title_norm": "crwv s solidigm deal can priority ssd access give an edge in ai cloud tradingview",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX0kwbjVrMm4yZGtsVGtuV3QxN3NUWUtFcHRFSDBKQlFNMkwzQ3FmYU52dUxEcHJNYVJzWTE1TnhMZmE3dUZMYVZRaUc3elZxQm1fbkhIWHZGOVhuOUJtUWpGR3NpRGVDWFh3aHQzM0V6TW1HTE1naHhWamV5dnZILUF3UGJpN1dmZmVHWWhiWXZnX1FKbkxnNUg1NnNUMFhJa3NsdmlZaV9GOUlrRUEyRmtuNzk2bFBWcmZBUF9KdXYyN0E?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX0kwbjVrMm4yZGtsVGtuV3QxN3NUWUtFcHRFSDBKQlFNMkwzQ3FmYU52dUxEcHJNYVJzWTE1TnhMZmE3dUZMYVZRaUc3elZxQm1fbkhIWHZGOVhuOUJtUWpGR3NpRGVDWFh3aHQzM0V6TW1HTE1naHhWamV5dnZILUF3UGJpN1dmZmVHWWhiWXZnX1FKbkxnNUg1NnNUMFhJa3NsdmlZaV9GOUlrRUEyRmtuNzk2bFBWcmZBUF9KdXYyN0E",
-    "published": "Tue, 11 Aug 2026 12:17:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX0kwbjVrMm4yZGtsVGtuV3QxN3NUWUtFcHRFSDBKQlFNMkwzQ3FmYU52dUxEcHJNYVJzWTE1TnhMZmE3dUZMYVZRaUc3elZxQm1fbkhIWHZGOVhuOUJtUWpGR3NpRGVDWFh3aHQzM0V6TW1HTE1naHhWamV5dnZILUF3UGJpN1dmZmVHWWhiWXZnX1FKbkxnNUg1NnNUMFhJa3NsdmlZaV9GOUlrRUEyRmtuNzk2bFBWcmZBUF9KdXYyN0E?oc=5\" target=\"_blank\">CRWV's Solidigm Deal: Can Priority SSD Access Give an Edge in AI Cloud?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-    "fetched_at": "2026-08-12T18:07:26.283138+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "7407c0d153cfad81": {
     "id": "7407c0d153cfad81",
     "group": "OVERALL",
@@ -460,19 +100,6 @@
     "link_norm": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNekowbXVfSTQxdGRfeHpTMmpiZ2RGMmE4blY0NFRrd3hTVl9mbVhzUUYtM3dkdThRLU9PX2M0bWVnWWFvMGpUcFdmTnZOVko4QUtJMFZjOGtHbm52ZExnT081Yl9ObUV6LVNrcU9vOXpON2I2SEdJNGlHbzFSdmJHSVFYcjdMSEl4aTRtaUZ4WHc4ZVo2SXdhdWIzMEFiSVMtb2tVVHFSZ3RRYUM3ZzJMdlZiMHR4c195WkYzdA",
     "published": "Wed, 12 Aug 2026 03:08:38 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNekowbXVfSTQxdGRfeHpTMmpiZ2RGMmE4blY0NFRrd3hTVl9mbVhzUUYtM3dkdThRLU9PX2M0bWVnWWFvMGpUcFdmTnZOVko4QUtJMFZjOGtHbm52ZExnT081Yl9ObUV6LVNrcU9vOXpON2I2SEdJNGlHbzFSdmJHSVFYcjdMSEl4aTRtaUZ4WHc4ZVo2SXdhdWIzMEFiSVMtb2tVVHFSZ3RRYUM3ZzJMdlZiMHR4c195WkYzdA?oc=5\" target=\"_blank\">The AI race is moving into data centers as Alibaba Cloud cuts delivery time to 100 days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechNode</font>",
-    "fetched_at": "2026-08-12T18:07:26.283138+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "09b494519e57b8c8": {
-    "id": "09b494519e57b8c8",
-    "group": "OVERALL",
-    "item": "ai_price_cuts",
-    "title": "Will open-weight models kill 'computing power demand'? Morgan Stanley deduces three futures of AI - PANews",
-    "title_norm": "will open weight models kill computing power demand morgan stanley deduces three futures of ai panews",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90VFVVNE9FV2NROFp3c09ZYnZBWjdLdUpHRkVPbUJOeXpBdTM5Vjd6SGtfODJoR2ZzODZUN1lZNFlhNXBPeTAyWTMwQTBjdFluUW80ZmpkM1JHTTRzeEVxcjQ5SDJyY2E5RjY4ZkRQVmM4U21GU1RmNEZwUVRSMms?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90VFVVNE9FV2NROFp3c09ZYnZBWjdLdUpHRkVPbUJOeXpBdTM5Vjd6SGtfODJoR2ZzODZUN1lZNFlhNXBPeTAyWTMwQTBjdFluUW80ZmpkM1JHTTRzeEVxcjQ5SDJyY2E5RjY4ZkRQVmM4U21GU1RmNEZwUVRSMms",
-    "published": "Tue, 11 Aug 2026 01:33:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE90VFVVNE9FV2NROFp3c09ZYnZBWjdLdUpHRkVPbUJOeXpBdTM5Vjd6SGtfODJoR2ZzODZUN1lZNFlhNXBPeTAyWTMwQTBjdFluUW80ZmpkM1JHTTRzeEVxcjQ5SDJyY2E5RjY4ZkRQVmM4U21GU1RmNEZwUVRSMms?oc=5\" target=\"_blank\">Will open-weight models kill 'computing power demand'? Morgan Stanley deduces three futures of AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PANews</font>",
     "fetched_at": "2026-08-12T18:07:26.283138+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
@@ -499,45 +126,6 @@
     "link_norm": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbnV0cUJmbVllMHByZnVBQ2hnT0pkdFZZUE5haGMwRURjVU9xV041NDloaTkyR0ZwS1hwVmVxUzJlVXp0aWJCSXA5NUwwblFXZDkxN0NiSzAtYnhTN0lJUW9XeVNLelJKOFdGMWRUeVZCT2xFOTA3MHZ1TzE2WmFIV1VIcmxMRVZBbWg4bjExZ1libXk1Snk1ZEFXelZmQlZVSVByclZGWUhUOVVXaHFlVGtTbFFqWEJFSFpob3V0SXctdDd4eWl2Nnoycml3ek9OYktTUUFIN05OY3dMd1hvUnhwUG5EYUdKUWRBM0dFLVlhSm8",
     "published": "Tue, 11 Aug 2026 19:04:14 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbnV0cUJmbVllMHByZnVBQ2hnT0pkdFZZUE5haGMwRURjVU9xV041NDloaTkyR0ZwS1hwVmVxUzJlVXp0aWJCSXA5NUwwblFXZDkxN0NiSzAtYnhTN0lJUW9XeVNLelJKOFdGMWRUeVZCT2xFOTA3MHZ1TzE2WmFIV1VIcmxMRVZBbWg4bjExZ1libXk1Snk1ZEFXelZmQlZVSVByclZGWUhUOVVXaHFlVGtTbFFqWEJFSFpob3V0SXctdDd4eWl2Nnoycml3ek9OYktTUUFIN05OY3dMd1hvUnhwUG5EYUdKUWRBM0dFLVlhSm8?oc=5\" target=\"_blank\">Nebius Is Rising While Oracle Falls: NVIDIA's Massive $500 Billion Funding Plan Pushes the Stocks in Opposite Directions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
-    "fetched_at": "2026-08-12T18:07:26.283138+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "967b289eac211430": {
-    "id": "967b289eac211430",
-    "group": "OVERALL",
-    "item": "ai_price_cuts",
-    "title": "Utho to Acquire 10,000 GPUs for India AI Compute Expansion - ET Datacenters",
-    "title_norm": "utho to acquire 10 000 gpus for india ai compute expansion et datacenters",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd3pUWTBXcGxHYndMQ2xuYWVUR3pvanRCdkREdVF5eXR4REJtamluQTlVb255cExYLUlUZ0ZXdDA3NkhmMlJfWmxUS0RoYU9zYW1YeEdHOXNhbWdINUtETGtWcWFIbUs4aE01ZnM3Q3ZYOGtOQkNKWGduemtLZmtXaGhPYWljMmJwcVFsblVQWjRKYXBiTEdpMVFucDBtcE5naHFrS2NkNUd1UUxpM1Q4TVpJaTZtZWxpcDNqVVlxQWtfN1pwOHk0bnBvZnp2ZExaQnM5bEVfOVFXTm1wNUpqbA?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd3pUWTBXcGxHYndMQ2xuYWVUR3pvanRCdkREdVF5eXR4REJtamluQTlVb255cExYLUlUZ0ZXdDA3NkhmMlJfWmxUS0RoYU9zYW1YeEdHOXNhbWdINUtETGtWcWFIbUs4aE01ZnM3Q3ZYOGtOQkNKWGduemtLZmtXaGhPYWljMmJwcVFsblVQWjRKYXBiTEdpMVFucDBtcE5naHFrS2NkNUd1UUxpM1Q4TVpJaTZtZWxpcDNqVVlxQWtfN1pwOHk0bnBvZnp2ZExaQnM5bEVfOVFXTm1wNUpqbA",
-    "published": "Tue, 11 Aug 2026 10:39:01 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd3pUWTBXcGxHYndMQ2xuYWVUR3pvanRCdkREdVF5eXR4REJtamluQTlVb255cExYLUlUZ0ZXdDA3NkhmMlJfWmxUS0RoYU9zYW1YeEdHOXNhbWdINUtETGtWcWFIbUs4aE01ZnM3Q3ZYOGtOQkNKWGduemtLZmtXaGhPYWljMmJwcVFsblVQWjRKYXBiTEdpMVFucDBtcE5naHFrS2NkNUd1UUxpM1Q4TVpJaTZtZWxpcDNqVVlxQWtfN1pwOHk0bnBvZnp2ZExaQnM5bEVfOVFXTm1wNUpqbA?oc=5\" target=\"_blank\">Utho to Acquire 10,000 GPUs for India AI Compute Expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Datacenters</font>",
-    "fetched_at": "2026-08-12T18:07:26.283138+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "0402ddedc9d2a778": {
-    "id": "0402ddedc9d2a778",
-    "group": "OVERALL",
-    "item": "ai_price_cuts",
-    "title": "BlackRock's Holdings Surpass $6.73 Trillion in Full-Throttle AI Compute Bet, with Memory and Equipment Stocks as Top Adds - finance.biggo.com",
-    "title_norm": "blackrock s holdings surpass 6 73 trillion in full throttle ai compute bet with memory and equipment stocks as top adds finance biggo com",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OdnA2YTdzTGsxeWV4bWNLMldjcXV3VHFTbWVhQ296cnF1ZHpMZGxXa0luakZYdjZuUXI5cGd1NnZ1NW5KSkRORnRpUU03dHdKR3dmZTVQdWhUaHhpMTZsVkg1N1FKTDFMWVg5QkowZ3NXeFE3REE?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OdnA2YTdzTGsxeWV4bWNLMldjcXV3VHFTbWVhQ296cnF1ZHpMZGxXa0luakZYdjZuUXI5cGd1NnZ1NW5KSkRORnRpUU03dHdKR3dmZTVQdWhUaHhpMTZsVkg1N1FKTDFMWVg5QkowZ3NXeFE3REE",
-    "published": "Tue, 11 Aug 2026 03:26:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9OdnA2YTdzTGsxeWV4bWNLMldjcXV3VHFTbWVhQ296cnF1ZHpMZGxXa0luakZYdjZuUXI5cGd1NnZ1NW5KSkRORnRpUU03dHdKR3dmZTVQdWhUaHhpMTZsVkg1N1FKTDFMWVg5QkowZ3NXeFE3REE?oc=5\" target=\"_blank\">BlackRock's Holdings Surpass $6.73 Trillion in Full-Throttle AI Compute Bet, with Memory and Equipment Stocks as Top Adds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
-    "fetched_at": "2026-08-12T18:07:26.283138+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "4f41b5f45144c6d2": {
-    "id": "4f41b5f45144c6d2",
-    "group": "OVERALL",
-    "item": "ai_price_cuts",
-    "title": "Alibaba Cloud's CUBE 5.0 Cuts AI Data-Center Build Time to 100 Days — and Ulanqab Is the New Chinese AIDC Hub - Pandaily",
-    "title_norm": "alibaba cloud s cube 5 0 cuts ai data center build time to 100 days and ulanqab is the new chinese aidc hub pandaily",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFFQOUZUR1p3eHFwRUducU9wWUc4cUdOU1Zod2lpMm80VUo4UDh0UGN1VGlQWVViQTJQa0hhOUJlWjZRWHpMMGZRWEtaY1ZGY2FWNHkwR19Edk9kaGlkaFMyd0prY1VtR3dSRXRvaU92N3pFRHBIdnZ4RXJ0MVh3dDlBVjlJRzd4SUdHdm1R?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFFQOUZUR1p3eHFwRUducU9wWUc4cUdOU1Zod2lpMm80VUo4UDh0UGN1VGlQWVViQTJQa0hhOUJlWjZRWHpMMGZRWEtaY1ZGY2FWNHkwR19Edk9kaGlkaFMyd0prY1VtR3dSRXRvaU92N3pFRHBIdnZ4RXJ0MVh3dDlBVjlJRzd4SUdHdm1R",
-    "published": "Tue, 11 Aug 2026 02:17:37 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxONFFQOUZUR1p3eHFwRUducU9wWUc4cUdOU1Zod2lpMm80VUo4UDh0UGN1VGlQWVViQTJQa0hhOUJlWjZRWHpMMGZRWEtaY1ZGY2FWNHkwR19Edk9kaGlkaFMyd0prY1VtR3dSRXRvaU92N3pFRHBIdnZ4RXJ0MVh3dDlBVjlJRzd4SUdHdm1R?oc=5\" target=\"_blank\">Alibaba Cloud's CUBE 5.0 Cuts AI Data-Center Build Time to 100 Days — and Ulanqab Is the New Chinese AIDC Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pandaily</font>",
     "fetched_at": "2026-08-12T18:07:26.283138+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
@@ -875,19 +463,6 @@
     "fetched_at": "2026-08-13T18:07:07.638774+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
-  "59878ab0a58b54ff": {
-    "id": "59878ab0a58b54ff",
-    "group": "OVERALL",
-    "item": "ai_price_cuts",
-    "title": "20 New Technology Trends for 2026 | Emerging Technologies 2026 - Simplilearn.com",
-    "title_norm": "20 new technology trends for 2026 emerging technologies 2026 simplilearn com",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96Qlh1S3htejlyck9TZjZacklqZ0dpMUpwRWJxMWtkQkVpSUl6c0I0S0M5MWdfV0JQOU0yZkpfVVFUN3kwZGFyMHFlWWdaYnIwWmpDOGxIOG96NFNYS2JfWi1VcjJxTGVzSEppUVpScGlqTksy?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96Qlh1S3htejlyck9TZjZacklqZ0dpMUpwRWJxMWtkQkVpSUl6c0I0S0M5MWdfV0JQOU0yZkpfVVFUN3kwZGFyMHFlWWdaYnIwWmpDOGxIOG96NFNYS2JfWi1VcjJxTGVzSEppUVpScGlqTksy",
-    "published": "Tue, 11 Aug 2026 07:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE96Qlh1S3htejlyck9TZjZacklqZ0dpMUpwRWJxMWtkQkVpSUl6c0I0S0M5MWdfV0JQOU0yZkpfVVFUN3kwZGFyMHFlWWdaYnIwWmpDOGxIOG96NFNYS2JfWi1VcjJxTGVzSEppUVpScGlqTksy?oc=5\" target=\"_blank\">20 New Technology Trends for 2026 | Emerging Technologies 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Simplilearn.com</font>",
-    "fetched_at": "2026-08-13T18:07:07.638774+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "ee0b98a7bf220cd6": {
     "id": "ee0b98a7bf220cd6",
     "group": "OVERALL",
@@ -898,19 +473,6 @@
     "link_norm": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92NzBCU2JMVGp4ZVpTUkhOdFhwZUJFUmp1c0JKaWtIMjJnMk5TTHJWbE9mLURFbTJRUmo3b1pyRUFUekJXb1d0cVVaQTQ4NGpudy1hRmxn0gFWQVVfeXFMT3Y3MEJTYkxUanhlWlNSSE50WHBlQkVSanVzQkppa0gyMmcyTlNMclZsT2YtREVtMlFSajdvWnJFQVR6QldvV3RxVVpBNDg0am53LWFGbGc",
     "published": "Wed, 12 Aug 2026 11:48:02 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE92NzBCU2JMVGp4ZVpTUkhOdFhwZUJFUmp1c0JKaWtIMjJnMk5TTHJWbE9mLURFbTJRUmo3b1pyRUFUekJXb1d0cVVaQTQ4NGpudy1hRmxn0gFWQVVfeXFMT3Y3MEJTYkxUanhlWlNSSE50WHBlQkVSanVzQkppa0gyMmcyTlNMclZsT2YtREVtMlFSajdvWnJFQVR6QldvV3RxVVpBNDg0am53LWFGbGc?oc=5\" target=\"_blank\">Frontier-KI Preissturz um 90 %: Wie China den globalen Technologie-Markt auf den Kopf stellt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Xpert.Digital - Konrad Wolfenstein</font>",
-    "fetched_at": "2026-08-13T18:07:07.638774+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "f49ee5b095b00965": {
-    "id": "f49ee5b095b00965",
-    "group": "OVERALL",
-    "item": "ai_price_cuts",
-    "title": "Nvidia places $500 billion AI compute financing burden on Wall Street - TechStock²",
-    "title_norm": "nvidia places 500 billion ai compute financing burden on wall street techstock2",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTEdrbllDaExUWkFXZ244R2VwWG1tTEd3SDAzT0J5VE5SVGdwOTdFdlJSS1ZXODhWcnNtSlFLZWVrNTliSm9CNFh4bDJ6amo2WllDVW5sSm4xeFdoRmZyTzVOcmc5cDVRNnJ1VWJlNVRYTlEwMFpDQkNqWGhBaXViclA3YXU1LVVrVkV0aVE3UWN4NUJkQzhxUw?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTEdrbllDaExUWkFXZ244R2VwWG1tTEd3SDAzT0J5VE5SVGdwOTdFdlJSS1ZXODhWcnNtSlFLZWVrNTliSm9CNFh4bDJ6amo2WllDVW5sSm4xeFdoRmZyTzVOcmc5cDVRNnJ1VWJlNVRYTlEwMFpDQkNqWGhBaXViclA3YXU1LVVrVkV0aVE3UWN4NUJkQzhxUw",
-    "published": "Mon, 10 Aug 2026 22:42:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNTEdrbllDaExUWkFXZ244R2VwWG1tTEd3SDAzT0J5VE5SVGdwOTdFdlJSS1ZXODhWcnNtSlFLZWVrNTliSm9CNFh4bDJ6amo2WllDVW5sSm4xeFdoRmZyTzVOcmc5cDVRNnJ1VWJlNVRYTlEwMFpDQkNqWGhBaXViclA3YXU1LVVrVkV0aVE3UWN4NUJkQzhxUw?oc=5\" target=\"_blank\">Nvidia places $500 billion AI compute financing burden on Wall Street</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock²</font>",
     "fetched_at": "2026-08-13T18:07:07.638774+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
@@ -999,19 +561,6 @@
     "link_norm": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR1Vtb1REVUlURUY3eUxnMThNZ2V4UFlOQkZlVzlKcGZEa0VvTHlsOS1JaDQ1VmlkQmZVQndjcjhPZzlDckR3X1JadFpuRVdzOU8wTTk3UTVVNVJtUTJPd0RXWVNhQ1ZIVE5mYl82VHdPVVB2ZERKbmdwUVpOdHdWMVRGNkU2YmtNLThGMFNGblRXZzFOVzFWS0V4RVRNLTFrbEVxUm9fT2FPWjU5dElWTGNzNlR1ajIzOFhPWkI1Wm5JbDNPTkM1eXlBVkJ5V0JveXE1QjhDWk8",
     "published": "Thu, 13 Aug 2026 02:04:00 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR1Vtb1REVUlURUY3eUxnMThNZ2V4UFlOQkZlVzlKcGZEa0VvTHlsOS1JaDQ1VmlkQmZVQndjcjhPZzlDckR3X1JadFpuRVdzOU8wTTk3UTVVNVJtUTJPd0RXWVNhQ1ZIVE5mYl82VHdPVVB2ZERKbmdwUVpOdHdWMVRGNkU2YmtNLThGMFNGblRXZzFOVzFWS0V4RVRNLTFrbEVxUm9fT2FPWjU5dElWTGNzNlR1ajIzOFhPWkI1Wm5JbDNPTkM1eXlBVkJ5V0JveXE1QjhDWk8?oc=5\" target=\"_blank\">Cogent Communications Sees AI Traffic Upside, but Infrastructure Bottlenecks Loom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tradingview.com</font>",
-    "fetched_at": "2026-08-14T18:03:04.244966+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "dc366608c2c78577": {
-    "id": "dc366608c2c78577",
-    "group": "OVERALL",
-    "item": "power_permit_delays",
-    "title": "5 Utility Stocks That Could Benefit From AI: BCA Research - American Electric Power (NASDAQ:AEP), Atmos E - Benzinga",
-    "title_norm": "5 utility stocks that could benefit from ai bca research american electric power atmos e benzinga",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM0RUSURtY1NyWnR0SkpNLXRrckthYnUzQ0hoeTVvX0pheC1vZUhsN3daMG1nSzNCOGNzY1FZQkExMi1BTFlncnRydnp0Sm9uZVhSY2ZIX0ozU29JQkdCa18tSEtSQTVlRkM4bGFnVURLQnJ4Ul82WkxZSWdNM3E3UmNHTEJubW43ekNIMldxM3pFV0pfQ091UDgzMGk?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM0RUSURtY1NyWnR0SkpNLXRrckthYnUzQ0hoeTVvX0pheC1vZUhsN3daMG1nSzNCOGNzY1FZQkExMi1BTFlncnRydnp0Sm9uZVhSY2ZIX0ozU29JQkdCa18tSEtSQTVlRkM4bGFnVURLQnJ4Ul82WkxZSWdNM3E3UmNHTEJubW43ekNIMldxM3pFV0pfQ091UDgzMGk",
-    "published": "Tue, 11 Aug 2026 14:00:10 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOM0RUSURtY1NyWnR0SkpNLXRrckthYnUzQ0hoeTVvX0pheC1vZUhsN3daMG1nSzNCOGNzY1FZQkExMi1BTFlncnRydnp0Sm9uZVhSY2ZIX0ozU29JQkdCa18tSEtSQTVlRkM4bGFnVURLQnJ4Ul82WkxZSWdNM3E3UmNHTEJubW43ekNIMldxM3pFV0pfQ091UDgzMGk?oc=5\" target=\"_blank\">5 Utility Stocks That Could Benefit From AI: BCA Research - American Electric Power (NASDAQ:AEP), Atmos E</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
     "fetched_at": "2026-08-14T18:03:04.244966+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
@@ -1247,19 +796,6 @@
     "llm_model": "gpt-5-mini",
     "llm_classified_at": "2026-08-14T18:03:28.345998+09:00"
   },
-  "b737bb5156506af6": {
-    "id": "b737bb5156506af6",
-    "group": "OVERALL",
-    "item": "capex_up_revenue_down",
-    "title": "Marvell Technology stock outlook in 2026: How to trade MRVL on Bybit - Bybit",
-    "title_norm": "marvell technology stock outlook in 2026 how to trade mrvl on bybit bybit",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TZ0drVzVJU0ZvMW9PR25RLU9aT0tYeUFGZk1XemQzX2hQWVM1WGtIU3lTN2hWbXVxUjAtY1RHUFV6aXpVRW56V0xaVDlPcDR3YnBLd0JRMTROczZyQjBPOGhhUGh4dVVaYzVCQU5B?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TZ0drVzVJU0ZvMW9PR25RLU9aT0tYeUFGZk1XemQzX2hQWVM1WGtIU3lTN2hWbXVxUjAtY1RHUFV6aXpVRW56V0xaVDlPcDR3YnBLd0JRMTROczZyQjBPOGhhUGh4dVVaYzVCQU5B",
-    "published": "Tue, 11 Aug 2026 07:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9TZ0drVzVJU0ZvMW9PR25RLU9aT0tYeUFGZk1XemQzX2hQWVM1WGtIU3lTN2hWbXVxUjAtY1RHUFV6aXpVRW56V0xaVDlPcDR3YnBLd0JRMTROczZyQjBPOGhhUGh4dVVaYzVCQU5B?oc=5\" target=\"_blank\">Marvell Technology stock outlook in 2026: How to trade MRVL on Bybit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bybit</font>",
-    "fetched_at": "2026-08-14T18:03:04.244966+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "05b22dbceaaf64ab": {
     "id": "05b22dbceaaf64ab",
     "group": "OVERALL",
@@ -1297,19 +833,6 @@
     "published": "Thu, 13 Aug 2026 12:30:07 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPZTFKQ1ZpN1BMekZNRlJMcEJnSWRLVGlmUmh6d0FaOFI3c3FkVk5WRHZVU1JyZ3g4OUpwYmlsdk10dXYyZHY1ZHVJWGlnRHRUOG8xZTQ2NmZ5ZVFsa3RGNnZ3MXdEV3QwSWdVYzUzbVVmUGx5MldrTU8tRnd3NlRhZkhBYkJLN2V6NXNobHhvTGhXcWxMMWZGaWc4eDlHTk4xQVdGQTNaM2UtLWhUZFdPVVJvX2tKMkoyUW5aM2Y0UdIBvwFBVV95cUxPVzRkb1hQMEI5TFpLLWozZTd1T2xmMHkwd2d2aGdOUDhFb3JSdzJ0YmtDVWhieVM4S2c0V0NtVU80SmhsUTFEWGpmblZmUGxlSGFFdlg0VU9CRFZOMUc3cGdOOWp6QzRxT0RNcHVOaUpiaS1XSUFmaTk5VV92eFBYai1ua0NYbzBGZmU3VkxmTWxOdzdPZFRpR2hXc01pY29EVF96bnJPdGktTHpnSWlUa1ViNzFtd3NIeUtPUXhSbw?oc=5\" target=\"_blank\">Macroscope | Could China be a hedge against risk of AI investment boom going bust?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
     "fetched_at": "2026-08-14T18:03:04.244966+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "db6ef498ddc7cd5d": {
-    "id": "db6ef498ddc7cd5d",
-    "group": "OVERALL",
-    "item": "power_permit_delays",
-    "title": "Keel Infrastructure Ends Bitcoin Mining, Pivots to AI Data Centers - CryptoRank",
-    "title_norm": "keel infrastructure ends bitcoin mining pivots to ai data centers cryptorank",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVGFncXhHRVFGRUJiSk04YzZBM0ZxTVh2QUVTUDl6elA1bHdWeDdYTDA4WmJSV3lYTHhyVDhXbDhkaUNHZ0dBOC1mQU5GYWJEV2tJTW5JM1labkpVMll3ZnpaYzhSbnJScnV1ZlVOOGxTbVBfMWlKVXFqR1IzcWtVX3c0dDR4bmMtRkR1SHU5MmVEWVZObFVNTWh3OA?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVGFncXhHRVFGRUJiSk04YzZBM0ZxTVh2QUVTUDl6elA1bHdWeDdYTDA4WmJSV3lYTHhyVDhXbDhkaUNHZ0dBOC1mQU5GYWJEV2tJTW5JM1labkpVMll3ZnpaYzhSbnJScnV1ZlVOOGxTbVBfMWlKVXFqR1IzcWtVX3c0dDR4bmMtRkR1SHU5MmVEWVZObFVNTWh3OA",
-    "published": "Mon, 10 Aug 2026 22:48:29 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOVGFncXhHRVFGRUJiSk04YzZBM0ZxTVh2QUVTUDl6elA1bHdWeDdYTDA4WmJSV3lYTHhyVDhXbDhkaUNHZ0dBOC1mQU5GYWJEV2tJTW5JM1labkpVMll3ZnpaYzhSbnJScnV1ZlVOOGxTbVBfMWlKVXFqR1IzcWtVX3c0dDR4bmMtRkR1SHU5MmVEWVZObFVNTWh3OA?oc=5\" target=\"_blank\">Keel Infrastructure Ends Bitcoin Mining, Pivots to AI Data Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
-    "fetched_at": "2026-08-15T17:21:37.894629+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
   "0da29991256fea38": {
@@ -1639,19 +1162,6 @@
     },
     "llm_model": "gpt-5-mini",
     "llm_classified_at": "2026-08-16T17:23:23.139667+09:00"
-  },
-  "630d6523b767ac5c": {
-    "id": "630d6523b767ac5c",
-    "group": "OVERALL",
-    "item": "power_permit_delays",
-    "title": "Stock surges! Fermi (FRMI.US) secures first AI data center lease, locking in a $6.5 billion, 15-year contract - 富途牛牛",
-    "title_norm": "stock surges fermi secures first ai data center lease locking in a 6 5 billion 15 year contract",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcFdUdTFPMzZLdzhicHJRd0JlZXktVV9JV055OW5pWGctVWk1ZXl3ZGdCUTI2aHBscGt3bGlEMTdzMWUwZGV1a1FoZW0xMHVNT2I0a0E4N0JUbF9XSDZHbVFTcWJkYWhYWnFaUTRXbXN2bjVMOFFxREMyUGMyRkduaHVjYThfWFlWR3VEbi1KNEhWX0J5S3RUcW4zS1F1RHVBY09B?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcFdUdTFPMzZLdzhicHJRd0JlZXktVV9JV055OW5pWGctVWk1ZXl3ZGdCUTI2aHBscGt3bGlEMTdzMWUwZGV1a1FoZW0xMHVNT2I0a0E4N0JUbF9XSDZHbVFTcWJkYWhYWnFaUTRXbXN2bjVMOFFxREMyUGMyRkduaHVjYThfWFlWR3VEbi1KNEhWX0J5S3RUcW4zS1F1RHVBY09B",
-    "published": "Tue, 11 Aug 2026 02:19:19 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNcFdUdTFPMzZLdzhicHJRd0JlZXktVV9JV055OW5pWGctVWk1ZXl3ZGdCUTI2aHBscGt3bGlEMTdzMWUwZGV1a1FoZW0xMHVNT2I0a0E4N0JUbF9XSDZHbVFTcWJkYWhYWnFaUTRXbXN2bjVMOFFxREMyUGMyRkduaHVjYThfWFlWR3VEbi1KNEhWX0J5S3RUcW4zS1F1RHVBY09B?oc=5\" target=\"_blank\">Stock surges! Fermi (FRMI.US) secures first AI data center lease, locking in a $6.5 billion, 15-year contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
-    "fetched_at": "2026-08-16T17:23:13.847202+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
   },
   "fe9e578661d0e81d": {
     "id": "fe9e578661d0e81d",
@@ -2128,19 +1638,6 @@
     "fetched_at": "2026-08-18T17:30:43.825900+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
-  "d11b3d3cf071c446": {
-    "id": "d11b3d3cf071c446",
-    "group": "OVERALL",
-    "item": "power_permit_delays",
-    "title": "Bloom Energy (BE) Expands Its Reach Into AI Manufacturing Power - sg.finance.yahoo.com",
-    "title_norm": "bloom energy expands its reach into ai manufacturing power sg finance yahoo com",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdlkxZmFZTGJOZFNkWWlISVR1Z1R3RWhqd0xJVlhYbVlFZXRyd0hRa1ZNTXBfSE5DcWpoODQ2MlZwY05iUjE4Y2hoSnNCSjJFcC1WQXRQdjAyNGlrZmJSbU1HV25jVjFKZUNiM2FMR1owT2JWQVo5YkNCV1NrcTJqczIzc3o?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdlkxZmFZTGJOZFNkWWlISVR1Z1R3RWhqd0xJVlhYbVlFZXRyd0hRa1ZNTXBfSE5DcWpoODQ2MlZwY05iUjE4Y2hoSnNCSjJFcC1WQXRQdjAyNGlrZmJSbU1HV25jVjFKZUNiM2FMR1owT2JWQVo5YkNCV1NrcTJqczIzc3o",
-    "published": "Mon, 10 Aug 2026 18:19:15 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPdlkxZmFZTGJOZFNkWWlISVR1Z1R3RWhqd0xJVlhYbVlFZXRyd0hRa1ZNTXBfSE5DcWpoODQ2MlZwY05iUjE4Y2hoSnNCSjJFcC1WQXRQdjAyNGlrZmJSbU1HV25jVjFKZUNiM2FMR1owT2JWQVo5YkNCV1NrcTJqczIzc3o?oc=5\" target=\"_blank\">Bloom Energy (BE) Expands Its Reach Into AI Manufacturing Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sg.finance.yahoo.com</font>",
-    "fetched_at": "2026-08-18T17:30:43.825900+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "05592b340fbf7ad5": {
     "id": "05592b340fbf7ad5",
     "group": "OVERALL",
@@ -2292,19 +1789,6 @@
     "fetched_at": "2026-08-18T17:30:43.825900+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
-  "a0173a9fa5340c62": {
-    "id": "a0173a9fa5340c62",
-    "group": "OVERALL",
-    "item": "power_permit_delays",
-    "title": "Nvidia invests $3 billion in Lancium for AI power access - ET Datacenters",
-    "title_norm": "nvidia invests 3 billion in lancium for ai power access et datacenters",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcGliS0VQblNMMnJ2Q09IckZSeDViYlpIZWFCVEt0M1FLcHZoUzgteEhnSnpDemtZWXdQT0V1STJEY3VSU3NicmJ0R0FjYW9PeUhxMGtYSExvMEFmbG1DazktNnI0YXAwN2hqdk80OWZ2eERZOHZBc3FBeDYzM3lQS2sxYzdqWjh4ZVNGUi1oZzlsdE1PN0REN2NVRE9TWTU3cmlBZ1RiUW03a3FkQ0ZTUW9XUjdrcThWbVI4UWptVEk2R2J4VkNOOXB4R09wVUt0cXg4ZGZEcG9nWkRiVkE?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcGliS0VQblNMMnJ2Q09IckZSeDViYlpIZWFCVEt0M1FLcHZoUzgteEhnSnpDemtZWXdQT0V1STJEY3VSU3NicmJ0R0FjYW9PeUhxMGtYSExvMEFmbG1DazktNnI0YXAwN2hqdk80OWZ2eERZOHZBc3FBeDYzM3lQS2sxYzdqWjh4ZVNGUi1oZzlsdE1PN0REN2NVRE9TWTU3cmlBZ1RiUW03a3FkQ0ZTUW9XUjdrcThWbVI4UWptVEk2R2J4VkNOOXB4R09wVUt0cXg4ZGZEcG9nWkRiVkE",
-    "published": "Tue, 11 Aug 2026 03:18:59 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcGliS0VQblNMMnJ2Q09IckZSeDViYlpIZWFCVEt0M1FLcHZoUzgteEhnSnpDemtZWXdQT0V1STJEY3VSU3NicmJ0R0FjYW9PeUhxMGtYSExvMEFmbG1DazktNnI0YXAwN2hqdk80OWZ2eERZOHZBc3FBeDYzM3lQS2sxYzdqWjh4ZVNGUi1oZzlsdE1PN0REN2NVRE9TWTU3cmlBZ1RiUW03a3FkQ0ZTUW9XUjdrcThWbVI4UWptVEk2R2J4VkNOOXB4R09wVUt0cXg4ZGZEcG9nWkRiVkE?oc=5\" target=\"_blank\">Nvidia invests $3 billion in Lancium for AI power access</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Datacenters</font>",
-    "fetched_at": "2026-08-18T17:30:43.825900+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "4062ee085ca1bb99": {
     "id": "4062ee085ca1bb99",
     "group": "OVERALL",
@@ -2445,19 +1929,6 @@
     "link_norm": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZmZVR1laOHd5SmU1Xy1LMEVldWJCOVVZNHM3bER5VV92X3VjdUtpSW04eVRvZ1FXdWZ6ODVrb1Y4bHpFeTl0MWs3YUpaSGpJcE9BTGV4MXJ2WFdQNDdKTldFaDk5YXdKdW9LSVQwS3NmSThPLXNKX3VtUUkwTEhJUlFUeTRFWDVFMkZxemFDbE5fVjZCUHV2VWxnNWwwOFhtQjQzVEtXYnoyODlTZW40",
     "published": "Wed, 12 Aug 2026 16:28:53 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPZmZVR1laOHd5SmU1Xy1LMEVldWJCOVVZNHM3bER5VV92X3VjdUtpSW04eVRvZ1FXdWZ6ODVrb1Y4bHpFeTl0MWs3YUpaSGpJcE9BTGV4MXJ2WFdQNDdKTldFaDk5YXdKdW9LSVQwS3NmSThPLXNKX3VtUUkwTEhJUlFUeTRFWDVFMkZxemFDbE5fVjZCUHV2VWxnNWwwOFhtQjQzVEtXYnoyODlTZW40?oc=5\" target=\"_blank\">CoreWeave, Super Micro surge on signs of insatiable AI demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
-    "fetched_at": "2026-08-18T17:30:43.825900+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "6356ca0616856261": {
-    "id": "6356ca0616856261",
-    "group": "OVERALL",
-    "item": "capex_up_revenue_down",
-    "title": "monday.com Shares Slip as AI ARR Surges, Outlook on Revenue Disappoints - ts2.tech",
-    "title_norm": "monday com shares slip as ai arr surges outlook on revenue disappoints ts2 tech",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZE9TWERwajJJLXVkd2x6WENqekdNRHg2cmlhVXdDQWxZcUZxMEk4a09vSF9MSFpyUVJFMTVLeUZLV1FHNXhFNzlfdHpacm9uWlZBemp5WlJuY0t5OEttb3dQTDFCTGtRalA5UGtrR0xEeDd6ZDItSEdjb3Y1S3NwYlhweEVKT0VPZHRHcDJzNGhzSGc?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZE9TWERwajJJLXVkd2x6WENqekdNRHg2cmlhVXdDQWxZcUZxMEk4a09vSF9MSFpyUVJFMTVLeUZLV1FHNXhFNzlfdHpacm9uWlZBemp5WlJuY0t5OEttb3dQTDFCTGtRalA5UGtrR0xEeDd6ZDItSEdjb3Y1S3NwYlhweEVKT0VPZHRHcDJzNGhzSGc",
-    "published": "Mon, 10 Aug 2026 21:31:07 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPZE9TWERwajJJLXVkd2x6WENqekdNRHg2cmlhVXdDQWxZcUZxMEk4a09vSF9MSFpyUVJFMTVLeUZLV1FHNXhFNzlfdHpacm9uWlZBemp5WlJuY0t5OEttb3dQTDFCTGtRalA5UGtrR0xEeDd6ZDItSEdjb3Y1S3NwYlhweEVKT0VPZHRHcDJzNGhzSGc?oc=5\" target=\"_blank\">monday.com Shares Slip as AI ARR Surges, Outlook on Revenue Disappoints</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ts2.tech</font>",
     "fetched_at": "2026-08-18T17:30:43.825900+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
@@ -2670,19 +2141,6 @@
     "link_norm": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT09tdzZUc3JTU2o5Ml9iUXJNejA5UVV3QzVIaUJ5OURSWXBGSEoyMjNxSFF0RWNqNjNFZ1F4dG1WNzRXTzZ4NHBMbjZwVXpuWTlTcjFRYkI0Q0ttMzMwM09fcGs4QVhvM2Q1V1RsYmNxTk9pbnE5eThPVlFKN1JjNzdsX0dSbGktZ1JaUkVJSGQzX2xjY2NmQnZuUUo4TFRCcTEtS0xCMlhWQVRmSEd0Q2VVOWFaQ01ZdDZnZDg5WWxVRGp4OUdz",
     "published": "Mon, 17 Aug 2026 15:00:39 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNT09tdzZUc3JTU2o5Ml9iUXJNejA5UVV3QzVIaUJ5OURSWXBGSEoyMjNxSFF0RWNqNjNFZ1F4dG1WNzRXTzZ4NHBMbjZwVXpuWTlTcjFRYkI0Q0ttMzMwM09fcGs4QVhvM2Q1V1RsYmNxTk9pbnE5eThPVlFKN1JjNzdsX0dSbGktZ1JaUkVJSGQzX2xjY2NmQnZuUUo4TFRCcTEtS0xCMlhWQVRmSEd0Q2VVOWFaQ01ZdDZnZDg5WWxVRGp4OUdz?oc=5\" target=\"_blank\">Fuel Cells Beat Gas Turbines at Permits: Bloom Energy Stock Jumps on Nebius Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
-    "fetched_at": "2026-08-19T17:31:33.621284+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "6044c05735310923": {
-    "id": "6044c05735310923",
-    "group": "OVERALL",
-    "item": "power_permit_delays",
-    "title": "Stocks to watch on Monday after hours: SPG, QUBT, RIOT (QUBT:NASDAQ) - Seeking Alpha",
-    "title_norm": "stocks to watch on monday after hours spg qubt riot seeking alpha",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVnppdkYzSDM0OFVkbXdHRTZzcWloUmlVckhIcmVwajBXeXNHZTZieE85dE1aT09lXzNZX2NLZDczSEZ5R00weDZIdGNrTFFQQ2NELXJobHRBNklvSkdVVVJWRkEtVHZlUkJObExTUEJweFRTUjZjVTg4ekdrY0huUGJDMTF4SFpXQjRsdUNsQXNDMWs?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVnppdkYzSDM0OFVkbXdHRTZzcWloUmlVckhIcmVwajBXeXNHZTZieE85dE1aT09lXzNZX2NLZDczSEZ5R00weDZIdGNrTFFQQ2NELXJobHRBNklvSkdVVVJWRkEtVHZlUkJObExTUEJweFRTUjZjVTg4ekdrY0huUGJDMTF4SFpXQjRsdUNsQXNDMWs",
-    "published": "Mon, 10 Aug 2026 20:35:01 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPVnppdkYzSDM0OFVkbXdHRTZzcWloUmlVckhIcmVwajBXeXNHZTZieE85dE1aT09lXzNZX2NLZDczSEZ5R00weDZIdGNrTFFQQ2NELXJobHRBNklvSkdVVVJWRkEtVHZlUkJObExTUEJweFRTUjZjVTg4ekdrY0huUGJDMTF4SFpXQjRsdUNsQXNDMWs?oc=5\" target=\"_blank\">Stocks to watch on Monday after hours: SPG, QUBT, RIOT (QUBT:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
     "fetched_at": "2026-08-19T17:31:33.621284+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
@@ -3570,19 +3028,6 @@
     "fetched_at": "2026-08-20T17:32:01.867741+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
-  "5f6643f45b65e8dd": {
-    "id": "5f6643f45b65e8dd",
-    "group": "OVERALL",
-    "item": "capex_up_revenue_down",
-    "title": "CoreWeave boosts 2026 spending plan, beats quarterly estimates on AI demand surge - Reuters",
-    "title_norm": "coreweave boosts 2026 spending plan beats quarterly estimates on ai demand surge reuters",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVJvWFV5SDAtNEhEZmZINXZ6TGs5ZXd3bkh1NEJCNi03OWFMYzJtY2psZWowOEtsMHNHazdOMUdybnc3S01vUjdVX1duN3E2bUxvZXFPZDNVR29Obm9jR1JIU2xWR1ZhWGh5WnI5ZWxabVA5dXphWk1OTVc2UEV1UjZpMmpZWHg5dVpEaVFkUjd6dV9HaUxTQldpMA?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVJvWFV5SDAtNEhEZmZINXZ6TGs5ZXd3bkh1NEJCNi03OWFMYzJtY2psZWowOEtsMHNHazdOMUdybnc3S01vUjdVX1duN3E2bUxvZXFPZDNVR29Obm9jR1JIU2xWR1ZhWGh5WnI5ZWxabVA5dXphWk1OTVc2UEV1UjZpMmpZWHg5dVpEaVFkUjd6dV9HaUxTQldpMA",
-    "published": "Tue, 11 Aug 2026 07:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVJvWFV5SDAtNEhEZmZINXZ6TGs5ZXd3bkh1NEJCNi03OWFMYzJtY2psZWowOEtsMHNHazdOMUdybnc3S01vUjdVX1duN3E2bUxvZXFPZDNVR29Obm9jR1JIU2xWR1ZhWGh5WnI5ZWxabVA5dXphWk1OTVc2UEV1UjZpMmpZWHg5dVpEaVFkUjd6dV9HaUxTQldpMA?oc=5\" target=\"_blank\">CoreWeave boosts 2026 spending plan, beats quarterly estimates on AI demand surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-    "fetched_at": "2026-08-20T17:32:01.867741+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "bbc3a7bd1a806cd6": {
     "id": "bbc3a7bd1a806cd6",
     "group": "OVERALL",
@@ -3901,19 +3346,6 @@
     "fetched_at": "2026-08-21T17:34:56.388004+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
-  "677f6775950759ad": {
-    "id": "677f6775950759ad",
-    "group": "OVERALL",
-    "item": "ai_price_cuts",
-    "title": "AI Computing Power Emerges as Tradable Asset Class with CME's New Compute Futures Contracts - Estimate Uncertainty - Vinanet",
-    "title_norm": "ai computing power emerges as tradable asset class with cme s new compute futures contracts estimate uncertainty vinanet",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdGpXTHF5Tlp6NU9fZi1DM1F6NDRzbFAwM1JLQzFFMEpuZGVWTW5GTVBfcjIyck43c3ZsSEhsTjE1OVBjNjBKckFDSi1PY3dxWU1vci15UFVQX0RaWEJzVHZTUjdTUjB2Si13TERZTkE1bGxjQ1hla1V3cVNFd29SRmM1QlJ6TkpMR0c0YjVuXy10cW1TNXpRY3U4Tzg4MlY5aVRpOFZKLVVWRGZ1NUhLLTg5V1hFUmlUMzhsOXlLaHRUSENFLWdtTi05QzI?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdGpXTHF5Tlp6NU9fZi1DM1F6NDRzbFAwM1JLQzFFMEpuZGVWTW5GTVBfcjIyck43c3ZsSEhsTjE1OVBjNjBKckFDSi1PY3dxWU1vci15UFVQX0RaWEJzVHZTUjdTUjB2Si13TERZTkE1bGxjQ1hla1V3cVNFd29SRmM1QlJ6TkpMR0c0YjVuXy10cW1TNXpRY3U4Tzg4MlY5aVRpOFZKLVVWRGZ1NUhLLTg5V1hFUmlUMzhsOXlLaHRUSENFLWdtTi05QzI",
-    "published": "Tue, 11 Aug 2026 07:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQdGpXTHF5Tlp6NU9fZi1DM1F6NDRzbFAwM1JLQzFFMEpuZGVWTW5GTVBfcjIyck43c3ZsSEhsTjE1OVBjNjBKckFDSi1PY3dxWU1vci15UFVQX0RaWEJzVHZTUjdTUjB2Si13TERZTkE1bGxjQ1hla1V3cVNFd29SRmM1QlJ6TkpMR0c0YjVuXy10cW1TNXpRY3U4Tzg4MlY5aVRpOFZKLVVWRGZ1NUhLLTg5V1hFUmlUMzhsOXlLaHRUSENFLWdtTi05QzI?oc=5\" target=\"_blank\">AI Computing Power Emerges as Tradable Asset Class with CME's New Compute Futures Contracts - Estimate Uncertainty</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vinanet</font>",
-    "fetched_at": "2026-08-21T17:34:56.388004+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
   "bb46606860a525a4": {
     "id": "bb46606860a525a4",
     "group": "OVERALL",
@@ -3963,19 +3395,6 @@
     "link_norm": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuSy1FSklyWnAxQk5Vb2JrbUxKRDBQMklqVG14cUl2OVdJSkZsR2NHaHliN3VKUjJldjQzR1hObHdZakIzVjdRQ05MU0Z2cmVHdUtoUDhsUmFXZw",
     "published": "Tue, 18 Aug 2026 07:00:00 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuSy1FSklyWnAxQk5Vb2JrbUxKRDBQMklqVG14cUl2OVdJSkZsR2NHaHliN3VKUjJldjQzR1hObHdZakIzVjdRQ05MU0Z2cmVHdUtoUDhsUmFXZw?oc=5\" target=\"_blank\">My 10 Top AI Penny Stocks to Watch in August 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">timothysykes.com</font>",
-    "fetched_at": "2026-08-21T17:34:56.388004+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "01410c458b9b6ecb": {
-    "id": "01410c458b9b6ecb",
-    "group": "OVERALL",
-    "item": "ai_price_cuts",
-    "title": "CoreWeave expects Q2 revenue near $2.55B, doubling year over year - Crypto Briefing",
-    "title_norm": "coreweave expects q2 revenue near 2 55b doubling year over year crypto briefing",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fSmNqdnBSdDBMcjg3Zl82eTJPSVhCaUdHazdOMHBadGdidUplUlJTSElGaUlrT3lIdUpTM0JBaWlmTUxSRzdZdER4ajdTNmdOZFJtdkcxUGQ4ZnMtUnJTZlAxZk85MnlZY21KSw?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fSmNqdnBSdDBMcjg3Zl82eTJPSVhCaUdHazdOMHBadGdidUplUlJTSElGaUlrT3lIdUpTM0JBaWlmTUxSRzdZdER4ajdTNmdOZFJtdkcxUGQ4ZnMtUnJTZlAxZk85MnlZY21KSw",
-    "published": "Tue, 11 Aug 2026 07:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1fSmNqdnBSdDBMcjg3Zl82eTJPSVhCaUdHazdOMHBadGdidUplUlJTSElGaUlrT3lIdUpTM0JBaWlmTUxSRzdZdER4ajdTNmdOZFJtdkcxUGQ4ZnMtUnJTZlAxZk85MnlZY21KSw?oc=5\" target=\"_blank\">CoreWeave expects Q2 revenue near $2.55B, doubling year over year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
     "fetched_at": "2026-08-21T17:34:56.388004+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
@@ -5028,19 +4447,6 @@
     "link_norm": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVk8zcVp4SFExcm9Md3V5bURFbkJsNlA5ZGRDYkdlSmctTXJoMS1sa2ltejJEOXlnVUdtTjJUWUFKeVBRaWJHMmRBVUludFRqODlJQWo2eFBZMGlpY2lyRkFqeFlIWlBybTZwUVFyVWl5Um5vMXg0UjNZd25oTDdZenliTjViME9GWXZ6QnczQ1V0dw",
     "published": "Mon, 17 Aug 2026 13:09:50 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOVk8zcVp4SFExcm9Md3V5bURFbkJsNlA5ZGRDYkdlSmctTXJoMS1sa2ltejJEOXlnVUdtTjJUWUFKeVBRaWJHMmRBVUludFRqODlJQWo2eFBZMGlpY2lyRkFqeFlIWlBybTZwUVFyVWl5Um5vMXg0UjNZd25oTDdZenliTjViME9GWXZ6QnczQ1V0dw?oc=5\" target=\"_blank\">Bitcoin miner HIVE signs $350M five-year AI clo...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pluang</font>",
-    "fetched_at": "2026-08-24T17:41:50.234975+09:00",
-    "llm_skipped": "prefilter_no_strong_keywords"
-  },
-  "e56d0f1e753504e8": {
-    "id": "e56d0f1e753504e8",
-    "group": "OVERALL",
-    "item": "ai_price_cuts",
-    "title": "Tech stock sell-off tests AI hype, but is not end of infrastructure story - The Straits Times",
-    "title_norm": "tech stock sell off tests ai hype but is not end of infrastructure story the straits times",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdEdOd1VsaE1yYVZUdW1ZblIyZHdHaEVPUmRPSnlMVGxYaFcwRlhXV3NudXNJaXgtZGhVRzRMM1hnUlkxTk1LdS14TmJlV1pyNlRpa0tlYnNTNEdEeXR2dHp3M2FPVy14bUNNQlZJZ3BnU0syVHRBWXFOSjF3YzF6ZDk2aXMxbnROZUNhT3k2eTA5LTZJRVFYY1NNQkRsZHRrWnQ3am14V3lobDJ5RmRIRjFicnNWU2ZWSUE?oc=5",
-    "link_norm": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdEdOd1VsaE1yYVZUdW1ZblIyZHdHaEVPUmRPSnlMVGxYaFcwRlhXV3NudXNJaXgtZGhVRzRMM1hnUlkxTk1LdS14TmJlV1pyNlRpa0tlYnNTNEdEeXR2dHp3M2FPVy14bUNNQlZJZ3BnU0syVHRBWXFOSjF3YzF6ZDk2aXMxbnROZUNhT3k2eTA5LTZJRVFYY1NNQkRsZHRrWnQ3am14V3lobDJ5RmRIRjFicnNWU2ZWSUE",
-    "published": "Tue, 11 Aug 2026 07:00:00 GMT",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQdEdOd1VsaE1yYVZUdW1ZblIyZHdHaEVPUmRPSnlMVGxYaFcwRlhXV3NudXNJaXgtZGhVRzRMM1hnUlkxTk1LdS14TmJlV1pyNlRpa0tlYnNTNEdEeXR2dHp3M2FPVy14bUNNQlZJZ3BnU0syVHRBWXFOSjF3YzF6ZDk2aXMxbnROZUNhT3k2eTA5LTZJRVFYY1NNQkRsZHRrWnQ3am14V3lobDJ5RmRIRjFicnNWU2ZWSUE?oc=5\" target=\"_blank\">Tech stock sell-off tests AI hype, but is not end of infrastructure story</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Straits Times</font>",
     "fetched_at": "2026-08-24T17:41:50.234975+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   },
@@ -19306,6 +18712,415 @@
     "published": "Thu, 17 Sep 2026 18:30:00 GMT",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBRLVpWQUo3UFVMRkRkb2hVQVJuRFk5V05QeXZIcFFCZGxzY0k1azFVVkdBeDhiNGQzV1FxOFhqc1N0V1ktb3Z0bnZsVTB3MjdPdThxVTM3R2d4SXZFRTdheHpRM3FSQWFzZ05nMmZiYWwybHBSZ3c?oc=5\" target=\"_blank\">Gensler Warns AI Infrastructure Boom Is 'Unlikely to Last' as Chip Pricing Power Fades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
     "fetched_at": "2026-09-25T22:12:41.354244+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "b5188b4b2d815668": {
+    "id": "b5188b4b2d815668",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "Big Tech’s Data Center Boom Could Be Stopped by One Scarce Resource - TradingView",
+    "title_norm": "big tech s data center boom could be stopped by one scarce resource tradingview",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRZ1lWaGg0MkdSLWo0SWNBYjlvZXFJbHRrMUU2M0xJZVNmUVUzUlpDeDhfN2ZpOUx4dllyanNFMkJqbWljOHJ0bEdZMlotekVMWFZwYVJ2aEhyVDBvd3VCblZaZF9uNEpG?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRZ1lWaGg0MkdSLWo0SWNBYjlvZXFJbHRrMUU2M0xJZVNmUVUzUlpDeDhfN2ZpOUx4dllyanNFMkJqbWljOHJ0bEdZMlotekVMWFZwYVJ2aEhyVDBvd3VCblZaZF9uNEpG",
+    "published": "Fri, 25 Sep 2026 11:14:18 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRZ1lWaGg0MkdSLWo0SWNBYjlvZXFJbHRrMUU2M0xJZVNmUVUzUlpDeDhfN2ZpOUx4dllyanNFMkJqbWljOHJ0bEdZMlotekVMWFZwYVJ2aEhyVDBvd3VCblZaZF9uNEpG?oc=5\" target=\"_blank\">Big Tech’s Data Center Boom Could Be Stopped by One Scarce Resource</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "aba8db02e333bdbe": {
+    "id": "aba8db02e333bdbe",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "Oracle Issues Force Majeure Notice Over New Mexico Stargate Data Center - konsulteer.com",
+    "title_norm": "oracle issues force majeure notice over new mexico stargate data center konsulteer com",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOGVCOVowc0JnLTk4SDJ0ZWJZUEtPSWpROVUteGdDeUpybjBqUEV4N0xubExwTU1icWN2Y2E3LUlUZGt0X25hSWJOUUg5UEVjWkViWEZUMldkdjFWeHZKeEt6bzNmZk1lYV96RnV0RUVrazNLVG5HaTZuQjIySjFwOTd1RXg3UWsxRk1aUF9Va3Q5TVhiSDJhc0IwMzlWcGdibzhqX2dUWDNOUQ?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOGVCOVowc0JnLTk4SDJ0ZWJZUEtPSWpROVUteGdDeUpybjBqUEV4N0xubExwTU1icWN2Y2E3LUlUZGt0X25hSWJOUUg5UEVjWkViWEZUMldkdjFWeHZKeEt6bzNmZk1lYV96RnV0RUVrazNLVG5HaTZuQjIySjFwOTd1RXg3UWsxRk1aUF9Va3Q5TVhiSDJhc0IwMzlWcGdibzhqX2dUWDNOUQ",
+    "published": "Fri, 25 Sep 2026 11:20:38 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOGVCOVowc0JnLTk4SDJ0ZWJZUEtPSWpROVUteGdDeUpybjBqUEV4N0xubExwTU1icWN2Y2E3LUlUZGt0X25hSWJOUUg5UEVjWkViWEZUMldkdjFWeHZKeEt6bzNmZk1lYV96RnV0RUVrazNLVG5HaTZuQjIySjFwOTd1RXg3UWsxRk1aUF9Va3Q5TVhiSDJhc0IwMzlWcGdibzhqX2dUWDNOUQ?oc=5\" target=\"_blank\">Oracle Issues Force Majeure Notice Over New Mexico Stargate Data Center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">konsulteer.com</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "002b8f42e5b2b632": {
+    "id": "002b8f42e5b2b632",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "Newsom Signs Seven Bills Tightening Oversight of California Data Centers - finance.biggo.com",
+    "title_norm": "newsom signs seven bills tightening oversight of california data centers finance biggo com",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXbEx5TW9LMUE1ejRDeXdkTzZUR2dhUzdMM0Exb3Q2M0oyZWdrZTZIV21WbEloRjN6VEc2bm42a3RiWTRvcFExdE9uS3B0cDBIcE5LcF9kNUtrSmJUVWNsX2paS3Q3TTI1ajB3Sy1rZkk0OENzUmc?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXbEx5TW9LMUE1ejRDeXdkTzZUR2dhUzdMM0Exb3Q2M0oyZWdrZTZIV21WbEloRjN6VEc2bm42a3RiWTRvcFExdE9uS3B0cDBIcE5LcF9kNUtrSmJUVWNsX2paS3Q3TTI1ajB3Sy1rZkk0OENzUmc",
+    "published": "Tue, 22 Sep 2026 18:05:00 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBXbEx5TW9LMUE1ejRDeXdkTzZUR2dhUzdMM0Exb3Q2M0oyZWdrZTZIV21WbEloRjN6VEc2bm42a3RiWTRvcFExdE9uS3B0cDBIcE5LcF9kNUtrSmJUVWNsX2paS3Q3TTI1ajB3Sy1rZkk0OENzUmc?oc=5\" target=\"_blank\">Newsom Signs Seven Bills Tightening Oversight of California Data Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "d69b9df30cccbf00": {
+    "id": "d69b9df30cccbf00",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "Oracle sends force majeure notice to Blue Owl over New Mexico data center delays - Startup Fortune",
+    "title_norm": "oracle sends force majeure notice to blue owl over new mexico data center delays startup fortune",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd09kMWZ5VzZKRkQzbU9uZmx2eXQyREpaUlFCbkhhYnFOYWthOEJVM01nOEJkUC1VOS1vMXJTb29YZ0Y1TkRYZDVzSWpLMlVSN0RnV2R3V3l5N3A0clpIZk5LelBZSTI2cFI3Q1d3NDhPTzZPY0VlNEN0NlZUa3AwVUoteEc0SEZ6alpQZUZ2NDFpMzJhUjhRZ0IwVUlUcVBjdkpqVDV3VXFuR2w4?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd09kMWZ5VzZKRkQzbU9uZmx2eXQyREpaUlFCbkhhYnFOYWthOEJVM01nOEJkUC1VOS1vMXJTb29YZ0Y1TkRYZDVzSWpLMlVSN0RnV2R3V3l5N3A0clpIZk5LelBZSTI2cFI3Q1d3NDhPTzZPY0VlNEN0NlZUa3AwVUoteEc0SEZ6alpQZUZ2NDFpMzJhUjhRZ0IwVUlUcVBjdkpqVDV3VXFuR2w4",
+    "published": "Thu, 24 Sep 2026 20:22:24 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOd09kMWZ5VzZKRkQzbU9uZmx2eXQyREpaUlFCbkhhYnFOYWthOEJVM01nOEJkUC1VOS1vMXJTb29YZ0Y1TkRYZDVzSWpLMlVSN0RnV2R3V3l5N3A0clpIZk5LelBZSTI2cFI3Q1d3NDhPTzZPY0VlNEN0NlZUa3AwVUoteEc0SEZ6alpQZUZ2NDFpMzJhUjhRZ0IwVUlUcVBjdkpqVDV3VXFuR2w4?oc=5\" target=\"_blank\">Oracle sends force majeure notice to Blue Owl over New Mexico data center delays</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Startup Fortune</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "efaff025c06321b0": {
+    "id": "efaff025c06321b0",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "Bloom Energy Recovers 8.5% as Oracle's Force Majeure Notice Proves a Project Hurdle, Not a Strategy - AD HOC NEWS",
+    "title_norm": "bloom energy recovers 8 5 as oracle s force majeure notice proves a project hurdle not a strategy ad hoc news",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdVlYQlBqTlZqSlB3MG9Od3dEeWtnVTkwejdBTS0yNjhjOHc1QldaYTFNVGNfWXdULWJtdkxDc3VkcTZvb1V3RTZmYjNKc19lOEpucm5nZWVPd0U3VEF6RHJ2TzZzM1h1cV90M2hNaWs1ZGpXWG56b2loMjBOM29SVUk1d0NiR2M2MlVWNm9tY2NfQ2tKZVZJVHVBeEFZUWFXMkJLVHhRbkYyaEpkODBXdzd4MU5VOV9WUXVSUmdNbUtfZWUzQXJ4SFlOOHBtdkp5Z0tDaW1Cdk1hOU1iSVE?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdVlYQlBqTlZqSlB3MG9Od3dEeWtnVTkwejdBTS0yNjhjOHc1QldaYTFNVGNfWXdULWJtdkxDc3VkcTZvb1V3RTZmYjNKc19lOEpucm5nZWVPd0U3VEF6RHJ2TzZzM1h1cV90M2hNaWs1ZGpXWG56b2loMjBOM29SVUk1d0NiR2M2MlVWNm9tY2NfQ2tKZVZJVHVBeEFZUWFXMkJLVHhRbkYyaEpkODBXdzd4MU5VOV9WUXVSUmdNbUtfZWUzQXJ4SFlOOHBtdkp5Z0tDaW1Cdk1hOU1iSVE",
+    "published": "Sat, 26 Sep 2026 05:22:19 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdVlYQlBqTlZqSlB3MG9Od3dEeWtnVTkwejdBTS0yNjhjOHc1QldaYTFNVGNfWXdULWJtdkxDc3VkcTZvb1V3RTZmYjNKc19lOEpucm5nZWVPd0U3VEF6RHJ2TzZzM1h1cV90M2hNaWs1ZGpXWG56b2loMjBOM29SVUk1d0NiR2M2MlVWNm9tY2NfQ2tKZVZJVHVBeEFZUWFXMkJLVHhRbkYyaEpkODBXdzd4MU5VOV9WUXVSUmdNbUtfZWUzQXJ4SFlOOHBtdkp5Z0tDaW1Cdk1hOU1iSVE?oc=5\" target=\"_blank\">Bloom Energy Recovers 8.5% as Oracle's Force Majeure Notice Proves a Project Hurdle, Not a Strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "9c1e83c692f5caac": {
+    "id": "9c1e83c692f5caac",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "Oracle’s Stargate Data Center Faces Delay Risk as Force Majeure Notice Raises AI Infrastructure Concerns - Tekedia",
+    "title_norm": "oracle s stargate data center faces delay risk as force majeure notice raises ai infrastructure concerns tekedia",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOHRFbU1NR2ViTTFNV3hrTGRqdDhGX2doVklfQ3RuQ0NxUE5DdE00SFl6Zkp4WVptend2TjdJRVV2SnN6ZDB1cnR5TnJkU2hqQVl2ckdmc1NOTmc2X0N6djlsUVRGaTRwc0FMTzdZR3Z1NjNlTWJEQ3pWM205UmJIUzREU1BzOF9ZanBwaG1nQTRxNVB5Z0JCek5FN1IwNkstYl9GYTlEREZ2RXQzZVMwTF9ObUNGbnN2RUpSbmFXRHFySDd6V3pr?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOHRFbU1NR2ViTTFNV3hrTGRqdDhGX2doVklfQ3RuQ0NxUE5DdE00SFl6Zkp4WVptend2TjdJRVV2SnN6ZDB1cnR5TnJkU2hqQVl2ckdmc1NOTmc2X0N6djlsUVRGaTRwc0FMTzdZR3Z1NjNlTWJEQ3pWM205UmJIUzREU1BzOF9ZanBwaG1nQTRxNVB5Z0JCek5FN1IwNkstYl9GYTlEREZ2RXQzZVMwTF9ObUNGbnN2RUpSbmFXRHFySDd6V3pr",
+    "published": "Fri, 25 Sep 2026 10:55:01 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPOHRFbU1NR2ViTTFNV3hrTGRqdDhGX2doVklfQ3RuQ0NxUE5DdE00SFl6Zkp4WVptend2TjdJRVV2SnN6ZDB1cnR5TnJkU2hqQVl2ckdmc1NOTmc2X0N6djlsUVRGaTRwc0FMTzdZR3Z1NjNlTWJEQ3pWM205UmJIUzREU1BzOF9ZanBwaG1nQTRxNVB5Z0JCek5FN1IwNkstYl9GYTlEREZ2RXQzZVMwTF9ObUNGbnN2RUpSbmFXRHFySDd6V3pr?oc=5\" target=\"_blank\">Oracle’s Stargate Data Center Faces Delay Risk as Force Majeure Notice Raises AI Infrastructure Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tekedia</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm": {
+      "relevant": true,
+      "strength": 3,
+      "confidence": 80,
+      "reason": "The article title states Oracle’s Stargate data center faces delay risk and cites a force majeure notice that raises AI infrastructure concerns, indicating a clear operational/construction risk to a hyperscaler data center. The summary directly links the event to AI infrastructure impact.",
+      "signals": [
+        "data_center_delay_risk",
+        "force_majeure_notice",
+        "hyperscaler_operational_risk",
+        "AI_infrastructure_concern",
+        "oracle_stargate"
+      ]
+    },
+    "llm_model": "gpt-5-mini",
+    "llm_classified_at": "2026-09-26T21:38:15.947936+09:00"
+  },
+  "1021bfdf62fd656b": {
+    "id": "1021bfdf62fd656b",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "SpaceXAI Colossus GPU Expansion Nears 1.44 Million Chips, but Power Is the Real Test - remio",
+    "title_norm": "spacexai colossus gpu expansion nears 1 44 million chips but power is the real test remio",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFVPbW0tWXFES2ozRGhXLWZqaUpYS01yaVhzR0N5Zm1KWV84aG1ETndPcVZWWWdWRHNNcy1scTVubDRyR3Npc20zRUsxSlBBOXlFZEV6MjFUODh6S0dWeEVteS1FVkFnVUZiQ2dIbk52X3FfS2F4THh0TEdiVUI4MldpaEpXRjVSWjJPVE5hN1J1TkFlLXNCanU4WVlGemlBZTRmbFB4azlaQQ?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFVPbW0tWXFES2ozRGhXLWZqaUpYS01yaVhzR0N5Zm1KWV84aG1ETndPcVZWWWdWRHNNcy1scTVubDRyR3Npc20zRUsxSlBBOXlFZEV6MjFUODh6S0dWeEVteS1FVkFnVUZiQ2dIbk52X3FfS2F4THh0TEdiVUI4MldpaEpXRjVSWjJPVE5hN1J1TkFlLXNCanU4WVlGemlBZTRmbFB4azlaQQ",
+    "published": "Sat, 26 Sep 2026 01:05:58 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFVPbW0tWXFES2ozRGhXLWZqaUpYS01yaVhzR0N5Zm1KWV84aG1ETndPcVZWWWdWRHNNcy1scTVubDRyR3Npc20zRUsxSlBBOXlFZEV6MjFUODh6S0dWeEVteS1FVkFnVUZiQ2dIbk52X3FfS2F4THh0TEdiVUI4MldpaEpXRjVSWjJPVE5hN1J1TkFlLXNCanU4WVlGemlBZTRmbFB4azlaQQ?oc=5\" target=\"_blank\">SpaceXAI Colossus GPU Expansion Nears 1.44 Million Chips, but Power Is the Real Test</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">remio</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "411161669d07b150": {
+    "id": "411161669d07b150",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "PUCT sets financial commitments for data center interconnection as governor pauses permit approvals - White & Case LLP",
+    "title_norm": "puct sets financial commitments for data center interconnection as governor pauses permit approvals white case llp",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeWtuemlJVHJpdUVBZEp3YWhHS2RMVVd5Uy1rYXBkTmZQQ0hFeC1BcXhvYXdLR2oxTkZJSGlNUDEwcno4Z29PYy13SmVpRmpNOVVISS1raDRWc1VlTUFNTzZRMmNveUVOS1RreWNFeUcwa3JoSXhQYTlvSTFXUXpUcEF6MEp3TTdFbXcyY3dCekZEdWNpU3FIdW01TTM5Ql94ZG5uT1RpM0NBODRsV2pLM2hwSlVvNEw0MUlreW43Zw?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeWtuemlJVHJpdUVBZEp3YWhHS2RMVVd5Uy1rYXBkTmZQQ0hFeC1BcXhvYXdLR2oxTkZJSGlNUDEwcno4Z29PYy13SmVpRmpNOVVISS1raDRWc1VlTUFNTzZRMmNveUVOS1RreWNFeUcwa3JoSXhQYTlvSTFXUXpUcEF6MEp3TTdFbXcyY3dCekZEdWNpU3FIdW01TTM5Ql94ZG5uT1RpM0NBODRsV2pLM2hwSlVvNEw0MUlreW43Zw",
+    "published": "Fri, 25 Sep 2026 12:00:00 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPeWtuemlJVHJpdUVBZEp3YWhHS2RMVVd5Uy1rYXBkTmZQQ0hFeC1BcXhvYXdLR2oxTkZJSGlNUDEwcno4Z29PYy13SmVpRmpNOVVISS1raDRWc1VlTUFNTzZRMmNveUVOS1RreWNFeUcwa3JoSXhQYTlvSTFXUXpUcEF6MEp3TTdFbXcyY3dCekZEdWNpU3FIdW01TTM5Ql94ZG5uT1RpM0NBODRsV2pLM2hwSlVvNEw0MUlreW43Zw?oc=5\" target=\"_blank\">PUCT sets financial commitments for data center interconnection as governor pauses permit approvals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">White & Case LLP</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm": {
+      "relevant": true,
+      "strength": 4,
+      "confidence": 90,
+      "reason": "The title explicitly states the governor paused permit approvals and the PUCT set financial commitments for data center interconnection—direct regulatory actions affecting data center interconnection and permitting for hyperscalers.",
+      "signals": [
+        "Governor pauses permit approvals",
+        "PUCT sets financial commitments for data center interconnection",
+        "Regulatory action affecting data center interconnection/permitting"
+      ]
+    },
+    "llm_model": "gpt-5-mini",
+    "llm_classified_at": "2026-09-26T21:38:25.819042+09:00"
+  },
+  "ce7a318902791c54": {
+    "id": "ce7a318902791c54",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "U.S. Grid Congestion Intensifies As Data Centers Compound Transmission Constraints - Seeking Alpha",
+    "title_norm": "u s grid congestion intensifies as data centers compound transmission constraints seeking alpha",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSENnWEsyb1lHYWY2RG1za2cwN2lKX0ExNWswcWlPamZITWNBTW8tbWZBLWMwNndoN2k5OFdITEJwVkFFOUFDTDRPQnRORWdKU1pWUVNfUHgycHlidThkNWNFeElRNXJnOFI4eGpVOHIwV2lYaHp4VF94aVkxMHpKTUZ0SWpUdnpIRjhXbjRnZ0lfODljUUZfaE9naUpPMzgyREo2c0p6OGNXMWd2VjhIM2xGQ1JNVmUyUDNnVWxB?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSENnWEsyb1lHYWY2RG1za2cwN2lKX0ExNWswcWlPamZITWNBTW8tbWZBLWMwNndoN2k5OFdITEJwVkFFOUFDTDRPQnRORWdKU1pWUVNfUHgycHlidThkNWNFeElRNXJnOFI4eGpVOHIwV2lYaHp4VF94aVkxMHpKTUZ0SWpUdnpIRjhXbjRnZ0lfODljUUZfaE9naUpPMzgyREo2c0p6OGNXMWd2VjhIM2xGQ1JNVmUyUDNnVWxB",
+    "published": "Sat, 26 Sep 2026 06:45:00 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQSENnWEsyb1lHYWY2RG1za2cwN2lKX0ExNWswcWlPamZITWNBTW8tbWZBLWMwNndoN2k5OFdITEJwVkFFOUFDTDRPQnRORWdKU1pWUVNfUHgycHlidThkNWNFeElRNXJnOFI4eGpVOHIwV2lYaHp4VF94aVkxMHpKTUZ0SWpUdnpIRjhXbjRnZ0lfODljUUZfaE9naUpPMzgyREo2c0p6OGNXMWd2VjhIM2xGQ1JNVmUyUDNnVWxB?oc=5\" target=\"_blank\">U.S. Grid Congestion Intensifies As Data Centers Compound Transmission Constraints</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm": {
+      "relevant": false,
+      "strength": 0,
+      "confidence": 90,
+      "reason": "Title indicates grid congestion and transmission constraints from data center growth but contains no mention of permitting processes or permit delays; no explicit signal of power permit delays in the provided text.",
+      "signals": [
+        "U.S. grid congestion",
+        "transmission constraints",
+        "data centers compounding transmission constraints"
+      ]
+    },
+    "llm_model": "gpt-5-mini",
+    "llm_classified_at": "2026-09-26T21:38:33.097667+09:00"
+  },
+  "f13c29798a920312": {
+    "id": "f13c29798a920312",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "Bloom Energy lines up $25B to power AI data centers - Dealroom",
+    "title_norm": "bloom energy lines up 25b to power ai data centers dealroom",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnJpMGRRbk1JazI1NlpyME13bS14dzVrM20zZkpvdDVRTzl4eHZmWFFsYWtJenpGRWg2TVFtT1pNNzVkaEFXRDVLazhOMGZneDFrdTNGQmJKQW1oc0ozNDQ4cU1vODJpTnRFYjcyVWFmdkEzT2ROMlZDZ3I4Ui1pbDJHU3liVmIzazhQUg?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnJpMGRRbk1JazI1NlpyME13bS14dzVrM20zZkpvdDVRTzl4eHZmWFFsYWtJenpGRWg2TVFtT1pNNzVkaEFXRDVLazhOMGZneDFrdTNGQmJKQW1oc0ozNDQ4cU1vODJpTnRFYjcyVWFmdkEzT2ROMlZDZ3I4Ui1pbDJHU3liVmIzazhQUg",
+    "published": "Sat, 19 Sep 2026 23:14:21 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnJpMGRRbk1JazI1NlpyME13bS14dzVrM20zZkpvdDVRTzl4eHZmWFFsYWtJenpGRWg2TVFtT1pNNzVkaEFXRDVLazhOMGZneDFrdTNGQmJKQW1oc0ozNDQ4cU1vODJpTnRFYjcyVWFmdkEzT2ROMlZDZ3I4Ui1pbDJHU3liVmIzazhQUg?oc=5\" target=\"_blank\">Bloom Energy lines up $25B to power AI data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dealroom</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "d390cfb0aee05686": {
+    "id": "d390cfb0aee05686",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "Regulators need to get comfortable with bragawatts - The Texas Energy and Power Newsletter",
+    "title_norm": "regulators need to get comfortable with bragawatts the texas energy and power newsletter",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yUE9iVWp5UnN6ZzRWOVY0Q0xPQzRHX2Z5Y2hQS091V1RfY2V4cFcwU2Q3WThwQzhfZ2dOenFpX21sZnF4Um1RbGNzaTBuUTNPcGp1Snd2YWZzN2pUVVR2Q3lyM1pYRHZ2Tk5nZmF4WklZOHg3N2w3MjV6VGc?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yUE9iVWp5UnN6ZzRWOVY0Q0xPQzRHX2Z5Y2hQS091V1RfY2V4cFcwU2Q3WThwQzhfZ2dOenFpX21sZnF4Um1RbGNzaTBuUTNPcGp1Snd2YWZzN2pUVVR2Q3lyM1pYRHZ2Tk5nZmF4WklZOHg3N2w3MjV6VGc",
+    "published": "Thu, 24 Sep 2026 20:14:45 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE0yUE9iVWp5UnN6ZzRWOVY0Q0xPQzRHX2Z5Y2hQS091V1RfY2V4cFcwU2Q3WThwQzhfZ2dOenFpX21sZnF4Um1RbGNzaTBuUTNPcGp1Snd2YWZzN2pUVVR2Q3lyM1pYRHZ2Tk5nZmF4WklZOHg3N2w3MjV6VGc?oc=5\" target=\"_blank\">Regulators need to get comfortable with bragawatts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Texas Energy and Power Newsletter</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "73e283f968d332df": {
+    "id": "73e283f968d332df",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "Zeo Energy, Ewyze Team Up to Power AI Data-Center Expansion - TradingView",
+    "title_norm": "zeo energy ewyze team up to power ai data center expansion tradingview",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZFdhdk1BaDY0LUJyMmk0aTBlckMtUjZaX1lQcFhCdmpQVWdGeVV3YjRmd2hEdE53ZUtHWkJXRGUzaHhid0tnb3BoQWZLLXZKSklCSHhzMVVJQUtSM0tsN2RnNXBBVjd6eTdoeTBCdE53VnB2cE1hNW4zQk1oQ1Y4RGxLYTVleWhxTkNxNFg4OXpJQW1qNGxGbEtNTldlNi05TF9TVElsdE9TTTlxUWZ2Wkladmc?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZFdhdk1BaDY0LUJyMmk0aTBlckMtUjZaX1lQcFhCdmpQVWdGeVV3YjRmd2hEdE53ZUtHWkJXRGUzaHhid0tnb3BoQWZLLXZKSklCSHhzMVVJQUtSM0tsN2RnNXBBVjd6eTdoeTBCdE53VnB2cE1hNW4zQk1oQ1Y4RGxLYTVleWhxTkNxNFg4OXpJQW1qNGxGbEtNTldlNi05TF9TVElsdE9TTTlxUWZ2Wkladmc",
+    "published": "Fri, 25 Sep 2026 13:37:00 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQZFdhdk1BaDY0LUJyMmk0aTBlckMtUjZaX1lQcFhCdmpQVWdGeVV3YjRmd2hEdE53ZUtHWkJXRGUzaHhid0tnb3BoQWZLLXZKSklCSHhzMVVJQUtSM0tsN2RnNXBBVjd6eTdoeTBCdE53VnB2cE1hNW4zQk1oQ1Y4RGxLYTVleWhxTkNxNFg4OXpJQW1qNGxGbEtNTldlNi05TF9TVElsdE9TTTlxUWZ2Wkladmc?oc=5\" target=\"_blank\">Zeo Energy, Ewyze Team Up to Power AI Data-Center Expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "809a079b5e5a3805": {
+    "id": "809a079b5e5a3805",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "New Era Helium launches $100M stock offering as Texas freezes data center permits - Dealroom",
+    "title_norm": "new era helium launches 100m stock offering as texas freezes data center permits dealroom",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3JVNUN5V0l0THNaMkIxalNJc2NzRFI4SUkwS0U3TnA3UmpSXy1neU9WTzJwRFFyU1ZNVWxkZ25hX3JFSjQ3NzlJeEo4NTV5emhaQktNX1FxY1p4cjR4NHlCMzdpVHhfRlFDcy1ZMUJmbmx4RlFnOEpiVlUxYUFsV0VyXzByODRzMEJoN1NoSUZMd1daem1uTlBueTMxQ1BCRzIxUHp4LUhxcVBNR0c1RjZxQ2Y?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3JVNUN5V0l0THNaMkIxalNJc2NzRFI4SUkwS0U3TnA3UmpSXy1neU9WTzJwRFFyU1ZNVWxkZ25hX3JFSjQ3NzlJeEo4NTV5emhaQktNX1FxY1p4cjR4NHlCMzdpVHhfRlFDcy1ZMUJmbmx4RlFnOEpiVlUxYUFsV0VyXzByODRzMEJoN1NoSUZMd1daem1uTlBueTMxQ1BCRzIxUHp4LUhxcVBNR0c1RjZxQ2Y",
+    "published": "Fri, 25 Sep 2026 02:54:27 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3JVNUN5V0l0THNaMkIxalNJc2NzRFI4SUkwS0U3TnA3UmpSXy1neU9WTzJwRFFyU1ZNVWxkZ25hX3JFSjQ3NzlJeEo4NTV5emhaQktNX1FxY1p4cjR4NHlCMzdpVHhfRlFDcy1ZMUJmbmx4RlFnOEpiVlUxYUFsV0VyXzByODRzMEJoN1NoSUZMd1daem1uTlBueTMxQ1BCRzIxUHp4LUhxcVBNR0c1RjZxQ2Y?oc=5\" target=\"_blank\">New Era Helium launches $100M stock offering as Texas freezes data center permits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dealroom</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "c7d96a39bf7fc3c6": {
+    "id": "c7d96a39bf7fc3c6",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "VanEck Mid-September 2026 Bitcoin ChainCheck - vaneck.com",
+    "title_norm": "vaneck mid september 2026 bitcoin chaincheck vaneck com",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUDVZeXo2MTVaTGR2RVZwV1ZTZDVTYUxEd2syMUNVRXptVk1BLVZlV3dqQWFtX1piVmJFbnRURFF2NDU3RHNNWmQ2OUZYVFhQNjBhU1RLbUxweHlzeDNmVU9ublU4Z3BOWUlSX21DcExJNERWeDdPSFdldTJiZ3JXaV9hbkxNN1BSRmVqVG8xYW16LUI2S3VFOEFrd2JsVEhuOFdSd2FabEs2VEdURTBLOUktSllDeWNiNEdCdlZhQ1MtbFc5RDY1Y1k4RDZDZw?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUDVZeXo2MTVaTGR2RVZwV1ZTZDVTYUxEd2syMUNVRXptVk1BLVZlV3dqQWFtX1piVmJFbnRURFF2NDU3RHNNWmQ2OUZYVFhQNjBhU1RLbUxweHlzeDNmVU9ublU4Z3BOWUlSX21DcExJNERWeDdPSFdldTJiZ3JXaV9hbkxNN1BSRmVqVG8xYW16LUI2S3VFOEFrd2JsVEhuOFdSd2FabEs2VEdURTBLOUktSllDeWNiNEdCdlZhQ1MtbFc5RDY1Y1k4RDZDZw",
+    "published": "Fri, 18 Sep 2026 07:00:00 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOUDVZeXo2MTVaTGR2RVZwV1ZTZDVTYUxEd2syMUNVRXptVk1BLVZlV3dqQWFtX1piVmJFbnRURFF2NDU3RHNNWmQ2OUZYVFhQNjBhU1RLbUxweHlzeDNmVU9ublU4Z3BOWUlSX21DcExJNERWeDdPSFdldTJiZ3JXaV9hbkxNN1BSRmVqVG8xYW16LUI2S3VFOEFrd2JsVEhuOFdSd2FabEs2VEdURTBLOUktSllDeWNiNEdCdlZhQ1MtbFc5RDY1Y1k4RDZDZw?oc=5\" target=\"_blank\">VanEck Mid-September 2026 Bitcoin ChainCheck</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vaneck.com</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "0c0d94f4ef4bd45c": {
+    "id": "0c0d94f4ef4bd45c",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "Why Investors Are Finally Asking Tough Questions About Data Centre Ipos - ИФЗ РАН",
+    "title_norm": "why investors are finally asking tough questions about data centre ipos",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORVpuVU51bXp6Z3NPbUtnSkFNbFZIcHFWVVUzbWd4Z3MzUjhzOW1wa3NkNy1VOEE3cHZqSlh0VjVxYWE1UFlSSTNIQmI1SmNzTWl5OGhzdGFaUXhhUHdPTVBBZllEY2hVd2lsT2luVmdHN0FzNG8zNEIyai0xaU1hdEZQYzdVNlBHYWc?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORVpuVU51bXp6Z3NPbUtnSkFNbFZIcHFWVVUzbWd4Z3MzUjhzOW1wa3NkNy1VOEE3cHZqSlh0VjVxYWE1UFlSSTNIQmI1SmNzTWl5OGhzdGFaUXhhUHdPTVBBZllEY2hVd2lsT2luVmdHN0FzNG8zNEIyai0xaU1hdEZQYzdVNlBHYWc",
+    "published": "Fri, 25 Sep 2026 23:20:25 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxORVpuVU51bXp6Z3NPbUtnSkFNbFZIcHFWVVUzbWd4Z3MzUjhzOW1wa3NkNy1VOEE3cHZqSlh0VjVxYWE1UFlSSTNIQmI1SmNzTWl5OGhzdGFaUXhhUHdPTVBBZllEY2hVd2lsT2luVmdHN0FzNG8zNEIyai0xaU1hdEZQYzdVNlBHYWc?oc=5\" target=\"_blank\">Why Investors Are Finally Asking Tough Questions About Data Centre Ipos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ИФЗ РАН</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "8588169c059c84fe": {
+    "id": "8588169c059c84fe",
+    "group": "OVERALL",
+    "item": "power_permit_delays",
+    "title": "Bloom Energy’s 800V DC-Native Power Can Cut Billions from AI Data Center Costs, Reduce Power Use, and Eliminate Need for Transformers - Business Wire",
+    "title_norm": "bloom energy s 800v dc native power can cut billions from ai data center costs reduce power use and eliminate need for transformers business wire",
+    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNbXlRX2d6TXVIdUhkXzhHLTdCOGR4RkNnb0IyOGkyandoMTNFVUxzbi03d1duYVlDX2J0a094WGEwM3Z4WmdkX1BtVFk2Qi1EdXpfbWRtc2dJbml3bDRJUnRsR1NOU2RXekd1cDhES1NVUkxWa1Fmd3lEZ3VWX2xGVzNGVm5BMUdIQi1Od2hyb1psU2l6V1pTT3RCcFdBYl9mNnp1SVJiYVRQY2JreE5RZnFtclhYUW5BOU5QOWZEY2RLd1gxcTJZSlJ5SzFIYzJqUTFDN2NCSk01a3dHZU5YUXpOX3lpVHpyeEljaFh5bUhPWTVKdm9GcERqU21VN0tXR0ZmYlhlY2F4aFZQQ3NDRDZMTzRMZw?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNbXlRX2d6TXVIdUhkXzhHLTdCOGR4RkNnb0IyOGkyandoMTNFVUxzbi03d1duYVlDX2J0a094WGEwM3Z4WmdkX1BtVFk2Qi1EdXpfbWRtc2dJbml3bDRJUnRsR1NOU2RXekd1cDhES1NVUkxWa1Fmd3lEZ3VWX2xGVzNGVm5BMUdIQi1Od2hyb1psU2l6V1pTT3RCcFdBYl9mNnp1SVJiYVRQY2JreE5RZnFtclhYUW5BOU5QOWZEY2RLd1gxcTJZSlJ5SzFIYzJqUTFDN2NCSk01a3dHZU5YUXpOX3lpVHpyeEljaFh5bUhPWTVKdm9GcERqU21VN0tXR0ZmYlhlY2F4aFZQQ3NDRDZMTzRMZw",
+    "published": "Wed, 16 Sep 2026 13:00:00 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxNbXlRX2d6TXVIdUhkXzhHLTdCOGR4RkNnb0IyOGkyandoMTNFVUxzbi03d1duYVlDX2J0a094WGEwM3Z4WmdkX1BtVFk2Qi1EdXpfbWRtc2dJbml3bDRJUnRsR1NOU2RXekd1cDhES1NVUkxWa1Fmd3lEZ3VWX2xGVzNGVm5BMUdIQi1Od2hyb1psU2l6V1pTT3RCcFdBYl9mNnp1SVJiYVRQY2JreE5RZnFtclhYUW5BOU5QOWZEY2RLd1gxcTJZSlJ5SzFIYzJqUTFDN2NCSk01a3dHZU5YUXpOX3lpVHpyeEljaFh5bUhPWTVKdm9GcERqU21VN0tXR0ZmYlhlY2F4aFZQQ3NDRDZMTzRMZw?oc=5\" target=\"_blank\">Bloom Energy’s 800V DC-Native Power Can Cut Billions from AI Data Center Costs, Reduce Power Use, and Eliminate Need for Transformers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "8c4cc9023e8ba326": {
+    "id": "8c4cc9023e8ba326",
+    "group": "OVERALL",
+    "item": "ai_price_cuts",
+    "title": "Why higher prices can be a double-edged sword for digital services - Texas A&M Stories",
+    "title_norm": "why higher prices can be a double edged sword for digital services texas a m stories",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaEhBMl9FVVVBbjF1Vm9DNGxURFROMDFqSmtBVE9sMEFSTVQwY2RVZGZXd3hnU29pa0g4UGZJSm5xTVZKSHdoTVRzUmtqWUdENTA4bVRUUXFZcjJlSGZ6T2hndXk3X0kzTHliUGNOVjg0WkJad0JPSWRhZWlGcUM1aUlkeUFvWTZYRF9TSFVQQ3BYUjZ5YXozSFc3ZjZoU0l5T1RTRmQtRzZudUEt?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaEhBMl9FVVVBbjF1Vm9DNGxURFROMDFqSmtBVE9sMEFSTVQwY2RVZGZXd3hnU29pa0g4UGZJSm5xTVZKSHdoTVRzUmtqWUdENTA4bVRUUXFZcjJlSGZ6T2hndXk3X0kzTHliUGNOVjg0WkJad0JPSWRhZWlGcUM1aUlkeUFvWTZYRF9TSFVQQ3BYUjZ5YXozSFc3ZjZoU0l5T1RTRmQtRzZudUEt",
+    "published": "Fri, 25 Sep 2026 17:40:40 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPaEhBMl9FVVVBbjF1Vm9DNGxURFROMDFqSmtBVE9sMEFSTVQwY2RVZGZXd3hnU29pa0g4UGZJSm5xTVZKSHdoTVRzUmtqWUdENTA4bVRUUXFZcjJlSGZ6T2hndXk3X0kzTHliUGNOVjg0WkJad0JPSWRhZWlGcUM1aUlkeUFvWTZYRF9TSFVQQ3BYUjZ5YXozSFc3ZjZoU0l5T1RTRmQtRzZudUEt?oc=5\" target=\"_blank\">Why higher prices can be a double-edged sword for digital services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Texas A&amp;M Stories</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "13c5ac7de11a64bf": {
+    "id": "13c5ac7de11a64bf",
+    "group": "OVERALL",
+    "item": "ai_price_cuts",
+    "title": "AWS AgentCore v2 Cuts Cold Starts 93% [2026] - shattered.io",
+    "title_norm": "aws agentcore v2 cuts cold starts 93 shattered io",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14QVVfMTh0emZXV3lVazRXLWIzZ0o1SzcxWERDUnFDaE5UVXJad3UtOU9QMWRkTFNQY2s1Uk9FclhmcHBHSXlYekRuLU4tZ21fQ2VkTmEwQk9qVnpXd05qOXBNZk41MC1FZUgzWFFqcE8?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14QVVfMTh0emZXV3lVazRXLWIzZ0o1SzcxWERDUnFDaE5UVXJad3UtOU9QMWRkTFNQY2s1Uk9FclhmcHBHSXlYekRuLU4tZ21fQ2VkTmEwQk9qVnpXd05qOXBNZk41MC1FZUgzWFFqcE8",
+    "published": "Thu, 24 Sep 2026 08:24:20 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE14QVVfMTh0emZXV3lVazRXLWIzZ0o1SzcxWERDUnFDaE5UVXJad3UtOU9QMWRkTFNQY2s1Uk9FclhmcHBHSXlYekRuLU4tZ21fQ2VkTmEwQk9qVnpXd05qOXBNZk41MC1FZUgzWFFqcE8?oc=5\" target=\"_blank\">AWS AgentCore v2 Cuts Cold Starts 93% [2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">shattered.io</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "7d441dfaaaa94433": {
+    "id": "7d441dfaaaa94433",
+    "group": "OVERALL",
+    "item": "ai_price_cuts",
+    "title": "Cloud Gaming GPU Rationing: Xbox, Azure, AWS in 2026 - tech-insider.org",
+    "title_norm": "cloud gaming gpu rationing xbox azure aws in 2026 tech insider org",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2M1NThLQjZhSk96Q29McWMzU1RDRG9jcm9LdGlGdjB6ZkZwVlcySVEyekc2UzlTQ2JFSTBkSnh4cGQ5UDdGYWFaMjY2TW16SG1oUGRETWtaUkhEeDBxSEtXUkQ4S0RJc3Z6dHZmWUhXRnBWejA4LVhDd21FZTdFMGNYVEI?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2M1NThLQjZhSk96Q29McWMzU1RDRG9jcm9LdGlGdjB6ZkZwVlcySVEyekc2UzlTQ2JFSTBkSnh4cGQ5UDdGYWFaMjY2TW16SG1oUGRETWtaUkhEeDBxSEtXUkQ4S0RJc3Z6dHZmWUhXRnBWejA4LVhDd21FZTdFMGNYVEI",
+    "published": "Fri, 25 Sep 2026 14:00:57 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2M1NThLQjZhSk96Q29McWMzU1RDRG9jcm9LdGlGdjB6ZkZwVlcySVEyekc2UzlTQ2JFSTBkSnh4cGQ5UDdGYWFaMjY2TW16SG1oUGRETWtaUkhEeDBxSEtXUkQ4S0RJc3Z6dHZmWUhXRnBWejA4LVhDd21FZTdFMGNYVEI?oc=5\" target=\"_blank\">Cloud Gaming GPU Rationing: Xbox, Azure, AWS in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tech-insider.org</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "40bef77c7d11d744": {
+    "id": "40bef77c7d11d744",
+    "group": "OVERALL",
+    "item": "ai_price_cuts",
+    "title": "Neocloud Stocks Fall as Selling Extends After a Week of Research Notes: IREN Drops 4%, CoreWeave Slides 3%, Nebius Eases - 24/7 Wall St.",
+    "title_norm": "neocloud stocks fall as selling extends after a week of research notes iren drops 4 coreweave slides 3 nebius eases 24 7 wall st",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbV83QzFBd2FPaUp0dlB6RmxUNDJ2X2JvNnZwRnl3ZjNsZEQtZ3JZdkNmb3R6a1pWbDhHV0E3aWMwS19LRmY0SnZyeERZbzdRZHlwX29QRnBqcW5zQ2w1QW9LcjZqRDRRV0wyM2FQUGxicVlyZjhmQjdzVzc2bnhsOXlGM0doVkxpdXVOV0tUc1NIV2JFRHAwcXdEX2hoRzBSMnRPY3l4aERWZUNxMjFfVDl2dG80ek0tLWxpWmh1eVBFNUVTMXREaGYxdktDNUJMQWVuZGU4ZTdiejRmVllwUG01Q1pfSFJpTDlTV1dOVkI?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbV83QzFBd2FPaUp0dlB6RmxUNDJ2X2JvNnZwRnl3ZjNsZEQtZ3JZdkNmb3R6a1pWbDhHV0E3aWMwS19LRmY0SnZyeERZbzdRZHlwX29QRnBqcW5zQ2w1QW9LcjZqRDRRV0wyM2FQUGxicVlyZjhmQjdzVzc2bnhsOXlGM0doVkxpdXVOV0tUc1NIV2JFRHAwcXdEX2hoRzBSMnRPY3l4aERWZUNxMjFfVDl2dG80ek0tLWxpWmh1eVBFNUVTMXREaGYxdktDNUJMQWVuZGU4ZTdiejRmVllwUG01Q1pfSFJpTDlTV1dOVkI",
+    "published": "Fri, 25 Sep 2026 16:04:00 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbV83QzFBd2FPaUp0dlB6RmxUNDJ2X2JvNnZwRnl3ZjNsZEQtZ3JZdkNmb3R6a1pWbDhHV0E3aWMwS19LRmY0SnZyeERZbzdRZHlwX29QRnBqcW5zQ2w1QW9LcjZqRDRRV0wyM2FQUGxicVlyZjhmQjdzVzc2bnhsOXlGM0doVkxpdXVOV0tUc1NIV2JFRHAwcXdEX2hoRzBSMnRPY3l4aERWZUNxMjFfVDl2dG80ek0tLWxpWmh1eVBFNUVTMXREaGYxdktDNUJMQWVuZGU4ZTdiejRmVllwUG01Q1pfSFJpTDlTV1dOVkI?oc=5\" target=\"_blank\">Neocloud Stocks Fall as Selling Extends After a Week of Research Notes: IREN Drops 4%, CoreWeave Slides 3%, Nebius Eases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "89ef96ac8ac7de7a": {
+    "id": "89ef96ac8ac7de7a",
+    "group": "OVERALL",
+    "item": "ai_price_cuts",
+    "title": "CoreWeave Boosts Agentic AI With Multi-Rack NVIDIA Vera Rubin Clusters - The Globe and Mail",
+    "title_norm": "coreweave boosts agentic ai with multi rack nvidia vera rubin clusters the globe and mail",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQnJpVmNDdFZEblFPSE9hTnhLcWZFM0p3VXhINjhsRV9VdlN2OFVDTUljZ252LTdDLTFNZ0daOE45dGR6RXh6VHR2blROalhTNy1uUmRXTkMxbGgwdnhSckZGczRBSFg3dExROU9LSkxiaHNyaFJ5YkNIblF3YlE3X0poMEM0RVozazkwY1czclFCdG5jTFRBeWplZEFqSWlGUnUyTkVRRzRPR0hJZ0ZSS2tZZTROWC03anNTaFBBUzBaRGF3QW1ZdV9yWTlVcDlvdFlwQkpxNlYxX1pLa3U0NU1hQ0ZTLUh6V0xZ?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQnJpVmNDdFZEblFPSE9hTnhLcWZFM0p3VXhINjhsRV9VdlN2OFVDTUljZ252LTdDLTFNZ0daOE45dGR6RXh6VHR2blROalhTNy1uUmRXTkMxbGgwdnhSckZGczRBSFg3dExROU9LSkxiaHNyaFJ5YkNIblF3YlE3X0poMEM0RVozazkwY1czclFCdG5jTFRBeWplZEFqSWlGUnUyTkVRRzRPR0hJZ0ZSS2tZZTROWC03anNTaFBBUzBaRGF3QW1ZdV9yWTlVcDlvdFlwQkpxNlYxX1pLa3U0NU1hQ0ZTLUh6V0xZ",
+    "published": "Thu, 17 Sep 2026 13:08:00 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQnJpVmNDdFZEblFPSE9hTnhLcWZFM0p3VXhINjhsRV9VdlN2OFVDTUljZ252LTdDLTFNZ0daOE45dGR6RXh6VHR2blROalhTNy1uUmRXTkMxbGgwdnhSckZGczRBSFg3dExROU9LSkxiaHNyaFJ5YkNIblF3YlE3X0poMEM0RVozazkwY1czclFCdG5jTFRBeWplZEFqSWlGUnUyTkVRRzRPR0hJZ0ZSS2tZZTROWC03anNTaFBBUzBaRGF3QW1ZdV9yWTlVcDlvdFlwQkpxNlYxX1pLa3U0NU1hQ0ZTLUh6V0xZ?oc=5\" target=\"_blank\">CoreWeave Boosts Agentic AI With Multi-Rack NVIDIA Vera Rubin Clusters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "7f0a3ec1541b8c06": {
+    "id": "7f0a3ec1541b8c06",
+    "group": "OVERALL",
+    "item": "ai_price_cuts",
+    "title": "From cheaper rent to computing vouchers: How China is building a new AI film industry - The Times of India",
+    "title_norm": "from cheaper rent to computing vouchers how china is building a new ai film industry the times of india",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU3VrSVdtMVJGWXpoMFZvd2VuT3VIVTBnY013eVNLUk9KZ1RXRHR4X1RpdmFZMU16LU9Ga2hEN1pvZm9rQUdpVEdhNllZR3RjY2l5ZXJUaXlRR1NQbTRhUzhiWTcwRWRKeEFTZFZheDJFUy12dEtsb0F1ckhMMkpudUJCc2cyZ1o4Znd0eGZYT3NYTG1wcjNBeEkxR19RSFNqT0FDYnA4TEY0TThwMTZESy1LMWNWUWlkLV9hajV1NVVjUk9fTW9GellvT0JjMXlxQWp5cWVrWW41YUhqaW9pVGRRWnUzSkJ6R3hJdFl4R3c0TkdSTEJkbUl4Z9IBgAJBVV95cUxNVU4zX1ExUUptTDVMUElnR3VZd0o2aV9SbTlIbDVVUjROQzZWT3NqSDNvSnpLcFY0QW5jQkpmai0xdmt0a19qV183R25UX1lUa3VhZHFwOXdJdmlOaDZqdTluMVZCUUlhQnhCMFNGRVh2WVRwSHBzSU4zSWNGOExwejVRazNBRGJsQ2hkeXQ0VnlxZk4tU1c2Rmt2SnM5SVVHbHFGUDhleTdhb183LXZMd3VnQ1ZCd0x0a1VLc2RwdzNQczJ0YnBTQnI4dnZ3SG0yOHRYelpFclZvSDJ4RVNqNzJRMUkzTXVlVkVKcVVxcXpadTYzdXloSndGajBOWW1F?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU3VrSVdtMVJGWXpoMFZvd2VuT3VIVTBnY013eVNLUk9KZ1RXRHR4X1RpdmFZMU16LU9Ga2hEN1pvZm9rQUdpVEdhNllZR3RjY2l5ZXJUaXlRR1NQbTRhUzhiWTcwRWRKeEFTZFZheDJFUy12dEtsb0F1ckhMMkpudUJCc2cyZ1o4Znd0eGZYT3NYTG1wcjNBeEkxR19RSFNqT0FDYnA4TEY0TThwMTZESy1LMWNWUWlkLV9hajV1NVVjUk9fTW9GellvT0JjMXlxQWp5cWVrWW41YUhqaW9pVGRRWnUzSkJ6R3hJdFl4R3c0TkdSTEJkbUl4Z9IBgAJBVV95cUxNVU4zX1ExUUptTDVMUElnR3VZd0o2aV9SbTlIbDVVUjROQzZWT3NqSDNvSnpLcFY0QW5jQkpmai0xdmt0a19qV183R25UX1lUa3VhZHFwOXdJdmlOaDZqdTluMVZCUUlhQnhCMFNGRVh2WVRwSHBzSU4zSWNGOExwejVRazNBRGJsQ2hkeXQ0VnlxZk4tU1c2Rmt2SnM5SVVHbHFGUDhleTdhb183LXZMd3VnQ1ZCd0x0a1VLc2RwdzNQczJ0YnBTQnI4dnZ3SG0yOHRYelpFclZvSDJ4RVNqNzJRMUkzTXVlVkVKcVVxcXpadTYzdXloSndGajBOWW1F",
+    "published": "Fri, 25 Sep 2026 14:27:00 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU3VrSVdtMVJGWXpoMFZvd2VuT3VIVTBnY013eVNLUk9KZ1RXRHR4X1RpdmFZMU16LU9Ga2hEN1pvZm9rQUdpVEdhNllZR3RjY2l5ZXJUaXlRR1NQbTRhUzhiWTcwRWRKeEFTZFZheDJFUy12dEtsb0F1ckhMMkpudUJCc2cyZ1o4Znd0eGZYT3NYTG1wcjNBeEkxR19RSFNqT0FDYnA4TEY0TThwMTZESy1LMWNWUWlkLV9hajV1NVVjUk9fTW9GellvT0JjMXlxQWp5cWVrWW41YUhqaW9pVGRRWnUzSkJ6R3hJdFl4R3c0TkdSTEJkbUl4Z9IBgAJBVV95cUxNVU4zX1ExUUptTDVMUElnR3VZd0o2aV9SbTlIbDVVUjROQzZWT3NqSDNvSnpLcFY0QW5jQkpmai0xdmt0a19qV183R25UX1lUa3VhZHFwOXdJdmlOaDZqdTluMVZCUUlhQnhCMFNGRVh2WVRwSHBzSU4zSWNGOExwejVRazNBRGJsQ2hkeXQ0VnlxZk4tU1c2Rmt2SnM5SVVHbHFGUDhleTdhb183LXZMd3VnQ1ZCd0x0a1VLc2RwdzNQczJ0YnBTQnI4dnZ3SG0yOHRYelpFclZvSDJ4RVNqNzJRMUkzTXVlVkVKcVVxcXpadTYzdXloSndGajBOWW1F?oc=5\" target=\"_blank\">From cheaper rent to computing vouchers: How China is building a new AI film industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm": {
+      "relevant": true,
+      "strength": 2,
+      "confidence": 70,
+      "reason": "The title explicitly mentions 'computing vouchers' and 'cheaper rent' being used to build an AI film industry in China, which indicates local subsidies/price incentives for AI compute resources. The item signals potential localized impacts on AI infrastructure pricing, but the headline suggests industry development rather than a clear, broad hyperscaler risk, so the signal strength is moderate.",
+      "signals": [
+        "computing vouchers/subsidies for AI computing in China",
+        "cheaper rent/operational cost reductions for AI firms",
+        "localized incentives that may affect AI compute pricing"
+      ]
+    },
+    "llm_model": "gpt-5-mini",
+    "llm_classified_at": "2026-09-26T21:38:45.698464+09:00"
+  },
+  "6b98eaf0de9054b0": {
+    "id": "6b98eaf0de9054b0",
+    "group": "OVERALL",
+    "item": "ai_price_cuts",
+    "title": "From Tech Cost in Isolation to cost-to-value Equation - Banking Frontiers",
+    "title_norm": "from tech cost in isolation to cost to value equation banking frontiers",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdWVpd19ydXRKQ1ZnZmxXQzRQUmVucF93cVNRWlZob2s3WGJ5QTZkdUlPNjdMWjN0T1JkcmoxZV84S2tpY01xVUhzZHV4WnNKY2lDUmpvejQtc1pXMF9UU2o1NlhBSm9QMzFkbkRIdXJfYnFBSFJFWHl0VkI4R25IdEFvVGVfOW5WRFdR0gGTAUFVX3lxTFBoaERGSE5IRjExaHlNeU0wUkEtb0hkNlJXWFE1LVJmRUJ0RzlwaWg3ZWlNUV9PLTVjYU5ySUdQd0ZlMXRCVm5vamgybkxwN3FJa2F5c0w2T0R5TGVyNkU4NXNGWXZnTGdYalhIWjZtQVIzVjNTYUpRc1dBSGlzRlRuUjl0cnVzRFVfYlFxSHh2RjJBdw?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdWVpd19ydXRKQ1ZnZmxXQzRQUmVucF93cVNRWlZob2s3WGJ5QTZkdUlPNjdMWjN0T1JkcmoxZV84S2tpY01xVUhzZHV4WnNKY2lDUmpvejQtc1pXMF9UU2o1NlhBSm9QMzFkbkRIdXJfYnFBSFJFWHl0VkI4R25IdEFvVGVfOW5WRFdR0gGTAUFVX3lxTFBoaERGSE5IRjExaHlNeU0wUkEtb0hkNlJXWFE1LVJmRUJ0RzlwaWg3ZWlNUV9PLTVjYU5ySUdQd0ZlMXRCVm5vamgybkxwN3FJa2F5c0w2T0R5TGVyNkU4NXNGWXZnTGdYalhIWjZtQVIzVjNTYUpRc1dBSGlzRlRuUjl0cnVzRFVfYlFxSHh2RjJBdw",
+    "published": "Sat, 26 Sep 2026 05:49:17 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdWVpd19ydXRKQ1ZnZmxXQzRQUmVucF93cVNRWlZob2s3WGJ5QTZkdUlPNjdMWjN0T1JkcmoxZV84S2tpY01xVUhzZHV4WnNKY2lDUmpvejQtc1pXMF9UU2o1NlhBSm9QMzFkbkRIdXJfYnFBSFJFWHl0VkI4R25IdEFvVGVfOW5WRFdR0gGTAUFVX3lxTFBoaERGSE5IRjExaHlNeU0wUkEtb0hkNlJXWFE1LVJmRUJ0RzlwaWg3ZWlNUV9PLTVjYU5ySUdQd0ZlMXRCVm5vamgybkxwN3FJa2F5c0w2T0R5TGVyNkU4NXNGWXZnTGdYalhIWjZtQVIzVjNTYUpRc1dBSGlzRlRuUjl0cnVzRFVfYlFxSHh2RjJBdw?oc=5\" target=\"_blank\">From Tech Cost in Isolation to cost-to-value Equation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Banking Frontiers</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "6b1edda2d357b5ac": {
+    "id": "6b1edda2d357b5ac",
+    "group": "OVERALL",
+    "item": "capex_up_revenue_down",
+    "title": "The Chinese AI Infrastructure Boom: Introducing the SemiAnalysis China Datacenter Model - SemiAnalysis",
+    "title_norm": "the chinese ai infrastructure boom introducing the semianalysis china datacenter model semianalysis",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lRGJYX0NXcnNPdXdvcU1FSDUyUWVKbTE3dmNDZWJVR1YyM3dGa1Rjb3RfSjNrQ3B0ZGd3cUMtSlpkUmpNME40bHlEZnBxdmZjMWxscFFVZE1zWk9NVkk5M1Q5bjBJZU1lbVJpSkNzeVhQVmpkNUtTZHVwc3c?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lRGJYX0NXcnNPdXdvcU1FSDUyUWVKbTE3dmNDZWJVR1YyM3dGa1Rjb3RfSjNrQ3B0ZGd3cUMtSlpkUmpNME40bHlEZnBxdmZjMWxscFFVZE1zWk9NVkk5M1Q5bjBJZU1lbVJpSkNzeVhQVmpkNUtTZHVwc3c",
+    "published": "Fri, 25 Sep 2026 15:58:22 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5lRGJYX0NXcnNPdXdvcU1FSDUyUWVKbTE3dmNDZWJVR1YyM3dGa1Rjb3RfSjNrQ3B0ZGd3cUMtSlpkUmpNME40bHlEZnBxdmZjMWxscFFVZE1zWk9NVkk5M1Q5bjBJZU1lbVJpSkNzeVhQVmpkNUtTZHVwc3c?oc=5\" target=\"_blank\">The Chinese AI Infrastructure Boom: Introducing the SemiAnalysis China Datacenter Model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SemiAnalysis</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "9f2d18d7ed2ba3e6": {
+    "id": "9f2d18d7ed2ba3e6",
+    "group": "OVERALL",
+    "item": "mgmt_tone_softening",
+    "title": "Bitcoin Tops Mining Cost for First Time in 280 Days; JPMorgan Says Miner Selling Pressure Easing - finance.biggo.com",
+    "title_norm": "bitcoin tops mining cost for first time in 280 days jpmorgan says miner selling pressure easing finance biggo com",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wNkFFUkZpX3R4dXMyLUh0NUJ4R3Y4a3Rrc1o0TjBNRWVBOFI2TG9NU1VocEJpMHROd1JlSzNvV1pGUVRkNlN3RDNOd0o5Mi1RM05pLVpMUjdkNmV1cGVpOGN2ZUtMUVozem9CUTVXUXRQcVBRdGc?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wNkFFUkZpX3R4dXMyLUh0NUJ4R3Y4a3Rrc1o0TjBNRWVBOFI2TG9NU1VocEJpMHROd1JlSzNvV1pGUVRkNlN3RDNOd0o5Mi1RM05pLVpMUjdkNmV1cGVpOGN2ZUtMUVozem9CUTVXUXRQcVBRdGc",
+    "published": "Fri, 25 Sep 2026 12:25:00 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE8wNkFFUkZpX3R4dXMyLUh0NUJ4R3Y4a3Rrc1o0TjBNRWVBOFI2TG9NU1VocEJpMHROd1JlSzNvV1pGUVRkNlN3RDNOd0o5Mi1RM05pLVpMUjdkNmV1cGVpOGN2ZUtMUVozem9CUTVXUXRQcVBRdGc?oc=5\" target=\"_blank\">Bitcoin Tops Mining Cost for First Time in 280 Days; JPMorgan Says Miner Selling Pressure Easing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm": {
+      "relevant": false,
+      "strength": 0,
+      "confidence": 90,
+      "reason": "Article discusses Bitcoin mining costs and JPMorgan's comment that miner selling pressure is easing. This is market/analyst commentary about miners and prices, not indications of company management softening their public tone or communications. Therefore it is not relevant to 'mgmt_tone_softening'.",
+      "signals": []
+    },
+    "llm_model": "gpt-5-mini",
+    "llm_classified_at": "2026-09-26T21:38:52.194571+09:00"
+  },
+  "6cc86d84cb127ed5": {
+    "id": "6cc86d84cb127ed5",
+    "group": "OVERALL",
+    "item": "mgmt_tone_softening",
+    "title": "China’s Z.ai raises revenue target 25% after US$5 billion cash injection - South China Morning Post",
+    "title_norm": "china s z ai raises revenue target 25 after us 5 billion cash injection south china morning post",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTEgta1ZlWEMwdjFQWVYyV2x6TkgtOWY3ZFNjT1RiWGhpdjFtUHdaOE9VUkpMOGZseHVqZWFIdlhLOFJ4NGNIbEgtUmNoSVRYV19mcTR5RUZKTmo0VWNUX3I5bTRzQ3BjeFNJVWptYWo5a3dkdlo0S2RMU1ZtRE1EQ2xXZC0tQ2FrYndhX2R1OS1kNk1GdXdZbzV0Zm5WMV9Tb1BaVVJnRTd0Q0ZRbl9nQm1URGZrZ0xBNWlZNmIxYw?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTEgta1ZlWEMwdjFQWVYyV2x6TkgtOWY3ZFNjT1RiWGhpdjFtUHdaOE9VUkpMOGZseHVqZWFIdlhLOFJ4NGNIbEgtUmNoSVRYV19mcTR5RUZKTmo0VWNUX3I5bTRzQ3BjeFNJVWptYWo5a3dkdlo0S2RMU1ZtRE1EQ2xXZC0tQ2FrYndhX2R1OS1kNk1GdXdZbzV0Zm5WMV9Tb1BaVVJnRTd0Q0ZRbl9nQm1URGZrZ0xBNWlZNmIxYw",
+    "published": "Wed, 16 Sep 2026 07:00:00 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPTEgta1ZlWEMwdjFQWVYyV2x6TkgtOWY3ZFNjT1RiWGhpdjFtUHdaOE9VUkpMOGZseHVqZWFIdlhLOFJ4NGNIbEgtUmNoSVRYV19mcTR5RUZKTmo0VWNUX3I5bTRzQ3BjeFNJVWptYWo5a3dkdlo0S2RMU1ZtRE1EQ2xXZC0tQ2FrYndhX2R1OS1kNk1GdXdZbzV0Zm5WMV9Tb1BaVVJnRTd0Q0ZRbl9nQm1URGZrZ0xBNWlZNmIxYw?oc=5\" target=\"_blank\">China’s Z.ai raises revenue target 25% after US$5 billion cash injection</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
+    "llm_skipped": "prefilter_no_strong_keywords"
+  },
+  "06b49a8429b4fb6d": {
+    "id": "06b49a8429b4fb6d",
+    "group": "OVERALL",
+    "item": "market_positioning",
+    "title": "AI Bond Wave Drives Treasury Yields to 22-Year Highs, Lifting Mortgage Rates for All Americans - Tech Times",
+    "title_norm": "ai bond wave drives treasury yields to 22 year highs lifting mortgage rates for all americans tech times",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeHpxWk83dHdYSUhiQl93anMwMC1KS1lCWTV2WXZNSEFIWXpvWGtVemRwRFpFOWtzVlVaSUQ5WEhQS1M3enU4bTVXLTBzSXZiVVNpRWJVa0FPb2thY3FCcFNPRzZZQnFSSUZPZDduSmludnlweXBpMFVfa2VDcjNab0ZVa3F5WnJDT3lVeFNuZHJfdWYxT1FreEJSTVRmLWpXZVJQbWtMV19zb213eU1RWXBlVEQ1dllrb2Q0ejA5cldnb1hVSWtYMW9BdnMxUmhnUi1Del9Lcko?oc=5",
+    "link_norm": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeHpxWk83dHdYSUhiQl93anMwMC1KS1lCWTV2WXZNSEFIWXpvWGtVemRwRFpFOWtzVlVaSUQ5WEhQS1M3enU4bTVXLTBzSXZiVVNpRWJVa0FPb2thY3FCcFNPRzZZQnFSSUZPZDduSmludnlweXBpMFVfa2VDcjNab0ZVa3F5WnJDT3lVeFNuZHJfdWYxT1FreEJSTVRmLWpXZVJQbWtMV19zb213eU1RWXBlVEQ1dllrb2Q0ejA5cldnb1hVSWtYMW9BdnMxUmhnUi1Del9Lcko",
+    "published": "Fri, 25 Sep 2026 18:40:09 GMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeHpxWk83dHdYSUhiQl93anMwMC1KS1lCWTV2WXZNSEFIWXpvWGtVemRwRFpFOWtzVlVaSUQ5WEhQS1M3enU4bTVXLTBzSXZiVVNpRWJVa0FPb2thY3FCcFNPRzZZQnFSSUZPZDduSmludnlweXBpMFVfa2VDcjNab0ZVa3F5WnJDT3lVeFNuZHJfdWYxT1FreEJSTVRmLWpXZVJQbWtMV19zb213eU1RWXBlVEQ1dllrb2Q0ejA5cldnb1hVSWtYMW9BdnMxUmhnUi1Del9Lcko?oc=5\" target=\"_blank\">AI Bond Wave Drives Treasury Yields to 22-Year Highs, Lifting Mortgage Rates for All Americans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
+    "fetched_at": "2026-09-26T21:38:09.022519+09:00",
     "llm_skipped": "prefilter_no_strong_keywords"
   }
 }

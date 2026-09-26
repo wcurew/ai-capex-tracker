@@ -59141,5 +59141,301 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-09-26",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 2,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 0,
+        "dc_vacancy": 2,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 27.5,
+      "bucket": "보통",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 1,
+          "recent14_count": 2,
+          "fresh_sum": 1.6,
+          "decay_sum": 2.74,
+          "raw_score": 2.06,
+          "strong_hits14": 2,
+          "evidence": [
+            {
+              "title": "From cheaper rent to computing vouchers: How China is building a new AI film industry - The Times of India",
+              "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU3VrSVdtMVJGWXpoMFZvd2VuT3VIVTBnY013eVNLUk9KZ1RXRHR4X1RpdmFZMU16LU9Ga2hEN1pvZm9rQUdpVEdhNllZR3RjY2l5ZXJUaXlRR1NQbTRhUzhiWTcwRWRKeEFTZFZheDJFUy12dEtsb0F1ckhMMkpudUJCc2cyZ1o4Znd0eGZYT3NYTG1wcjNBeEkxR19RSFNqT0FDYnA4TEY0TThwMTZESy1LMWNWUWlkLV9hajV1NVVjUk9fTW9GellvT0JjMXlxQWp5cWVrWW41YUhqaW9pVGRRWnUzSkJ6R3hJdFl4R3c0TkdSTEJkbUl4Z9IBgAJBVV95cUxNVU4zX1ExUUptTDVMUElnR3VZd0o2aV9SbTlIbDVVUjROQzZWT3NqSDNvSnpLcFY0QW5jQkpmai0xdmt0a19qV183R25UX1lUa3VhZHFwOXdJdmlOaDZqdTluMVZCUUlhQnhCMFNGRVh2WVRwSHBzSU4zSWNGOExwejVRazNBRGJsQ2hkeXQ0VnlxZk4tU1c2Rmt2SnM5SVVHbHFGUDhleTdhb183LXZMd3VnQ1ZCd0x0a1VLc2RwdzNQczJ0YnBTQnI4dnZ3SG0yOHRYelpFclZvSDJ4RVNqNzJRMUkzTXVlVkVKcVVxcXpadTYzdXloSndGajBOWW1F?oc=5",
+              "published": "Fri, 25 Sep 2026 14:27:00 GMT",
+              "strength": 2,
+              "confidence": 70,
+              "reason": "The title explicitly mentions 'computing vouchers' and 'cheaper rent' being used to build an AI film industry in China, which indicates local subsidies/price incentives for AI compute resources. The item signals potential localized impacts on AI infrastructure pricing, but the headline suggests industry development rather than a clear, broad hyperscaler risk, so the signal strength is moderate.",
+              "signals": [
+                "computing vouchers/subsidies for AI computing in China",
+                "cheaper rent/operational cost reductions for AI firms",
+                "localized incentives that may affect AI compute pricing"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Apple Pitches $20,000 Macs as Cheaper Than Renting Data Centers in AI Cost War - finance.biggo.com",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xSmdkMm1pVk1MU0pxYmFwTFN6RjBIWFltd2F2X2JqbHQ1ZlNHTjBfM3BjNi1PNDNDNGpwamUzNFJocG9PTTI3UGswUnFNTGZGbU8tM2M5dW9lbUR6anV4eVZtdHBzLVg5aC1rSmhXVTZOZ1RXNmc?oc=5",
+              "published": "Tue, 22 Sep 2026 13:55:00 GMT",
+              "strength": 2,
+              "confidence": 70,
+              "reason": "Headline states Apple is pitching $20,000 Macs as cheaper than renting data centers in an 'AI cost war', which directly implies competitive pressure on cloud/data-center rental economics. However the item is a single news headline with no further substantiating detail, so the signal is plausible but not strong.",
+              "signals": [
+                "Apple advertises $20,000 Macs as cheaper than renting data centers",
+                "Framing is in context of an 'AI cost war', implying competition over AI compute costs",
+                "Positioning suggests an on-prem/desktop alternative to cloud-based AI compute"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.64,
+          "raw_score": 0.26,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "Arm Shares Rally as CEO Signals Supply Easing for $2 Billion AI Chip Push - finance.biggo.com",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kUmhudzlkM05oN2dTNDI5WXozXzVpdHdMNkhqV3hDWWlYUDQ1SHhhQVJpamlBY0UzandvTkNTNm0yVGlNTHZxNkJEbHd3TnRQQlYyVkVOQVZteUhuTjBKYTZNUFdVa0d0OC1Ecnp4QlUxT3kzUHc?oc=5",
+              "published": "Fri, 18 Sep 2026 18:19:00 GMT",
+              "strength": 2,
+              "confidence": 80,
+              "reason": "The headline explicitly says the CEO signaled supply easing for a $2B AI chip push, which directly pertains to supply-side risk for AI infrastructure. Lack of supporting details in the provided text limits signal strength.",
+              "signals": [
+                "supply_easing",
+                "management_guidance",
+                "chip_supply_risk_reduction",
+                "arm_ai_chip_push"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.28,
+          "raw_score": 0.11,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "LITEON Risks Explained: AI CapEx, Valuation, Customer Concentration and Optical Technology Risk - MEXC",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVHY0bDdya25SNEgtQno2cFlScUhxVXNISE9VTmJ3N2F0eWw4cHlaQnlCcXZlYThmaGhZNzdZcExGR1BmV3loM0JpUDNZZGZGem1Eejh2X0pDcGtaWmVJX3hrMUdaOEwybU9hRmFKMVYtQVBnMVZHRkVISTZfdExBUXVIdnhua1VuQkl4UDdyMnFhOFhudTZ4TER0RlBrOW1SMVh6ZVV0Wl9tODU5NFluZ250Q3ZweFYybDA2eFFpakFIZGI0Mk9n?oc=5",
+              "published": "Mon, 14 Sep 2026 07:14:46 GMT",
+              "strength": 2,
+              "confidence": 75,
+              "reason": "Title explicitly identifies 'AI CapEx' as a risk for LITEON and also cites customer concentration, valuation, and optical technology risks. The provided text does not state specific capex increases or revenue declines, so the signal is present but not strongly detailed—hence a moderate strength and conservative confidence.",
+              "signals": [
+                "AI CapEx risk",
+                "Valuation risk",
+                "Customer concentration risk",
+                "Optical technology risk"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "dc_vacancy": {
+          "recent3_count": 1,
+          "recent14_count": 2,
+          "fresh_sum": 1.6,
+          "decay_sum": 2.03,
+          "raw_score": 1.77,
+          "strong_hits14": 2,
+          "evidence": [
+            {
+              "title": "Low vacancy, strong fundamentals: Korea’s data center market ripe for investment, says Cushman & Wakefield - Korea JoongAng Daily",
+              "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUlRFN0xHX0NaQU5lbHpXYlFqUndaZUllXzRxSF8xUlhHMFhOSGlXYV9hcE9OajB3N0taRzJWWk1nTVBrR3FmTVoyZHhvVE4xT2twX0JpdmV6dFd6eUNNQUZFWUNxSHlVQmhHeFlLNF91cmxPZTF4V3prb1dzLUg0aGN3VUNDMm10SUxJUVdRdW9ZbVJuNlMxN09KVWJjdUM5N2pwOS16aXB4eVlWakNtMGNnU2JBSk9fWkk4N0JLdldpVFRKQzlWcC1XeEdjdnA3UHA2QUw5YVk5ZDhmRFhtS3pyNDNwUXltN3FyU09R?oc=5",
+              "published": "Tue, 15 Sep 2026 01:04:01 GMT",
+              "strength": 2,
+              "confidence": 70,
+              "reason": "Headline explicitly reports 'low vacancy' and 'strong fundamentals' for Korea's data center market (Cushman & Wakefield). This is directly relevant to data‑center capacity/market conditions for hyperscalers, but the item provides only a high‑level market statement with no specific operational or outage risk details.",
+              "signals": [
+                "Low vacancy in Korea data center market",
+                "Strong fundamentals in Korea data center market",
+                "Market described as 'ripe for investment' by Cushman & Wakefield"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Anchor Concentration: The Hidden Vacancy Risk in Emerging Data Center Clusters - globaldatacenterhub.com",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS3pFcTc4c0UwSjZDZUY3X3ctSlYzcUc5WmZuX1BDWlJyY3pYa2pTTUpZODhSWkxuYml1MHBrRThxNVBuMkVWb29iM0w4ZzhYM2o0UW1EN3ZXQ3RpTDN4WThOSTJrOFRGdGdDS29sakhzV2V6ZHZwcmV4UHhnRERraEM2NkloYUNheXVCYS1kRFF4UQ?oc=5",
+              "published": "Fri, 25 Sep 2026 02:02:29 GMT",
+              "strength": 2,
+              "confidence": 60,
+              "reason": "The headline explicitly points to a vacancy risk caused by anchor-tenant concentration in emerging data center clusters, which is directly relevant to data center/hyperscaler infrastructure risk. Assessment is limited because only the title/link is provided and no article content or supporting data is available.",
+              "signals": [
+                "Anchor-tenant concentration creating vacancy risk in emerging data center clusters",
+                "Cluster-level vacancy risk for data centers due to reliance on anchors"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "power_permit_delays": {
+          "recent3_count": 6,
+          "recent14_count": 24,
+          "fresh_sum": 12.4,
+          "decay_sum": 32.8,
+          "raw_score": 21.06,
+          "strong_hits14": 24,
+          "evidence": [
+            {
+              "title": "PUCT sets financial commitments for data center interconnection as governor pauses permit approvals - White & Case LLP",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeWtuemlJVHJpdUVBZEp3YWhHS2RMVVd5Uy1rYXBkTmZQQ0hFeC1BcXhvYXdLR2oxTkZJSGlNUDEwcno4Z29PYy13SmVpRmpNOVVISS1raDRWc1VlTUFNTzZRMmNveUVOS1RreWNFeUcwa3JoSXhQYTlvSTFXUXpUcEF6MEp3TTdFbXcyY3dCekZEdWNpU3FIdW01TTM5Ql94ZG5uT1RpM0NBODRsV2pLM2hwSlVvNEw0MUlreW43Zw?oc=5",
+              "published": "Fri, 25 Sep 2026 12:00:00 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The title explicitly states the governor paused permit approvals and the PUCT set financial commitments for data center interconnection—direct regulatory actions affecting data center interconnection and permitting for hyperscalers.",
+              "signals": [
+                "Governor pauses permit approvals",
+                "PUCT sets financial commitments for data center interconnection",
+                "Regulatory action affecting data center interconnection/permitting"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Branch Energy raises $33 million for 'grid-in-a-box' batteries to bypass years-long data center queue - pv magazine USA",
+              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYzZ2QmVjOTVKc3FKNjhqMG9IV1BHN2kzbzBtbmxZVy1fVmdjMm05SkJzNS0xT3VhTVVoOGdrR0FTbW1aZW4yTld4Z0txbkREcG1QcEM0el9iVlZPOEpBaUIzemtmVkdtN3Npb3I3YjBOUTRLT1ZMM1NQdUJHZ29EX3dNTFBWSUtjNFhTbHhCQ2R5OWJaR1lXN3F3TF96R2VBUWlWdThTelBWRUREWW4wTElvOFFHV1RoYmg0UXRPRHRLa0ZKcHNuZHFGdzVBN0RNRHhPOQ?oc=5",
+              "published": "Wed, 16 Sep 2026 10:52:53 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline explicitly cites 'years-long data center queue' and describes batteries intended to 'bypass' that queue, directly indicating multi-year delays in grid interconnection/permits for data center power projects.",
+              "signals": [
+                "years-long data center grid interconnection queue",
+                "market adoption of battery 'grid-in-a-box' to avoid queue",
+                "capital raised ($33M) to deploy battery solutions to bypass delays"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas Freezes Data Center Permits Until Grid Audit Ends - Parametric Architecture",
+              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jT2V2LVRLYmxnN3QtT1BzbjVlelJtRkxUc1pQNUFCZnFYR2lxRlp6SUxITk5jb0k0bWdUTVJGRzcwdU9tOXZLWkJRbGRjbkMzUjFHNm0zNDc3NmNyWkZUeHRjWF9Lc01KdkNZSFd2Y25BTHp5OUh3REs1WUg?oc=5",
+              "published": "Fri, 25 Sep 2026 13:00:00 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "State-level permit freeze on data centers in Texas is a direct regulatory constraint that will delay new data center approvals and expansion until a grid audit is completed, posing a clear operational/expansion risk for hyperscalers and AI infrastructure deployments in the region.",
+              "signals": [
+                "state-imposed permit freeze for data centers",
+                "regulatory moratorium pending grid audit",
+                "expected delays to new data center approvals/construction",
+                "potential constraints on capacity expansion for hyperscalers",
+                "grid reliability concerns driving policy action"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "AI data centers strain an electric grid built for a different era - Yahoo",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQlkzQUd4NkdRTU5jcnZPVkU1QlJRN1ZkRFhyVzVjWWtHeG5xMEdRdWptdUpFR1phWHpIZTFzZG02OGZSQWx3dFd3eTRBSWJYZzRDUjFhX1JyQXdLcmt2OTNqX0dnbVBXZk9hWVhTS1NKdG1xNFJVR0Vhblcyc09DcWhMQ2tBZ192MnVSZnl3?oc=5",
+              "published": "Tue, 15 Sep 2026 12:15:47 GMT",
+              "strength": 3,
+              "confidence": 88,
+              "reason": "The headline explicitly states AI data centers are straining an electric grid “built for a different era,” which directly indicates a risk to power infrastructure capacity for AI/hyperscaler deployments. Full article content not provided, so severity and specific impacts are unclear.",
+              "signals": [
+                "AI data centers increasing electricity demand",
+                "Electric grid capacity/mismatch with modern AI loads",
+                "Potential need for grid upgrades or capacity expansion affecting hyperscale deployments"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Virginia Takes Aim at Off-Grid Natural Gas as Texas Halts Data Center Permits - Natural Gas Intelligence",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRUdoRkIxNDFEV3FYZUtOYnRaY1doNXY1ajAwdDR4VkNGaGpmNzdCQUJDTlpKdzFGUldhYlh3QWtlMldVQllTS1RYakdheGRkYlNDdkJ5bmlkZ0Nfemx1MjRBU1FDNVdWbUFwLXFqd2xCaHJjdFE1dzNaT3N5dlpTTzU5ajZSZXFVWlg1ZU9DcUdxT1ZOaENFZzBUV0FlOWZpa3pQNnktVV9oNUFCbG0yRQ?oc=5",
+              "published": "Tue, 22 Sep 2026 18:58:00 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline reports state actions directly affecting data center permitting (Texas halting permits) and restrictions on off-grid natural gas in Virginia, which represent a clear regulatory/permitting risk to hyperscaler data center deployment and onsite power strategies. No further details provided, so magnitude/scope is unclear.",
+              "signals": [
+                "Texas halts data center permits",
+                "Virginia targets/restricts off-grid natural gas",
+                "Potential permitting delays for data center projects",
+                "Regulatory risk to onsite/off-grid power generation for data centers"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Grid constraints push Dutch data centers beyond Amsterdam - ET Datacenters",
+              "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWGZfbk1ua1VqNkk4TmpDdXQ5VmVaeHdyY3kyRUNteUJ3T2w3aVJZRW5xZTdYNUJoX1VBajh1VkhuQlRmS0dZc3BEaDU5ZmxqMHRkaDlGSW8wdVhBM0NENW5UYXlfcm1TaEpDV2E0VTVVa1NnM3dhczZKaGZVcFlmUC12RnVKMTdGazlvMjRlNzlPZ3NxVmlRLURvQXhMSFVVVGNZRTBNY0toNnlrZnlvcG02clJ1ajBoWXdxUEd4WGE3dVYwSVg4RXN0UUZsWlA4Y282d0lTeUlOZnRVSGVqSm1XdnBVVWJESHJtMk1lYzdsTVA4eE1KeC1kbGxPNHdBOFNFQ3VEZlB3Y0gtSkJiMkZhWDRUT3NNeW400gHqAUFVX3lxTE1MQko0dEp1MXQ1eG50azVUeGhna1ZIMU5nMHlsU1AyXzVxUkltLXRWR2xrUHVmLS1EMW5ZYXM1ckxXaHVrNFZwZWJkNjF4THpjNElOLVVsbmhKejVkZlZxdC15QnNhVV9xNGFET1NGV2VUZk5GVE5UZ3U3d08xUmo5TURJSmdadjNVeS1Vd3JTV3pFNXZ6R2YyTTBEQThOUUNjd1VRV0JZNDFWRlBBdVBZYTg3MWNEclFFZHJwR1VoTVNLak1RS3NodnBOTUNOb2FwRU1NMHlmeWpGbU5hTV9KSnJwc2thM3hxdw?oc=5",
+              "published": "Tue, 22 Sep 2026 03:10:32 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Title explicitly reports 'grid constraints' affecting data center location in the Netherlands, indicating a clear power/infrastructure capacity constraint risk that can impact permitting/deployment timetables.",
+              "signals": [
+                "Grid capacity constraints in the Amsterdam area affecting data center development",
+                "Data centers being pushed to locations beyond Amsterdam due to grid limits",
+                "Implied risk of delays or limitations in site approvals/deployments tied to electricity infrastructure"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas Governor orders audit of data center grid connection requests as ERCOT faces 474 GW demand backlog - Energies Media",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51Y0FGS204WHRQbHgyeUJwdTByZHVJQngtNlpoWWxVZGhyY1dCbU1yT2J2TzY2YmczVmdJV1RXb1N0SzNma1FVdTBXU1ZiM1RWYkx3MXBtSjgta01oSHlCbTg0c3VuN1pmTXdoRQ?oc=5",
+              "published": "Mon, 21 Sep 2026 20:33:32 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Article states the Texas Governor has ordered an audit of data center grid connection requests and ERCOT is facing a 474 GW demand backlog. That directly signals constrained grid capacity and regulatory scrutiny of data center connection/permit requests, which is a clear risk vector for AI/hyperscaler infrastructure in the region.",
+              "signals": [
+                "data_center_grid_connection_backlog",
+                "regulatory_audit_of_data_center_connection_requests",
+                "ERCOT_474GW_demand_backlog",
+                "risk_of_power_connection_or_permitting_delays"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "UK regulator plans BESS fees to cut grid connection queue - pv magazine Global",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM3EtRlFJazlRR3c1bE9kUjJOSEJKdlljb21XMXFxbF9YeDdjMHBBdUR3RXFJc05BLXlZMlV6LXppVk12WTN6bjg3eG92dnNRX1R1WlZqZjV2Y2hEWGtSYzFwbDllZTFaeEl3b1pDV2hGX2NCUy1LVmF6NllGekRtcldNV2Q3Sm81YmlTSmlDNGNmbXJqRV9HQ1dCSEJvZw?oc=5",
+              "published": "Sat, 19 Sep 2026 09:04:33 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The headline states the UK regulator is planning fees for battery energy storage systems (BESS) specifically intended to cut the grid connection queue, which directly pertains to grid connection/permit queue management and potential impacts on connection timing and costs.",
+              "signals": [
+                "UK regulator plans fees for BESS to cut grid connection queue",
+                "Policy change aimed at managing grid connection queue for battery storage (BESS)",
+                "Published by pv magazine Global reporting regulator action on connection queue"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 41,
+      "new_articles": 27,
+      "dedup_skips": 170,
+      "prefilter_skips": 22,
+      "llm_calls": 5,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 3,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 1,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 1,
+        "market_positioning": 0
+      }
+    }
   }
 ]
