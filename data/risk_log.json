@@ -59859,11 +59859,11 @@
         },
         "power_permit_delays": {
           "recent3_count": 1,
-          "recent14_count": 25,
+          "recent14_count": 26,
           "fresh_sum": 3.2,
-          "decay_sum": 24.55,
-          "raw_score": 12.24,
-          "strong_hits14": 25,
+          "decay_sum": 25.78,
+          "raw_score": 12.73,
+          "strong_hits14": 26,
           "evidence": [
             {
               "title": "Power Constraints Push Oracle to Delay $18 Billion Data Center Campus - Propmodo",
@@ -59995,20 +59995,20 @@
       }
     },
     "run_stats": {
-      "store_pruned_removed": 57,
+      "store_pruned_removed": 0,
       "new_articles": 24,
-      "dedup_skips": 168,
-      "prefilter_skips": 22,
-      "llm_calls": 2,
+      "dedup_skips": 167,
+      "prefilter_skips": 20,
+      "llm_calls": 4,
       "llm_errors": 0,
       "urls_total": 13,
       "urls_ok": 13,
       "urls_fail": 0,
       "per_item_llm_calls": {
-        "power_permit_delays": 2,
+        "power_permit_delays": 3,
         "dc_vacancy": 0,
         "ai_price_cuts": 0,
-        "capex_up_revenue_down": 0,
+        "capex_up_revenue_down": 1,
         "mgmt_tone_softening": 0,
         "market_positioning": 0
       }

@@ -14004,7 +14004,7 @@
   },
   {
     "date": "2026-09-29",
-    "run_at": "2026-09-29T01:24:09.210087+09:00",
+    "run_at": "2026-09-29T23:35:02.768414+09:00",
     "overall_score": 15.0,
     "risk_level": "낮음",
     "item_scores": {
@@ -14050,11 +14050,11 @@
       },
       "power_permit_delays": {
         "recent3_count": 1,
-        "recent14_count": 25,
+        "recent14_count": 26,
         "fresh_sum": 3.2,
-        "decay_sum": 24.55,
-        "raw_score": 12.24,
-        "strong_hits14": 25
+        "decay_sum": 25.78,
+        "raw_score": 12.73,
+        "strong_hits14": 26
       },
       "market_positioning": {
         "recent3_count": 0,
@@ -14065,8 +14065,8 @@
         "strong_hits14": 0
       }
     },
-    "article_count_total": 1252,
-    "article_count_14d": 397,
+    "article_count_total": 1276,
+    "article_count_14d": 421,
     "new_articles_today": 24
   }
 ]
