@@ -60278,5 +60278,284 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-10-02",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 0,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 2,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 20.0,
+      "bucket": "보통",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 2,
+          "fresh_sum": 0.0,
+          "decay_sum": 1.03,
+          "raw_score": 0.41,
+          "strong_hits14": 2,
+          "evidence": [
+            {
+              "title": "From cheaper rent to computing vouchers: How China is building a new AI film industry - The Times of India",
+              "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU3VrSVdtMVJGWXpoMFZvd2VuT3VIVTBnY013eVNLUk9KZ1RXRHR4X1RpdmFZMU16LU9Ga2hEN1pvZm9rQUdpVEdhNllZR3RjY2l5ZXJUaXlRR1NQbTRhUzhiWTcwRWRKeEFTZFZheDJFUy12dEtsb0F1ckhMMkpudUJCc2cyZ1o4Znd0eGZYT3NYTG1wcjNBeEkxR19RSFNqT0FDYnA4TEY0TThwMTZESy1LMWNWUWlkLV9hajV1NVVjUk9fTW9GellvT0JjMXlxQWp5cWVrWW41YUhqaW9pVGRRWnUzSkJ6R3hJdFl4R3c0TkdSTEJkbUl4Z9IBgAJBVV95cUxNVU4zX1ExUUptTDVMUElnR3VZd0o2aV9SbTlIbDVVUjROQzZWT3NqSDNvSnpLcFY0QW5jQkpmai0xdmt0a19qV183R25UX1lUa3VhZHFwOXdJdmlOaDZqdTluMVZCUUlhQnhCMFNGRVh2WVRwSHBzSU4zSWNGOExwejVRazNBRGJsQ2hkeXQ0VnlxZk4tU1c2Rmt2SnM5SVVHbHFGUDhleTdhb183LXZMd3VnQ1ZCd0x0a1VLc2RwdzNQczJ0YnBTQnI4dnZ3SG0yOHRYelpFclZvSDJ4RVNqNzJRMUkzTXVlVkVKcVVxcXpadTYzdXloSndGajBOWW1F?oc=5",
+              "published": "Fri, 25 Sep 2026 14:27:00 GMT",
+              "strength": 2,
+              "confidence": 70,
+              "reason": "The title explicitly mentions 'computing vouchers' and 'cheaper rent' being used to build an AI film industry in China, which indicates local subsidies/price incentives for AI compute resources. The item signals potential localized impacts on AI infrastructure pricing, but the headline suggests industry development rather than a clear, broad hyperscaler risk, so the signal strength is moderate.",
+              "signals": [
+                "computing vouchers/subsidies for AI computing in China",
+                "cheaper rent/operational cost reductions for AI firms",
+                "localized incentives that may affect AI compute pricing"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Apple Pitches $20,000 Macs as Cheaper Than Renting Data Centers in AI Cost War - finance.biggo.com",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xSmdkMm1pVk1MU0pxYmFwTFN6RjBIWFltd2F2X2JqbHQ1ZlNHTjBfM3BjNi1PNDNDNGpwamUzNFJocG9PTTI3UGswUnFNTGZGbU8tM2M5dW9lbUR6anV4eVZtdHBzLVg5aC1rSmhXVTZOZ1RXNmc?oc=5",
+              "published": "Tue, 22 Sep 2026 13:55:00 GMT",
+              "strength": 2,
+              "confidence": 70,
+              "reason": "Headline states Apple is pitching $20,000 Macs as cheaper than renting data centers in an 'AI cost war', which directly implies competitive pressure on cloud/data-center rental economics. However the item is a single news headline with no further substantiating detail, so the signal is plausible but not strong.",
+              "signals": [
+                "Apple advertises $20,000 Macs as cheaper than renting data centers",
+                "Framing is in context of an 'AI cost war', implying competition over AI compute costs",
+                "Positioning suggests an on-prem/desktop alternative to cloud-based AI compute"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.24,
+          "raw_score": 0.1,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "Arm Shares Rally as CEO Signals Supply Easing for $2 Billion AI Chip Push - finance.biggo.com",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kUmhudzlkM05oN2dTNDI5WXozXzVpdHdMNkhqV3hDWWlYUDQ1SHhhQVJpamlBY0UzandvTkNTNm0yVGlNTHZxNkJEbHd3TnRQQlYyVkVOQVZteUhuTjBKYTZNUFdVa0d0OC1Ecnp4QlUxT3kzUHc?oc=5",
+              "published": "Fri, 18 Sep 2026 18:19:00 GMT",
+              "strength": 2,
+              "confidence": 80,
+              "reason": "The headline explicitly says the CEO signaled supply easing for a $2B AI chip push, which directly pertains to supply-side risk for AI infrastructure. Lack of supporting details in the provided text limits signal strength.",
+              "signals": [
+                "supply_easing",
+                "management_guidance",
+                "chip_supply_risk_reduction",
+                "arm_ai_chip_push"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 1,
+          "recent14_count": 1,
+          "fresh_sum": 1.6,
+          "decay_sum": 1.7,
+          "raw_score": 1.64,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "EXCLUSIVE: If AI Capex Cracks, Nvidia Could Feel It Before Meta Does - TradingView",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYkpFX1pjMzY1b3VHdzV1NUhiVEFQd1ZLWXlab1B6ZHhaQ1BqSnh3MlVjTjd1UXF6a2JfMXkzU2xjVmdhM2lmMmdNUll6MzRVaVpZQVBqOXJpVThXczg1dnFiR2RERDNZeU5neEdQMnZKZThZWlZyd1l2Ry0tR21zZEswQzM2cFNIMU5FN0xaVDN5VEVnN3h3SU03Y2Nwb3k0eWF2aDdNV3U1YUl0VDlfZHdSTnpXcUZSU24zSWZQQS10R3c?oc=5",
+              "published": "Wed, 30 Sep 2026 15:48:48 GMT",
+              "strength": 2,
+              "confidence": 70,
+              "reason": "Title explicitly links a potential contraction in AI capex to near-term negative impact on Nvidia relative to Meta, indicating a risk to AI hardware demand; however only headline/source provided so details and magnitude are unclear—conservative moderate strength.",
+              "signals": [
+                "Potential AI capex downturn could negatively affect Nvidia before Meta",
+                "Possible reduction in demand for AI hardware/GPUs if AI capex cracks"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.64,
+          "raw_score": 0.26,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "Anchor Concentration: The Hidden Vacancy Risk in Emerging Data Center Clusters - globaldatacenterhub.com",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS3pFcTc4c0UwSjZDZUY3X3ctSlYzcUc5WmZuX1BDWlJyY3pYa2pTTUpZODhSWkxuYml1MHBrRThxNVBuMkVWb29iM0w4ZzhYM2o0UW1EN3ZXQ3RpTDN4WThOSTJrOFRGdGdDS29sakhzV2V6ZHZwcmV4UHhnRERraEM2NkloYUNheXVCYS1kRFF4UQ?oc=5",
+              "published": "Fri, 25 Sep 2026 02:02:29 GMT",
+              "strength": 2,
+              "confidence": 60,
+              "reason": "The headline explicitly points to a vacancy risk caused by anchor-tenant concentration in emerging data center clusters, which is directly relevant to data center/hyperscaler infrastructure risk. Assessment is limited because only the title/link is provided and no article content or supporting data is available.",
+              "signals": [
+                "Anchor-tenant concentration creating vacancy risk in emerging data center clusters",
+                "Cluster-level vacancy risk for data centers due to reliance on anchors"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "power_permit_delays": {
+          "recent3_count": 5,
+          "recent14_count": 25,
+          "fresh_sum": 8.4,
+          "decay_sum": 28.85,
+          "raw_score": 17.08,
+          "strong_hits14": 25,
+          "evidence": [
+            {
+              "title": "UK’s ‘largest AI supercomputer’ delayed to 2030s due to grid issues - eandt.theiet.org",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRmRCRm9VT21Sc09UVXJCSE10aHkwX1hVc3JNRWFmaTZmX3ZBUFFCWF9YQUhNX0VXRWF1N29zUjY4SjdKSkE3SnlsdGdNUUMzdjJJbkNKMl9LMkpucEtDcXlPR3Rac3h5akJncUM3eGpqR25NMWFFUlF5M0JUUmpMc2hOZ09XU1RyXzVzWFMzbTBRX3NfN1ZmbldtQ1NsaTZE?oc=5",
+              "published": "Mon, 28 Sep 2026 11:43:54 GMT",
+              "strength": 4,
+              "confidence": 95,
+              "reason": "The article headline explicitly states the UK’s largest AI supercomputer has been delayed to the 2030s due to grid issues, a direct example of power/grid-related delays affecting AI infrastructure deployment.",
+              "signals": [
+                "UK AI supercomputer delayed to 2030s due to grid issues",
+                "Grid capacity/connection issues impacting AI supercomputer deployment",
+                "Power/permit delays causing major AI infrastructure schedule slippage"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Finland to abandon first-come, first-served grid connections, dropping data centers down the queue - BeBeez International",
+              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb1dGUldLSGY1TW5kTWpObkFxemZLNzRuNEFGY2ZkN1NhRGFmaGdBMFQzSGJSWlNlcnEweWlLSmZLcWpRMU91RFpPZXJ6R05wb1QzS1AtNGI2WF9Rbzk4NjVjNVVXLVJ5d2tzZkxJNXBvbGlvTDBjcWpGTzFfQ05scjdmMWJWS0NrbkhOX3ViaWNTNFl5UGJjWGhFVVExeDJ6bFJndDdnYUgwMTBlRDZYeThjYTlOWTAxQktpUnAzOEVNaTlG?oc=5",
+              "published": "Wed, 30 Sep 2026 13:11:54 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Article states Finland will abandon first-come, first-served grid connections and explicitly drop data centers down the queue — a direct policy-driven risk to timely grid connections for data center/hyperscaler projects.",
+              "signals": [
+                "Policy change: Finland abandoning first-come-first-served grid connection allocations",
+                "Data centers explicitly deprioritized in grid connection queue",
+                "Increased risk of delayed power connections/permits for data center/hyperscaler projects in Finland"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Power Constraints Push Oracle to Delay $18 Billion Data Center Campus - Propmodo",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa2NTM0p2M0ctTTNsY19hOXBWRWhHbWJ1WXROdF9vd211MUROREozZWswb0QwdDVGOUp2WFBLOFFza1lDa1RuNGhmZHYtUzBubkxETlpDRWtxWTJWM2t3RnE2TEJIVU0xVjBpU1R0aDFvUjNfbU9DczlDck8teGJFM3ZJYzRGRE16QzkxWWlTS1NULXBV?oc=5",
+              "published": "Sun, 27 Sep 2026 19:16:10 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The article explicitly reports Oracle delaying an $18B data center campus due to power constraints—direct evidence of power-related risk that can impede hyperscaler data center expansion.",
+              "signals": [
+                "Oracle delaying $18B data center campus",
+                "power constraints causing construction delays",
+                "data center expansion risk"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "PUCT sets financial commitments for data center interconnection as governor pauses permit approvals - White & Case LLP",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeWtuemlJVHJpdUVBZEp3YWhHS2RMVVd5Uy1rYXBkTmZQQ0hFeC1BcXhvYXdLR2oxTkZJSGlNUDEwcno4Z29PYy13SmVpRmpNOVVISS1raDRWc1VlTUFNTzZRMmNveUVOS1RreWNFeUcwa3JoSXhQYTlvSTFXUXpUcEF6MEp3TTdFbXcyY3dCekZEdWNpU3FIdW01TTM5Ql94ZG5uT1RpM0NBODRsV2pLM2hwSlVvNEw0MUlreW43Zw?oc=5",
+              "published": "Fri, 25 Sep 2026 12:00:00 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The title explicitly states the governor paused permit approvals and the PUCT set financial commitments for data center interconnection—direct regulatory actions affecting data center interconnection and permitting for hyperscalers.",
+              "signals": [
+                "Governor pauses permit approvals",
+                "PUCT sets financial commitments for data center interconnection",
+                "Regulatory action affecting data center interconnection/permitting"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas Freezes Data Center Permits Until Grid Audit Ends - Parametric Architecture",
+              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jT2V2LVRLYmxnN3QtT1BzbjVlelJtRkxUc1pQNUFCZnFYR2lxRlp6SUxITk5jb0k0bWdUTVJGRzcwdU9tOXZLWkJRbGRjbkMzUjFHNm0zNDc3NmNyWkZUeHRjWF9Lc01KdkNZSFd2Y25BTHp5OUh3REs1WUg?oc=5",
+              "published": "Fri, 25 Sep 2026 13:00:00 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "State-level permit freeze on data centers in Texas is a direct regulatory constraint that will delay new data center approvals and expansion until a grid audit is completed, posing a clear operational/expansion risk for hyperscalers and AI infrastructure deployments in the region.",
+              "signals": [
+                "state-imposed permit freeze for data centers",
+                "regulatory moratorium pending grid audit",
+                "expected delays to new data center approvals/construction",
+                "potential constraints on capacity expansion for hyperscalers",
+                "grid reliability concerns driving policy action"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "6.8GW PJM Data Center Plan Gets $20 Billion Backstop as Federal Grid Review Faces 5-Month Pause - Construction Review",
+              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORFZfOTVDaUhPeDZFbUIwU3ROam5qaWFQVFlRMEVhWmhuQUdJclo4SEtySlBQSm1KWW1ZS1hROU14SUg5cERpTU5aYzJiUDktQXgyRTlmVUlmaFpoSVFWdC14OG8zb1o5UWpFdk91SDZJMXpPaklqbTZ1Q0N6YW1EX0QySGRjXzBoOWt3UXlsLTRuQVNkN0g2eUtoa29VaFRGS05TOE1yMDR0U2NlYWF4cUFvN1lsdk5XZ0kyb21fZ0x2SW1RTUhYaXNsOS0?oc=5",
+              "published": "Wed, 30 Sep 2026 09:25:43 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The article explicitly reports a 5-month pause in the federal grid review for a 6.8GW PJM data center plan, which constitutes a clear regulatory/permitting risk signal; the $20B backstop mentioned indicates a mitigation response but does not remove the review pause risk.",
+              "signals": [
+                "5-month pause in federal grid review",
+                "6.8GW PJM data center plan subject to the review pause",
+                "$20 billion backstop provided for the plan (mitigation/financial contingency)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Finland to abandon first-come, first-served grid connections, dropping data centers down the queue - Data Center Dynamics",
+              "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZTJhemM2emo3cnkxX2dscTdvZ016YlRKT0pjR0toMmZoUkZWc014eXhOM0k3VUoyanVOVEtELVItLXJnMExTUGJNUHVUTHpZQ2o5UGttRU5ockxWWnNMSW1KOGExMno4WG1hU2c4cHVrZVRLb0ZlQmJNZUFQdjRxSEpzdXRlVlFSUmcxUnRiQjNfZDhOc0NpdFFtNGhTbHY5YlE2eHdseDY0dDdqQ2pvMUYtQ2F5ZkxaQ1pQSHZ5eEZUMUIya3BKRmkwRFBHS3BiQXdFNUZsaw?oc=5",
+              "published": "Wed, 30 Sep 2026 13:04:26 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Article states Finland will abandon a first-come, first-served grid connection policy and will drop data centers down the queue. This is a clear, policy-driven signal that data center grid connection priority will be reduced, creating risk to timely power permits/connections for hyperscale infrastructure in Finland.",
+              "signals": [
+                "Finland abandoning first-come, first-served grid connection policy",
+                "Data centers explicitly being dropped down the grid connection queue",
+                "Policy change likely to affect timing/priority of power permits and grid connections for data centers"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Virginia Takes Aim at Off-Grid Natural Gas as Texas Halts Data Center Permits - Natural Gas Intelligence",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRUdoRkIxNDFEV3FYZUtOYnRaY1doNXY1ajAwdDR4VkNGaGpmNzdCQUJDTlpKdzFGUldhYlh3QWtlMldVQllTS1RYakdheGRkYlNDdkJ5bmlkZ0Nfemx1MjRBU1FDNVdWbUFwLXFqd2xCaHJjdFE1dzNaT3N5dlpTTzU5ajZSZXFVWlg1ZU9DcUdxT1ZOaENFZzBUV0FlOWZpa3pQNnktVV9oNUFCbG0yRQ?oc=5",
+              "published": "Tue, 22 Sep 2026 18:58:00 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline reports state actions directly affecting data center permitting (Texas halting permits) and restrictions on off-grid natural gas in Virginia, which represent a clear regulatory/permitting risk to hyperscaler data center deployment and onsite power strategies. No further details provided, so magnitude/scope is unclear.",
+              "signals": [
+                "Texas halts data center permits",
+                "Virginia targets/restricts off-grid natural gas",
+                "Potential permitting delays for data center projects",
+                "Regulatory risk to onsite/off-grid power generation for data centers"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 47,
+      "new_articles": 32,
+      "dedup_skips": 151,
+      "prefilter_skips": 26,
+      "llm_calls": 6,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 5,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 1,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 0
+      }
+    }
   }
 ]
