@@ -60403,12 +60403,12 @@
           ]
         },
         "power_permit_delays": {
-          "recent3_count": 5,
-          "recent14_count": 25,
-          "fresh_sum": 8.4,
-          "decay_sum": 28.85,
-          "raw_score": 17.08,
-          "strong_hits14": 25,
+          "recent3_count": 8,
+          "recent14_count": 30,
+          "fresh_sum": 16.3,
+          "decay_sum": 39.35,
+          "raw_score": 26.02,
+          "strong_hits14": 30,
           "evidence": [
             {
               "title": "UK’s ‘largest AI supercomputer’ delayed to 2030s due to grid issues - eandt.theiet.org",
@@ -60467,6 +60467,34 @@
               "llm_model": "gpt-5-mini"
             },
             {
+              "title": "Texas Pauses All Environmental Permitting for Data Centers - The National Law Review",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeDFPdGd1X3U0OFNVZmhrRFdGX25VRVZXci1WYU9hMGdlTWx1LXFLYmRSekhEZzVLV2FuSEJiNWU5YWdqV3dzdzBqb1JpZWFSTDJPdU1KbjhMRG1haEdmcVotQWFJeWRfaUVwd3JmNkt5TmdPbnNmWnlPd1c5d0xqX1FWcmpZQm9ncGdudDBDOTVpRmN3ZnfSAZYBQVVfeXFMTXgxT3RndV91NDhTVWZoa0RXRl9uVUVWV3ItVmFPYTBnZU1sdS1xS2JkUnpIRGc1S1dhbkhCYjVlOWFnald3c3cwam9SaWVhUkwyT3VNSm44TERtYWhHZnFaLUFhSXlkX2lFcHdyZjZLeU5nT25zZlp5T3dXOXdMal9RVnJqWUJvZ3BnbnQwQzk1aUZjd2Z3?oc=5",
+              "published": "Thu, 01 Oct 2026 19:56:31 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "The article title explicitly reports that Texas has paused all environmental permitting for data centers. That is a clear, direct regulatory action that can cause delays to data center approvals and expansions, which directly affects AI infrastructure and hyperscalers operating or planning projects in Texas.",
+              "signals": [
+                "Texas has paused environmental permitting for data centers",
+                "Regulatory pause may delay data center approvals and construction in Texas",
+                "Potential disruption to hyperscaler/data center expansion plans in Texas"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "US grid congestion intensifies as data centers compound transmission constraints - spglobal.com",
+              "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSDhKMUdYSkpwTjdBWHZJbnRFUUNiVm1tY0NBajRmU2wwRzVWTDhHUm1lMmd1TEtldEgxRGhvaTlCQzVMUGt4QmF4TEpMXzl5Z0o1d0hRMzZVenE5SzVtdWlha2V1VVVBLXRSN1BodUVQenZBNTZsLWRCQU5VdUgtOWtyZnBEd1F0YURSX3N1WEF6YW1PdlBrT2t2SzdzUUhTYTBsNzdQZGMtbWZnUWNrbE03WmxoSVFZOHZ5V2wwcmZIYnVQajkyTElqRzVQcGh2MDRQZXQxQ0dqcW5LUUdibkpUYVFZMVlLcWtYWHl3QlQ?oc=5",
+              "published": "Thu, 24 Sep 2026 20:21:14 GMT",
+              "strength": 4,
+              "confidence": 80,
+              "reason": "Headline explicitly reports intensifying US grid congestion and transmission constraints driven by data-center demand, which directly impacts power/interconnection availability for hyperscalers and AI infrastructure projects.",
+              "signals": [
+                "US grid congestion intensifies",
+                "Data centers compounding transmission constraints",
+                "Transmission capacity constraints"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
               "title": "Texas Freezes Data Center Permits Until Grid Audit Ends - Parametric Architecture",
               "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jT2V2LVRLYmxnN3QtT1BzbjVlelJtRkxUc1pQNUFCZnFYR2lxRlp6SUxITk5jb0k0bWdUTVJGRzcwdU9tOXZLWkJRbGRjbkMzUjFHNm0zNDc3NmNyWkZUeHRjWF9Lc01KdkNZSFd2Y25BTHp5OUh3REs1WUg?oc=5",
               "published": "Fri, 25 Sep 2026 13:00:00 GMT",
@@ -60483,45 +60511,16 @@
               "llm_model": "gpt-5-mini"
             },
             {
-              "title": "6.8GW PJM Data Center Plan Gets $20 Billion Backstop as Federal Grid Review Faces 5-Month Pause - Construction Review",
-              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORFZfOTVDaUhPeDZFbUIwU3ROam5qaWFQVFlRMEVhWmhuQUdJclo4SEtySlBQSm1KWW1ZS1hROU14SUg5cERpTU5aYzJiUDktQXgyRTlmVUlmaFpoSVFWdC14OG8zb1o5UWpFdk91SDZJMXpPaklqbTZ1Q0N6YW1EX0QySGRjXzBoOWt3UXlsLTRuQVNkN0g2eUtoa29VaFRGS05TOE1yMDR0U2NlYWF4cUFvN1lsdk5XZ0kyb21fZ0x2SW1RTUhYaXNsOS0?oc=5",
-              "published": "Wed, 30 Sep 2026 09:25:43 GMT",
+              "title": "FERC asks grid operator PJM to revise plan to shield homes from data center costs - Reuters",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQldwRnVuRVNyZzdXYTVINWFPdjg2cHJTaGd1NTFzX2R1MWpFVVA3bWRJUWNuQVlLTnJjTTZoVmxhTmVtQ1Fhb1h3TUhqbjdJdWxVZlNBeUNwZkxYUktIejY3cDcwUGVlRUVhMHdkVWlVQzM3MHNDR0V1NkNaSFd2dXUzTHdrc2FDUFdreGMxc1FBUGRLV01HTGY5ZGJEdGZnRnBVSl9VOHJtcU9YWDRlM0hGRTdzc1hib2k4RUxiOA?oc=5",
+              "published": "Wed, 30 Sep 2026 21:57:02 GMT",
               "strength": 3,
               "confidence": 85,
-              "reason": "The article explicitly reports a 5-month pause in the federal grid review for a 6.8GW PJM data center plan, which constitutes a clear regulatory/permitting risk signal; the $20B backstop mentioned indicates a mitigation response but does not remove the review pause risk.",
+              "reason": "The report states FERC has asked PJM to revise a plan related to shielding homes from data center costs, which is a direct regulatory action on how grid costs tied to data centers are allocated—this is relevant to hyperscaler/data-center infrastructure risk. The text does not provide operational details or specific impacts, so strength is moderate and no further inferences are made.",
               "signals": [
-                "5-month pause in federal grid review",
-                "6.8GW PJM data center plan subject to the review pause",
-                "$20 billion backstop provided for the plan (mitigation/financial contingency)"
-              ],
-              "llm_model": "gpt-5-mini"
-            },
-            {
-              "title": "Finland to abandon first-come, first-served grid connections, dropping data centers down the queue - Data Center Dynamics",
-              "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZTJhemM2emo3cnkxX2dscTdvZ016YlRKT0pjR0toMmZoUkZWc014eXhOM0k3VUoyanVOVEtELVItLXJnMExTUGJNUHVUTHpZQ2o5UGttRU5ockxWWnNMSW1KOGExMno4WG1hU2c4cHVrZVRLb0ZlQmJNZUFQdjRxSEpzdXRlVlFSUmcxUnRiQjNfZDhOc0NpdFFtNGhTbHY5YlE2eHdseDY0dDdqQ2pvMUYtQ2F5ZkxaQ1pQSHZ5eEZUMUIya3BKRmkwRFBHS3BiQXdFNUZsaw?oc=5",
-              "published": "Wed, 30 Sep 2026 13:04:26 GMT",
-              "strength": 3,
-              "confidence": 85,
-              "reason": "Article states Finland will abandon a first-come, first-served grid connection policy and will drop data centers down the queue. This is a clear, policy-driven signal that data center grid connection priority will be reduced, creating risk to timely power permits/connections for hyperscale infrastructure in Finland.",
-              "signals": [
-                "Finland abandoning first-come, first-served grid connection policy",
-                "Data centers explicitly being dropped down the grid connection queue",
-                "Policy change likely to affect timing/priority of power permits and grid connections for data centers"
-              ],
-              "llm_model": "gpt-5-mini"
-            },
-            {
-              "title": "Virginia Takes Aim at Off-Grid Natural Gas as Texas Halts Data Center Permits - Natural Gas Intelligence",
-              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRUdoRkIxNDFEV3FYZUtOYnRaY1doNXY1ajAwdDR4VkNGaGpmNzdCQUJDTlpKdzFGUldhYlh3QWtlMldVQllTS1RYakdheGRkYlNDdkJ5bmlkZ0Nfemx1MjRBU1FDNVdWbUFwLXFqd2xCaHJjdFE1dzNaT3N5dlpTTzU5ajZSZXFVWlg1ZU9DcUdxT1ZOaENFZzBUV0FlOWZpa3pQNnktVV9oNUFCbG0yRQ?oc=5",
-              "published": "Tue, 22 Sep 2026 18:58:00 GMT",
-              "strength": 3,
-              "confidence": 85,
-              "reason": "Headline reports state actions directly affecting data center permitting (Texas halting permits) and restrictions on off-grid natural gas in Virginia, which represent a clear regulatory/permitting risk to hyperscaler data center deployment and onsite power strategies. No further details provided, so magnitude/scope is unclear.",
-              "signals": [
-                "Texas halts data center permits",
-                "Virginia targets/restricts off-grid natural gas",
-                "Potential permitting delays for data center projects",
-                "Regulatory risk to onsite/off-grid power generation for data centers"
+                "FERC requested PJM to revise a plan",
+                "Plan concerns shielding homes from data center costs",
+                "Regulatory action affecting allocation of grid costs tied to data centers"
               ],
               "llm_model": "gpt-5-mini"
             }
@@ -60539,20 +60538,20 @@
       }
     },
     "run_stats": {
-      "store_pruned_removed": 47,
+      "store_pruned_removed": 0,
       "new_articles": 32,
-      "dedup_skips": 151,
-      "prefilter_skips": 26,
-      "llm_calls": 6,
+      "dedup_skips": 149,
+      "prefilter_skips": 21,
+      "llm_calls": 11,
       "llm_errors": 0,
       "urls_total": 13,
       "urls_ok": 13,
       "urls_fail": 0,
       "per_item_llm_calls": {
-        "power_permit_delays": 5,
+        "power_permit_delays": 11,
         "dc_vacancy": 0,
         "ai_price_cuts": 0,
-        "capex_up_revenue_down": 1,
+        "capex_up_revenue_down": 0,
         "mgmt_tone_softening": 0,
         "market_positioning": 0
       }
