@@ -14473,7 +14473,7 @@
   },
   {
     "date": "2026-10-09",
-    "run_at": "2026-10-09T00:10:14.803163+09:00",
+    "run_at": "2026-10-09T23:55:19.975147+09:00",
     "overall_score": 25.0,
     "risk_level": "보통",
     "item_scores": {
@@ -14534,8 +14534,8 @@
         "strong_hits14": 0
       }
     },
-    "article_count_total": 1262,
-    "article_count_14d": 325,
-    "new_articles_today": 40
+    "article_count_total": 1290,
+    "article_count_14d": 353,
+    "new_articles_today": 28
   }
 ]
