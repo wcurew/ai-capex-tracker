@@ -61927,5 +61927,255 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-10-10",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 0,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 2,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 20.0,
+      "bucket": "보통",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 3,
+          "fresh_sum": 0.0,
+          "decay_sum": 3.87,
+          "raw_score": 2.05,
+          "strong_hits14": 3,
+          "evidence": [
+            {
+              "title": "The AI Capex Wall: Why Financing Constraints Will Trigger A Slowdown - Seeking Alpha",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1MzdHlSblNaN0tFTHlXLXByMEMxMzE4U2hCVV83TkhMYXJaakRDMUxjWlM5M0k0TmhRSnRWWnhQM1ZIVl9XbTNjUklhb2dZeFI2Nk5fN0pXamZLSFJRdDkyY3V1VGF0dnlWMXdlM0luN0F0YXNoelFGRmt4UktUZ1Atc3hrZW90TENXWDNHQkJnTEpnRHlTLW00UnprMkpYMDZ5S05YZmxzX0wy?oc=5",
+              "published": "Wed, 07 Oct 2026 12:35:11 GMT",
+              "strength": 3,
+              "confidence": 75,
+              "reason": "The article title explicitly identifies an 'AI Capex Wall' and states that financing constraints will 'trigger a slowdown', which directly signals a risk of rising capex leading to reduced growth/revenue. The provided text is limited to the headline so no quantitative details are available; classification is conservative accordingly.",
+              "signals": [
+                "increased_capex_financing_constraints",
+                "capex_leading_to_slowdown",
+                "capex_revenue_mismatch"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Vertiv: How Much Longer Can Hyperscaler CapEx Support This Growth? (NYSE:VRT) - Seeking Alpha",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbDJ2Y1NfYzdKSXk2WDcycEtISWhkRnF2LVI5U25Pb1EwM09NYWNoZjI4eEZhX0FEaXJpOHlvRmZYWTRKRWo4NGxROVRvU0VuT3ROTV92b3ZYZFRzVkhjWC1YNWZxMm0xNkt1dXR5NXZXUFVLcWI4VVBrWVNsVURKZUQ1WG4yOGEwNDlLODh4SjNlcE9QYVd5SV9rak5ZbVZsbmpxal9HVms?oc=5",
+              "published": "Tue, 06 Oct 2026 14:29:11 GMT",
+              "strength": 3,
+              "confidence": 70,
+              "reason": "The headline explicitly questions how long hyperscaler capital expenditure can continue to support Vertiv's growth, indicating a clear risk of revenue/growth dependency on hyperscaler CapEx. No article details provided, so assessment is based solely on the title and is conservative.",
+              "signals": [
+                "Dependence on hyperscaler CapEx",
+                "Concentration risk from hyperscaler customers",
+                "Potential risk if hyperscaler spending declines"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "EXCLUSIVE: If AI Capex Cracks, Nvidia Could Feel It Before Meta Does - TradingView",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYkpFX1pjMzY1b3VHdzV1NUhiVEFQd1ZLWXlab1B6ZHhaQ1BqSnh3MlVjTjd1UXF6a2JfMXkzU2xjVmdhM2lmMmdNUll6MzRVaVpZQVBqOXJpVThXczg1dnFiR2RERDNZeU5neEdQMnZKZThZWlZyd1l2Ry0tR21zZEswQzM2cFNIMU5FN0xaVDN5VEVnN3h3SU03Y2Nwb3k0eWF2aDdNV3U1YUl0VDlfZHdSTnpXcUZSU24zSWZQQS10R3c?oc=5",
+              "published": "Wed, 30 Sep 2026 15:48:48 GMT",
+              "strength": 2,
+              "confidence": 70,
+              "reason": "Title explicitly links a potential contraction in AI capex to near-term negative impact on Nvidia relative to Meta, indicating a risk to AI hardware demand; however only headline/source provided so details and magnitude are unclear—conservative moderate strength.",
+              "signals": [
+                "Potential AI capex downturn could negatively affect Nvidia before Meta",
+                "Possible reduction in demand for AI hardware/GPUs if AI capex cracks"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 2,
+          "recent14_count": 24,
+          "fresh_sum": 4.5,
+          "decay_sum": 25.29,
+          "raw_score": 13.31,
+          "strong_hits14": 24,
+          "evidence": [
+            {
+              "title": "Danish Parliament adopts \"emergency plan\" for electricity grid, puts data centers at the back of queue - Data Center Dynamics",
+              "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNW5FLVhaZWdodmFEVExHU29GUkVUT3NUdzlVZGZLX0ZMOERITVRxZmhZUENpREdEUFI3Tzk0bXhnQmlyM1poRG9MTko4U3hxOVdDMl9NTVpZeEtqdUtTY05EbEppZzYxNWt0THhIaC1aNWhKWWpmQXhrbHdERWdWLS1FQzByRDlCUXJBUjAwMTVoTzBKQ3BPeDRQck1TUGRON1o0V3A5SmxQeEtKVlpWRDY0cllOb0taWC05Z3FzYkFBVXVyOVU0SWE3S2QtOWhDRVExU3U3bXl6akE?oc=5",
+              "published": "Wed, 07 Oct 2026 12:56:27 GMT",
+              "strength": 4,
+              "confidence": 95,
+              "reason": "The article title explicitly states the Danish Parliament adopted an emergency electricity-grid plan that 'puts data centers at the back of queue,' indicating a direct, policy-level action that risks deprioritizing data center power access/permits.",
+              "signals": [
+                "Danish Parliament adopted an 'emergency plan' for the electricity grid",
+                "Plan 'puts data centers at the back of queue' (explicit deprioritization)",
+                "Implication of constrained/ delayed access to power for data centers (permits/allocation)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "UK’s ‘largest AI supercomputer’ delayed to 2030s due to grid issues - eandt.theiet.org",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRmRCRm9VT21Sc09UVXJCSE10aHkwX1hVc3JNRWFmaTZmX3ZBUFFCWF9YQUhNX0VXRWF1N29zUjY4SjdKSkE3SnlsdGdNUUMzdjJJbkNKMl9LMkpucEtDcXlPR3Rac3h5akJncUM3eGpqR25NMWFFUlF5M0JUUmpMc2hOZ09XU1RyXzVzWFMzbTBRX3NfN1ZmbldtQ1NsaTZE?oc=5",
+              "published": "Mon, 28 Sep 2026 11:43:54 GMT",
+              "strength": 4,
+              "confidence": 95,
+              "reason": "The article headline explicitly states the UK’s largest AI supercomputer has been delayed to the 2030s due to grid issues, a direct example of power/grid-related delays affecting AI infrastructure deployment.",
+              "signals": [
+                "UK AI supercomputer delayed to 2030s due to grid issues",
+                "Grid capacity/connection issues impacting AI supercomputer deployment",
+                "Power/permit delays causing major AI infrastructure schedule slippage"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Finland to abandon first-come, first-served grid connections, dropping data centers down the queue - BeBeez International",
+              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb1dGUldLSGY1TW5kTWpObkFxemZLNzRuNEFGY2ZkN1NhRGFmaGdBMFQzSGJSWlNlcnEweWlLSmZLcWpRMU91RFpPZXJ6R05wb1QzS1AtNGI2WF9Rbzk4NjVjNVVXLVJ5d2tzZkxJNXBvbGlvTDBjcWpGTzFfQ05scjdmMWJWS0NrbkhOX3ViaWNTNFl5UGJjWGhFVVExeDJ6bFJndDdnYUgwMTBlRDZYeThjYTlOWTAxQktpUnAzOEVNaTlG?oc=5",
+              "published": "Wed, 30 Sep 2026 13:11:54 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Article states Finland will abandon first-come, first-served grid connections and explicitly drop data centers down the queue — a direct policy-driven risk to timely grid connections for data center/hyperscaler projects.",
+              "signals": [
+                "Policy change: Finland abandoning first-come-first-served grid connection allocations",
+                "Data centers explicitly deprioritized in grid connection queue",
+                "Increased risk of delayed power connections/permits for data center/hyperscaler projects in Finland"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Power Constraints Push Oracle to Delay $18 Billion Data Center Campus - Propmodo",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa2NTM0p2M0ctTTNsY19hOXBWRWhHbWJ1WXROdF9vd211MUROREozZWswb0QwdDVGOUp2WFBLOFFza1lDa1RuNGhmZHYtUzBubkxETlpDRWtxWTJWM2t3RnE2TEJIVU0xVjBpU1R0aDFvUjNfbU9DczlDck8teGJFM3ZJYzRGRE16QzkxWWlTS1NULXBV?oc=5",
+              "published": "Sun, 27 Sep 2026 19:16:10 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The article explicitly reports Oracle delaying an $18B data center campus due to power constraints—direct evidence of power-related risk that can impede hyperscaler data center expansion.",
+              "signals": [
+                "Oracle delaying $18B data center campus",
+                "power constraints causing construction delays",
+                "data center expansion risk"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Governor Abbott expands data center permitting pause to environmental permits pending ERCOT audit - DLA Piper",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZXVRTDhzZWlJVE9IWTFOWmRGRy1SaUlTQXNJM2ZHVjF2NHRZRkh1UlBnVWNydFVMSkdHR3RrQUJKdTRVd1htdlJMZVBrckRtbkkta3ZVSFhkWnlFZzRvdkJ6enJXTF9uVDh5d1dvemlBTVRiTGc3cDJIN1BuNVVXZ2FJY081UTB3N2pwV2Q1dDJNaTVBNVZmRVJveVRhZ01rTzR3WjFiMUhEV2M?oc=5",
+              "published": "Fri, 25 Sep 2026 23:26:15 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The headline explicitly reports Governor Abbott expanded a data center permitting pause to include environmental permits pending an ERCOT audit — a direct regulatory action affecting data center (hyperscaler) permitting in Texas.",
+              "signals": [
+                "Governor Abbott expanded data center permitting pause to include environmental permits",
+                "Pause is pending an ERCOT audit",
+                "Regulatory/permitting delays apply to data center environmental permits in Texas",
+                "Potential for interrupted or delayed permitting for data center projects"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas Pauses All Environmental Permitting for Data Centers - The National Law Review",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeDFPdGd1X3U0OFNVZmhrRFdGX25VRVZXci1WYU9hMGdlTWx1LXFLYmRSekhEZzVLV2FuSEJiNWU5YWdqV3dzdzBqb1JpZWFSTDJPdU1KbjhMRG1haEdmcVotQWFJeWRfaUVwd3JmNkt5TmdPbnNmWnlPd1c5d0xqX1FWcmpZQm9ncGdudDBDOTVpRmN3ZnfSAZYBQVVfeXFMTXgxT3RndV91NDhTVWZoa0RXRl9uVUVWV3ItVmFPYTBnZU1sdS1xS2JkUnpIRGc1S1dhbkhCYjVlOWFnald3c3cwam9SaWVhUkwyT3VNSm44TERtYWhHZnFaLUFhSXlkX2lFcHdyZjZLeU5nT25zZlp5T3dXOXdMal9RVnJqWUJvZ3BnbnQwQzk1aUZjd2Z3?oc=5",
+              "published": "Thu, 01 Oct 2026 19:56:31 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "The article title explicitly reports that Texas has paused all environmental permitting for data centers. That is a clear, direct regulatory action that can cause delays to data center approvals and expansions, which directly affects AI infrastructure and hyperscalers operating or planning projects in Texas.",
+              "signals": [
+                "Texas has paused environmental permitting for data centers",
+                "Regulatory pause may delay data center approvals and construction in Texas",
+                "Potential disruption to hyperscaler/data center expansion plans in Texas"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "“Data Center Moratoriums Sweep Across the US” Construction Curbs Surge Over Environmental and Power-Grid Strains, Disrupting AI Infrastructure Expansion - economy.ac",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZRWhZSDMzN1RjbkU1YmE4cloyakdsS2x2dlRsRnRpWUROc0VwcFlOeDhCRkZhdVV1QURXeXBTazJlbG9sU1hGN3lrNG9YaGFVTkREeUN1SQ?oc=5",
+              "published": "Thu, 01 Oct 2026 03:18:59 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "The headline explicitly reports data center moratoriums and construction curbs driven by environmental and power-grid strains, and says these are disrupting AI infrastructure expansion — which directly indicates risks to power-related permitting and project timelines.",
+              "signals": [
+                "data center moratoriums sweep across the US",
+                "construction curbs surge",
+                "environmental strains cited",
+                "power-grid strains cited",
+                "disrupting AI infrastructure expansion"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas Pauses Certain Data Center Approvals Amid Grid, Water, and Community Concerns - globalelr.com",
+              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORllTNk1KZ0Q1bE5Xb21ob1J0VmdrMFdpbGtfaUZPREV4cDVVZlV5bHJtMDQ0OFVZbDFDeWM2d2otN2Z1Y0MwampIYW51MDdYaTlOZG5lc1RNRmhLS1cyUHltc2RSTTgwaHhXSUhNMGxkbkhzRjZTbGZRWHk5dmMxRzVZSE1wMVp6MUFoTHFBenlwczlRM3VlUXZ5dFVidnpGMjBmNWZpQktYczNGa0w5eHRnQ19tWk0?oc=5",
+              "published": "Mon, 05 Oct 2026 09:44:08 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "The headline explicitly reports that Texas has paused certain data center approvals citing grid, water, and community concerns, which directly signals permit/regulatory delays risk for data center projects and related power provisioning. Details on scope or duration are not provided, so impact magnitude cannot be inferred.",
+              "signals": [
+                "permit_pause",
+                "grid_capacity_concerns",
+                "water_resource_constraints",
+                "community_opposition",
+                "regulatory_review"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 35,
+      "new_articles": 19,
+      "dedup_skips": 171,
+      "prefilter_skips": 16,
+      "llm_calls": 3,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 3,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 0
+      }
+    }
   }
 ]
