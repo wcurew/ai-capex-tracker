@@ -62692,5 +62692,269 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-10-14",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 2,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 1,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 25.0,
+      "bucket": "보통",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 1,
+          "recent14_count": 1,
+          "fresh_sum": 1.5,
+          "decay_sum": 2.17,
+          "raw_score": 1.77,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "The AI Paradox: Why Cheaper Tokens Could Make Computing Power More Valuable - semivision",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqd2Nab01kOFVxZzdxUC01eXpwNDIwaEl6d01TQUV2eVRTQ2tzLV9sQ1V4U044dV9WMTVFcWtmTHhpbnVJYy0tOS1NZVI4WFhqWlRTc25Ub041am80SEwxYkRXQ1M1aTF3cWRLY1hNT0cxUXhzbmVQQWlTd0FmRmc?oc=5",
+              "published": "Mon, 12 Oct 2026 01:28:18 GMT",
+              "strength": 3,
+              "confidence": 70,
+              "reason": "The title explicitly states a causal risk: cheaper tokens could increase the value (and demand) for computing power. That directly relates to infrastructure/hyperscaler risk around compute demand, capacity and pricing, though full article details are not provided.",
+              "signals": [
+                "Lower per-token pricing may increase overall compute demand",
+                "Compute resources could become more valuable/scarce as token costs fall",
+                "Pressure on hyperscaler capacity and pricing dynamics due to rising usage"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 3,
+          "fresh_sum": 0.0,
+          "decay_sum": 2.02,
+          "raw_score": 1.31,
+          "strong_hits14": 3,
+          "evidence": [
+            {
+              "title": "The AI Capex Wall: Why Financing Constraints Will Trigger A Slowdown - Seeking Alpha",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1MzdHlSblNaN0tFTHlXLXByMEMxMzE4U2hCVV83TkhMYXJaakRDMUxjWlM5M0k0TmhRSnRWWnhQM1ZIVl9XbTNjUklhb2dZeFI2Nk5fN0pXamZLSFJRdDkyY3V1VGF0dnlWMXdlM0luN0F0YXNoelFGRmt4UktUZ1Atc3hrZW90TENXWDNHQkJnTEpnRHlTLW00UnprMkpYMDZ5S05YZmxzX0wy?oc=5",
+              "published": "Wed, 07 Oct 2026 12:35:11 GMT",
+              "strength": 3,
+              "confidence": 75,
+              "reason": "The article title explicitly identifies an 'AI Capex Wall' and states that financing constraints will 'trigger a slowdown', which directly signals a risk of rising capex leading to reduced growth/revenue. The provided text is limited to the headline so no quantitative details are available; classification is conservative accordingly.",
+              "signals": [
+                "increased_capex_financing_constraints",
+                "capex_leading_to_slowdown",
+                "capex_revenue_mismatch"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Vertiv: How Much Longer Can Hyperscaler CapEx Support This Growth? (NYSE:VRT) - Seeking Alpha",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbDJ2Y1NfYzdKSXk2WDcycEtISWhkRnF2LVI5U25Pb1EwM09NYWNoZjI4eEZhX0FEaXJpOHlvRmZYWTRKRWo4NGxROVRvU0VuT3ROTV92b3ZYZFRzVkhjWC1YNWZxMm0xNkt1dXR5NXZXUFVLcWI4VVBrWVNsVURKZUQ1WG4yOGEwNDlLODh4SjNlcE9QYVd5SV9rak5ZbVZsbmpxal9HVms?oc=5",
+              "published": "Tue, 06 Oct 2026 14:29:11 GMT",
+              "strength": 3,
+              "confidence": 70,
+              "reason": "The headline explicitly questions how long hyperscaler capital expenditure can continue to support Vertiv's growth, indicating a clear risk of revenue/growth dependency on hyperscaler CapEx. No article details provided, so assessment is based solely on the title and is conservative.",
+              "signals": [
+                "Dependence on hyperscaler CapEx",
+                "Concentration risk from hyperscaler customers",
+                "Potential risk if hyperscaler spending declines"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "EXCLUSIVE: If AI Capex Cracks, Nvidia Could Feel It Before Meta Does - TradingView",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYkpFX1pjMzY1b3VHdzV1NUhiVEFQd1ZLWXlab1B6ZHhaQ1BqSnh3MlVjTjd1UXF6a2JfMXkzU2xjVmdhM2lmMmdNUll6MzRVaVpZQVBqOXJpVThXczg1dnFiR2RERDNZeU5neEdQMnZKZThZWlZyd1l2Ry0tR21zZEswQzM2cFNIMU5FN0xaVDN5VEVnN3h3SU03Y2Nwb3k0eWF2aDdNV3U1YUl0VDlfZHdSTnpXcUZSU24zSWZQQS10R3c?oc=5",
+              "published": "Wed, 30 Sep 2026 15:48:48 GMT",
+              "strength": 2,
+              "confidence": 70,
+              "reason": "Title explicitly links a potential contraction in AI capex to near-term negative impact on Nvidia relative to Meta, indicating a risk to AI hardware demand; however only headline/source provided so details and magnitude are unclear—conservative moderate strength.",
+              "signals": [
+                "Potential AI capex downturn could negatively affect Nvidia before Meta",
+                "Possible reduction in demand for AI hardware/GPUs if AI capex cracks"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 3,
+          "recent14_count": 22,
+          "fresh_sum": 4.6,
+          "decay_sum": 19.55,
+          "raw_score": 11.08,
+          "strong_hits14": 22,
+          "evidence": [
+            {
+              "title": "Danish Parliament adopts \"emergency plan\" for electricity grid, puts data centers at the back of queue - Data Center Dynamics",
+              "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNW5FLVhaZWdodmFEVExHU29GUkVUT3NUdzlVZGZLX0ZMOERITVRxZmhZUENpREdEUFI3Tzk0bXhnQmlyM1poRG9MTko4U3hxOVdDMl9NTVpZeEtqdUtTY05EbEppZzYxNWt0THhIaC1aNWhKWWpmQXhrbHdERWdWLS1FQzByRDlCUXJBUjAwMTVoTzBKQ3BPeDRQck1TUGRON1o0V3A5SmxQeEtKVlpWRDY0cllOb0taWC05Z3FzYkFBVXVyOVU0SWE3S2QtOWhDRVExU3U3bXl6akE?oc=5",
+              "published": "Wed, 07 Oct 2026 12:56:27 GMT",
+              "strength": 4,
+              "confidence": 95,
+              "reason": "The article title explicitly states the Danish Parliament adopted an emergency electricity-grid plan that 'puts data centers at the back of queue,' indicating a direct, policy-level action that risks deprioritizing data center power access/permits.",
+              "signals": [
+                "Danish Parliament adopted an 'emergency plan' for the electricity grid",
+                "Plan 'puts data centers at the back of queue' (explicit deprioritization)",
+                "Implication of constrained/ delayed access to power for data centers (permits/allocation)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Finland to abandon first-come, first-served grid connections, dropping data centers down the queue - BeBeez International",
+              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb1dGUldLSGY1TW5kTWpObkFxemZLNzRuNEFGY2ZkN1NhRGFmaGdBMFQzSGJSWlNlcnEweWlLSmZLcWpRMU91RFpPZXJ6R05wb1QzS1AtNGI2WF9Rbzk4NjVjNVVXLVJ5d2tzZkxJNXBvbGlvTDBjcWpGTzFfQ05scjdmMWJWS0NrbkhOX3ViaWNTNFl5UGJjWGhFVVExeDJ6bFJndDdnYUgwMTBlRDZYeThjYTlOWTAxQktpUnAzOEVNaTlG?oc=5",
+              "published": "Wed, 30 Sep 2026 13:11:54 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Article states Finland will abandon first-come, first-served grid connections and explicitly drop data centers down the queue — a direct policy-driven risk to timely grid connections for data center/hyperscaler projects.",
+              "signals": [
+                "Policy change: Finland abandoning first-come-first-served grid connection allocations",
+                "Data centers explicitly deprioritized in grid connection queue",
+                "Increased risk of delayed power connections/permits for data center/hyperscaler projects in Finland"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas Pauses All Environmental Permitting for Data Centers - The National Law Review",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeDFPdGd1X3U0OFNVZmhrRFdGX25VRVZXci1WYU9hMGdlTWx1LXFLYmRSekhEZzVLV2FuSEJiNWU5YWdqV3dzdzBqb1JpZWFSTDJPdU1KbjhMRG1haEdmcVotQWFJeWRfaUVwd3JmNkt5TmdPbnNmWnlPd1c5d0xqX1FWcmpZQm9ncGdudDBDOTVpRmN3ZnfSAZYBQVVfeXFMTXgxT3RndV91NDhTVWZoa0RXRl9uVUVWV3ItVmFPYTBnZU1sdS1xS2JkUnpIRGc1S1dhbkhCYjVlOWFnald3c3cwam9SaWVhUkwyT3VNSm44TERtYWhHZnFaLUFhSXlkX2lFcHdyZjZLeU5nT25zZlp5T3dXOXdMal9RVnJqWUJvZ3BnbnQwQzk1aUZjd2Z3?oc=5",
+              "published": "Thu, 01 Oct 2026 19:56:31 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "The article title explicitly reports that Texas has paused all environmental permitting for data centers. That is a clear, direct regulatory action that can cause delays to data center approvals and expansions, which directly affects AI infrastructure and hyperscalers operating or planning projects in Texas.",
+              "signals": [
+                "Texas has paused environmental permitting for data centers",
+                "Regulatory pause may delay data center approvals and construction in Texas",
+                "Potential disruption to hyperscaler/data center expansion plans in Texas"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "“Data Center Moratoriums Sweep Across the US” Construction Curbs Surge Over Environmental and Power-Grid Strains, Disrupting AI Infrastructure Expansion - economy.ac",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZRWhZSDMzN1RjbkU1YmE4cloyakdsS2x2dlRsRnRpWUROc0VwcFlOeDhCRkZhdVV1QURXeXBTazJlbG9sU1hGN3lrNG9YaGFVTkREeUN1SQ?oc=5",
+              "published": "Thu, 01 Oct 2026 03:18:59 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "The headline explicitly reports data center moratoriums and construction curbs driven by environmental and power-grid strains, and says these are disrupting AI infrastructure expansion — which directly indicates risks to power-related permitting and project timelines.",
+              "signals": [
+                "data center moratoriums sweep across the US",
+                "construction curbs surge",
+                "environmental strains cited",
+                "power-grid strains cited",
+                "disrupting AI infrastructure expansion"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Oracle (NYSE: ORCL) Issues Force Majeure Warning As Pipeline Delay Threatens $664 Billion AI Backlog - Foreign Policy Journal",
+              "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR0hWR2VSSFZGVDdYSmVNQmlDRFZsX3V0ajBvbE9YenJoNF9Yb3VBZk1kRFVJcWhOd1BPdHNMZDBIdkJTOVIwZGFmTWRZem9wOTdqM29GNnpSZDM2anhIWGJUQkRFSy1kTWU3RGZiRmg1SGR0UlMwcXhSaUk0WlFUR0dFbk1sOTZsRmtQc2R4b1k0MDh6bjh0NFBLU2t0c2FRTkEyQWlCQTk0cE4zaWFJdmRNWjFLMnFqMWNvQlV0LW90QVlSZzI5NVZ6WTJUdTI5RjJHeHplSDA5eGVZblE?oc=5",
+              "published": "Sun, 11 Oct 2026 19:24:00 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "The headline explicitly states Oracle issued a force majeure warning because a pipeline delay threatens a $664B AI backlog, which directly signals a supply/infrastructure risk to AI deployments. Only the headline is available, so details (cause, geographic scope, duration) are missing, limiting strength.",
+              "signals": [
+                "Oracle issues force majeure warning",
+                "pipeline delay threatens AI backlog",
+                "$664 billion AI backlog at risk"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas Pauses Certain Data Center Approvals Amid Grid, Water, and Community Concerns - globalelr.com",
+              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORllTNk1KZ0Q1bE5Xb21ob1J0VmdrMFdpbGtfaUZPREV4cDVVZlV5bHJtMDQ0OFVZbDFDeWM2d2otN2Z1Y0MwampIYW51MDdYaTlOZG5lc1RNRmhLS1cyUHltc2RSTTgwaHhXSUhNMGxkbkhzRjZTbGZRWHk5dmMxRzVZSE1wMVp6MUFoTHFBenlwczlRM3VlUXZ5dFVidnpGMjBmNWZpQktYczNGa0w5eHRnQ19tWk0?oc=5",
+              "published": "Mon, 05 Oct 2026 09:44:08 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "The headline explicitly reports that Texas has paused certain data center approvals citing grid, water, and community concerns, which directly signals permit/regulatory delays risk for data center projects and related power provisioning. Details on scope or duration are not provided, so impact magnitude cannot be inferred.",
+              "signals": [
+                "permit_pause",
+                "grid_capacity_concerns",
+                "water_resource_constraints",
+                "community_opposition",
+                "regulatory_review"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas Grid Freeze Halts Data‑Center Upgrades, Cloud Providers Brace - SaasRise",
+              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbmtFQUZReEpMRnZWSkwyWldNdjBnbDR3enVGOWoxeWxzS1hQVHVqeWVXY281cEpoNks4Y1R3OVRZWXhKc0NxLWhQel95eVd0VU5HQTF3SF9qUjR5eXI1bUJuOHZ5MFRLd3lBQ1VKNmZjUFktbkFQWWdraHMzNVVMSVpma1V0dDBHQnE3YXFDT2NZQ19NeWoyYWlsTmFXajU1VHN5eEFIUTl6UTNzUlZRYWZHMjBuTGg0Uk9heERrX1RaRlBLWGttSElMOUU?oc=5",
+              "published": "Sun, 11 Oct 2026 20:00:18 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline explicitly reports a Texas grid freeze halting data-centre upgrades and that cloud providers are 'bracing', indicating a direct operational/expansion risk to hyperscaler infrastructure in the region. Summary provides no further detail, so no additional inference made.",
+              "signals": [
+                "Power-grid freeze halted data-centre upgrades in Texas",
+                "Cloud providers are preparing/‘bracing’ for impacts",
+                "Potential delays to data-centre expansion/upgrades in the region"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Bitfarms Eyes AI Data Center Growth as Power, Permitting Shape Pipeline - MarketBeat",
+              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObzNxMEpwaEN3emhOMnNtSTVvWWNHZ195a1NSQ1NzMV83TmxYZmVmY2htZTVhWklRbmtCMENQNld3N1RVdUdUV2ZfUFBQYjlGN3c4ckdxNjVjcTFCMUw3QXhsazVWZVNfSUllRHVlR184eDFaOTk2U2Roa0Y2NE5BUGE4SEhwOF84LVhac3YxZ1Jkc0d5d3JnYWFHbExKT3JxSGtzQVRuRHJtZzhVdDh2aE5GY19vRUdIdUFLSlhaVnRUMHE2eXFBRkJn?oc=5",
+              "published": "Fri, 09 Oct 2026 17:20:45 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline explicitly states power and permitting are shaping Bitfarms' AI data center pipeline, indicating direct risk from power availability and permitting processes to infrastructure growth.",
+              "signals": [
+                "power constraints affecting data center expansion",
+                "permitting delays/constraints impacting project pipeline",
+                "impact on AI data center growth plans"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 19,
+      "new_articles": 31,
+      "dedup_skips": 154,
+      "prefilter_skips": 28,
+      "llm_calls": 3,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 3,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 0
+      }
+    }
   }
 ]
