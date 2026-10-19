@@ -64128,5 +64128,310 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-10-20",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 0,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 1,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 1
+      },
+      "score": 20.0,
+      "bucket": "보통",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.82,
+          "raw_score": 0.33,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "The AI Paradox: Why Cheaper Tokens Could Make Computing Power More Valuable - semivision",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqd2Nab01kOFVxZzdxUC01eXpwNDIwaEl6d01TQUV2eVRTQ2tzLV9sQ1V4U044dV9WMTVFcWtmTHhpbnVJYy0tOS1NZVI4WFhqWlRTc25Ub041am80SEwxYkRXQ1M1aTF3cWRLY1hNT0cxUXhzbmVQQWlTd0FmRmc?oc=5",
+              "published": "Mon, 12 Oct 2026 01:28:18 GMT",
+              "strength": 3,
+              "confidence": 70,
+              "reason": "The title explicitly states a causal risk: cheaper tokens could increase the value (and demand) for computing power. That directly relates to infrastructure/hyperscaler risk around compute demand, capacity and pricing, though full article details are not provided.",
+              "signals": [
+                "Lower per-token pricing may increase overall compute demand",
+                "Compute resources could become more valuable/scarce as token costs fall",
+                "Pressure on hyperscaler capacity and pricing dynamics due to rising usage"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.82,
+          "raw_score": 0.33,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "Broadcom CEO Sees Capital as Main Constraint on AI Growth Despite Easing Chip Shortages - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM2VZMEc0WVlzNTJ2X2QzMnludy1sN01tbXp1REFPY0hrVi0tanN2LXBYd3BPRXBhQlZXRVdmMURreFJsRHMzLU4wOGJFa2o0QXFNYjFJcW91NVlFSHlKcHNOSXJBckZHN2ExaU9lcEpienl6ZkJjSzlqZ0RGaFFzWVRubjJOd1BmWnN2eHZpODVRN01ETEwxOXd3?oc=5",
+              "published": "Mon, 12 Oct 2026 10:34:25 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The Broadcom CEO explicitly states that capital — not chip supply — is the main constraint on AI growth, which is a direct management statement softening growth outlook by highlighting financing/investment limits despite easing hardware shortages. This is a clear management-tone signal about constraints on AI infrastructure deployment.",
+              "signals": [
+                "Broadcom CEO: 'capital is main constraint on AI growth'",
+                "Management notes chip shortages are easing",
+                "Shift in stated constraint from supply to capital (management acknowledgment)"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 1,
+          "recent14_count": 3,
+          "fresh_sum": 0.5,
+          "decay_sum": 1.39,
+          "raw_score": 1.36,
+          "strong_hits14": 3,
+          "evidence": [
+            {
+              "title": "The AI Capex Wall: Why Financing Constraints Will Trigger A Slowdown - Seeking Alpha",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1MzdHlSblNaN0tFTHlXLXByMEMxMzE4U2hCVV83TkhMYXJaakRDMUxjWlM5M0k0TmhRSnRWWnhQM1ZIVl9XbTNjUklhb2dZeFI2Nk5fN0pXamZLSFJRdDkyY3V1VGF0dnlWMXdlM0luN0F0YXNoelFGRmt4UktUZ1Atc3hrZW90TENXWDNHQkJnTEpnRHlTLW00UnprMkpYMDZ5S05YZmxzX0wy?oc=5",
+              "published": "Wed, 07 Oct 2026 12:35:11 GMT",
+              "strength": 3,
+              "confidence": 75,
+              "reason": "The article title explicitly identifies an 'AI Capex Wall' and states that financing constraints will 'trigger a slowdown', which directly signals a risk of rising capex leading to reduced growth/revenue. The provided text is limited to the headline so no quantitative details are available; classification is conservative accordingly.",
+              "signals": [
+                "increased_capex_financing_constraints",
+                "capex_leading_to_slowdown",
+                "capex_revenue_mismatch"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Vertiv: How Much Longer Can Hyperscaler CapEx Support This Growth? (NYSE:VRT) - Seeking Alpha",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbDJ2Y1NfYzdKSXk2WDcycEtISWhkRnF2LVI5U25Pb1EwM09NYWNoZjI4eEZhX0FEaXJpOHlvRmZYWTRKRWo4NGxROVRvU0VuT3ROTV92b3ZYZFRzVkhjWC1YNWZxMm0xNkt1dXR5NXZXUFVLcWI4VVBrWVNsVURKZUQ1WG4yOGEwNDlLODh4SjNlcE9QYVd5SV9rak5ZbVZsbmpxal9HVms?oc=5",
+              "published": "Tue, 06 Oct 2026 14:29:11 GMT",
+              "strength": 3,
+              "confidence": 70,
+              "reason": "The headline explicitly questions how long hyperscaler capital expenditure can continue to support Vertiv's growth, indicating a clear risk of revenue/growth dependency on hyperscaler CapEx. No article details provided, so assessment is based solely on the title and is conservative.",
+              "signals": [
+                "Dependence on hyperscaler CapEx",
+                "Concentration risk from hyperscaler customers",
+                "Potential risk if hyperscaler spending declines"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Gene Munster Expects Google, AWS Cloud To Beat Q2 Estimates — Sees Higher AI Capex Growth in 2027 - Stocktwits",
+              "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQmNHMGFITHYxSGRIWDRBTDEwMVJiYlpQOHpQdU5VVER5TldPM3hGZFM5c1UwU0pQUmhvaDZTek03Q0ZPTU1FWS11OFNZczQ3eW9rTW5fVHlmLUJyQXRyUUtha211MUd1TnJvV2I4Zi0xOHhlNVNST1dPaFUxb25XNW9Zb3dpanMtT19xV3lUSUdnZlkzajBRWm4wTUs5T0MtbWFLZFVwTlFrblNjQUtXUjF1bHBYOEhzdnh5M1UtckRORlZIQTBhUHRDVmtJNnRQOER5c3FmbWY1emVYcGxTMlh6MmVfTUFpbEo5NU1WUQ?oc=5",
+              "published": "Sat, 17 Oct 2026 20:42:25 GMT",
+              "strength": 1,
+              "confidence": 90,
+              "reason": "Title explicitly forecasts higher AI capex growth for Google and AWS in 2027 and expects cloud to beat Q2 estimates. The piece signals increased hyperscaler AI capex but does not indicate any revenue decline; the capex-up / revenue-down risk combination is not clearly supported by the text.",
+              "signals": [
+                "Higher AI capex growth forecast for 2027 (Google, AWS)",
+                "Google and AWS cloud expected to beat Q2 estimates",
+                "No mention of revenue decline in the summary"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 1,
+          "recent14_count": 19,
+          "fresh_sum": 2.4,
+          "decay_sum": 18.21,
+          "raw_score": 9.23,
+          "strong_hits14": 19,
+          "evidence": [
+            {
+              "title": "Danish Parliament adopts \"emergency plan\" for electricity grid, puts data centers at the back of queue - Data Center Dynamics",
+              "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNW5FLVhaZWdodmFEVExHU29GUkVUT3NUdzlVZGZLX0ZMOERITVRxZmhZUENpREdEUFI3Tzk0bXhnQmlyM1poRG9MTko4U3hxOVdDMl9NTVpZeEtqdUtTY05EbEppZzYxNWt0THhIaC1aNWhKWWpmQXhrbHdERWdWLS1FQzByRDlCUXJBUjAwMTVoTzBKQ3BPeDRQck1TUGRON1o0V3A5SmxQeEtKVlpWRDY0cllOb0taWC05Z3FzYkFBVXVyOVU0SWE3S2QtOWhDRVExU3U3bXl6akE?oc=5",
+              "published": "Wed, 07 Oct 2026 12:56:27 GMT",
+              "strength": 4,
+              "confidence": 95,
+              "reason": "The article title explicitly states the Danish Parliament adopted an emergency electricity-grid plan that 'puts data centers at the back of queue,' indicating a direct, policy-level action that risks deprioritizing data center power access/permits.",
+              "signals": [
+                "Danish Parliament adopted an 'emergency plan' for the electricity grid",
+                "Plan 'puts data centers at the back of queue' (explicit deprioritization)",
+                "Implication of constrained/ delayed access to power for data centers (permits/allocation)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Google (NASDAQ: GOOGL) Warns Grid Delays Could Stall AI Data Center Growth By Up To A Decade - Foreign Policy Journal",
+              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR1YtSkhPSkxkRkR6LXpPc2ZkdTYwc0RYVmVLNnlsWS1wcXBORmZMdWp6MUdhZVgxd3BHYkI1aHlFWUlaVXNsUmVDMDlMXzRrUEJpU1hIc2Y1bnpiYWNRQXBGd0l4eWhhZHJMSWoyTTdsX0NZZlk2MzJYZHAwWHFLelo2ZFlIOEphM2ZmaGdRdEhNN0tJMW9IcXFPLUZGeUxoYWJRTGo5XzBOWnU0TVFXa0xOcDdkdDhYNUJINkI1UFFXSk85Mks2Y2tRaHNQYnJKdVhLNA?oc=5",
+              "published": "Thu, 15 Oct 2026 01:33:00 GMT",
+              "strength": 4,
+              "confidence": 92,
+              "reason": "Google explicitly warns that grid/permitting delays could stall AI data center growth by up to a decade, directly indicating a clear infrastructure risk to hyperscaler AI expansion.",
+              "signals": [
+                "grid delays affecting data center expansion",
+                "power permitting delays / slow utility approvals",
+                "risk of stalled AI data center growth (up to a decade)",
+                "Google (hyperscaler) warning about infrastructure bottlenecks"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Europe's digital infrastructure faces grid connection delays, permitting hurdles - ET Datacenters",
+              "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPU1lYZDR3cU1lR2loUW0wYjRvRF9pU1lhME1KbWowelBCM1h3MVRpdjhWU0dQR3pWM0UwVnh3R0ZMenhBWVhIRlBja2RLNDdibDJMaWdpR1V3d1dmUE1rT2JJQW0tMTMyelBIdDU0T1N0eWp4cE80amlSVXc1LUx1UGtQWmdDWnNQRk5IcUdEXzZxNkh6NDFFSG5HWHZDRVZCLWd1cnpxbFVhRGI5YVNhNGVDNzVvMXNBVy1hMkZkV2YxY0ZWS2JSWVc4QmVrV3MzQVFJUkJVc3QxUURZanhCV2lmSi1kLW4wQ2Nxb1p6MU84QdIB9gFBVV95cUxOeDVrS2VOTzF3OHRQT3Q3YzdlZWFXekFya3U5dmY2WlBFSlJuZ3NVU2lhaTJvZC10MTJtZ1hCazNNd05yOTNCYnNkRVpDT3IzLWdWaU9PYllsZ19GNTlycFFYRFROblhxZzhIN1poVUE0Sm1IUWVubVlQOWZLRVlMQW83VmU1WXVzUXBNYXp2UFBiWUJwMFBrVWx3Y2dXVnEzTnJZMzlmQXZEY2o5QTNmWk41eXUwRFBqekZyRG1udmU5ZTFwWU53V0UzUGhqcEZ1aEVtd3dqaGNtZE1nbWJtNnFhUjNnaVdKbV9hQUpLLUNtdDdmNHc?oc=5",
+              "published": "Sat, 17 Oct 2026 03:27:26 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The headline explicitly reports grid connection delays and permitting hurdles for Europe’s digital infrastructure, which directly signals a clear risk to power availability and deployment timelines for data centers and hyperscalers. No additional specifics are provided in the summary.",
+              "signals": [
+                "grid connection delays",
+                "permitting hurdles",
+                "impact to digital infrastructure/data centers"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Oracle (NYSE: ORCL) Issues Force Majeure Warning As Pipeline Delay Threatens $664 Billion AI Backlog - Foreign Policy Journal",
+              "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR0hWR2VSSFZGVDdYSmVNQmlDRFZsX3V0ajBvbE9YenJoNF9Yb3VBZk1kRFVJcWhOd1BPdHNMZDBIdkJTOVIwZGFmTWRZem9wOTdqM29GNnpSZDM2anhIWGJUQkRFSy1kTWU3RGZiRmg1SGR0UlMwcXhSaUk0WlFUR0dFbk1sOTZsRmtQc2R4b1k0MDh6bjh0NFBLU2t0c2FRTkEyQWlCQTk0cE4zaWFJdmRNWjFLMnFqMWNvQlV0LW90QVlSZzI5NVZ6WTJUdTI5RjJHeHplSDA5eGVZblE?oc=5",
+              "published": "Sun, 11 Oct 2026 19:24:00 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "The headline explicitly states Oracle issued a force majeure warning because a pipeline delay threatens a $664B AI backlog, which directly signals a supply/infrastructure risk to AI deployments. Only the headline is available, so details (cause, geographic scope, duration) are missing, limiting strength.",
+              "signals": [
+                "Oracle issues force majeure warning",
+                "pipeline delay threatens AI backlog",
+                "$664 billion AI backlog at risk"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Nearly a Third of Dutch Grid Waiting List Is Taken Up by Data Centers - Gadget Review",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWtvbWFNXzltYVBBRzJOQ1J0SmRJdGxJUDRlVE1tTnEwWFBzbVpfOXlYal8tSUFvdndaNTNNZjhOQlVQdmxyamJYa0lhakczSW5ydVVYQWtzajFPaW1WcVVVRXYtWG9xal9oSGJYZkNRcWJwSzk5MUJsVVFQWG9oYzFiT0NUUHhYcE5uZjR1NUUzdzhvR1o4c1hQeXA5eUE?oc=5",
+              "published": "Fri, 16 Oct 2026 16:32:09 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline explicitly states data centers occupy nearly one-third of the Dutch grid waiting list, signaling constrained grid connection capacity and likely delays/queueing for connections.",
+              "signals": [
+                "Nearly a third of Dutch grid waiting list is taken up by data centers",
+                "Concentration of data center demand on grid connection queue",
+                "Indication of constrained grid connection capacity leading to delays"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Europe's digital infrastructure faces grid connection delays, permitting hurdles - ET Datacenters",
+              "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNdXd1NGp0NHRjb2lWaF9CTjF4NHRpWmRtVThCU09MbkQwNWVRRGZsSHMtNzF2MXZYd3d3Tkg1eGVCMVZpN1VVU1lhMkVPVVkxalRmTnEwTkQ2dUVxMmFMNGxZd3NtUDdYbEhubTlsN3lkZ21KNmIyX1RTRXg4UFNoSHRiam1CRW9jNnRtdGt6YURzalJ3WW1PVjBNaFNGN1NqMTZ6cWQybnFIajRiYXdpZGhTTk1ZSFl6UkFqN0NDVnBaRGY1WHpST2o0bGlmREFjclZySmNUYzFfM05LeURYZGJJdEVrLVB5dVU1TUtTRWdYalgtczd4RXZrYU01ZDRaZXhsSHdPM0NZMS1wSVhMVkVMUXJJN0xVQXRyZlVLT1FySzlHM0Rr0gH2AUFVX3lxTE54NWtLZU5PMXc4dFBPdDdjN2VlYVd6QXJrdTl2ZjZaUEVKUm5nc1VTaWFpMm9kLXQxMm1nWEJrM013TnI5M0Jic2RFWkNPcjMtZ1ZpT09iWWxnX0Y1OXJwUVhEVE5uWHFnOEg3WmhVQTRKbUhRZW5tWVA5ZktFWUxBbzdWZTVZdXNRcE1henZQUGJZQnAwUGtVbHdjZ1dWcTNOclkzOWZBdkRjajlBM2ZaTjV5dTBEUGp6RnJEbW52ZTllMXBZTndXRTNQaGpwRnVoRW13d2poY21kTWdtYm02cWFSM2dpV0ptX2FBSkstQ210N2Y0dw?oc=5",
+              "published": "Sat, 17 Oct 2026 03:53:43 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The headline explicitly reports 'grid connection delays' and 'permitting hurdles' affecting Europe's digital infrastructure and datacenters, which directly implicates power/permit risks for hyperscalers. Assessment is conservative because only the title/summary link is provided (no further details).",
+              "signals": [
+                "grid_connection_delays",
+                "permitting_hurdles",
+                "datacenter_power_risk",
+                "deployment_delays"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Texas Grid Freeze Halts Data‑Center Upgrades, Cloud Providers Brace - SaasRise",
+              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbmtFQUZReEpMRnZWSkwyWldNdjBnbDR3enVGOWoxeWxzS1hQVHVqeWVXY281cEpoNks4Y1R3OVRZWXhKc0NxLWhQel95eVd0VU5HQTF3SF9qUjR5eXI1bUJuOHZ5MFRLd3lBQ1VKNmZjUFktbkFQWWdraHMzNVVMSVpma1V0dDBHQnE3YXFDT2NZQ19NeWoyYWlsTmFXajU1VHN5eEFIUTl6UTNzUlZRYWZHMjBuTGg0Uk9heERrX1RaRlBLWGttSElMOUU?oc=5",
+              "published": "Sun, 11 Oct 2026 20:00:18 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline explicitly reports a Texas grid freeze halting data-centre upgrades and that cloud providers are 'bracing', indicating a direct operational/expansion risk to hyperscaler infrastructure in the region. Summary provides no further detail, so no additional inference made.",
+              "signals": [
+                "Power-grid freeze halted data-centre upgrades in Texas",
+                "Cloud providers are preparing/‘bracing’ for impacts",
+                "Potential delays to data-centre expansion/upgrades in the region"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Bitfarms Eyes AI Data Center Growth as Power, Permitting Shape Pipeline - MarketBeat",
+              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObzNxMEpwaEN3emhOMnNtSTVvWWNHZ195a1NSQ1NzMV83TmxYZmVmY2htZTVhWklRbmtCMENQNld3N1RVdUdUV2ZfUFBQYjlGN3c4ckdxNjVjcTFCMUw3QXhsazVWZVNfSUllRHVlR184eDFaOTk2U2Roa0Y2NE5BUGE4SEhwOF84LVhac3YxZ1Jkc0d5d3JnYWFHbExKT3JxSGtzQVRuRHJtZzhVdDh2aE5GY19vRUdIdUFLSlhaVnRUMHE2eXFBRkJn?oc=5",
+              "published": "Fri, 09 Oct 2026 17:20:45 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline explicitly states power and permitting are shaping Bitfarms' AI data center pipeline, indicating direct risk from power availability and permitting processes to infrastructure growth.",
+              "signals": [
+                "power constraints affecting data center expansion",
+                "permitting delays/constraints impacting project pipeline",
+                "impact on AI data center growth plans"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 2,
+          "fresh_sum": 0.0,
+          "decay_sum": 1.6,
+          "raw_score": 0.64,
+          "strong_hits14": 2,
+          "evidence": [
+            {
+              "title": "BofA Survey: Nearly 60% of Institutional Investors Eye Shift From Stocks to Bonds as U.S. 10-Year Yield Approaches 6% - BigGo Finance",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kSHVHYWtFLW1RNUhTb2xTckxZcjVxMzg0NEJvVEVXVzlKcnRacXpYNGt3WjRXS0RFcjdQdlFVRnkzQTZEYmhycXJGNEI3V1ZNeW1EYV9fMmNkNmk2b3pWYWI3THh6SXBoWGlOWVJUUnJ2Nk1fWlE?oc=5",
+              "published": "Tue, 13 Oct 2026 12:35:00 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "The BofA survey headline explicitly states nearly 60% of institutional investors are considering shifting from stocks to bonds as the U.S. 10-year yield approaches 6%, which directly signals a potential change in institutional market positioning. Assessment limited to the survey claim and headline context without inferring magnitude beyond that statement.",
+              "signals": [
+                "Nearly 60% of institutional investors are eyeing a shift from stocks to bonds.",
+                "U.S. 10-year yield approaching 6% cited as the context/driver for the shift."
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Bank of America Survey Shows Investors Are Split on AI Bubble Risks - Barron's",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkdnSVptamc0VU5zcW91OURReFBOMTlGcWljbno1UmpFTlJSMXNXMnlCX3NrclMtY0NtQnpPdkVqUkdKNnpKVHM3cGhQZ2g5ZzRRaTlkRVBhTXJsVG5ET2FYV3JjSDBnb2tIVk5VdWNnU0NZSW5uQTRtWTczeW5wU1Jn?oc=5",
+              "published": "Tue, 13 Oct 2026 12:51:00 GMT",
+              "strength": 2,
+              "confidence": 80,
+              "reason": "A Bank of America survey explicitly reports investors are split on AI bubble risks, which directly pertains to market positioning (divergent investor sentiment/exposure), but the headline alone provides limited detail on actual positioning or scale of exposures.",
+              "signals": [
+                "Bank of America survey: investors split on AI bubble risks",
+                "Investor sentiment divergence regarding AI investments"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 56,
+      "new_articles": 23,
+      "dedup_skips": 176,
+      "prefilter_skips": 19,
+      "llm_calls": 4,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 3,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 1,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 0
+      }
+    }
   }
 ]
