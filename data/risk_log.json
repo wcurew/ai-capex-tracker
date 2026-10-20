@@ -64253,12 +64253,12 @@
           "evidence": []
         },
         "power_permit_delays": {
-          "recent3_count": 1,
-          "recent14_count": 19,
-          "fresh_sum": 2.4,
-          "decay_sum": 18.21,
-          "raw_score": 9.23,
-          "strong_hits14": 19,
+          "recent3_count": 2,
+          "recent14_count": 21,
+          "fresh_sum": 5.6,
+          "decay_sum": 22.74,
+          "raw_score": 12.96,
+          "strong_hits14": 21,
           "evidence": [
             {
               "title": "Danish Parliament adopts \"emergency plan\" for electricity grid, puts data centers at the back of queue - Data Center Dynamics",
@@ -64286,6 +64286,20 @@
                 "power permitting delays / slow utility approvals",
                 "risk of stalled AI data center growth (up to a decade)",
                 "Google (hyperscaler) warning about infrastructure bottlenecks"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Microsoft pulls out of UK Nscale data centre deal over power delay - KSL News",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdG9Jc3BvV29IWGpSRVh2Wm40VDJocmR6c3NMOElocWpEbXpZelV5M2J1eWVPWFBtTm9RamM5Z1FQSnEwemtkM1RWZEdWMUI3cVZqX3JFUmllTkgtbmtYWjBqSlV3YUU5UXNMZ2tmVFJFU3FyVTJseDBJSlR2d3o5RWdrOGFlYzZLNjhBeVlrQzMyaTBKVDZ4N3dvMXFKLUVDWUlDaWVKZTVCRXEyZEE?oc=5",
+              "published": "Mon, 19 Oct 2026 10:39:35 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline explicitly states Microsoft withdrew from a UK Nscale data centre deal due to a power delay, indicating a clear, strong signal of power/infrastructure risk affecting hyperscaler data‑centre deployment.",
+              "signals": [
+                "Microsoft withdrew from UK Nscale data centre deal due to power delay",
+                "Power/infrastructure delays are impacting data centre project(s) in the UK",
+                "Affected party: Microsoft (hyperscaler)"
               ],
               "llm_model": "gpt-5-mini"
             },
@@ -64347,30 +64361,16 @@
               "llm_model": "gpt-5-mini"
             },
             {
-              "title": "Texas Grid Freeze Halts Data‑Center Upgrades, Cloud Providers Brace - SaasRise",
-              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbmtFQUZReEpMRnZWSkwyWldNdjBnbDR3enVGOWoxeWxzS1hQVHVqeWVXY281cEpoNks4Y1R3OVRZWXhKc0NxLWhQel95eVd0VU5HQTF3SF9qUjR5eXI1bUJuOHZ5MFRLd3lBQ1VKNmZjUFktbkFQWWdraHMzNVVMSVpma1V0dDBHQnE3YXFDT2NZQ19NeWoyYWlsTmFXajU1VHN5eEFIUTl6UTNzUlZRYWZHMjBuTGg0Uk9heERrX1RaRlBLWGttSElMOUU?oc=5",
-              "published": "Sun, 11 Oct 2026 20:00:18 GMT",
+              "title": "Texas Orders Data Center Audit As Grid Requests Reach 474 Gigawatts - Forbes",
+              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR0FrUG5iMzdzbEtyNVVEem9oMWdwOEdkZlNMUDAxMldzOWVWUEw1SDJkSTZmeVpqZXltOXNzY3lnRU56Wk5OWlJSZXNLdWt4eFBaX0Jfdlh1Q0dkYklhelNKcHNJRzVVQzJ2R3BOUkJJZHBFLUhJMDZYNnc4SUs3NmVxWE1DSXJoYmdpTm92Y01nUkFTR0JiNmhvazd0TUVGbmx5ZzVYX1BJLWVkcXdOUVR0T3pPZnEwQmIzd0xR?oc=5",
+              "published": "Tue, 13 Oct 2026 17:41:32 GMT",
               "strength": 3,
               "confidence": 85,
-              "reason": "Headline explicitly reports a Texas grid freeze halting data-centre upgrades and that cloud providers are 'bracing', indicating a direct operational/expansion risk to hyperscaler infrastructure in the region. Summary provides no further detail, so no additional inference made.",
+              "reason": "Forbes reports Texas has ordered an audit of data centers as grid requests reach 474 GW — a direct signal of regulatory scrutiny and grid-capacity stress that can impact data center deployments and operations.",
               "signals": [
-                "Power-grid freeze halted data-centre upgrades in Texas",
-                "Cloud providers are preparing/‘bracing’ for impacts",
-                "Potential delays to data-centre expansion/upgrades in the region"
-              ],
-              "llm_model": "gpt-5-mini"
-            },
-            {
-              "title": "Bitfarms Eyes AI Data Center Growth as Power, Permitting Shape Pipeline - MarketBeat",
-              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObzNxMEpwaEN3emhOMnNtSTVvWWNHZ195a1NSQ1NzMV83TmxYZmVmY2htZTVhWklRbmtCMENQNld3N1RVdUdUV2ZfUFBQYjlGN3c4ckdxNjVjcTFCMUw3QXhsazVWZVNfSUllRHVlR184eDFaOTk2U2Roa0Y2NE5BUGE4SEhwOF84LVhac3YxZ1Jkc0d5d3JnYWFHbExKT3JxSGtzQVRuRHJtZzhVdDh2aE5GY19vRUdIdUFLSlhaVnRUMHE2eXFBRkJn?oc=5",
-              "published": "Fri, 09 Oct 2026 17:20:45 GMT",
-              "strength": 3,
-              "confidence": 85,
-              "reason": "Headline explicitly states power and permitting are shaping Bitfarms' AI data center pipeline, indicating direct risk from power availability and permitting processes to infrastructure growth.",
-              "signals": [
-                "power constraints affecting data center expansion",
-                "permitting delays/constraints impacting project pipeline",
-                "impact on AI data center growth plans"
+                "regulatory_audit_of_data_centers",
+                "grid_capacity_stress",
+                "risk_to_data_center_deployments"
               ],
               "llm_model": "gpt-5-mini"
             }
@@ -64415,20 +64415,20 @@
       }
     },
     "run_stats": {
-      "store_pruned_removed": 56,
-      "new_articles": 23,
-      "dedup_skips": 176,
-      "prefilter_skips": 19,
-      "llm_calls": 4,
+      "store_pruned_removed": 0,
+      "new_articles": 37,
+      "dedup_skips": 157,
+      "prefilter_skips": 35,
+      "llm_calls": 2,
       "llm_errors": 0,
       "urls_total": 13,
       "urls_ok": 13,
       "urls_fail": 0,
       "per_item_llm_calls": {
-        "power_permit_delays": 3,
+        "power_permit_delays": 2,
         "dc_vacancy": 0,
         "ai_price_cuts": 0,
-        "capex_up_revenue_down": 1,
+        "capex_up_revenue_down": 0,
         "mgmt_tone_softening": 0,
         "market_positioning": 0
       }

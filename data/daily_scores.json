@@ -15076,7 +15076,7 @@
   },
   {
     "date": "2026-10-20",
-    "run_at": "2026-10-20T00:14:05.918813+09:00",
+    "run_at": "2026-10-20T22:15:41.920122+09:00",
     "overall_score": 20.0,
     "risk_level": "보통",
     "item_scores": {
@@ -15121,12 +15121,12 @@
         "strong_hits14": 0
       },
       "power_permit_delays": {
-        "recent3_count": 1,
-        "recent14_count": 19,
-        "fresh_sum": 2.4,
-        "decay_sum": 18.21,
-        "raw_score": 9.23,
-        "strong_hits14": 19
+        "recent3_count": 2,
+        "recent14_count": 21,
+        "fresh_sum": 5.6,
+        "decay_sum": 22.74,
+        "raw_score": 12.96,
+        "strong_hits14": 21
       },
       "market_positioning": {
         "recent3_count": 0,
@@ -15137,8 +15137,8 @@
         "strong_hits14": 2
       }
     },
-    "article_count_total": 1197,
-    "article_count_14d": 337,
-    "new_articles_today": 23
+    "article_count_total": 1234,
+    "article_count_14d": 374,
+    "new_articles_today": 37
   }
 ]
