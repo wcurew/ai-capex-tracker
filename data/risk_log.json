@@ -64738,5 +64738,314 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-10-22",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 1,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 0,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 15.0,
+      "bucket": "낮음",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 1,
+          "recent14_count": 2,
+          "fresh_sum": 0.5,
+          "decay_sum": 1.31,
+          "raw_score": 0.83,
+          "strong_hits14": 2,
+          "evidence": [
+            {
+              "title": "The AI Paradox: Why Cheaper Tokens Could Make Computing Power More Valuable - semivision",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqd2Nab01kOFVxZzdxUC01eXpwNDIwaEl6d01TQUV2eVRTQ2tzLV9sQ1V4U044dV9WMTVFcWtmTHhpbnVJYy0tOS1NZVI4WFhqWlRTc25Ub041am80SEwxYkRXQ1M1aTF3cWRLY1hNT0cxUXhzbmVQQWlTd0FmRmc?oc=5",
+              "published": "Mon, 12 Oct 2026 01:28:18 GMT",
+              "strength": 3,
+              "confidence": 70,
+              "reason": "The title explicitly states a causal risk: cheaper tokens could increase the value (and demand) for computing power. That directly relates to infrastructure/hyperscaler risk around compute demand, capacity and pricing, though full article details are not provided.",
+              "signals": [
+                "Lower per-token pricing may increase overall compute demand",
+                "Compute resources could become more valuable/scarce as token costs fall",
+                "Pressure on hyperscaler capacity and pricing dynamics due to rising usage"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Will an AI credit storm sweep through global banks? JPMorgan assesses that CoreWeave exposure is manageable, while Goldman Sachs backs the returns on AI computing power. - 富途牛牛",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTkFxelp4MWNGdWJNT1VKQUVoQmpPWmt2aXNSb1hTRXlBU1QyZmhPOUtMVGhUblNmTHN0dkNfTm1uUDJkRkgtR3h2d3JQbVU0eFY4UHg4NVlCRTdaU0p2NDdSLUZnMUNaejRUTWg3ME5iOVJkX0RJS21zNlc4U3M0dWU0Rm5Ld09RQWp4MFh3TGFBRDV3aVJyY1RLRTVWWk9kLU9lNA?oc=5",
+              "published": "Tue, 20 Oct 2026 09:55:44 GMT",
+              "strength": 1,
+              "confidence": 80,
+              "reason": "Headline raises possibility of an 'AI credit storm' but the content cited reports JPMorgan finds CoreWeave exposure manageable and Goldman Sachs is positive on AI compute returns, implying limited/mitigated credit risk rather than a clear negative signal.",
+              "signals": [
+                "Question of an 'AI credit storm' affecting global banks",
+                "JPMorgan: CoreWeave exposure manageable",
+                "Goldman Sachs: positive view on returns from AI computing power"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.59,
+          "raw_score": 0.24,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "Broadcom CEO Sees Capital as Main Constraint on AI Growth Despite Easing Chip Shortages - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM2VZMEc0WVlzNTJ2X2QzMnludy1sN01tbXp1REFPY0hrVi0tanN2LXBYd3BPRXBhQlZXRVdmMURreFJsRHMzLU4wOGJFa2o0QXFNYjFJcW91NVlFSHlKcHNOSXJBckZHN2ExaU9lcEpienl6ZkJjSzlqZ0RGaFFzWVRubjJOd1BmWnN2eHZpODVRN01ETEwxOXd3?oc=5",
+              "published": "Mon, 12 Oct 2026 10:34:25 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The Broadcom CEO explicitly states that capital — not chip supply — is the main constraint on AI growth, which is a direct management statement softening growth outlook by highlighting financing/investment limits despite easing hardware shortages. This is a clear management-tone signal about constraints on AI infrastructure deployment.",
+              "signals": [
+                "Broadcom CEO: 'capital is main constraint on AI growth'",
+                "Management notes chip shortages are easing",
+                "Shift in stated constraint from supply to capital (management acknowledgment)"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 2,
+          "fresh_sum": 0.0,
+          "decay_sum": 1.22,
+          "raw_score": 0.49,
+          "strong_hits14": 2,
+          "evidence": [
+            {
+              "title": "Chinese LLMs Risk $2.3T AI Capex Reset [2026] - https://tech-insider.org/",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWGtOS1BiV09JaGMxMGROT3FoZkdUbWhvWFFHOGFOLWMzMzhhT3NOYnNubWpwOGdFbG9KRTRQYlp0djIzRlFyM3cxenllU18tWFI4dkhZeEJuQUpEZTdoV1Q4VmNIaGlyUU0ybzJZekctMGdQcVlfRE9idGJrWHJDT2VSdV8xUQ?oc=5",
+              "published": "Tue, 13 Oct 2026 07:00:00 GMT",
+              "strength": 3,
+              "confidence": 65,
+              "reason": "The headline explicitly claims Chinese LLMs risk a $2.3T AI capex reset in 2026, which is directly relevant to hyperscaler/AI infrastructure capex risk. Classification is based solely on the provided title/link; no article content was available to confirm details or magnitude.",
+              "signals": [
+                "Headline: 'Chinese LLMs Risk $2.3T AI Capex Reset [2026]'",
+                "Claim: $2.3T AI capex reset",
+                "Actor: Chinese LLMs",
+                "Timeframe: 2026"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Gene Munster Expects Google, AWS Cloud To Beat Q2 Estimates — Sees Higher AI Capex Growth in 2027 - Stocktwits",
+              "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQmNHMGFITHYxSGRIWDRBTDEwMVJiYlpQOHpQdU5VVER5TldPM3hGZFM5c1UwU0pQUmhvaDZTek03Q0ZPTU1FWS11OFNZczQ3eW9rTW5fVHlmLUJyQXRyUUtha211MUd1TnJvV2I4Zi0xOHhlNVNST1dPaFUxb25XNW9Zb3dpanMtT19xV3lUSUdnZlkzajBRWm4wTUs5T0MtbWFLZFVwTlFrblNjQUtXUjF1bHBYOEhzdnh5M1UtckRORlZIQTBhUHRDVmtJNnRQOER5c3FmbWY1emVYcGxTMlh6MmVfTUFpbEo5NU1WUQ?oc=5",
+              "published": "Sat, 17 Oct 2026 20:42:25 GMT",
+              "strength": 1,
+              "confidence": 90,
+              "reason": "Title explicitly forecasts higher AI capex growth for Google and AWS in 2027 and expects cloud to beat Q2 estimates. The piece signals increased hyperscaler AI capex but does not indicate any revenue decline; the capex-up / revenue-down risk combination is not clearly supported by the text.",
+              "signals": [
+                "Higher AI capex growth forecast for 2027 (Google, AWS)",
+                "Google and AWS cloud expected to beat Q2 estimates",
+                "No mention of revenue decline in the summary"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 5,
+          "recent14_count": 22,
+          "fresh_sum": 12.0,
+          "decay_sum": 33.58,
+          "raw_score": 21.13,
+          "strong_hits14": 22,
+          "evidence": [
+            {
+              "title": "NextDC shares crash 37% after Melbourne grid upgrade gets blocked - Startup Fortune",
+              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY2ZvcVJoQ1pIWHBwT3p0TVNody1YaEoxck91QUZjeHVDZEdXMkNJSVVXRVAzc3U3aUhYZmtIVkIwNHZ1YUFmVVFwYVkxaVM5VHF2NW04ZWIwbWhxQm13N01NM1lBenRqYzlQMkxFTmg1MTB4Qm5NakpnQW16ejhkTWVsc25pMjctN29kNzM5M3BEOFdpR2dR?oc=5",
+              "published": "Wed, 21 Oct 2026 14:11:22 GMT",
+              "strength": 4,
+              "confidence": 95,
+              "reason": "The report explicitly links a blocked Melbourne grid upgrade (a power/permit issue) to a 37% crash in NextDC shares, directly indicating a material power-infrastructure/permit risk affecting a data-center operator, which is highly relevant to AI infrastructure and hyperscaler risk.",
+              "signals": [
+                "blocked Melbourne grid upgrade",
+                "power/permit approval delay",
+                "NextDC (data-center operator) share price crash 37%"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Google (NASDAQ: GOOGL) Warns Grid Delays Could Stall AI Data Center Growth By Up To A Decade - Foreign Policy Journal",
+              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR1YtSkhPSkxkRkR6LXpPc2ZkdTYwc0RYVmVLNnlsWS1wcXBORmZMdWp6MUdhZVgxd3BHYkI1aHlFWUlaVXNsUmVDMDlMXzRrUEJpU1hIc2Y1bnpiYWNRQXBGd0l4eWhhZHJMSWoyTTdsX0NZZlk2MzJYZHAwWHFLelo2ZFlIOEphM2ZmaGdRdEhNN0tJMW9IcXFPLUZGeUxoYWJRTGo5XzBOWnU0TVFXa0xOcDdkdDhYNUJINkI1UFFXSk85Mks2Y2tRaHNQYnJKdVhLNA?oc=5",
+              "published": "Thu, 15 Oct 2026 01:33:00 GMT",
+              "strength": 4,
+              "confidence": 92,
+              "reason": "Google explicitly warns that grid/permitting delays could stall AI data center growth by up to a decade, directly indicating a clear infrastructure risk to hyperscaler AI expansion.",
+              "signals": [
+                "grid delays affecting data center expansion",
+                "power permitting delays / slow utility approvals",
+                "risk of stalled AI data center growth (up to a decade)",
+                "Google (hyperscaler) warning about infrastructure bottlenecks"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "NextDC cuts FY27 guidance, pauses projects over power delay - ET Datacenters",
+              "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZ3B5VTFUaUo2ZGNub3N3d2U4eFlyLTdTRjZBeE5BRjdUX3RZREdONWluSmdSMGQtTm5VVmhwNzNVTlNKUURnTl9HejQxZW5MWllhcUVHUTZKZS02Uy13aG1HNTdmNHVqRkQ5SW9VSDVVQ3lTcUcxejJwSXFSaXEyNU9ZSFpaTkFoRThrSjZldjhwMDd3R2FqUGVJMy0xeE5hWTlyMTBMZW4tWnJTRXdmYWFGaHJUTThGNXVScHF4ZklDNFJZczJxNmdTSFI3elRWMVdGRTFXZzFoY0I2UWNndE5xdlNVMWJnNzNpdG9aYlFQMjBtcmQ1RGdfUjA5VWpEZ1FTMG5XUXdpZ0g00gHbAUFVX3lxTE9ob1E1Q1BxNy1iT1hocG1SQzVxd19vbk4zQktSQzVCeHJWYmREWkloNHYyRGNjbnJibldnZnY0SEtLMzZsVkx0TEoyYzBXZERKMkJscnZqUnFxVUphejAtaWp0M3V2bU9uSWNMNlo5WWx4V2o2SUVKYm9iVkpfYnpHRFoxLUZUbDEtMEVTcHJxd1lLbkFKMEdqdmppWFpiWGdUckRPVjdjNURMWnd0TUZ3U05pZ3FDc3BJd08tNEdwM2s2emdXNjZYZmZuZmYya0ZqY3hNRVd6TXNaTQ?oc=5",
+              "published": "Wed, 21 Oct 2026 02:35:06 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Article states NextDC cut FY27 guidance and paused projects explicitly due to power delays—direct, strong operational risk to data center capacity/expansion.",
+              "signals": [
+                "power supply/permit delays",
+                "project pauses",
+                "FY27 guidance cut"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Microsoft pulls out of UK Nscale data centre deal over power delay - KSL News",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdG9Jc3BvV29IWGpSRVh2Wm40VDJocmR6c3NMOElocWpEbXpZelV5M2J1eWVPWFBtTm9RamM5Z1FQSnEwemtkM1RWZEdWMUI3cVZqX3JFUmllTkgtbmtYWjBqSlV3YUU5UXNMZ2tmVFJFU3FyVTJseDBJSlR2d3o5RWdrOGFlYzZLNjhBeVlrQzMyaTBKVDZ4N3dvMXFKLUVDWUlDaWVKZTVCRXEyZEE?oc=5",
+              "published": "Mon, 19 Oct 2026 10:39:35 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline explicitly states Microsoft withdrew from a UK Nscale data centre deal due to a power delay, indicating a clear, strong signal of power/infrastructure risk affecting hyperscaler data‑centre deployment.",
+              "signals": [
+                "Microsoft withdrew from UK Nscale data centre deal due to power delay",
+                "Power/infrastructure delays are impacting data centre project(s) in the UK",
+                "Affected party: Microsoft (hyperscaler)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Microsoft Exits Nscale’s UK Flagship as Grid Can’t Supply Power Until 2030s: IPO at Risk - Tech Times",
+              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMXgzbkpJU3BNUXFxOHprTlhCY1o0cWJmUkswNkdLcldvYlBrNDdJWi1qLUZCZWUwS2tfdGF3M3ZwR2FHaTE0SWxJcXpaZmZaa1FuOC1PeEdpR190cVR1V0tlMDEyMVdpZW1wV2hxSzlKNHFYamlkUTFDVFFkODE1M3BCQk1UWGZNRGxRYVJfczg5eTI4YTd6Q1VBSVdmaG9VTDROZHhQVThlc01US1gtbS1lV0Z0Vnp4Y3RseG5adjNLRHJqaVZpWWVUMmY3OGM?oc=5",
+              "published": "Mon, 19 Oct 2026 07:25:13 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Article states Microsoft exited Nscale’s UK flagship because the grid cannot supply required power until the 2030s, directly indicating a material power supply/permit delay impacting the project and threatening the company's IPO.",
+              "signals": [
+                "grid_cannot_supply_power_until_2030s",
+                "hyperscaler_partner_exit",
+                "project_power_supply_delay",
+                "IPO_at_risk"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Europe's digital infrastructure faces grid connection delays, permitting hurdles - ET Datacenters",
+              "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPU1lYZDR3cU1lR2loUW0wYjRvRF9pU1lhME1KbWowelBCM1h3MVRpdjhWU0dQR3pWM0UwVnh3R0ZMenhBWVhIRlBja2RLNDdibDJMaWdpR1V3d1dmUE1rT2JJQW0tMTMyelBIdDU0T1N0eWp4cE80amlSVXc1LUx1UGtQWmdDWnNQRk5IcUdEXzZxNkh6NDFFSG5HWHZDRVZCLWd1cnpxbFVhRGI5YVNhNGVDNzVvMXNBVy1hMkZkV2YxY0ZWS2JSWVc4QmVrV3MzQVFJUkJVc3QxUURZanhCV2lmSi1kLW4wQ2Nxb1p6MU84QdIB9gFBVV95cUxOeDVrS2VOTzF3OHRQT3Q3YzdlZWFXekFya3U5dmY2WlBFSlJuZ3NVU2lhaTJvZC10MTJtZ1hCazNNd05yOTNCYnNkRVpDT3IzLWdWaU9PYllsZ19GNTlycFFYRFROblhxZzhIN1poVUE0Sm1IUWVubVlQOWZLRVlMQW83VmU1WXVzUXBNYXp2UFBiWUJwMFBrVWx3Y2dXVnEzTnJZMzlmQXZEY2o5QTNmWk41eXUwRFBqekZyRG1udmU5ZTFwWU53V0UzUGhqcEZ1aEVtd3dqaGNtZE1nbWJtNnFhUjNnaVdKbV9hQUpLLUNtdDdmNHc?oc=5",
+              "published": "Sat, 17 Oct 2026 03:27:26 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The headline explicitly reports grid connection delays and permitting hurdles for Europe’s digital infrastructure, which directly signals a clear risk to power availability and deployment timelines for data centers and hyperscalers. No additional specifics are provided in the summary.",
+              "signals": [
+                "grid connection delays",
+                "permitting hurdles",
+                "impact to digital infrastructure/data centers"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "\"Power is probably the forever bottleneck\": Grid delays threaten the AI race. - Axios",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN095N2xyOEljTW53Y2djMG5Gek50Nkd5TERkbGdHVkxmbHdpcXZSbHgtWkE1bEpGT3l0Yk5sLUlSZUtGX3FjTWpwTWtYRlpsMDRmWTJ2OHJ3Q0UzRVpmLWR3ZTZfN0tiTjB5RHp0ZWdSbHF4ZTl3ZG1nQ2N5ZmRTME9n?oc=5",
+              "published": "Tue, 20 Oct 2026 09:31:58 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "The headline explicitly states grid delays are threatening the AI race and labels power as \"probably the forever bottleneck,\" which is a clear and strong signal that power/permit delays are constraining AI infrastructure deployment.",
+              "signals": [
+                "power bottleneck",
+                "grid delays",
+                "power permit delays",
+                "threat to AI deployment"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Grid Delays at Essex AI Data Centre Expose the Physical Limits of Britain's Digital Health Ambitions - Distilled Post",
+              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTWlTRDVqZXozLTltVjQ3ZFFsUld4bExGNHF5Q045a1U2d3VDRFF3MmVsSFpDV21tNDF4Rm9FYUdKWlhqamFNVzdtN1VndkF2NDFwT19abFBzMTFBekd1cUtnMDVzWFNqNml4OFp1eS1xTjFGSTQzUUhJbjdmZTBQOFdxTG1JQzh1RU4xUWJpNEZ2WkxyOHltQll0NlMwWnY3bFV0Vm1ETXFpemxGNFpDZEw2ZUpYV2ZaeGxCTFNhY3FFdjhiN0ZkZnNEdEdaZGs?oc=5",
+              "published": "Tue, 20 Oct 2026 11:02:44 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "The title explicitly reports grid delays at an AI data centre in Essex, indicating power/permit issues that directly constrain AI data‑centre deployment and operations. Only the headline/summary link is provided, so no further details (scope, duration, affected providers) can be inferred.",
+              "signals": [
+                "grid connection delays",
+                "power/permit delays impacting data centre deployment",
+                "data centre construction/operation delays",
+                "capacity constraints for AI infrastructure",
+                "potential impact on digital health deployments and timelines"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 2,
+          "fresh_sum": 0.0,
+          "decay_sum": 1.16,
+          "raw_score": 0.46,
+          "strong_hits14": 2,
+          "evidence": [
+            {
+              "title": "BofA Survey: Nearly 60% of Institutional Investors Eye Shift From Stocks to Bonds as U.S. 10-Year Yield Approaches 6% - BigGo Finance",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kSHVHYWtFLW1RNUhTb2xTckxZcjVxMzg0NEJvVEVXVzlKcnRacXpYNGt3WjRXS0RFcjdQdlFVRnkzQTZEYmhycXJGNEI3V1ZNeW1EYV9fMmNkNmk2b3pWYWI3THh6SXBoWGlOWVJUUnJ2Nk1fWlE?oc=5",
+              "published": "Tue, 13 Oct 2026 12:35:00 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "The BofA survey headline explicitly states nearly 60% of institutional investors are considering shifting from stocks to bonds as the U.S. 10-year yield approaches 6%, which directly signals a potential change in institutional market positioning. Assessment limited to the survey claim and headline context without inferring magnitude beyond that statement.",
+              "signals": [
+                "Nearly 60% of institutional investors are eyeing a shift from stocks to bonds.",
+                "U.S. 10-year yield approaching 6% cited as the context/driver for the shift."
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Bank of America Survey Shows Investors Are Split on AI Bubble Risks - Barron's",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkdnSVptamc0VU5zcW91OURReFBOMTlGcWljbno1UmpFTlJSMXNXMnlCX3NrclMtY0NtQnpPdkVqUkdKNnpKVHM3cGhQZ2g5ZzRRaTlkRVBhTXJsVG5ET2FYV3JjSDBnb2tIVk5VdWNnU0NZSW5uQTRtWTczeW5wU1Jn?oc=5",
+              "published": "Tue, 13 Oct 2026 12:51:00 GMT",
+              "strength": 2,
+              "confidence": 80,
+              "reason": "A Bank of America survey explicitly reports investors are split on AI bubble risks, which directly pertains to market positioning (divergent investor sentiment/exposure), but the headline alone provides limited detail on actual positioning or scale of exposures.",
+              "signals": [
+                "Bank of America survey: investors split on AI bubble risks",
+                "Investor sentiment divergence regarding AI investments"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 10,
+      "new_articles": 49,
+      "dedup_skips": 131,
+      "prefilter_skips": 36,
+      "llm_calls": 13,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 9,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 3,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 1
+      }
+    }
   }
 ]
