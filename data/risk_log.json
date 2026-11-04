@@ -68973,5 +68973,310 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-11-05",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 1,
+        "mgmt_tone_softening": 0,
+        "capex_up_revenue_down": 2,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 25.0,
+      "bucket": "보통",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 3,
+          "fresh_sum": 0.0,
+          "decay_sum": 1.27,
+          "raw_score": 1.01,
+          "strong_hits14": 3,
+          "evidence": [
+            {
+              "title": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO - CNBC",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObldYTjhoTmFEaERKM28wVnVERmV3SDVoaXpQOXR6ZFU2Z01MbDFyMWRCUTVuR09KTi0tSVlnbnZuT1NIZnlPSHVTMVhTR29SYlhNUkpjclNyRHk0cmdqN1lJU2tsdEdBTWpuZjVweW5OMjBDSFllTkRYTWUwY2xnQ2puVGNCRU9VOVo1UXB3eUx4eFRRNkFfVWh2eTYtRWU4RW1hclNB0gGrAUFVX3lxTE9DcFk4em5ETVduSDQwc0VwV0l1SWd6ckxzdVV6emMzZEJWNWVESXFCMTFiVi14N1RSSjB3NjVrT0IzZ0FKSjBXd3BlZ09xQUI3Rm11Y2tMX0RoVExZZU5RWm5xSTRjRkQ3U3dzRGVxZ3pkRkgzQWZkSklxU0tDVFpVWVR4YUt6R0FTWHdydWk2WDhiTm4waEZ0Z28teWtwMkVRU0U3ZzZuSEYwRQ?oc=5",
+              "published": "Fri, 23 Oct 2026 21:49:08 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline explicitly reports stress on AI buildout and related players: neoclouds under pressure, mounting credit risks, and an IPO pulled (Solidigm). These are direct risk signals for AI infrastructure/hyperscalers.",
+              "signals": [
+                "turmoil hits AI buildout",
+                "neoclouds face pressure",
+                "credit risks mount",
+                "Solidigm pulls IPO"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "CoreWeave Vs. Nvidia: Demand For Silicon is Not The Same Thing as Solvent, Credit-Backed Demand for Physical Infrastructure - 24/7 Wall St.",
+              "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcFp0X3MyVjlSSFltekZYM25UVU92Tm5taGpfdGg5TUdCMWJHamNsQkEyYUotR2RuNlRLTHIyYm9yYjJJc09NUFotVmJ4MExlMndYQ0o0cXpnckJ0cVFiLWxSOFNVZFF2QkF0X1Jxczk2Y0NHQTF0YkY5eUVpLVVlN1FIQmFVbVQ5Z25XaXBOeHFmZXVSb01vRUh4clF1MU1kMUVLS1FiVnByejdyOUc4d0FJVnctakg3bmtLd1JSTnF4REUwZW5BYWloTTFBNmNlOGRfaDhTZ0lISG9rMFJHV3F2eUlwQVUwbFFTLWR4S0NOUXQtLW53?oc=5",
+              "published": "Tue, 27 Oct 2026 12:15:00 GMT",
+              "strength": 2,
+              "confidence": 70,
+              "reason": "The headline explicitly flags a mismatch between demand for AI chips (silicon) and credit-backed demand for physical infrastructure, which is directly relevant to infrastructure/hyperscaler financial risk. However only the title/summary is provided and no concrete data or events are given, so the signal strength is moderate and interpretation is limited.",
+              "signals": [
+                "Demand for AI silicon does not necessarily translate into solvent, credit-backed demand for physical infrastructure",
+                "Potential financial/credit risk for infrastructure providers (e.g., CoreWeave) despite strong chip demand",
+                "Implied risk of mismatch between hardware demand (Nvidia) and sustained infrastructure revenue"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "SAP's AI Math: Why Cheaper Models Alone Won't Move the Margin Needle - ad-hoc-news.de",
+              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPamNOTS1faE10cEhibGVUaUZTdkFuSTR0Qmx5TGRlaFdvOHNVQ2lFMG5GOFVFdFl4eGhTblY1OWZGN0NESWh1NjQtb1BEdHllNDNhODl0RmlOdXpBdlE4ZWFWeU0yX0d1SWlhSHpEd3hhajBieUUzVWNjSFhrMHE2Z2twN2RBRGhFdy1nSmpRQU5IcllieDVvbENxUGtLQmtCQ0xBdmR0aUtfOHhvVW9JamJPRnhta1R5cTUzVEV4U0tkakdWNURVOFA4Yk9ST3B4dlFYdnd3?oc=5",
+              "published": "Fri, 30 Oct 2026 06:21:00 GMT",
+              "strength": 1,
+              "confidence": 80,
+              "reason": "Headline explicitly addresses cheaper AI models and their limited impact on SAP's margins, so it pertains to AI price-cut effects; however only the title/summary is available with no supporting details, so this is a weak/limited signal.",
+              "signals": [
+                "Article claims cheaper AI models alone are unlikely to materially reduce SAP's margins",
+                "Implied: price cuts by model providers may not be sufficient on their own to move enterprise margins"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 4,
+          "fresh_sum": 0.0,
+          "decay_sum": 3.74,
+          "raw_score": 2.0,
+          "strong_hits14": 4,
+          "evidence": [
+            {
+              "title": "Despite the severe 12% post-earnings sell-off triggered by Google’s core search advertising slowdown and negative free cash flow, I am initiating a contrarian buy call on Google. The market is overreacting to the near-term AI capex surge while completely ove - Moomoo",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFJRckJRYS1Bb09fR1FsYWY4UlJOLTJsYzhUSWtHX01SYm9JR2NTTmc1c3pRSUpEOWFZUDJ1WUFmWmhKQlJhb0k3Y3ZnbURCcC12MjZ2M3pkNkg2UVRKbi1qVGl4Wm05c0RGcjVsNjA2d0FiYnc4N1oxWDlVWlZycThBRnV5NG9GR1UydUVzUlVMS1FxZUU2Q0syVGMwdkstd0FHZDk5NFpWTE5KeHFZ?oc=5",
+              "published": "Sat, 31 Oct 2026 04:33:09 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "The excerpt explicitly mentions a near-term AI capex surge alongside a core search advertising slowdown and negative free cash flow (12% post-earnings sell-off), directly matching a capex-up/revenue-down risk signal.",
+              "signals": [
+                "AI capex surge",
+                "core search advertising slowdown",
+                "negative free cash flow",
+                "12% post-earnings sell-off",
+                "market overreaction to near-term capex"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "AI buildout hits snag as Google and Microsoft put off raising capex forecasts - CNBC",
+              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pM0RNUDRnMFJXZkRoZG5ZdVVXRHozTUtidUxjMXdKbFBHVW9hTjg1NlFPcFcwLTZCQzM3cTRQYnpzRE1LQ3pNUkpxQmN1OEdnN25fZGhNUDlMZ0w0VW5kUGdoWWd4ZDFWNlZBTHFQaVpDd3B2M01UN3ZrcWzSAYIBQVVfeXFMUDhDNzNOa204RlZoNUNMTUZnWEVNY0RVbmtlNjQwc0N6YU0wWlhla29xRE5GRkhZbmwxRjEwNE9lZ2VoaG9mU0loVVJGaEprdmY2TkE3U1luNlE3Q2g2VmJVSlZkQ0RPYVdpSGYzV1lSMFZzZmRjU2lFanhOUThXUzZGZw?oc=5",
+              "published": "Thu, 29 Oct 2026 11:30:01 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline explicitly states Google and Microsoft have 'put off raising capex forecasts' and that AI buildout 'hits snag', which directly signals a risk to hyperscaler AI infrastructure expansion. The article text itself was not provided, so classification is based on the headline only.",
+              "signals": [
+                "Google and Microsoft put off raising capex forecasts",
+                "AI buildout described as having 'hit snag'",
+                "Indication of deferred or slowed capex increases at major hyperscalers"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Alphabet Earnings Dilemma: Organic Traffic Slowdown Meets Unstoppable CapEx (NASDAQ:GOOG) - Seeking Alpha",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdVdOMFZGMHJPRlFHZF9LT3lWdTB6eHBaeHY0cHVPRUZ5TU5xSGxRWlFmTmFfY3R2N3lHN0d0UTlNTnlRNnk5dTgyb3VzTHh1NEJVTmdlajJCaTFtNHhQRTZ2YWRBVjFoelVtc1U2Rk1rOG80WU9FemE5NVhmYjB3R2c5N1RJQnBiQTFzYzk1M1dFOXFwdEkzLWF6akJWcE5CenNSQmhjTTEwekFGQTNUSTh0clVEZw?oc=5",
+              "published": "Mon, 26 Oct 2026 21:05:04 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The headline explicitly cites an organic traffic slowdown at Alphabet concurrent with 'unstoppable' CapEx, indicating rising capital spending while a key revenue/traffic metric weakens at a major hyperscaler — directly relevant to AI infrastructure/hyperscaler risk assessment.",
+              "signals": [
+                "Alphabet experiencing organic traffic slowdown",
+                "Alphabet maintaining/raising capital expenditures ('Unstoppable CapEx')",
+                "Earnings dilemma: revenue/traffic headwinds amid elevated investment"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Amazon Slumps 7% Pre-Market: Surging AI CapEx, Negative Free Cash Flow Spark Concerns - TradingKey",
+              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNclgtR1RjTy1JVDNQaFloUUszTEtUcUNlWHhIam9VdUxyQWVsbFBzd1VnSnJIaW1fbjhZYjNjTmhGaEFIcG43V2RnZGZCVU8wTkhsUElpMXlYVHg0WG1NbkZJZ3JNU3Fsb2NXNHZKM0JRMmVWSjNFdlBUWWI2eUsyc3ZfTjhyZ213Y2poQUpTSXdNMkdJNGIwQnZNYTVjQmtoRUllQzhJZHNxT3NtVGNrTGZ1eEg1NjZ3QUo2Qg?oc=5",
+              "published": "Fri, 30 Oct 2026 10:10:03 GMT",
+              "strength": 2,
+              "confidence": 90,
+              "reason": "Article explicitly cites 'surging AI CapEx' and 'negative free cash flow', indicating capital intensity and cash-pressure risk for a hyperscaler. It does not, however, state revenue is declining, so the specific capex_up_revenue_down scenario is only partially supported.",
+              "signals": [
+                "surging AI capex",
+                "negative free cash flow",
+                "stock down 7% pre-market"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 6,
+          "recent14_count": 16,
+          "fresh_sum": 9.9,
+          "decay_sum": 19.77,
+          "raw_score": 14.35,
+          "strong_hits14": 16,
+          "evidence": [
+            {
+              "title": "Denmark pushes data centres to back of grid queue as requests hit 60GW - Dealroom",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVFFDb21ib2Q0RkhpMG81UW5OcHNHZGtBdTFhbW5HZlZJNFFIUmF6ZHZVanJhcy1WM0ppSTVVa3lmRnN6UHJEb3o4S1ptNTBGd0FWRHlMdlIzc2xadmxJWk55UHZSbkJQSnlqWlZ3cEp2OVRVVXNiRVNjNUpBQmxfUVNoZFJDZTU0a3ZvZ1dsUG5paWhldDRqaFRMU3gxM3lwOHFabW4zdw?oc=5",
+              "published": "Fri, 23 Oct 2026 19:50:04 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline reports Denmark is pushing data centres to the back of the grid queue after requests reached 60GW, directly indicating active risk of power connection/permit delays for data centres.",
+              "signals": [
+                "data centres deprioritised in grid queue",
+                "requests reached 60GW",
+                "power connection/permit delays"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "US AI data center projects face delays, rising costs amid grid issues - Crypto Briefing",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU2p1eUhWNERneC1oYlBQZmlQLUJFZFBvSHVxNzB1NWZJWllUN2pnV3JEb2VkT0YzOUxrVGNfR2hWY0N1aHBZeHFiUW5pTXNfVTcxc1h6cGtyVUhSOTdLSy1xOVBJVU1rN3dwUGtES1ZWQ1AwQmxGQkU0RDJwMUtIREhoQUc4RDduNEpGdXliZ21wMjRoX3ljTjVTY3k?oc=5",
+              "published": "Sun, 25 Oct 2026 02:04:12 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "Headline explicitly reports US AI data center projects are facing delays and rising costs 'amid grid issues', indicating a clear power/grid-related risk causing project delays.",
+              "signals": [
+                "AI data center projects facing delays",
+                "Rising costs for data center projects",
+                "Grid issues impacting project timelines"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Grid delays, local opposition slow data center expansion - ET Datacenters",
+              "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVmoyTjJDN0w1ZExJSG1qZnFFZEVWWTZ6cDNsUzRFbU5EUEZwOHppVEtYRS03QV9EU3BScVN4eXhXNmtzQ1ZkeWVhNVdiLUpGT0xJWC1YRFRGTXdGX0pDbkNIZG9OVzRZS1M5OFJvNmlKOGowVmZWdGRUWVZSbnBjR0Q5UmtmZFk0dy0zMWtValdEaVRTbzQyclNfY3l1MHdLNTBGY1BlYjV6Y0NnV3RaTnAxakVYN0pqVnNxTFdlNnB3Y29JNTQzcHFzaHk5WE1WYmRQY3l1cXJub1l5WWVNems1UdIB5wFBVV95cUxPWHFPbHFsQy15RDhmVy12ZGRpOS1nOWk1UVNIc2J3TGszTTNtS1dtMktDUTVyRFljT2NEWlpZeFRCV2FxU3VpMUJra0NsT3VBZDVWUk5jdFRzNEhIOEJmTktyS1AzaE5tMWFFZ2d3clNyeVNUb25oNC1PekIxRjFsRWZvTnAyRTNhSll0cGhCVURsdXlBS2t0Vkt1aEp2RU0wQUdFdFJKeDdZYmJ5NTQxdjI5Y1U0Tlh6QVByUGx4NC1OLWxab25XM01DbS1jWE8xdGZaUmNwSFc1emozWm5TTFc4UFc4Y1k?oc=5",
+              "published": "Tue, 03 Nov 2026 12:34:54 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The title explicitly reports that grid delays and local opposition are slowing data center expansion, which directly signals power/infrastructure and permitting risks for data center development.",
+              "signals": [
+                "grid delays impacting data center expansion",
+                "local opposition slowing permits/expansion",
+                "power/infrastructure constraints for data centers"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Why Goldman Sachs views Grid and Utilities as the key AI growth bottlenecks - Invezz",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTRIdnNMekdSVHhwb01Bc2g1QWx6U3lnT0xqeHFHVDYwOHQ2blpGT0pMYlNUZU45N25QTnY0MkJrSE8waElYdXdFUDA1WXl3S2dWZjBleUduMzJEX2ljaEl4aXAteUhsZWVHZ196UHBtUWdNM0JlcEluN3ZIMW1KN2t6UEI3VWR4WWdXQnlRMUNVcTRvOTBXNHBxeGxMbjRIbUxyZ25EaUhTVXY1bFJDeQ?oc=5",
+              "published": "Sat, 24 Oct 2026 11:02:31 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Title explicitly states that grid and utilities are key bottlenecks for AI growth, which directly implicates power/infrastructure risk for AI/hyperscaler deployment. Assessment is moderately strong because the signal is clear in the headline but only a single summarized item without supporting details.",
+              "signals": [
+                "Grid capacity constraints limiting AI infrastructure growth",
+                "Utility/energy supply constraints as a bottleneck for AI expansion"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "QIA and Brookfield back a GBP 2.5 bn data center at Drax’s UK power station that can skip the grid queue - EnterpriseAM",
+              "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOajdIdkpaNmdTSmVDb0wzU1V0VXFWWWZEdHhKLVh5SUF6Zmc2OUVtUVUwMmRXTzFOZ1RSR1ZYeVdjSHV3VFFwSXcwUHNScjdXMkdLbWJoZ1NJWGtuYjhuZV9NUm1OS2RnVjBHZmt4STg3YkZlWDlPa2hUckxGX0JmcmgtdlVKQjhXcXd0a012NGtRM0NGSU43SGJqRzNRZno0Vldhc0h1NXk3V252UzduUXAyRHZwNjZmb254QkowcDl3Yk1lZC1pVUsyUjlkRnpMR3lkWE5sbUlrZ2dCN1dNM2s5eDVWaU9NbVZR?oc=5",
+              "published": "Tue, 03 Nov 2026 22:00:00 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The article specifically describes a GBP 2.5bn data center at Drax’s UK power station that 'can skip the grid queue', directly pointing to grid connection/permit queue constraints as a material issue for data center deployment and that market participants are pursuing alternatives.",
+              "signals": [
+                "GBP 2.5bn data center at Drax’s UK power station",
+                "can skip the grid queue",
+                "backed by QIA and Brookfield",
+                "enterprise press coverage of power-connection workaround"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Statnett CEO warns Norway against sending data centers to back of grid queue - EnergyWatch",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KMGl2dGNtUEtWOWJqblU3aUsyQXZNUmp1Rl92WmQyV0ZscHRTUTlZLU5sMHFWTnZhYmlDNDY0a19HN0NPRllDV2RJcTZJb2NsNWxtR2xobFoydmlBTTdFWU9jTXVkM05SLXJV?oc=5",
+              "published": "Tue, 03 Nov 2026 05:44:00 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline reports Statnett CEO warning against placing data centers at the back of the grid queue, which directly signals risk of deprioritization and delays in grid connection/permits for data centers in Norway. This is a clear policy/operational risk but the summary is brief, so strength is moderate.",
+              "signals": [
+                "statnett CEO warning",
+                "data centers risk being placed at back of grid queue",
+                "potential grid connection/permit delays",
+                "policy/regulatory queuing risk in Norway"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Norway’s energy minister says grid connection obligation is effectively gone - EnergyWatch",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96MlJpWVY2UFZFLVRTcG5xc0kxV0U2azhfazZ3VlZ3UXBFYzBSTFJ4TTZ1d181STgtSW5PMGNFeHZubEtvcWkyb1NkaFctUnIwRDJiczhfMzh1eE9uRjctc1pUekVBeVBrSEtwMHZCOEV1T3RXR21XQkZaQQ?oc=5",
+              "published": "Mon, 02 Nov 2026 09:03:18 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Headline states Norway's energy minister says the grid connection obligation is effectively gone, which directly relates to the ability to obtain grid connections/power permits for projects in Norway. The signal is clear but comes from a single headline with limited detail, so strength is moderate.",
+              "signals": [
+                "Norwegian energy minister: grid connection obligation effectively gone (headline)",
+                "Risk to securing grid connections/power permits in Norway (implied by headline)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Grid delays and power costs push UK data centres towards gas generation - Data Centre Solutions",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTFJYajZxaDIzdE1ZYjhxZm5JaG1FSGQxWjl2czdaaUJ2YmRySGpCMV9MWmpwbTVRNG1vamVFTHVCLVUxU0NLWHk5WmJ5UjRqdlhkTlNLSDdYQjgtaVJXSFJhQkVyYWFEUlpELTdGZ051M19yVmlVZzdReGJFQjlNN09nX0xmVnM0aHpUZl9KbHJ3MWdLcG5wUnYzLW1BWHdqQVlmRkYtU1V3cjVwc3U3dw?oc=5",
+              "published": "Tue, 03 Nov 2026 11:24:56 GMT",
+              "strength": 3,
+              "confidence": 75,
+              "reason": "The headline explicitly links UK data centres moving toward gas generation to grid delays and power costs, which is a direct signal of power-grid constraints affecting data-centre operations. Only a single headline/link is provided without more detail, so strength is moderate.",
+              "signals": [
+                "Grid connection/delivery delays in the UK are driving data centres to consider or adopt on-site gas-fired generation",
+                "Rising electricity/power costs are incentivizing data centres to use gas generation",
+                "Potential for increased reliance on on-site gas generation due to power-grid constraints in the UK data-centre sector"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 10,
+      "new_articles": 37,
+      "dedup_skips": 131,
+      "prefilter_skips": 28,
+      "llm_calls": 9,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 8,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 1,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 0
+      }
+    }
   }
 ]
