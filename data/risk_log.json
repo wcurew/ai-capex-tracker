@@ -69432,13 +69432,26 @@
           "evidence": []
         },
         "power_permit_delays": {
-          "recent3_count": 1,
-          "recent14_count": 16,
-          "fresh_sum": 2.0,
-          "decay_sum": 17.0,
-          "raw_score": 8.5,
-          "strong_hits14": 16,
+          "recent3_count": 3,
+          "recent14_count": 18,
+          "fresh_sum": 8.4,
+          "decay_sum": 23.55,
+          "raw_score": 14.96,
+          "strong_hits14": 18,
           "evidence": [
+            {
+              "title": "UK Data Centers Face Decade-Long Grid Connection Queues, Developers Turn to Building Their Own Gas-Fired Power Plants - BigGo Finance",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52VGM1b3RpWXBsWlhLVDBHNlV5UWZRWEpqaUlycVRfdW5YRnQ2YlpRLVBfenRZbE1XWFlfUWVsQUg3TGRBMEVqWDExeGZQVHp3NExSMmh1MEJNY1RCZkttZnNXSWJvb1Z2MUlzVUVYbmEwN19CS0E?oc=5",
+              "published": "Sat, 07 Nov 2026 01:55:00 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline explicitly reports decade-long grid connection queues for UK data centers and that developers are responding by building their own gas-fired power plants, indicating a clear energy-supply/operational risk signal for data center infrastructure.",
+              "signals": [
+                "Decade-long grid connection queues for UK data centers",
+                "Developers turning to build on-site gas-fired power plants"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
             {
               "title": "Denmark pushes data centres to back of grid queue as requests hit 60GW - Dealroom",
               "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVFFDb21ib2Q0RkhpMG81UW5OcHNHZGtBdTFhbW5HZlZJNFFIUmF6ZHZVanJhcy1WM0ppSTVVa3lmRnN6UHJEb3o4S1ptNTBGd0FWRHlMdlIzc2xadmxJWk55UHZSbkJQSnlqWlZ3cEp2OVRVVXNiRVNjNUpBQmxfUVNoZFJDZTU0a3ZvZ1dsUG5paWhldDRqaFRMU3gxM3lwOHFabW4zdw?oc=5",
@@ -69510,6 +69523,20 @@
               "llm_model": "gpt-5-mini"
             },
             {
+              "title": "Right on Queue: Opportunities for Interconnection Queue Reform in the United States - Clean Air Task Force",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVkZ6TkZvb0FUUENXcjFVTGt3QW92TTRjaWk1WWlROFJFS1lYaS1CQjRYdmpabEdTNlVSTzR4dVFqMndKRURuVXVQOUZaMEpNWF91bV9sYi15dllnNmQ1UTRmODd3U2c4RmRxSy1DYVdGWHhqc1NaVkFRRllfd0twSk9aN2pSNG9GQm1YMlRkbVktSl95Z0Q0UEdLdGRxOElTY0dn?oc=5",
+              "published": "Fri, 06 Nov 2026 03:31:23 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The title explicitly addresses interconnection queue reform in the United States, which directly relates to risks from interconnection/permitting delays for power projects. The source (Clean Air Task Force) and title indicate a problem and need for reform but full article text is not provided, so strength is moderate rather than maximal and inferences are limited.",
+              "signals": [
+                "Interconnection queue backlog / need for reform",
+                "Potential delays in project interconnection",
+                "Regulatory/market reform opportunities in US power interconnection"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
               "title": "QIA and Brookfield back a GBP 2.5 bn data center at Drax’s UK power station that can skip the grid queue - EnterpriseAM",
               "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOajdIdkpaNmdTSmVDb0wzU1V0VXFWWWZEdHhKLVh5SUF6Zmc2OUVtUVUwMmRXTzFOZ1RSR1ZYeVdjSHV3VFFwSXcwUHNScjdXMkdLbWJoZ1NJWGtuYjhuZV9NUm1OS2RnVjBHZmt4STg3YkZlWDlPa2hUckxGX0JmcmgtdlVKQjhXcXd0a012NGtRM0NGSU43SGJqRzNRZno0Vldhc0h1NXk3V252UzduUXAyRHZwNjZmb254QkowcDl3Yk1lZC1pVUsyUjlkRnpMR3lkWE5sbUlrZ2dCN1dNM2s5eDVWaU9NbVZR?oc=5",
               "published": "Tue, 03 Nov 2026 22:00:00 GMT",
@@ -69521,34 +69548,6 @@
                 "can skip the grid queue",
                 "backed by QIA and Brookfield",
                 "enterprise press coverage of power-connection workaround"
-              ],
-              "llm_model": "gpt-5-mini"
-            },
-            {
-              "title": "Statnett CEO warns Norway against sending data centers to back of grid queue - EnergyWatch",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KMGl2dGNtUEtWOWJqblU3aUsyQXZNUmp1Rl92WmQyV0ZscHRTUTlZLU5sMHFWTnZhYmlDNDY0a19HN0NPRllDV2RJcTZJb2NsNWxtR2xobFoydmlBTTdFWU9jTXVkM05SLXJV?oc=5",
-              "published": "Tue, 03 Nov 2026 05:44:00 GMT",
-              "strength": 3,
-              "confidence": 80,
-              "reason": "Headline reports Statnett CEO warning against placing data centers at the back of the grid queue, which directly signals risk of deprioritization and delays in grid connection/permits for data centers in Norway. This is a clear policy/operational risk but the summary is brief, so strength is moderate.",
-              "signals": [
-                "statnett CEO warning",
-                "data centers risk being placed at back of grid queue",
-                "potential grid connection/permit delays",
-                "policy/regulatory queuing risk in Norway"
-              ],
-              "llm_model": "gpt-5-mini"
-            },
-            {
-              "title": "Norway’s energy minister says grid connection obligation is effectively gone - EnergyWatch",
-              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96MlJpWVY2UFZFLVRTcG5xc0kxV0U2azhfazZ3VlZ3UXBFYzBSTFJ4TTZ1d181STgtSW5PMGNFeHZubEtvcWkyb1NkaFctUnIwRDJiczhfMzh1eE9uRjctc1pUekVBeVBrSEtwMHZCOEV1T3RXR21XQkZaQQ?oc=5",
-              "published": "Mon, 02 Nov 2026 09:03:18 GMT",
-              "strength": 3,
-              "confidence": 80,
-              "reason": "Headline states Norway's energy minister says the grid connection obligation is effectively gone, which directly relates to the ability to obtain grid connections/power permits for projects in Norway. The signal is clear but comes from a single headline with limited detail, so strength is moderate.",
-              "signals": [
-                "Norwegian energy minister: grid connection obligation effectively gone (headline)",
-                "Risk to securing grid connections/power permits in Norway (implied by headline)"
               ],
               "llm_model": "gpt-5-mini"
             }
@@ -69566,11 +69565,11 @@
       }
     },
     "run_stats": {
-      "store_pruned_removed": 63,
-      "new_articles": 47,
-      "dedup_skips": 111,
-      "prefilter_skips": 44,
-      "llm_calls": 3,
+      "store_pruned_removed": 0,
+      "new_articles": 40,
+      "dedup_skips": 122,
+      "prefilter_skips": 36,
+      "llm_calls": 4,
       "llm_errors": 0,
       "urls_total": 13,
       "urls_ok": 13,
@@ -69579,7 +69578,7 @@
         "power_permit_delays": 3,
         "dc_vacancy": 0,
         "ai_price_cuts": 0,
-        "capex_up_revenue_down": 0,
+        "capex_up_revenue_down": 1,
         "mgmt_tone_softening": 0,
         "market_positioning": 0
       }
