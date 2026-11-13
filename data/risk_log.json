@@ -70719,5 +70719,270 @@
         "market_positioning": 0
       }
     }
+  },
+  {
+    "date": "2026-11-14",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 0,
+        "mgmt_tone_softening": 2,
+        "capex_up_revenue_down": 0,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 17.5,
+      "bucket": "낮음",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.89,
+          "raw_score": 0.35,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "The Financing Gap Behind the AI Boom: How On-Chain Credit Absorbs the GPU Debt Traditional Banks Can't Finance? - 深潮TechFlow",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VUC1qbUN2WnhxX0tMajlCOWswYmJBRFpDSTZnVzhvNEgtaDV6d0FXRWR2dnBiTU8wQkZhTjgwV19Tb1ljdjFpTkMxbWREYjVHeVU5WTU4QXFEaEt5?oc=5",
+              "published": "Mon, 09 Nov 2026 11:16:30 GMT",
+              "strength": 2,
+              "confidence": 60,
+              "reason": "The title explicitly identifies a financing gap for GPU-related debt and states that on-chain credit is absorbing debt traditional banks won't finance. That points to a financing risk for AI hardware procurement. However, only a headline/summary is provided with no quantitative or corroborating details, so the signal strength and confidence are moderate.",
+              "signals": [
+                "Financing gap behind the AI boom",
+                "On-chain credit absorbing GPU debt",
+                "Traditional banks unable to finance GPU purchases"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 1,
+          "recent14_count": 1,
+          "fresh_sum": 2.4,
+          "decay_sum": 2.55,
+          "raw_score": 2.46,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "Cerebras shares jump 17% on upbeat annual forecast, easing AI jitters - WTVB",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVXNZSm9HeFF0UVNUcV85dXRnZUJzcDl5b19KX05ObVNFWFA3WUhiUlZ1Z05ScEg5ajdvc1FvaTVxbnRqaVZmT3BQYnE4OHNBYkdOWHJ4QlM1bTJySE5rb2doTjhGTUFRZ2VSMEhKTzdNeVpOeE55aG5VNTliLUJZLXhJUG1wUlhJY2tzZDBwRWtHblByRGN3bDFBQQ?oc=5",
+              "published": "Fri, 13 Nov 2026 01:56:03 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The headline states Cerebras shares rose 17% on an \"upbeat annual forecast\" described as \"easing AI jitters,\" which directly indicates management delivered more positive guidance (a softening of prior negative/uncertain tone). No further claims or broader inferences are made beyond the article text.",
+              "signals": [
+                "management_provided_upbeat_forecast",
+                "market_sentiment_improved",
+                "easing_of_AI_jitters"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 2,
+          "fresh_sum": 0.0,
+          "decay_sum": 1.2,
+          "raw_score": 0.48,
+          "strong_hits14": 2,
+          "evidence": [
+            {
+              "title": "Despite the severe 12% post-earnings sell-off triggered by Google’s core search advertising slowdown and negative free cash flow, I am initiating a contrarian buy call on Google. The market is overreacting to the near-term AI capex surge while completely ove - Moomoo",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFJRckJRYS1Bb09fR1FsYWY4UlJOLTJsYzhUSWtHX01SYm9JR2NTTmc1c3pRSUpEOWFZUDJ1WUFmWmhKQlJhb0k3Y3ZnbURCcC12MjZ2M3pkNkg2UVRKbi1qVGl4Wm05c0RGcjVsNjA2d0FiYnc4N1oxWDlVWlZycThBRnV5NG9GR1UydUVzUlVMS1FxZUU2Q0syVGMwdkstd0FHZDk5NFpWTE5KeHFZ?oc=5",
+              "published": "Sat, 31 Oct 2026 04:33:09 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "The excerpt explicitly mentions a near-term AI capex surge alongside a core search advertising slowdown and negative free cash flow (12% post-earnings sell-off), directly matching a capex-up/revenue-down risk signal.",
+              "signals": [
+                "AI capex surge",
+                "core search advertising slowdown",
+                "negative free cash flow",
+                "12% post-earnings sell-off",
+                "market overreaction to near-term capex"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Blue wave jitters hit chip stocks as AI capex merely slows, not stops - Chosunbiz",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWdDZktZQTl1bXk0cGxUdjVqN0ZOeko2NlcycTQ4T3dzeGEwR3hxTzhrRVF6NUJCN3hsM2tMNHJENlMtUGRZN1J1SWdnc2tsamxjSVBNVW1fRG9ZQ2RlLVZabVB0NmdqcWxNcGJIQ19kNXJ0c2V3Y2dzWU15TTZNStIBlAFBVV95cUxNb1U2ZTBWRjFJWVMwbW16cHBxbV9kX3MyNVFENW1MWnVFbjd3bU1Ua29SbUpjcEdmRmlWTDZRLVJxaGcyZnkxanBLY0NudkNBZE5hYzdiQjh0cXlvZTFsaWkxYVh0WVB0Vl9ieWlCTGNPRFFIU216bWJZalk3ci1MakFSYkZXMTRYSWZJVk1hekE5WGt2?oc=5",
+              "published": "Sun, 08 Nov 2026 22:52:00 GMT",
+              "strength": 2,
+              "confidence": 70,
+              "reason": "Headline explicitly reports AI capex is slowing (not stopping) and that chip stocks are jittery; this directly signals reduced/softer AI infrastructure spending risk but provides no quantitative detail or scope, so the signal is weak-to-moderate based on available text.",
+              "signals": [
+                "AI capex slowing (not stopping)",
+                "volatility/jitters in chip stocks",
+                "political uncertainty ('blue wave') affecting investor sentiment"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 4,
+          "recent14_count": 25,
+          "fresh_sum": 4.0,
+          "decay_sum": 28.08,
+          "raw_score": 14.13,
+          "strong_hits14": 25,
+          "evidence": [
+            {
+              "title": "Norway Halts New Data Centre Power Reservations With 9.1 GW in Queue - CEO Magazyn",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPVzNUMzdrWXhxdWFLR0pielQ0ZTZ0YU9WcGNha3hkSzNEeW03eGlSS1JNeVZId2QtVmhsalBvbnJidk9yRWNWbTRaUnhCMmVyQ1dtR1MwNk1zcnVzYUs5UmF5cWpoODNFU3dVcHJDUQ?oc=5",
+              "published": "Tue, 10 Nov 2026 20:58:09 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The report states a concrete policy action—Norway halting new data centre power reservations—backed by a quantified backlog (9.1 GW). This is a direct, strong signal of power/permitting constraints affecting data centre expansion in that market.",
+              "signals": [
+                "Norway halts new data centre power reservations",
+                "9.1 GW in queue for data centre power reservations",
+                "pause/stop in power reservation/permit process for data centres"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Norway Halts New Data Center Grid Connections as 9.1 GW Queue Strains Power Network - BigGo Finance",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NTEVTRGtJdlVZZW5VVTY4WTU1TjlrUVJtM1pCMWMxSUJUdlN5UXpoM0RsV2JpT3NLVF9WR3dGTkppRE04bkdRN3hoT0FMQS1HZlp6SlgzUHpwektfOG5QMGw0UHNwNnU0cTRxZm91LVg5cVV6RGc?oc=5",
+              "published": "Tue, 10 Nov 2026 06:05:00 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Article reports an explicit halt on new data center grid connections due to a 9.1 GW queue straining Norway's power network, which directly signals permit/connection delays and a clear operational risk for data center expansion.",
+              "signals": [
+                "Norway halts new data center grid connections",
+                "9.1 GW queue for grid connections",
+                "strain on national power network",
+                "data center permit/connection delays"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Norway's grid operator and Australia's NextDC pause data center growth as limits spread from Texas - MLQ.ai",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbjQ0eEVfNklVaHVsZ0dQaThaMXB4eTN4MGhhd3lsck5UZjg4dHpsTzV0dDNaVkU5OUlFU0E5QUtMWUZYeEpwX015MHR1RWZ2eFBLbGN6ejIycEVLem92MGFTT182cUxnVXpaVWZMUFNfcmlkajcxcnFibEdaNl9WMlR6Mzg3NzJZN21wRkN5aWhObGFDdmMxWkZzSjBXZjItaDdBU1JITXRTMFNQd3d6ZVJuZjdwRnQ5?oc=5",
+              "published": "Mon, 09 Nov 2026 10:01:36 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline states Norway's grid operator and NextDC have paused data center growth as power/grid limits spread from Texas — a direct indication that electricity/grid capacity constraints are materially affecting data center expansion.",
+              "signals": [
+                "Norway's grid operator paused data center growth",
+                "NextDC paused data center growth",
+                "Power/grid limits spreading from Texas"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "UK Data Centers Face Decade-Long Grid Connection Queues, Developers Turn to Building Their Own Gas-Fired Power Plants - BigGo Finance",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52VGM1b3RpWXBsWlhLVDBHNlV5UWZRWEpqaUlycVRfdW5YRnQ2YlpRLVBfenRZbE1XWFlfUWVsQUg3TGRBMEVqWDExeGZQVHp3NExSMmh1MEJNY1RCZkttZnNXSWJvb1Z2MUlzVUVYbmEwN19CS0E?oc=5",
+              "published": "Sat, 07 Nov 2026 01:55:00 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline explicitly reports decade-long grid connection queues for UK data centers and that developers are responding by building their own gas-fired power plants, indicating a clear energy-supply/operational risk signal for data center infrastructure.",
+              "signals": [
+                "Decade-long grid connection queues for UK data centers",
+                "Developers turning to build on-site gas-fired power plants"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Norway halts grid connection applications for new data centers - Data Center Dynamics",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdGJNemF2Zks5SnlEd2FPZTVicm9LcGNMNDNvbk12LVNfdFBiTWpWNzZsR3VqYUIzM3ZTLUpTS0pRLXN0RFd2NnpoenpHeXNJM3F0eGJJS1RvV1NvTndIVmR3aEVhamRBT19hRUNvODZLVUNueEZkLVRQX3NmYlQ4RkVaMXl1QmtLSWwwUG1vQkFTSy1jLW1rdlM2VjdHMXJvUUN4dGk4cmoxZw?oc=5",
+              "published": "Mon, 09 Nov 2026 17:49:08 GMT",
+              "strength": 4,
+              "confidence": 88,
+              "reason": "Article reports Norway has halted grid connection applications for new data centers, which is a direct and clear signal of immediate risk to power permitting/availability for data center builds.",
+              "signals": [
+                "grid_connection_halt",
+                "power_permit_delays",
+                "capacity_constraints",
+                "regulatory_action",
+                "data_center_development_impact"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Norway Pauses New Data Center Grid Reservations - The Defiant",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3dnZU5aWEtDSU1sQUtRdm56RjZxSlBxMmhUaWxMYVY2Z3dnZm1tYmZWemZBTFJjaVJfRUdJclRoRENFbkl6U2treWhUMHV3ZVdzQ3MwcU5GQXNRNXJWMEhlaGJBQmlNcmwxS2xsV3N6Rl9BSTFha1dIUWVUNzd4SjloRkRMMFd2WURxNm53T3l6Y2FpT21Icw?oc=5",
+              "published": "Tue, 10 Nov 2026 17:31:34 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "Headline explicitly reports Norway has paused new data center grid reservations, directly indicating a constraint on power hookups/permits for new data centers.",
+              "signals": [
+                "Norway paused new data center grid reservations (The Defiant)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Get Off of My Cloud – Texas Moratorium on Data Center Grid Connections Disrupts U.S. Project Pipeline - RBN Energy",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd0JYNUt6S0djRWV0OFZEblhtRHk1QkVfWGVSSllZNm9nSzR4LW9VVnp6QWV1Z3NLQlRxcExtZG5ucEZONEhwaDA0X19BWFU5RldmTlRZY2M3MTF4Qll2N3J2TEotQVBYYUREcXVQYjdoLXhmQlp0Q1MyQm1tMlRCdS1Jb2h5aHBJajIzc0hXVUp2Q1F5alY3S0lyYVQ2U3Rkem1Rd3RqQkoyaTdRbEcyblViRQ?oc=5",
+              "published": "Wed, 04 Nov 2026 19:46:45 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "The article title explicitly reports a Texas moratorium on data center grid connections that is disrupting the U.S. project pipeline, indicating a clear, direct risk to obtaining power permits/connections for hyperscaler data center projects.",
+              "signals": [
+                "State-level moratorium on new grid connections for data centers in Texas",
+                "Disruption/delays to U.S. data center project pipeline",
+                "Constraints on obtaining power permits or grid connections for hyperscaler builds",
+                "Regional impact on data center buildout timelines"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Utah Startup Torus Raises $500M for Prefab AI Data Center Built to Skip Grid Queue - Tech Times",
+              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0pSLXVReGd0eFd3ZnZLNUhEc1NJNTEyN2JlXzVYalBNc2dQWTZpcDJnVzZ5Znlta0dCZXByOTdmNm1TZlpRTHZFb09WMEYwamFvRTdfdUJMYThHQlNPbUJFVllBQ2xvSVoySmF6bHliazRfVUxrSTc5dnRFSWhCeVN3THlzU2M1eGY3aVdzeWNaOWtQZWk4MTFLaVdoNTNCZGRldzRBWE8zLWt5OWk2V1ZTTTQ2TmgtVnE5dENYeHZTWmJUMDdpSw?oc=5",
+              "published": "Thu, 12 Nov 2026 12:35:50 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The title explicitly states Torus raised $500M for prefab AI data centers 'built to skip grid queue', directly pointing to grid interconnection/permit queue delays as a driver for this approach.",
+              "signals": [
+                "Title phrase: 'built to skip grid queue'",
+                "$500M fundraising for prefab AI data centers",
+                "Focus on prefab approach to avoid grid queue delays"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 23,
+      "new_articles": 29,
+      "dedup_skips": 118,
+      "prefilter_skips": 23,
+      "llm_calls": 6,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 3,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 2,
+        "mgmt_tone_softening": 1,
+        "market_positioning": 0
+      }
+    }
   }
 ]
