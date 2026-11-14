@@ -70724,24 +70724,51 @@
     "date": "2026-11-14",
     "overall": {
       "scores": {
-        "ai_price_cuts": 0,
+        "ai_price_cuts": 2,
         "mgmt_tone_softening": 2,
         "capex_up_revenue_down": 0,
         "dc_vacancy": 0,
         "power_permit_delays": 4,
         "market_positioning": 0
       },
-      "score": 17.5,
-      "bucket": "낮음",
+      "score": 27.5,
+      "bucket": "보통",
       "meta": {
         "ai_price_cuts": {
           "recent3_count": 0,
-          "recent14_count": 1,
+          "recent14_count": 3,
           "fresh_sum": 0.0,
-          "decay_sum": 0.89,
-          "raw_score": 0.35,
-          "strong_hits14": 1,
+          "decay_sum": 2.66,
+          "raw_score": 1.56,
+          "strong_hits14": 3,
           "evidence": [
+            {
+              "title": "Cheaper AI Compute Could Cut SpaceX Revenue - TeslaNorth.com",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKMXE1V2pDdzMzRnZpX1JfdEh1R0djemMtdFJKcUxnZFZFU3ZDTV9zRWdiLUR6NUhqaVo4NlVZN1BVdElOa0FTWTJhUklWd29lZEVyWElka0ZEaGlBaDc1djFzcUI2dkx2RnlaLTlBTXlPdnozS1h3?oc=5",
+              "published": "Mon, 09 Nov 2026 14:45:26 GMT",
+              "strength": 2,
+              "confidence": 70,
+              "reason": "The headline explicitly links cheaper AI compute to a potential revenue impact for SpaceX, which is relevant to AI infrastructure/hyperscaler risk. However it is speculative ('Could') and no supporting details are provided, so the signal is weak-to-moderate and not definitive.",
+              "signals": [
+                "Cheaper AI compute",
+                "Possible revenue impact for SpaceX"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "CoreWeave confronts 'doom cycle' narrative as neocloud credit risk overshadows growth - CNBC",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHUnp3ajNDcDBIRjcyRDVqWkdxNnYzOW9NaXRqS1VQTGlFYnhvMnFyOE8wbkF0d1BneXFOMWNOaXVReXNfMjAzZmlURG83NE1MR2Y2RFc2M3ZnRGNpSXFQUlE2V3VraFNfN0xlTHNMTndhMU9TUlF6NnllTFB6d9IBgwFBVV95cUxQSzFLa3lfb1ROS0tvRG81TkVMdzQwQmdRMTdKMWdkNGV5T1dUek1GWVFtc2FEV0hlVkxNdVVlMzdEVWZtSWIxUU5LN2hQTDRITTFmNmx5WmYtdS1zQmEwN0FZM0lFV2lTbG5MeTlLRnBCQ0o0XzRISmhiVDFVblROZXc2NA?oc=5",
+              "published": "Mon, 09 Nov 2026 12:00:01 GMT",
+              "strength": 2,
+              "confidence": 65,
+              "reason": "The headline explicitly flags neocloud credit risk overshadowing growth for CoreWeave — a clear sector credit-risk signal relevant to AI infrastructure providers. However, only the headline/summary is provided, so details and magnitude are limited; classification is therefore conservative.",
+              "signals": [
+                "neocloud credit risk",
+                "'doom cycle' narrative around CoreWeave",
+                "credit risk overshadowing growth"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
             {
               "title": "The Financing Gap Behind the AI Boom: How On-Chain Credit Absorbs the GPU Debt Traditional Banks Can't Finance? - 深潮TechFlow",
               "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VUC1qbUN2WnhxX0tMajlCOWswYmJBRFpDSTZnVzhvNEgtaDV6d0FXRWR2dnBiTU8wQkZhTjgwV19Tb1ljdjFpTkMxbWREYjVHeVU5WTU4QXFEaEt5?oc=5",
@@ -70832,12 +70859,12 @@
           "evidence": []
         },
         "power_permit_delays": {
-          "recent3_count": 4,
-          "recent14_count": 25,
-          "fresh_sum": 4.0,
-          "decay_sum": 28.08,
-          "raw_score": 14.13,
-          "strong_hits14": 25,
+          "recent3_count": 5,
+          "recent14_count": 26,
+          "fresh_sum": 8.0,
+          "decay_sum": 32.08,
+          "raw_score": 18.13,
+          "strong_hits14": 26,
           "evidence": [
             {
               "title": "Norway Halts New Data Centre Power Reservations With 9.1 GW in Queue - CEO Magazyn",
@@ -70912,6 +70939,20 @@
               "llm_model": "gpt-5-mini"
             },
             {
+              "title": "Norway slams brakes on AI data center boom over grid fears - TechTarget",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY2NQZWlFaW80VlBlZ2N6RVZLQURiSHg4S2tOakxxMEl1Z0Q2bzNyZXRURUNvQTE4bnVZa09Qb3QzSHNIRTZaUi00bl9BVlpNU05zSTZITVlXaHAzMW1qbTM5VnZDcGRjVm11eUxjak9vVkpSRzc1QW1tNndjZ1FpamZEYU9fN0tqVnFNdHl3dVB6NDJ1YURsTHBPc0lZbDA?oc=5",
+              "published": "Fri, 13 Nov 2026 18:43:46 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "Headline explicitly states Norway 'slams brakes' on AI data center boom over grid fears, indicating government action that slows approvals and creates delays related to power/connectivity for data centers.",
+              "signals": [
+                "Government action slowing data center approvals due to grid capacity concerns",
+                "Delays in power/connection permits for AI data centers",
+                "Policy measures restricting new data center development"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
               "title": "Norway Pauses New Data Center Grid Reservations - The Defiant",
               "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3dnZU5aWEtDSU1sQUtRdm56RjZxSlBxMmhUaWxMYVY2Z3dnZm1tYmZWemZBTFJjaVJfRUdJclRoRENFbkl6U2treWhUMHV3ZVdzQ3MwcU5GQXNRNXJWMEhlaGJBQmlNcmwxS2xsV3N6Rl9BSTFha1dIUWVUNzd4SjloRkRMMFd2WURxNm53T3l6Y2FpT21Icw?oc=5",
               "published": "Tue, 10 Nov 2026 17:31:34 GMT",
@@ -70937,20 +70978,6 @@
                 "Regional impact on data center buildout timelines"
               ],
               "llm_model": "gpt-5-mini"
-            },
-            {
-              "title": "Utah Startup Torus Raises $500M for Prefab AI Data Center Built to Skip Grid Queue - Tech Times",
-              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0pSLXVReGd0eFd3ZnZLNUhEc1NJNTEyN2JlXzVYalBNc2dQWTZpcDJnVzZ5Znlta0dCZXByOTdmNm1TZlpRTHZFb09WMEYwamFvRTdfdUJMYThHQlNPbUJFVllBQ2xvSVoySmF6bHliazRfVUxrSTc5dnRFSWhCeVN3THlzU2M1eGY3aVdzeWNaOWtQZWk4MTFLaVdoNTNCZGRldzRBWE8zLWt5OWk2V1ZTTTQ2TmgtVnE5dENYeHZTWmJUMDdpSw?oc=5",
-              "published": "Thu, 12 Nov 2026 12:35:50 GMT",
-              "strength": 3,
-              "confidence": 85,
-              "reason": "The title explicitly states Torus raised $500M for prefab AI data centers 'built to skip grid queue', directly pointing to grid interconnection/permit queue delays as a driver for this approach.",
-              "signals": [
-                "Title phrase: 'built to skip grid queue'",
-                "$500M fundraising for prefab AI data centers",
-                "Focus on prefab approach to avoid grid queue delays"
-              ],
-              "llm_model": "gpt-5-mini"
             }
           ]
         },
@@ -70966,21 +70993,21 @@
       }
     },
     "run_stats": {
-      "store_pruned_removed": 23,
-      "new_articles": 29,
-      "dedup_skips": 118,
-      "prefilter_skips": 23,
+      "store_pruned_removed": 0,
+      "new_articles": 31,
+      "dedup_skips": 126,
+      "prefilter_skips": 25,
       "llm_calls": 6,
       "llm_errors": 0,
       "urls_total": 13,
       "urls_ok": 13,
       "urls_fail": 0,
       "per_item_llm_calls": {
-        "power_permit_delays": 3,
+        "power_permit_delays": 4,
         "dc_vacancy": 0,
-        "ai_price_cuts": 0,
-        "capex_up_revenue_down": 2,
-        "mgmt_tone_softening": 1,
+        "ai_price_cuts": 2,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 0,
         "market_positioning": 0
       }
     }
