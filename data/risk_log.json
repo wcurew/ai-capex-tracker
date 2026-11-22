@@ -73162,5 +73162,351 @@
         "market_positioning": 1
       }
     }
+  },
+  {
+    "date": "2026-11-23",
+    "overall": {
+      "scores": {
+        "ai_price_cuts": 1,
+        "mgmt_tone_softening": 1,
+        "capex_up_revenue_down": 1,
+        "dc_vacancy": 0,
+        "power_permit_delays": 4,
+        "market_positioning": 0
+      },
+      "score": 23.8,
+      "bucket": "보통",
+      "meta": {
+        "ai_price_cuts": {
+          "recent3_count": 0,
+          "recent14_count": 4,
+          "fresh_sum": 0.0,
+          "decay_sum": 2.18,
+          "raw_score": 1.37,
+          "strong_hits14": 4,
+          "evidence": [
+            {
+              "title": "Stanley Lee: GPU Rental Rates Are Rising Because Credit Is Tightening, Not Just Because AI Demand Is - BigGo Finance",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aRDFNQXpXeVpGYmVyWlFndVdFdHFWMjh5a29uN09VbW9EbEk4RVFNRC03dUxXUUttaTRXZ29EUlkzTWRmVk5oODlHUlBzYm1qNTdaQjRrOC1KeXM?oc=5",
+              "published": "Thu, 19 Nov 2026 11:08:00 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "The item explicitly reports GPU rental rates are rising and attributes at least part of the cause to tightening credit conditions rather than only to AI demand. That directly affects AI infrastructure economics and hyperscaler procurement/rental markets, so it is a relevant cost/availability risk signal. Assessment is conservative (single article/opinion), so strength is moderate.",
+              "signals": [
+                "Rising GPU rental rates",
+                "Tightening credit conditions increasing GPU rental costs",
+                "AI demand not sole driver of higher GPU prices"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Cheaper AI Compute Could Cut SpaceX Revenue - TeslaNorth.com",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKMXE1V2pDdzMzRnZpX1JfdEh1R0djemMtdFJKcUxnZFZFU3ZDTV9zRWdiLUR6NUhqaVo4NlVZN1BVdElOa0FTWTJhUklWd29lZEVyWElka0ZEaGlBaDc1djFzcUI2dkx2RnlaLTlBTXlPdnozS1h3?oc=5",
+              "published": "Mon, 09 Nov 2026 14:45:26 GMT",
+              "strength": 2,
+              "confidence": 70,
+              "reason": "The headline explicitly links cheaper AI compute to a potential revenue impact for SpaceX, which is relevant to AI infrastructure/hyperscaler risk. However it is speculative ('Could') and no supporting details are provided, so the signal is weak-to-moderate and not definitive.",
+              "signals": [
+                "Cheaper AI compute",
+                "Possible revenue impact for SpaceX"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "CoreWeave confronts 'doom cycle' narrative as neocloud credit risk overshadows growth - CNBC",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHUnp3ajNDcDBIRjcyRDVqWkdxNnYzOW9NaXRqS1VQTGlFYnhvMnFyOE8wbkF0d1BneXFOMWNOaXVReXNfMjAzZmlURG83NE1MR2Y2RFc2M3ZnRGNpSXFQUlE2V3VraFNfN0xlTHNMTndhMU9TUlF6NnllTFB6d9IBgwFBVV95cUxQSzFLa3lfb1ROS0tvRG81TkVMdzQwQmdRMTdKMWdkNGV5T1dUek1GWVFtc2FEV0hlVkxNdVVlMzdEVWZtSWIxUU5LN2hQTDRITTFmNmx5WmYtdS1zQmEwN0FZM0lFV2lTbG5MeTlLRnBCQ0o0XzRISmhiVDFVblROZXc2NA?oc=5",
+              "published": "Mon, 09 Nov 2026 12:00:01 GMT",
+              "strength": 2,
+              "confidence": 65,
+              "reason": "The headline explicitly flags neocloud credit risk overshadowing growth for CoreWeave — a clear sector credit-risk signal relevant to AI infrastructure providers. However, only the headline/summary is provided, so details and magnitude are limited; classification is therefore conservative.",
+              "signals": [
+                "neocloud credit risk",
+                "'doom cycle' narrative around CoreWeave",
+                "credit risk overshadowing growth"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "The Financing Gap Behind the AI Boom: How On-Chain Credit Absorbs the GPU Debt Traditional Banks Can't Finance? - 深潮TechFlow",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VUC1qbUN2WnhxX0tMajlCOWswYmJBRFpDSTZnVzhvNEgtaDV6d0FXRWR2dnBiTU8wQkZhTjgwV19Tb1ljdjFpTkMxbWREYjVHeVU5WTU4QXFEaEt5?oc=5",
+              "published": "Mon, 09 Nov 2026 11:16:30 GMT",
+              "strength": 2,
+              "confidence": 60,
+              "reason": "The title explicitly identifies a financing gap for GPU-related debt and states that on-chain credit is absorbing debt traditional banks won't finance. That points to a financing risk for AI hardware procurement. However, only a headline/summary is provided with no quantitative or corroborating details, so the signal strength and confidence are moderate.",
+              "signals": [
+                "Financing gap behind the AI boom",
+                "On-chain credit absorbing GPU debt",
+                "Traditional banks unable to finance GPU purchases"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "mgmt_tone_softening": {
+          "recent3_count": 0,
+          "recent14_count": 3,
+          "fresh_sum": 0.0,
+          "decay_sum": 1.77,
+          "raw_score": 1.21,
+          "strong_hits14": 3,
+          "evidence": [
+            {
+              "title": "Cerebras shares jump 17% on upbeat annual forecast, easing AI jitters - WTVB",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVXNZSm9HeFF0UVNUcV85dXRnZUJzcDl5b19KX05ObVNFWFA3WUhiUlZ1Z05ScEg5ajdvc1FvaTVxbnRqaVZmT3BQYnE4OHNBYkdOWHJ4QlM1bTJySE5rb2doTjhGTUFRZ2VSMEhKTzdNeVpOeE55aG5VNTliLUJZLXhJUG1wUlhJY2tzZDBwRWtHblByRGN3bDFBQQ?oc=5",
+              "published": "Fri, 13 Nov 2026 01:56:03 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "The headline states Cerebras shares rose 17% on an \"upbeat annual forecast\" described as \"easing AI jitters,\" which directly indicates management delivered more positive guidance (a softening of prior negative/uncertain tone). No further claims or broader inferences are made beyond the article text.",
+              "signals": [
+                "management_provided_upbeat_forecast",
+                "market_sentiment_improved",
+                "easing_of_AI_jitters"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Cerebras shares jump 17% on upbeat annual forecast, easing AI jitters - KFGO",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjR1TGFNbURTVnVUMW5pOGlQR0JuTjZtUkd6cnRMNjkwRUJrM2J0VWYwRHZwRDd5Q0tvWmhMRWJlR1JjZGxoVmFoOWVNdmRTUU1UaE9XeEpxanlRVWFpQ0FUMHhSWHVOSldjblFxbEJqWGl1VlFLcVNyeV9XdU9LZHpNOEc2Yk1ZRG5sWThaZGRreG82WHo0Rw?oc=5",
+              "published": "Fri, 13 Nov 2026 02:01:34 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline explicitly states management provided an 'upbeat annual forecast' that is 'easing AI jitters,' indicating a clearer, more positive management tone about AI demand; based solely on the text, this is a moderately strong signal.",
+              "signals": [
+                "management issued an upbeat annual forecast",
+                "report says this forecast is 'easing AI jitters'",
+                "Cerebras shares jumped 17% following the forecast"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Cerebras shares jump 17% on upbeat annual forecast, easing AI jitters - StreetInsider",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTV9KWHZlLWtBM0wySzJvN1ZNYktPckVKTFlTU2xJZU5Kc2ExdHZSYTdRX0dORmFEaXpldUNPTjc4QkFyN29ZMm1fLVBDQnlmN3NXSjMtVENjYnhkbUI1ZmFYWWpLaVFEVjBraXZhSFZjTUN6NW5zZW04Mlk1cnZSRFhIOXFWLUdSNE9rODIwa241RDVzQjJrR1UwcUlXYkwtT2hWbzZHTzl3YTNhRGhMODUzOE9ucGFzSjNfY1RpckhqMWs?oc=5",
+              "published": "Thu, 12 Nov 2026 21:10:07 GMT",
+              "strength": 3,
+              "confidence": 80,
+              "reason": "Company management issued an upbeat annual forecast that the article says 'eased AI jitters' and drove a 17% stock jump — a clear, direct instance of management calming market concerns about AI exposure for this firm.",
+              "signals": [
+                "upbeat annual forecast from management",
+                "easing AI jitters (management calming concerns)",
+                "Cerebras shares jumped 17% on the news"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "capex_up_revenue_down": {
+          "recent3_count": 0,
+          "recent14_count": 2,
+          "fresh_sum": 0.0,
+          "decay_sum": 1.98,
+          "raw_score": 0.79,
+          "strong_hits14": 2,
+          "evidence": [
+            {
+              "title": "[Tencent Holdings Q3 2026 Earnings Call] Tencent's AI Bet Squeezes Profit: Non-IFRS Operating Profit Falls 6% as CapEx Surges 257% - BigGo Finance",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DN1NLSDVXeUZYQWxJQXBsWmluM1hicktzWmU4QkdpWmpWN2J2bEpSMVEwTDByM3NKRUdvM2c2NTUwZnQyQ0pfM3MzcDEzcHduNVoxWUdqOHJLbVlacTNF?oc=5",
+              "published": "Wed, 18 Nov 2026 14:14:00 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The headline explicitly links a 257% surge in capex to Tencent's AI investments and reports a 6% fall in non-IFRS operating profit, indicating a clear financial impact from AI-related infrastructure spending.",
+              "signals": [
+                "CapEx surged 257%",
+                "Non-IFRS operating profit fell 6%",
+                "CapEx increase attributed to AI investments"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Blue wave jitters hit chip stocks as AI capex merely slows, not stops - Chosunbiz",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWdDZktZQTl1bXk0cGxUdjVqN0ZOeko2NlcycTQ4T3dzeGEwR3hxTzhrRVF6NUJCN3hsM2tMNHJENlMtUGRZN1J1SWdnc2tsamxjSVBNVW1fRG9ZQ2RlLVZabVB0NmdqcWxNcGJIQ19kNXJ0c2V3Y2dzWU15TTZNStIBlAFBVV95cUxNb1U2ZTBWRjFJWVMwbW16cHBxbV9kX3MyNVFENW1MWnVFbjd3bU1Ua29SbUpjcEdmRmlWTDZRLVJxaGcyZnkxanBLY0NudkNBZE5hYzdiQjh0cXlvZTFsaWkxYVh0WVB0Vl9ieWlCTGNPRFFIU216bWJZalk3ci1MakFSYkZXMTRYSWZJVk1hekE5WGt2?oc=5",
+              "published": "Sun, 08 Nov 2026 22:52:00 GMT",
+              "strength": 2,
+              "confidence": 70,
+              "reason": "Headline explicitly reports AI capex is slowing (not stopping) and that chip stocks are jittery; this directly signals reduced/softer AI infrastructure spending risk but provides no quantitative detail or scope, so the signal is weak-to-moderate based on available text.",
+              "signals": [
+                "AI capex slowing (not stopping)",
+                "volatility/jitters in chip stocks",
+                "political uncertainty ('blue wave') affecting investor sentiment"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "dc_vacancy": {
+          "recent3_count": 0,
+          "recent14_count": 0,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.0,
+          "raw_score": 0.0,
+          "strong_hits14": 0,
+          "evidence": []
+        },
+        "power_permit_delays": {
+          "recent3_count": 2,
+          "recent14_count": 30,
+          "fresh_sum": 2.5,
+          "decay_sum": 27.27,
+          "raw_score": 12.91,
+          "strong_hits14": 30,
+          "evidence": [
+            {
+              "title": "Norway Halts New Data Centre Power Reservations With 9.1 GW in Queue - CEO Magazyn",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPVzNUMzdrWXhxdWFLR0pielQ0ZTZ0YU9WcGNha3hkSzNEeW03eGlSS1JNeVZId2QtVmhsalBvbnJidk9yRWNWbTRaUnhCMmVyQ1dtR1MwNk1zcnVzYUs5UmF5cWpoODNFU3dVcHJDUQ?oc=5",
+              "published": "Tue, 10 Nov 2026 20:58:09 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "The report states a concrete policy action—Norway halting new data centre power reservations—backed by a quantified backlog (9.1 GW). This is a direct, strong signal of power/permitting constraints affecting data centre expansion in that market.",
+              "signals": [
+                "Norway halts new data centre power reservations",
+                "9.1 GW in queue for data centre power reservations",
+                "pause/stop in power reservation/permit process for data centres"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Norway Halts New Data Center Grid Connections as 9.1 GW Queue Strains Power Network - BigGo Finance",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NTEVTRGtJdlVZZW5VVTY4WTU1TjlrUVJtM1pCMWMxSUJUdlN5UXpoM0RsV2JpT3NLVF9WR3dGTkppRE04bkdRN3hoT0FMQS1HZlp6SlgzUHpwektfOG5QMGw0UHNwNnU0cTRxZm91LVg5cVV6RGc?oc=5",
+              "published": "Tue, 10 Nov 2026 06:05:00 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Article reports an explicit halt on new data center grid connections due to a 9.1 GW queue straining Norway's power network, which directly signals permit/connection delays and a clear operational risk for data center expansion.",
+              "signals": [
+                "Norway halts new data center grid connections",
+                "9.1 GW queue for grid connections",
+                "strain on national power network",
+                "data center permit/connection delays"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Norway's grid operator and Australia's NextDC pause data center growth as limits spread from Texas - MLQ.ai",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbjQ0eEVfNklVaHVsZ0dQaThaMXB4eTN4MGhhd3lsck5UZjg4dHpsTzV0dDNaVkU5OUlFU0E5QUtMWUZYeEpwX015MHR1RWZ2eFBLbGN6ejIycEVLem92MGFTT182cUxnVXpaVWZMUFNfcmlkajcxcnFibEdaNl9WMlR6Mzg3NzJZN21wRkN5aWhObGFDdmMxWkZzSjBXZjItaDdBU1JITXRTMFNQd3d6ZVJuZjdwRnQ5?oc=5",
+              "published": "Mon, 09 Nov 2026 10:01:36 GMT",
+              "strength": 4,
+              "confidence": 90,
+              "reason": "Headline states Norway's grid operator and NextDC have paused data center growth as power/grid limits spread from Texas — a direct indication that electricity/grid capacity constraints are materially affecting data center expansion.",
+              "signals": [
+                "Norway's grid operator paused data center growth",
+                "NextDC paused data center growth",
+                "Power/grid limits spreading from Texas"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Norway halts grid connection applications for new data centers - Data Center Dynamics",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdGJNemF2Zks5SnlEd2FPZTVicm9LcGNMNDNvbk12LVNfdFBiTWpWNzZsR3VqYUIzM3ZTLUpTS0pRLXN0RFd2NnpoenpHeXNJM3F0eGJJS1RvV1NvTndIVmR3aEVhamRBT19hRUNvODZLVUNueEZkLVRQX3NmYlQ4RkVaMXl1QmtLSWwwUG1vQkFTSy1jLW1rdlM2VjdHMXJvUUN4dGk4cmoxZw?oc=5",
+              "published": "Mon, 09 Nov 2026 17:49:08 GMT",
+              "strength": 4,
+              "confidence": 88,
+              "reason": "Article reports Norway has halted grid connection applications for new data centers, which is a direct and clear signal of immediate risk to power permitting/availability for data center builds.",
+              "signals": [
+                "grid_connection_halt",
+                "power_permit_delays",
+                "capacity_constraints",
+                "regulatory_action",
+                "data_center_development_impact"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Norway slams brakes on AI data center boom over grid fears - TechTarget",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY2NQZWlFaW80VlBlZ2N6RVZLQURiSHg4S2tOakxxMEl1Z0Q2bzNyZXRURUNvQTE4bnVZa09Qb3QzSHNIRTZaUi00bl9BVlpNU05zSTZITVlXaHAzMW1qbTM5VnZDcGRjVm11eUxjak9vVkpSRzc1QW1tNndjZ1FpamZEYU9fN0tqVnFNdHl3dVB6NDJ1YURsTHBPc0lZbDA?oc=5",
+              "published": "Fri, 13 Nov 2026 18:43:46 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "Headline explicitly states Norway 'slams brakes' on AI data center boom over grid fears, indicating government action that slows approvals and creates delays related to power/connectivity for data centers.",
+              "signals": [
+                "Government action slowing data center approvals due to grid capacity concerns",
+                "Delays in power/connection permits for AI data centers",
+                "Policy measures restricting new data center development"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Norway Pauses New Data Center Grid Reservations - The Defiant",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3dnZU5aWEtDSU1sQUtRdm56RjZxSlBxMmhUaWxMYVY2Z3dnZm1tYmZWemZBTFJjaVJfRUdJclRoRENFbkl6U2treWhUMHV3ZVdzQ3MwcU5GQXNRNXJWMEhlaGJBQmlNcmwxS2xsV3N6Rl9BSTFha1dIUWVUNzd4SjloRkRMMFd2WURxNm53T3l6Y2FpT21Icw?oc=5",
+              "published": "Tue, 10 Nov 2026 17:31:34 GMT",
+              "strength": 4,
+              "confidence": 85,
+              "reason": "Headline explicitly reports Norway has paused new data center grid reservations, directly indicating a constraint on power hookups/permits for new data centers.",
+              "signals": [
+                "Norway paused new data center grid reservations (The Defiant)"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "UK supplier Fuse Energy rents GPUs to AI firms as grid delays slow new data centres - 150sec",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2c2d244dWxkcGx2bExwZTlBUml5bHhiQVUtVVh3enJoR21OMVh2SVNCM29XMnloYzcwTGhpeWJMMmZCcUw1Z29oVFBsWE94RGc0YXRGNVNJNnNiTjRrZmRFaDU2UWhDSkIyWl9GSlZQWmkyVURyR3IzSjN0Vy1PdTFpTlQ5MFVKa1JaRWt1eFhlUjdWckpwUkxRa1hOWERtU0xMYzdR?oc=5",
+              "published": "Mon, 09 Nov 2026 20:35:58 GMT",
+              "strength": 3,
+              "confidence": 90,
+              "reason": "Headline explicitly reports grid delays are slowing new data centres in the UK and a supplier is renting GPUs to AI firms as a workaround, indicating a clear operational impact on AI infrastructure deployment.",
+              "signals": [
+                "grid delays slowing new data centres",
+                "supplier renting GPUs to AI firms as workaround",
+                "operational impact on AI infrastructure deployment"
+              ],
+              "llm_model": "gpt-5-mini"
+            },
+            {
+              "title": "Post-Election Permitting Risks More Data Center Delays and Financing - Globest",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY1ByQmxxSldZUDRQTXc4blMyNzZhS0FFWUZJeHNlWFdiRmZ5Y0NBU2JKM2x6MnhWNGJiM29PTng1X2Q4cWdFSDdXRzI2Y0Q4TC1SenpFdzhOMHJJRlR6MTlqd2dyMHlQZ212SlVqR1Jua2xSRUtyQm52OGd0OHFQTk80SDYyNWNTNGRNd09ZR2R0bU91UVFyZHdRY2d4MXcxM0E?oc=5",
+              "published": "Fri, 20 Nov 2026 12:24:57 GMT",
+              "strength": 3,
+              "confidence": 85,
+              "reason": "Headline explicitly states that post‑election permitting risks are causing additional data center delays and impacting financing, which is a direct signal of permitting-related risk to data center builds. Full article text not provided, so scope, geography, and severity cannot be determined.",
+              "signals": [
+                "post-election permitting risks",
+                "permit delays affecting data center projects",
+                "data center project delays",
+                "financing challenges for data center development"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        },
+        "market_positioning": {
+          "recent3_count": 0,
+          "recent14_count": 1,
+          "fresh_sum": 0.0,
+          "decay_sum": 0.89,
+          "raw_score": 0.35,
+          "strong_hits14": 1,
+          "evidence": [
+            {
+              "title": "Bank of America survey: 52% of fund managers expect an AI hyperscaler to cut spending - Crypto Briefing",
+              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mcnUybVI0WUk3eklNdjJfQU5fWnFhZ1RiVjUtQ0lWNzNxbC1VQklKcFNCX3FjZXRCOFI5NWwtOENQd0lzSDBhNm4zRk51RGdOOS1oa2hCOVl5eUxEZUw1dTNnWmFCa1E2c2ZMSk5SRE5yeFozOXNmeldTY1o?oc=5",
+              "published": "Tue, 17 Nov 2026 17:53:48 GMT",
+              "strength": 2,
+              "confidence": 75,
+              "reason": "A Bank of America survey finding that 52% of fund managers expect an AI hyperscaler to cut spending is a direct market sentiment signal about potential hyperscaler spending reductions. It reflects expectations (not confirmed actions), so it indicates risk but is not definitive.",
+              "signals": [
+                "52% of fund managers expect an AI hyperscaler to cut spending (Bank of America survey)"
+              ],
+              "llm_model": "gpt-5-mini"
+            }
+          ]
+        }
+      }
+    },
+    "run_stats": {
+      "store_pruned_removed": 40,
+      "new_articles": 23,
+      "dedup_skips": 144,
+      "prefilter_skips": 19,
+      "llm_calls": 4,
+      "llm_errors": 0,
+      "urls_total": 13,
+      "urls_ok": 13,
+      "urls_fail": 0,
+      "per_item_llm_calls": {
+        "power_permit_delays": 1,
+        "dc_vacancy": 0,
+        "ai_price_cuts": 0,
+        "capex_up_revenue_down": 0,
+        "mgmt_tone_softening": 0,
+        "market_positioning": 3
+      }
+    }
   }
 ]
